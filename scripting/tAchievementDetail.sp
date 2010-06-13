@@ -9,10 +9,12 @@
 
 new Handle:g_hCvarEnabled = INVALID_HANDLE;
 new Handle:g_hCvarDisplay = INVALID_HANDLE;
+new Handle:g_hCvarBroadCast = INVALID_HANDLE;
 
 new Handle:g_hConfigParser = INVALID_HANDLE;
 
 new bool:g_bEnabled = false;
+new bool:g_bBroadCast = true;
 new g_iDisplayMode = 0;
 new g_iLastAchievement = -1;
 
@@ -38,10 +40,12 @@ public OnPluginStart()
 	CreateConVar("sm_tachievementdetail_version", PLUGIN_VERSION, "Plugin version.", FCVAR_PLUGIN|FCVAR_REPLICATED|FCVAR_NOTIFY);
 
 	g_hCvarEnabled = CreateConVar("sm_tachievementdetail_enabled", "1", "Enable tAchievementDetail", FCVAR_PLUGIN, true, 0.0, true, 1.0);
-	g_hCvarDisplay = CreateConVar("sm_tachievementdetail_display", "0", "How to display messages. 1 - Chat, 2 - Hint, 0 - No Messages", FCVAR_PLUGIN, true, 0.0, true, 2.0);
+	g_hCvarDisplay = CreateConVar("sm_tachievementdetail_bc_detail", "0", "Auto broadcast details: 0 - off, 1 - Chat, 2 - Hint", FCVAR_PLUGIN, true, 0.0, true, 2.0);
+	g_hCvarBroadCast = CreateConVar("sm_tachievementdetail_bc_event", "1", "If disabled only the player gaining the achievement gets any message", FCVAR_PLUGIN, true, 0.0, true, 1.0);
 
 	HookConVarChange(g_hCvarEnabled, Cvar_Changed);
 	HookConVarChange(g_hCvarDisplay, Cvar_Changed);
+	HookConVarChange(g_hCvarBroadCast, Cvar_Changed);
 
 	HookEvent("achievement_earned", Event_Achievement);
 
@@ -53,6 +57,9 @@ public OnPluginStart()
 
 	g_hConfigParser = SMC_CreateParser();
 	SMC_SetReaders(g_hConfigParser, NewSection, KeyValue, EndSection);
+
+	ParseConfig();
+	LoadGameTranslations();
 }
 
 public LoadGameTranslations() {
@@ -74,6 +81,7 @@ public LoadGameTranslations() {
 
 public OnConfigsExecuted() {
 	g_bEnabled = GetConVarBool(g_hCvarEnabled);
+	g_bBroadCast = GetConVarBool(g_hCvarBroadCast);
 	g_iDisplayMode = GetConVarInt(g_hCvarDisplay);
 }
 
@@ -94,23 +102,7 @@ public Action:Cmd_BlockTriggers(iClient, iArgs)
 	return Plugin_Continue;
 }
 
-public OnMapStart() {
-	ParseConfig();
-	LoadGameTranslations();
-}
-
-public Reset() {
-	for(new i = 0; i < g_iCount; i++) {
-		g_oList[i][id] = 0;
-		strcopy(g_oList[i][shortname],MSGSIZE,"");
-	}
-
-	g_iCount = 0;
-}
-
 public ParseConfig() {
-	Reset();
-
 	decl String:game[32];
 	GetGameFolderName(game, sizeof(game));
 
@@ -194,6 +186,10 @@ public Action:Command_DetailLastAchievement(client, args) {
 		return Plugin_Handled;
 	}
 
+	if(client < 0 || client > MaxClients || !IsClientInGame(client)) {
+		return Plugin_Handled;
+	}
+
 	decl String:searchTitle[MSGSIZE];
 	decl String:searchDesc[MSGSIZE];
 	Format(searchTitle,MSGSIZE,"%s_Title", g_oList[g_iLastAchievement][shortname]);
@@ -224,7 +220,7 @@ public Action:Event_Achievement(Handle:event, const String:name[], bool:dontBroa
 		}
 	}
 
-	if(g_iDisplayMode == 0 || g_iLastAchievement == -1) {
+	if(g_iLastAchievement == -1) {
 		return Plugin_Continue;
 	}
 
@@ -233,13 +229,29 @@ public Action:Event_Achievement(Handle:event, const String:name[], bool:dontBroa
 	Format(searchTitle,MSGSIZE,"%s_Title", g_oList[g_iLastAchievement][shortname]);
 	Format(searchDesc,MSGSIZE,"%s_Desc", g_oList[g_iLastAchievement][shortname]);
 
-	if(g_iDisplayMode == 1) {
-		CPrintToChatAll("{olive}%T: {default}%T", searchTitle, searchDesc);
+	if(g_bBroadCast == false) {
+		SetEventBroadcast(event, g_bBroadCast);
+		CPrintToChat(iPlayer, "%T: %T", "AchievementEarned", iPlayer, searchTitle, iPlayer);
+
+		if(g_iDisplayMode == 1) {
+			CPrintToChat(iPlayer, "{olive}%T: {default}%T", searchTitle, iPlayer, searchDesc, iPlayer);
+		}
+
+		if(g_iDisplayMode == 2) {
+			PrintHintText(iPlayer, "%T\n%T", searchTitle, iPlayer, searchDesc, iPlayer);
+		}
+
+
+	} else {
+		if(g_iDisplayMode == 1) {
+			CPrintToChatAll("{olive}%T: {default}%T", searchTitle, searchDesc);
+		}
+
+		if(g_iDisplayMode == 2) {
+			PrintHintTextToAll("%T\n%T", searchTitle, searchDesc);
+		}
 	}
 
-	if(g_iDisplayMode == 2) {
-		PrintHintTextToAll("%T\n%T", searchTitle, searchDesc);
-	}
 
 	return Plugin_Continue;
 }
