@@ -1,3263 +1,2611 @@
 "Phrases"
 {
-	"SentryGunner_Title"
+	"TF_GET_TURRETKILLS_Title"
 	{
 		"en"	"Sentry Gunner"
 	}
-
-	"SentryGunner_Desc"
+	"TF_GET_TURRETKILLS_Desc"
 	{
-		"en"	"Accumulate 10 Sentry gun kills with a single turret"
+		"en"	"Accumulate 10 sentry gun kills with a single sentry."
 	}
-
-	"Nemesis_Title"
+	"TF_KILL_NEMESIS_Title"
 	{
 		"en"	"Nemesis"
 	}
-
-	"Nemesis_Desc"
+	"TF_KILL_NEMESIS_Desc"
 	{
-		"en"	"Get five Revenge kills"
+		"en"	"Get five revenge kills."
 	}
-
-	"HardtoKill_Title"
+	"TF_GET_CONSECUTIVEKILLS_NODEATHS_Title"
 	{
 		"en"	"Hard to Kill"
 	}
-
-	"HardtoKill_Desc"
+	"TF_GET_CONSECUTIVEKILLS_NODEATHS_Desc"
 	{
-		"en"	"Get five kills in a row without dying"
+		"en"	"Get five kills in a row without dying."
 	}
-
-	"MasterofDisguise_Title"
+	"TF_GET_HEALED_BYENEMY_Title"
 	{
 		"en"	"Master of Disguise"
 	}
-
-	"MasterofDisguise_Desc"
+	"TF_GET_HEALED_BYENEMY_Desc"
 	{
-		"en"	"Trick an opposing Medic into healing you"
+		"en"	"Trick an opposing Medic into healing you."
 	}
-
-	"WithFriendsLikethese_Title"
-	{
-		"en"	"With Friends Like these..."
-	}
-
-	"WithFriendsLikethese_Desc"
-	{
-		"en"	"Play a game with 7 or more players from your friends list"
-	}
-
-	"Dynasty_Title"
-	{
-		"en"	"Dynasty"
-	}
-
-	"Dynasty_Desc"
-	{
-		"en"	"Win 20 games"
-	}
-
-	"Hardcore_Title"
-	{
-		"en"	"Hardcore"
-	}
-
-	"Hardcore_Desc"
-	{
-		"en"	"Accumulate 1000 total kills"
-	}
-
-	"PowerhouseOffense_Title"
-	{
-		"en"	"Powerhouse Offense"
-	}
-
-	"PowerhouseOffense_Desc"
-	{
-		"en"	"Win 2Fort with a shutout"
-	}
-
-	"LightningOffense_Title"
-	{
-		"en"	"Lightning Offense"
-	}
-
-	"LightningOffense_Desc"
-	{
-		"en"	"Win Well in 5 minutes or less"
-	}
-
-	"RelentlessOffense_Title"
-	{
-		"en"	"Relentless Offense"
-	}
-
-	"RelentlessOffense_Desc"
-	{
-		"en"	"Win Hydro without giving up a capture"
-	}
-
-	"ImpenetrableDefense_Title"
-	{
-		"en"	"Impenetrable Defense"
-	}
-
-	"ImpenetrableDefense_Desc"
-	{
-		"en"	"Successfully defend Dustbowl without giving up a capture"
-	}
-
-	"ImpossibleDefense_Title"
-	{
-		"en"	"Impossible Defense"
-	}
-
-	"ImpossibleDefense_Desc"
-	{
-		"en"	"Successfully defend Gravel Pit without giving up a capture"
-	}
-
-	"HeadoftheClass_Title"
-	{
-		"en"	"Head of the Class"
-	}
-
-	"HeadoftheClass_Desc"
-	{
-		"en"	"Play a complete round with every class"
-	}
-
-	"WorldTraveler_Title"
-	{
-		"en"	"World Traveler"
-	}
-
-	"WorldTraveler_Desc"
-	{
-		"en"	"Play a complete game on 2Fort, Dustbowl, Granary, Gravel Pit, Hydro, and Well (CP)"
-	}
-
-	"TeamDoctor_Title"
-	{
-		"en"	"Team Doctor"
-	}
-
-	"TeamDoctor_Desc"
-	{
-		"en"	"Accumulate 25000 heal points as a Medic"
-	}
-
-	"Flamethrower_Title"
-	{
-		"en"	"Flamethrower"
-	}
-
-	"Flamethrower_Desc"
-	{
-		"en"	"Set five enemies on fire in 30 seconds"
-	}
-
-	"GreyMatter_Title"
+	"TF_GET_HEADSHOTS_Title"
 	{
 		"en"	"Grey Matter"
 	}
-
-	"GreyMatter_Desc"
+	"TF_GET_HEADSHOTS_Desc"
 	{
-		"en"	"Get 25 Headshots as a Sniper"
+		"en"	"Get 25 headshots as a Sniper."
 	}
-
-	"FirstBlood_Title"
+	"TF_PLAY_GAME_FRIENDSONLY_Title"
 	{
-		"en"	"First Blood"
+		"en"	"With Friends Like these..."
 	}
-
-	"FirstBlood_Desc"
+	"TF_PLAY_GAME_FRIENDSONLY_Desc"
 	{
-		"en"	"Get the first kill in an Arena match"
+		"en"	"Play in a game with 7 or more players from your friends list."
 	}
-
-	"FirstBlood,Part2_Title"
+	"TF_WIN_MULTIPLEGAMES_Title"
 	{
-		"en"	"First Blood, Part 2"
+		"en"	"Dynasty"
 	}
-
-	"FirstBlood,Part2_Desc"
+	"TF_WIN_MULTIPLEGAMES_Desc"
 	{
-		"en"	"Kill 5 enemies with the First Blood Crit buff"
+		"en"	"Win 20 games."
 	}
-
-	"QuickHook_Title"
+	"TF_GET_MULTIPLEKILLS_Title"
 	{
-		"en"	"Quick Hook"
+		"en"	"Hardcore"
 	}
-
-	"QuickHook_Desc"
+	"TF_GET_MULTIPLEKILLS_Desc"
 	{
-		"en"	"Kill a player in Well before the round starts"
+		"en"	"Accumulate 1000 total kills."
 	}
-
-	"AYeartoRemember_Title"
+	"TF_WIN_2FORT_NOENEMYCAPS_Title"
 	{
-		"en"	"A Year to Remember"
+		"en"	"Powerhouse Offense"
 	}
-
-	"AYeartoRemember_Desc"
+	"TF_WIN_2FORT_NOENEMYCAPS_Desc"
 	{
-		"en"	"Get 2004 lifetime kills"
+		"en"	"Win 2Fort with a shutout."
 	}
-
-	"TheCycle_Title"
+	"TF_WIN_WELL_MINIMUMTIME_Title"
 	{
-		"en"	"The Cycle"
+		"en"	"Lightning Offense"
 	}
-
-	"TheCycle_Desc"
+	"TF_WIN_WELL_MINIMUMTIME_Desc"
 	{
-		"en"	"In a single life, kill an enemy while you are on the ground, in the air, and in the water"
+		"en"	"Win Well in 5 minutes or less."
 	}
-
-	"Closer_Title"
+	"TF_WIN_HYDRO_NOENEMYCAPS_Title"
 	{
-		"en"	"Closer"
+		"en"	"Relentless Offense"
 	}
-
-	"Closer_Desc"
+	"TF_WIN_HYDRO_NOENEMYCAPS_Desc"
 	{
-		"en"	"Destroy 3 teleporter entrances"
+		"en"	"Win Hydro without giving up a capture."
 	}
-
-	"IfYouBuildIt_Title"
+	"TF_WIN_DUSTBOWL_NOENEMYCAPS_Title"
 	{
-		"en"	"If You Build It"
+		"en"	"Impenetrable Defense"
 	}
-
-	"IfYouBuildIt_Desc"
+	"TF_WIN_DUSTBOWL_NOENEMYCAPS_Desc"
 	{
-		"en"	"Destroy 3 enemy buildings while they are still under construction"
+		"en"	"Successfully defend Dustbowl without giving up a capture."
 	}
-
-	"GunDown_Title"
+	"TF_WIN_GRAVELPIT_NOENEMYCAPS_Title"
 	{
-		"en"	"Gun Down"
+		"en"	"Impossible Defense"
 	}
-
-	"GunDown_Desc"
+	"TF_WIN_GRAVELPIT_NOENEMYCAPS_Desc"
 	{
-		"en"	"Destroy an active sentry gun using your pistol"
+		"en"	"Successfully defend Gravel Pit without giving up a capture."
 	}
-
-	"BatterUp_Title"
+	"TF_PLAY_GAME_EVERYCLASS_Title"
 	{
-		"en"	"Batter Up"
+		"en"	"Head of the Class"
 	}
-
-	"BatterUp_Desc"
+	"TF_PLAY_GAME_EVERYCLASS_Desc"
 	{
-		"en"	"Perform 1000 double jumps"
+		"en"	"Play a complete round with every class."
 	}
-
-	"DoctoringtheBall_Title"
+	"TF_PLAY_GAME_EVERYMAP_Title"
 	{
-		"en"	"Doctoring the Ball"
+		"en"	"World Traveler"
 	}
-
-	"DoctoringtheBall_Desc"
+	"TF_PLAY_GAME_EVERYMAP_Desc"
 	{
-		"en"	"Kill 3 enemies while under the effects of a Medic's ÜberCharge"
+		"en"	"Play a complete game on 2Fort, Dustbowl, Granary, Gravel Pit, Hydro, and Well (CP)."
 	}
-
-	"Dodgers1,Giants0_Title"
+	"TF_GET_HEALPOINTS_Title"
 	{
-		"en"	"Dodgers 1, Giants 0"
+		"en"	"Team Doctor"
 	}
-
-	"Dodgers1,Giants0_Desc"
+	"TF_GET_HEALPOINTS_Desc"
 	{
-		"en"	"Kill an enemy Heavy and take his Sandvich"
+		"en"	"Accumulate 25000 heal points as a Medic."
 	}
-
-	"BattingtheDoctor_Title"
+	"TF_BURN_PLAYERSINMINIMUMTIME_Title"
 	{
-		"en"	"Batting the Doctor"
+		"en"	"Flamethrower"
 	}
-
-	"BattingtheDoctor_Desc"
+	"TF_BURN_PLAYERSINMINIMUMTIME_Desc"
 	{
-		"en"	"Kill a Medic that is ready to deploy an ÜberCharge"
+		"en"	"Set five enemies on fire in 30 seconds."
 	}
-
-	"I'mBatMan_Title"
-	{
-		"en"	"I'm Bat Man"
-	}
-
-	"I'mBatMan_Desc"
-	{
-		"en"	"Survive 500 damage in one life"
-	}
-
-	"TripleSteal_Title"
-	{
-		"en"	"Triple Steal"
-	}
-
-	"TripleSteal_Desc"
-	{
-		"en"	"Capture the enemy intelligence 3 times in a single CTF round"
-	}
-
-	"PopFly_Title"
-	{
-		"en"	"Pop Fly"
-	}
-
-	"PopFly_Desc"
-	{
-		"en"	"Kill 20 players while double-jumping"
-	}
-
-	"RoundTripper_Title"
-	{
-		"en"	"Round Tripper"
-	}
-
-	"RoundTripper_Desc"
-	{
-		"en"	"Capture the enemy intelligence 25 times"
-	}
-
-	"ArtfulDodger_Title"
-	{
-		"en"	"Artful Dodger"
-	}
-
-	"ArtfulDodger_Desc"
-	{
-		"en"	"Dodge 1000 damage in a single life using your Bonk! Atomic Punch"
-	}
-
-	"FallClassic_Title"
-	{
-		"en"	"Fall Classic"
-	}
-
-	"FallClassic_Desc"
-	{
-		"en"	"Cause an environmental death or suicide using the Force-A-Nature's knockback"
-	}
-
-	"StrikeZone_Title"
-	{
-		"en"	"Strike Zone"
-	}
-
-	"StrikeZone_Desc"
-	{
-		"en"	"Kill 50 enemies while they are stunned"
-	}
-
-	"FoulTerritory_Title"
-	{
-		"en"	"Foul Territory"
-	}
-
-	"FoulTerritory_Desc"
-	{
-		"en"	"Cause an environmental death by stunning an enemy"
-	}
-
-	"TheBigHurt_Title"
-	{
-		"en"	"The Big Hurt"
-	}
-
-	"TheBigHurt_Desc"
-	{
-		"en"	"Stun 2 Medics that are ready to deploy an ÜberCharge"
-	}
-
-	"Brushback_Title"
-	{
-		"en"	"Brushback"
-	}
-
-	"Brushback_Desc"
-	{
-		"en"	"Stun 50 enemies while they are capturing a point or pushing the cart"
-	}
-
-	"MoonShot_Title"
-	{
-		"en"	"Moon Shot"
-	}
-
-	"MoonShot_Desc"
-	{
-		"en"	"Stun an enemy for the maximum possible duration by hitting them with a long-range ball"
-	}
-
-	"Beanball_Title"
-	{
-		"en"	"Beanball"
-	}
-
-	"Beanball_Desc"
-	{
-		"en"	"Stun a Scout with their own ball"
-	}
-
-	"RetiretheRunner_Title"
-	{
-		"en"	"Retire the Runner"
-	}
-
-	"RetiretheRunner_Desc"
-	{
-		"en"	"Kill a Scout while they are under the effect of Crit-a-Cola"
-	}
-
-	"CaughtNapping_Title"
-	{
-		"en"	"Caught Napping"
-	}
-
-	"CaughtNapping_Desc"
-	{
-		"en"	"Kill 50 enemies from behind with the Force-A-Nature"
-	}
-
-	"SideRetired_Title"
-	{
-		"en"	"Side Retired"
-	}
-
-	"SideRetired_Desc"
-	{
-		"en"	"Capture the last point in a CP map"
-	}
-
-	"TriplePlay_Title"
-	{
-		"en"	"Triple Play"
-	}
-
-	"TriplePlay_Desc"
-	{
-		"en"	"Capture three capture points in a row in one life"
-	}
-
-	"StealingHome_Title"
-	{
-		"en"	"Stealing Home"
-	}
-
-	"StealingHome_Desc"
-	{
-		"en"	"Start capping a capture point within a second of it becoming available"
-	}
-
-	"SettheTable_Title"
-	{
-		"en"	"Set the Table"
-	}
-
-	"SettheTable_Desc"
-	{
-		"en"	"Initiate 10 point captures that ultimately succeed"
-	}
-
-	"BlockthePlate_Title"
-	{
-		"en"	"Block the Plate"
-	}
-
-	"BlockthePlate_Desc"
-	{
-		"en"	"Block 50 point captures"
-	}
-
-	"BelittledBeleauger_Title"
-	{
-		"en"	"Belittled Beleauger"
-	}
-
-	"BelittledBeleauger_Desc"
-	{
-		"en"	"Kill an opposing player that has your intelligence while holding theirs"
-	}
-
-	"NoHitter_Title"
-	{
-		"en"	"No Hitter"
-	}
-
-	"NoHitter_Desc"
-	{
-		"en"	"Steal and then capture the enemy intelligence without firing a shot"
-	}
-
-	"RaceforthePennant_Title"
-	{
-		"en"	"Race for the Pennant"
-	}
-
-	"RaceforthePennant_Desc"
-	{
-		"en"	"Run 25 kilometers"
-	}
-
-	"OutofthePark_Title"
-	{
-		"en"	"Out of the Park"
-	}
-
-	"OutofthePark_Desc"
-	{
-		"en"	"Bat an enemy 25 meters"
-	}
-
-	"ScoutMilestone1_Title"
-	{
-		"en"	"Scout Milestone 1"
-	}
-
-	"ScoutMilestone1_Desc"
-	{
-		"en"	"Obtain 10 of the Scout achievements"
-	}
-
-	"ScoutMilestone2_Title"
-	{
-		"en"	"Scout Milestone 2"
-	}
-
-	"ScoutMilestone2_Desc"
-	{
-		"en"	"Obtain 16 of the Scout achievements"
-	}
-
-	"ScoutMilestone3_Title"
-	{
-		"en"	"Scout Milestone 3"
-	}
-
-	"ScoutMilestone3_Desc"
-	{
-		"en"	"Obtain 22 of the Scout achievements"
-	}
-
-	"RodeHard,PutAwayWet_Title"
-	{
-		"en"	"Rode Hard, Put Away Wet"
-	}
-
-	"RodeHard,PutAwayWet_Desc"
-	{
-		"en"	"Jarate an enemy that you're dominating"
-	}
-
-	"BePolite_Title"
-	{
-		"en"	"Be Polite"
-	}
-
-	"BePolite_Desc"
-	{
-		"en"	"Provide an enemy with a freezecam shot of you doffing your hat"
-	}
-
-	"BeEfficient_Title"
-	{
-		"en"	"Be Efficient"
-	}
-
-	"BeEfficient_Desc"
-	{
-		"en"	"Get 3 kills with the Sniper rifle without missing a shot"
-	}
-
-	"HaveaPlan_Title"
-	{
-		"en"	"Have a Plan"
-	}
-
-	"HaveaPlan_Desc"
-	{
-		"en"	"Capture the flag in CTF"
-	}
-
-	"KillEveryoneYouMeet_Title"
-	{
-		"en"	"Kill Everyone You Meet"
-	}
-
-	"KillEveryoneYouMeet_Desc"
-	{
-		"en"	"Kill 1000 enemies"
-	}
-
-	"TriplePrey_Title"
-	{
-		"en"	"Triple Prey"
-	}
-
-	"TriplePrey_Desc"
-	{
-		"en"	"In a single round, kill the same enemy with 3 different weapons"
-	}
-
-	"Self-destructSequence_Title"
-	{
-		"en"	"Self-destruct Sequence"
-	}
-
-	"Self-destructSequence_Desc"
-	{
-		"en"	"Headshot 10 enemy Snipers"
-	}
-
-	"De-sentry-lized_Title"
-	{
-		"en"	"De-sentry-lized"
-	}
-
-	"De-sentry-lized_Desc"
-	{
-		"en"	"Destroy 3 Engineer sentry guns"
-	}
-
-	"ShoottheBreeze_Title"
-	{
-		"en"	"Shoot the Breeze"
-	}
-
-	"ShoottheBreeze_Desc"
-	{
-		"en"	"Kill a fully invisible Spy in a single hit"
-	}
-
-	"DroppedDead_Title"
-	{
-		"en"	"Dropped Dead"
-	}
-
-	"DroppedDead_Desc"
-	{
-		"en"	"Kill a Scout in midair with your Sniper rifle or the Huntsman"
-	}
-
-	"TheLastWave_Title"
-	{
-		"en"	"The Last Wave"
-	}
-
-	"TheLastWave_Desc"
-	{
-		"en"	"Provide an enemy with a freezecam shot of you waving to them"
-	}
-
-	"AustralianRules_Title"
-	{
-		"en"	"Australian Rules"
-	}
-
-	"AustralianRules_Desc"
-	{
-		"en"	"Dominate an enemy Sniper"
-	}
-
-	"KooktheSpook_Title"
-	{
-		"en"	"Kook the Spook"
-	}
-
-	"KooktheSpook_Desc"
-	{
-		"en"	"Kill 10 Spies with your Kukri"
-	}
-
-	"SockettoHim_Title"
-	{
-		"en"	"Socket to Him"
-	}
-
-	"SockettoHim_Desc"
-	{
-		"en"	"Headshot an enemy Demoman"
-	}
-
-	"JumperStumper_Title"
-	{
-		"en"	"Jumper Stumper"
-	}
-
-	"JumperStumper_Desc"
-	{
-		"en"	"Kill a rocket or grenade-jumping enemy in midair with your Sniper rifle or the Huntsman"
-	}
-
-	"NotaCrazedGunman,Dad_Title"
-	{
-		"en"	"Not a Crazed Gunman, Dad"
-	}
-
-	"NotaCrazedGunman,Dad_Desc"
-	{
-		"en"	"In a single life, kill 3 enemies while they achieving an objective"
-	}
-
-	"TrustYourFeelings_Title"
-	{
-		"en"	"Trust Your Feelings"
-	}
-
-	"TrustYourFeelings_Desc"
-	{
-		"en"	"Get 5 kills with the Sniper rifle without your scope"
-	}
-
-	"Überectomy_Title"
-	{
-		"en"	"Überectomy"
-	}
-
-	"Überectomy_Desc"
-	{
-		"en"	"Kill a Medic that is ready to deploy an ÜberCharge"
-	}
-
-	"ConsolationPrize_Title"
-	{
-		"en"	"Consolation Prize"
-	}
-
-	"ConsolationPrize_Desc"
-	{
-		"en"	"Get backstabbed 50 times"
-	}
-
-	"EnemyattheGate_Title"
-	{
-		"en"	"Enemy at the Gate"
-	}
-
-	"EnemyattheGate_Desc"
-	{
-		"en"	"Kill an opponent within the first second of the round"
-	}
-
-	"PartingShot_Title"
-	{
-		"en"	"Parting Shot"
-	}
-
-	"PartingShot_Desc"
-	{
-		"en"	"Headshot an enemy player the moment his invulnerability wears off"
-	}
-
-	"MyBrilliantCareer_Title"
-	{
-		"en"	"My Brilliant Career"
-	}
-
-	"MyBrilliantCareer_Desc"
-	{
-		"en"	"Top the scoreboard 10 times on teams of 6 or more players"
-	}
-
-	"ShockTreatment_Title"
-	{
-		"en"	"Shock Treatment"
-	}
-
-	"ShockTreatment_Desc"
-	{
-		"en"	"Kill a Spy whose backstab attempt was blocked by your Razorback"
-	}
-
-	"SaturationBombing_Title"
-	{
-		"en"	"Saturation Bombing"
-	}
-
-	"SaturationBombing_Desc"
-	{
-		"en"	"Jarate 4 enemy players with a single throw"
-	}
-
-	"RainonTheirParade_Title"
-	{
-		"en"	"Rain on Their Parade"
-	}
-
-	"RainonTheirParade_Desc"
-	{
-		"en"	"Jarate an enemy and the Medic healing him"
-	}
-
-	"JarringTransition_Title"
-	{
-		"en"	"Jarring Transition"
-	}
-
-	"JarringTransition_Desc"
-	{
-		"en"	"Use Jarate to reveal a cloaked Spy"
-	}
-
-	"FriendshipisGolden_Title"
-	{
-		"en"	"Friendship is Golden"
-	}
-
-	"FriendshipisGolden_Desc"
-	{
-		"en"	"Extinguish a burning teammate with your Jarate"
-	}
-
-	"WilliamTellOverkill_Title"
-	{
-		"en"	"William Tell Overkill"
-	}
-
-	"WilliamTellOverkill_Desc"
-	{
-		"en"	"Pin an enemy Heavy to the wall via his head"
-	}
-
-	"BeauxandArrows_Title"
-	{
-		"en"	"Beaux and Arrows"
-	}
-
-	"BeauxandArrows_Desc"
-	{
-		"en"	"Kill a Heavy & Medic pair with the bow"
-	}
-
-	"Robbin’Hood_Title"
-	{
-		"en"	"Robbin’ Hood"
-	}
-
-	"Robbin’Hood_Desc"
-	{
-		"en"	"Take down an intelligence carrier with a single arrow"
-	}
-
-	"Pincushion_Title"
-	{
-		"en"	"Pincushion"
-	}
-
-	"Pincushion_Desc"
-	{
-		"en"	"Hit an enemy with 3 arrows, without killing them"
-	}
-
-	"NumberOneAssistant_Title"
-	{
-		"en"	"Number One Assistant"
-	}
-
-	"NumberOneAssistant_Desc"
-	{
-		"en"	"Score 5 Assists with the Jarate in a single round"
-	}
-
-	"JarateChop_Title"
-	{
-		"en"	"Jarate Chop"
-	}
-
-	"JarateChop_Desc"
-	{
-		"en"	"Use your Kukri to kill an enemy doused in your Jarate"
-	}
-
-	"Shafted_Title"
-	{
-		"en"	"Shafted"
-	}
-
-	"Shafted_Desc"
-	{
-		"en"	"Stab an enemy with an arrow"
-	}
-
-	"DeadReckoning_Title"
-	{
-		"en"	"Dead Reckoning"
-	}
-
-	"DeadReckoning_Desc"
-	{
-		"en"	"Kill an enemy with an arrow while you're dead"
-	}
-
-	"SniperMilestone1_Title"
-	{
-		"en"	"Sniper Milestone 1"
-	}
-
-	"SniperMilestone1_Desc"
-	{
-		"en"	"Obtain 5 of the Sniper achievements"
-	}
-
-	"SniperMilestone2_Title"
-	{
-		"en"	"Sniper Milestone 2"
-	}
-
-	"SniperMilestone2_Desc"
-	{
-		"en"	"Obtain 11 of the Sniper achievements"
-	}
-
-	"SniperMilestone3_Title"
-	{
-		"en"	"Sniper Milestone 3"
-	}
-
-	"SniperMilestone3_Desc"
-	{
-		"en"	"Obtain 17 of the Sniper achievements"
-	}
-
-	"DutyBound_Title"
-	{
-		"en"	"Duty Bound"
-	}
-
-	"DutyBound_Desc"
-	{
-		"en"	"While rocket jumping kill an enemy with the Equalizer before you land"
-	}
-
-	"TheBoostieBoys_Title"
-	{
-		"en"	"The Boostie Boys"
-	}
-
-	"TheBoostieBoys_Desc"
-	{
-		"en"	"Buff 15 teammates with the Buff Banner in a single life"
-	}
-
-	"Out,DamnedScot!_Title"
-	{
-		"en"	"Out, Damned Scot!"
-	}
-
-	"Out,DamnedScot!_Desc"
-	{
-		"en"	"Kill 500 enemy Demomen"
-	}
-
-	"EngineertoEternity_Title"
-	{
-		"en"	"Engineer to Eternity"
-	}
-
-	"EngineertoEternity_Desc"
-	{
-		"en"	"Kill an Engineer as he repairs his sentry gun while it's under enemy fire"
-	}
-
-	"BackdraftDodger_Title"
-	{
-		"en"	"Backdraft Dodger"
-	}
-
-	"BackdraftDodger_Desc"
-	{
-		"en"	"Kill a Pyro who has airblasted one of your rockets in the last 10 seconds"
-	}
-
-	"TrenchWarfare_Title"
-	{
-		"en"	"Trench Warfare"
-	}
-
-	"TrenchWarfare_Desc"
-	{
-		"en"	"Kill your nemesis with a shovel"
-	}
-
-	"BombSquaddie_Title"
-	{
-		"en"	"Bomb Squaddie"
-	}
-
-	"BombSquaddie_Desc"
-	{
-		"en"	"Destroy 10 sticky bombs with the shotgun in a single life"
-	}
-
-	"WhereEaglesDare_Title"
-	{
-		"en"	"Where Eagles Dare"
-	}
-
-	"WhereEaglesDare_Desc"
-	{
-		"en"	"Get the highest possible rocket jump using jump and crouch"
-	}
-
-	"Ain'tGotTimetoBleed_Title"
-	{
-		"en"	"Ain't Got Time to Bleed"
-	}
-
-	"Ain'tGotTimetoBleed_Desc"
-	{
-		"en"	"Kill 3 players with the Equalizer in a single life without being healed"
-	}
-
-	"BannerofBrothers_Title"
-	{
-		"en"	"Banner of Brothers"
-	}
-
-	"BannerofBrothers_Desc"
-	{
-		"en"	"Buff 5 steam friends at once with the Buff Banner"
-	}
-
-	"Tri-SplatteralDamage_Title"
-	{
-		"en"	"Tri-Splatteral Damage"
-	}
-
-	"Tri-SplatteralDamage_Desc"
-	{
-		"en"	"Kill 3 enemies with a single Critical rocket"
-	}
-
-	"DeathfromAbove_Title"
-	{
-		"en"	"Death from Above"
-	}
-
-	"DeathfromAbove_Desc"
-	{
-		"en"	"Rocket jump and kill 2 enemies before you land"
-	}
-
-	"SprayofDefeat_Title"
-	{
-		"en"	"Spray of Defeat"
-	}
-
-	"SprayofDefeat_Desc"
-	{
-		"en"	"Use a grenade to gib a player"
-	}
-
-	"WarCrimeandPunishment_Title"
-	{
-		"en"	"War Crime and Punishment"
-	}
-
-	"WarCrimeandPunishment_Desc"
-	{
-		"en"	"In a single life, kill 3 enemies who have damaged a Medic that is healing you"
-	}
-
-	"NearDeathExperience_Title"
-	{
-		"en"	"Near Death Experience"
-	}
-
-	"NearDeathExperience_Desc"
-	{
-		"en"	"Kill 20 enemies with your Equalizer while you have less than 25 health"
-	}
-
-	"WingsofGlory_Title"
-	{
-		"en"	"Wings of Glory"
-	}
-
-	"WingsofGlory_Desc"
-	{
-		"en"	"Kill an enemy Soldier while both you and the target are airborne"
-	}
-
-	"ForWhomtheShellTrolls_Title"
-	{
-		"en"	"For Whom the Shell Trolls"
-	}
-
-	"ForWhomtheShellTrolls_Desc"
-	{
-		"en"	"Bounce an opponent into the air with a rocket and then kill them with the shotgun before they land"
-	}
-
-	"DeathFromBelow_Title"
-	{
-		"en"	"Death From Below"
-	}
-
-	"DeathFromBelow_Desc"
-	{
-		"en"	"Kill 10 opponents who are airborne with the Direct hit"
-	}
-
-	"MutuallyAssuredDestruction_Title"
-	{
-		"en"	"Mutually Assured Destruction"
-	}
-
-	"MutuallyAssuredDestruction_Desc"
-	{
-		"en"	"Kill an enemy sniper with a rocket after he kills you"
-	}
-
-	"GunsoftheNavar0wned_Title"
-	{
-		"en"	"Guns of the Navar0wned"
-	}
-
-	"GunsoftheNavar0wned_Desc"
-	{
-		"en"	"Kill 5 Engineer sentries while you are standing outside of their range"
-	}
-
-	"BrothersinHarms_Title"
-	{
-		"en"	"Brothers in Harms"
-	}
-
-	"BrothersinHarms_Desc"
-	{
-		"en"	"Kill 10 enemies while assisting or being assisted by another Soldier"
-	}
-
-	"MedalsofHonor_Title"
-	{
-		"en"	"Medals of Honor"
-	}
-
-	"MedalsofHonor_Desc"
-	{
-		"en"	"Finish a round as an MVP on a team of 6 or more players 10 times"
-	}
-
-	"S*M*A*S*H_Title"
-	{
-		"en"	"S*M*A*S*H"
-	}
-
-	"S*M*A*S*H_Desc"
-	{
-		"en"	"Assist a Medic in exploding 5 enemies with a single ÜberCharge"
-	}
-
-	"CrocketsAreSuchBS_Title"
-	{
-		"en"	"Crockets Are Such B.S."
-	}
-
-	"CrocketsAreSuchBS_Desc"
-	{
-		"en"	"Shoot two non-boosted Crit rockets in a row"
-	}
-
-	"GenevaContravention_Title"
-	{
-		"en"	"Geneva Contravention"
-	}
-
-	"GenevaContravention_Desc"
-	{
-		"en"	"Kill 5 defenseless players after a single match has ended"
-	}
-
-	"SemperFry_Title"
-	{
-		"en"	"Semper Fry"
-	}
-
-	"SemperFry_Desc"
-	{
-		"en"	"Kill 20 enemies while you are on fire"
-	}
-
-	"WorthaThousandWords_Title"
-	{
-		"en"	"Worth a Thousand Words"
-	}
-
-	"WorthaThousandWords_Desc"
-	{
-		"en"	"Provide the enemy with a freezecam of your 21 gun salute"
-	}
-
-	"Gore-a!Gore-a!Gore-a!_Title"
-	{
-		"en"	"Gore-a! Gore-a! Gore-a!"
-	}
-
-	"Gore-a!Gore-a!Gore-a!_Desc"
-	{
-		"en"	"Provide the enemy with a freezecam of you taunting over 3 of their body parts"
-	}
-
-	"WarCrimeSpybunal_Title"
-	{
-		"en"	"War Crime Spybunal"
-	}
-
-	"WarCrimeSpybunal_Desc"
-	{
-		"en"	"Kill a Spy who just backstabbed a teammate"
-	}
-
-	"FragsofourFathers_Title"
-	{
-		"en"	"Frags of our Fathers"
-	}
-
-	"FragsofourFathers_Desc"
-	{
-		"en"	"Gib 1000 people"
-	}
-
-	"Dominator_Title"
-	{
-		"en"	"Dominator"
-	}
-
-	"Dominator_Desc"
-	{
-		"en"	"Get 3 dominations in a single life"
-	}
-
-	"RideoftheValkartie_Title"
-	{
-		"en"	"Ride of the Valkartie"
-	}
-
-	"RideoftheValkartie_Desc"
-	{
-		"en"	"Ride the cart for 30 seconds"
-	}
-
-	"Screamin'Eagle_Title"
-	{
-		"en"	"Screamin' Eagle"
-	}
-
-	"Screamin'Eagle_Desc"
-	{
-		"en"	"Kill 20 enemies from above"
-	}
-
-	"TheLongestDaze_Title"
-	{
-		"en"	"The Longest Daze"
-	}
-
-	"TheLongestDaze_Desc"
-	{
-		"en"	"Kill 5 stunned players"
-	}
-
-	"HamburgerHill_Title"
-	{
-		"en"	"Hamburger Hill"
-	}
-
-	"HamburgerHill_Desc"
-	{
-		"en"	"Defend a cap point 30 times"
-	}
-
-	"SoldierMilestone1_Title"
-	{
-		"en"	"Soldier Milestone 1"
-	}
-
-	"SoldierMilestone1_Desc"
-	{
-		"en"	"Obtain 5 of the Soldier achievements"
-	}
-
-	"SoldierMilestone2_Title"
-	{
-		"en"	"Soldier Milestone 2"
-	}
-
-	"SoldierMilestone2_Desc"
-	{
-		"en"	"Obtain 11 of the Soldier achievements"
-	}
-
-	"SoldierMilestone3_Title"
-	{
-		"en"	"Soldier Milestone 3"
-	}
-
-	"SoldierMilestone3_Desc"
-	{
-		"en"	"Obtain 17 of the Soldier achievements"
-	}
-
-	"KiltinAction_Title"
-	{
-		"en"	"Kilt in Action"
-	}
-
-	"KiltinAction_Desc"
-	{
-		"en"	"Kill 500 enemy Soldiers"
-	}
-
-	"TamO'Shatter_Title"
-	{
-		"en"	"Tam O'Shatter"
-	}
-
-	"TamO'Shatter_Desc"
-	{
-		"en"	"Destroy 5 enemy Engineer buildings during a single ÜberCharge from a Medic"
-	}
-
-	"ShornConnery_Title"
-	{
-		"en"	"Shorn Connery"
-	}
-
-	"ShornConnery_Desc"
-	{
-		"en"	"Decapitate a cloaked Spy"
-	}
-
-	"LaddyMacdeth_Title"
-	{
-		"en"	"Laddy Macdeth"
-	}
-
-	"LaddyMacdeth_Desc"
-	{
-		"en"	"Kill 50 enemies with direct hits from the Grenade Launcher"
-	}
-
-	"CaberToss_Title"
-	{
-		"en"	"Caber Toss"
-	}
-
-	"CaberToss_Desc"
-	{
-		"en"	"Bounce an enemy into the air and kill them before they land"
-	}
-
-	"DoubleMauledScotch_Title"
-	{
-		"en"	"Double Mauled Scotch"
-	}
-
-	"DoubleMauledScotch_Desc"
-	{
-		"en"	"Kill 2 people in a single sticky jump"
-	}
-
-	"LochNessBombster_Title"
-	{
-		"en"	"Loch Ness Bombster"
-	}
-
-	"LochNessBombster_Desc"
-	{
-		"en"	"Kill an enemy player with sticky bombs within 5 seconds of them teleporting"
-	}
-
-	"ThreeTimesaLaddy_Title"
-	{
-		"en"	"Three Times a Laddy"
-	}
-
-	"ThreeTimesaLaddy_Desc"
-	{
-		"en"	"Dominate three Engineers"
-	}
-
-	"BlindFire_Title"
-	{
-		"en"	"Blind Fire"
-	}
-
-	"BlindFire_Desc"
-	{
-		"en"	"Destroy an Engineer building that you can't see with a direct hit from your Grenade Launcher"
-	}
-
-	"Brainspotting_Title"
-	{
-		"en"	"Brainspotting"
-	}
-
-	"Brainspotting_Desc"
-	{
-		"en"	"Decapitate 50 enemy players"
-	}
-
-	"Left4Heads_Title"
-	{
-		"en"	"Left 4 Heads"
-	}
-
-	"Left4Heads_Desc"
-	{
-		"en"	"Decapitate 4 players with only 10 seconds between each kill"
-	}
-
-	"WellPlaid!_Title"
-	{
-		"en"	"Well Plaid!"
-	}
-
-	"WellPlaid!_Desc"
-	{
-		"en"	"Kill 10 enemies while assisting or being assisted by another Demoman"
-	}
-
-	"TheScottishPlay_Title"
-	{
-		"en"	"The Scottish Play"
-	}
-
-	"TheScottishPlay_Desc"
-	{
-		"en"	"Get a melee kill while sticky jumping"
-	}
-
-	"TheArgyleSap_Title"
-	{
-		"en"	"The Argyle Sap"
-	}
-
-	"TheArgyleSap_Desc"
-	{
-		"en"	"Blow up an Engineer, his sentry gun, and his dispenser with a single Sticky bomb detonation"
-	}
-
-	"SlammySlayvisWoundya_Title"
-	{
-		"en"	"Slammy Slayvis Woundya"
-	}
-
-	"SlammySlayvisWoundya_Desc"
-	{
-		"en"	"Decapitate an enemy Soldier who is brandishing the Equalizer"
-	}
-
-	"ThereCanBeOnlyOne_Title"
-	{
-		"en"	"There Can Be Only One"
-	}
-
-	"ThereCanBeOnlyOne_Desc"
-	{
-		"en"	"Decapitate your nemesis"
-	}
-
-	"TartanSpartan_Title"
-	{
-		"en"	"Tartan Spartan"
-	}
-
-	"TartanSpartan_Desc"
-	{
-		"en"	"Do 1 million points of total blast damage"
-	}
-
-	"ScotchGuard_Title"
-	{
-		"en"	"Scotch Guard"
-	}
-
-	"ScotchGuard_Desc"
-	{
-		"en"	"Kill 3 enemies capping or pushing a cart in a single Stickybomb detonation 3 separate times"
-	}
-
-	"Bravehurt_Title"
-	{
-		"en"	"Bravehurt"
-	}
-
-	"Bravehurt_Desc"
-	{
-		"en"	"Kill 25 players defending a capture point or cart"
-	}
-
-	"CrySomeMoor!_Title"
-	{
-		"en"	"Cry Some Moor!"
-	}
-
-	"CrySomeMoor!_Desc"
-	{
-		"en"	"Destroy 50 buildings"
-	}
-
-	"TheStickening_Title"
-	{
-		"en"	"The Stickening"
-	}
-
-	"TheStickening_Desc"
-	{
-		"en"	"Kill 5 Heavies from full health with a single sticky bomb detonation"
-	}
-
-	"Glasg0wned_Title"
-	{
-		"en"	"Glasg0wned"
-	}
-
-	"Glasg0wned_Desc"
-	{
-		"en"	"Kill 25 Scouts and Pyros with the Grenade Launcher"
-	}
-
-	"ScotchTap_Title"
-	{
-		"en"	"Scotch Tap"
-	}
-
-	"ScotchTap_Desc"
-	{
-		"en"	"Glory in the slaughter of your enemies using the Eyelander"
-	}
-
-	"TheTargeCharge_Title"
-	{
-		"en"	"The Targe Charge"
-	}
-
-	"TheTargeCharge_Desc"
-	{
-		"en"	"Charge and kill someone with your shield bash"
-	}
-
-	"BeatMeUp,Scotty_Title"
-	{
-		"en"	"Beat Me Up, Scotty"
-	}
-
-	"BeatMeUp,Scotty_Desc"
-	{
-		"en"	"Use a full charge Critical swing with the Eyelander to kill 5 enemy players"
-	}
-
-	"SomethingStickiedThisWayComes_Title"
-	{
-		"en"	"Something Stickied This Way Comes"
-	}
-
-	"SomethingStickiedThisWayComes_Desc"
-	{
-		"en"	"Kill 30 players with air burst sticky bombs"
-	}
-
-	"TheHighRoad_Title"
-	{
-		"en"	"The High Road"
-	}
-
-	"TheHighRoad_Desc"
-	{
-		"en"	"Sticky jump onto a cap point and capture it"
-	}
-
-	"BloodyMerry_Title"
-	{
-		"en"	"Bloody Merry"
-	}
-
-	"BloodyMerry_Desc"
-	{
-		"en"	"Provide an enemy player with a freeze cam of your smiling face"
-	}
-
-	"SecondEye_Title"
-	{
-		"en"	"Second Eye"
-	}
-
-	"SecondEye_Desc"
-	{
-		"en"	"Provide an enemy player with a freeze cam of you shaking your rump"
-	}
-
-	"HeWhoCeltIt_Title"
-	{
-		"en"	"He Who Celt It"
-	}
-
-	"HeWhoCeltIt_Desc"
-	{
-		"en"	"Use the Sticky Launcher to kill an enemy player via environmental damage"
-	}
-
-	"RobbedRoyal_Title"
-	{
-		"en"	"Robbed Royal"
-	}
-
-	"RobbedRoyal_Desc"
-	{
-		"en"	"Destroy 100 sticky bombs with the Scottish Resistance"
-	}
-
-	"HighlandFling_Title"
-	{
-		"en"	"Highland Fling"
-	}
-
-	"HighlandFling_Desc"
-	{
-		"en"	"Sticky jump a really long way.."
-	}
-
-	"Pipebagger_Title"
-	{
-		"en"	"Pipebagger"
-	}
-
-	"Pipebagger_Desc"
-	{
-		"en"	"Kill at least three players with a single detonation of sticky bombs"
-	}
-
-	"SpynalTap_Title"
-	{
-		"en"	"Spynal Tap"
-	}
-
-	"SpynalTap_Desc"
-	{
-		"en"	"Kill 20 Spies within 5 seconds of them sapping a friendly building"
-	}
-
-	"StickyThump_Title"
-	{
-		"en"	"Sticky Thump"
-	}
-
-	"StickyThump_Desc"
-	{
-		"en"	"Using the Scottish Resistance, kill 3 players in separate explosions without placing new sticky bombs"
-	}
-
-	"DemomanMilestone1_Title"
-	{
-		"en"	"Demoman Milestone 1"
-	}
-
-	"DemomanMilestone1_Desc"
-	{
-		"en"	"Obtain 5 of the Demoman achievements"
-	}
-
-	"DemomanMilestone2_Title"
-	{
-		"en"	"Demoman Milestone 2"
-	}
-
-	"DemomanMilestone2_Desc"
-	{
-		"en"	"Obtain 11 of the Demoman achievements"
-	}
-
-	"DemomanMilestone3_Title"
-	{
-		"en"	"Demoman Milestone 3"
-	}
-
-	"DemomanMilestone3_Desc"
-	{
-		"en"	"Obtain 17 of the Demoman achievements"
-	}
-
-	"FirstDoNoHarm_Title"
+	"TF_MEDIC_TOP_SCOREBOARD_Title"
 	{
 		"en"	"First Do No Harm"
 	}
-
-	"FirstDoNoHarm_Desc"
+	"TF_MEDIC_TOP_SCOREBOARD_Desc"
 	{
-		"en"	"Play a full round without killing any enemies and score the highest on a team of six or more players"
+		"en"	"Play a full round without killing any enemies, and score the highest on a team of 6 or more players."
 	}
-
-	"QuadrupleBypass_Title"
+	"TF_MEDIC_HEAL_UNDER_FIRE_Title"
 	{
 		"en"	"Quadruple Bypass"
 	}
-
-	"QuadrupleBypass_Desc"
+	"TF_MEDIC_HEAL_UNDER_FIRE_Desc"
 	{
-		"en"	"Heal a teammate who is taking fire from four enemies at once"
+		"en"	"Heal a teammate who's taking fire from 4 enemies at once."
 	}
-
-	"GroupHealth_Title"
+	"TF_MEDIC_SIMUL_CHARGE_Title"
 	{
 		"en"	"Group Health"
 	}
-
-	"GroupHealth_Desc"
+	"TF_MEDIC_SIMUL_CHARGE_Desc"
 	{
-		"en"	"Work with two other Medics to deploy three simultaneous ÜberCharges"
+		"en"	"Work with 2 other Medics to deploy 3 simultaneous ÜberCharges."
 	}
-
-	"SurgicalPrep_Title"
+	"TF_MEDIC_SETUP_CHARGE_Title"
 	{
 		"en"	"Surgical Prep"
 	}
-
-	"SurgicalPrep_Desc"
+	"TF_MEDIC_SETUP_CHARGE_Desc"
 	{
-		"en"	"Have an ÜberCharge ready before the set up phase ends"
+		"en"	"Have an ÜberCharge ready before the Setup phase ends."
 	}
-
-	"TraumaQueen_Title"
+	"TF_MEDIC_RAPID_CHARGE_Title"
 	{
 		"en"	"Trauma Queen"
 	}
-
-	"TraumaQueen_Desc"
+	"TF_MEDIC_RAPID_CHARGE_Desc"
 	{
-		"en"	"Deploy three ÜberCharges in less than five minutes and assist in five kills during that time"
+		"en"	"Deploy 3 ÜberCharges in less than 5 minutes, and assist in 5 kills during that time."
 	}
-
-	"DoubleBlindTrial_Title"
+	"TF_MEDIC_COUNTER_CHARGE_Title"
 	{
 		"en"	"Double Blind Trial"
 	}
-
-	"DoubleBlindTrial_Desc"
+	"TF_MEDIC_COUNTER_CHARGE_Desc"
 	{
-		"en"	"Deploy an ÜberCharge within eight seconds of a nearby enemy Medic deploying his"
+		"en"	"Deploy an ÜberCharge within 8 seconds of a nearby enemy Medic deploying his."
 	}
-
-	"PlayDoctor_Title"
+	"TF_MEDIC_SWITCH_TO_MEDIC_Title"
 	{
 		"en"	"Play Doctor"
 	}
-
-	"PlayDoctor_Desc"
+	"TF_MEDIC_SWITCH_TO_MEDIC_Desc"
 	{
-		"en"	"In a team with no Medics, be first to switch to Medic after a teammate calls Medic and heal 500 health"
+		"en"	"In a team with no Medics, be the first person to switch to Medic after a teammate calls for 'Medic!', and then heal 500 health."
 	}
-
-	"Triage_Title"
+	"TF_MEDIC_SAVE_TEAMMATE_Title"
 	{
 		"en"	"Triage"
 	}
-
-	"Triage_Desc"
+	"TF_MEDIC_SAVE_TEAMMATE_Desc"
 	{
-		"en"	"Deploy an ÜberCharge on a teammate less than a second before they are hit by a Critical explosive"
+		"en"	"Deploy an ÜberCharge on a teammate less than a second before they're hit by a critical explosive."
 	}
-
-	"PreventativeMedicine_Title"
+	"TF_MEDIC_CHARGE_BLOCKER_Title"
 	{
-		"en"	"Preventative Medicine"
+		"en"	"Preventive Medicine"
 	}
-
-	"PreventativeMedicine_Desc"
+	"TF_MEDIC_CHARGE_BLOCKER_Desc"
 	{
-		"en"	"Block the enemy from capturing a control point with an ÜberCharged teammate"
+		"en"	"Block the enemy from capturing a control point with an ÜberCharged teammate."
 	}
-
-	"Consultation_Title"
+	"TF_MEDIC_ASSIST_MEDIC_Title"
 	{
 		"en"	"Consultation"
 	}
-
-	"Consultation_Desc"
+	"TF_MEDIC_ASSIST_MEDIC_Desc"
 	{
-		"en"	"Assist a fellow Medic in killing five enemies in a single life"
+		"en"	"Assist a fellow Medic in killing 5 enemies in a single life."
 	}
-
-	"DoesItHurtWhenIDoThis?_Title"
+	"TF_MEDIC_SYRINGE_SCOUTS_Title"
 	{
 		"en"	"Does It Hurt When I Do This?"
 	}
-
-	"DoesItHurtWhenIDoThis?_Desc"
+	"TF_MEDIC_SYRINGE_SCOUTS_Desc"
 	{
-		"en"	"Kill fifty Scouts with your syringe gun"
+		"en"	"Kill 50 Scouts with your syringe gun."
 	}
-
-	"PeerReview_Title"
+	"TF_MEDIC_BONESAW_MEDICS_Title"
 	{
 		"en"	"Peer Review"
 	}
-
-	"PeerReview_Desc"
+	"TF_MEDIC_BONESAW_MEDICS_Desc"
 	{
-		"en"	"Kill fifty Medics with your bone saw"
+		"en"	"Kill 50 Medics with your bone saw."
 	}
-
-	"BigPharma_Title"
+	"TF_MEDIC_ASSIST_HEAVY_LONG_Title"
 	{
 		"en"	"Big Pharma"
 	}
-
-	"BigPharma_Desc"
+	"TF_MEDIC_ASSIST_HEAVY_LONG_Desc"
 	{
-		"en"	"Assist a Heavy in killing ten enemies where neither of you die"
+		"en"	"Assist a Heavy in killing 20 enemies, where neither of you die."
 	}
-
-	"You'llFeelaLittlePrick_Title"
+	"TF_MEDIC_ASSIST_SCOUT_Title"
 	{
 		"en"	"You'll Feel a Little Prick"
 	}
-
-	"You'llFeelaLittlePrick_Desc"
+	"TF_MEDIC_ASSIST_SCOUT_Desc"
 	{
-		"en"	"Assist in killing three enemies with a single ÜberCharge on a Scout"
+		"en"	"Assist in killing 3 enemies with a single ÜberCharge on a Scout."
 	}
-
-	"Autoclave_Title"
+	"TF_MEDIC_ASSIST_PYRO_Title"
 	{
 		"en"	"Autoclave"
 	}
-
-	"Autoclave_Desc"
+	"TF_MEDIC_ASSIST_PYRO_Desc"
 	{
-		"en"	"Assist in burning five enemies with a single ÜberCharge on a Pyro"
+		"en"	"Assist in burning 5 enemies with a single ÜberCharge on a Pyro."
 	}
-
-	"BluntTrauma_Title"
+	"TF_MEDIC_ASSIST_HEAVY_Title"
 	{
 		"en"	"Blunt Trauma"
 	}
-
-	"BluntTrauma_Desc"
+	"TF_MEDIC_ASSIST_HEAVY_Desc"
 	{
-		"en"	"Assist in punching two enemies with a single ÜberCharge on a Heavy"
+		"en"	"Assist in punching 2 enemies with a single ÜberCharge on a Heavy."
 	}
-
-	"MedicalBreakthrough_Title"
+	"TF_MEDIC_ASSIST_DEMOMAN_Title"
 	{
 		"en"	"Medical Breakthrough"
 	}
-
-	"MedicalBreakthrough_Desc"
+	"TF_MEDIC_ASSIST_DEMOMAN_Desc"
 	{
-		"en"	"Assist in destroying five enemy Engineer buildings with a single ÜberCharge on a Demoman"
+		"en"	"Assist in destroying 5 enemy Engineer buildings with a single ÜberCharge on a Demoman."
 	}
-
-	"BlastAssist_Title"
+	"TF_MEDIC_ASSIST_SOLDIER_Title"
 	{
 		"en"	"Blast Assist"
 	}
-
-	"BlastAssist_Desc"
+	"TF_MEDIC_ASSIST_SOLDIER_Desc"
 	{
-		"en"	"Assist in exploding five enemies with a single ÜberCharge on a Soldier"
+		"en"	"Assist in exploding 5 enemies with a single ÜberCharge on a Soldier."
 	}
-
-	"MidwifeCrisis_Title"
+	"TF_MEDIC_HEAL_ENGINEER_Title"
 	{
 		"en"	"Midwife Crisis"
 	}
-
-	"MidwifeCrisis_Desc"
+	"TF_MEDIC_HEAL_ENGINEER_Desc"
 	{
-		"en"	"Heal an Engineer as he repairs his sentry gun while it's under enemy fire"
+		"en"	"Heal an Engineer as he repairs his sentry gun while it's under enemy fire."
 	}
-
-	"UbiConcordia,IbiVictoria_Title"
+	"TF_MEDIC_ASSIST_CAPTURER_Title"
 	{
-		"en"	"Ubi Concordia, Ibi Victoria"
+		"en"	"Ubi concordia, ibi victoria"
 	}
-
-	"UbiConcordia,IbiVictoria_Desc"
+	"TF_MEDIC_ASSIST_CAPTURER_Desc"
 	{
-		"en"	"Assist in killing three enemies on an enemy control point in a single life"
+		"en"	"Assist in killing 5 enemies on an enemy control point, in a single life."
 	}
-
-	"GrandRounds_Title"
+	"TF_MEDIC_HEAL_CALLERS_Title"
 	{
 		"en"	"Grand Rounds"
 	}
-
-	"GrandRounds_Desc"
+	"TF_MEDIC_HEAL_CALLERS_Desc"
 	{
-		"en"	"Heal two hundred teammates after they have called for Medic"
+		"en"	"Heal 200 teammates after they've called for 'Medic!'."
 	}
-
-	"InfernalMedicine_Title"
+	"TF_MEDIC_EXTINGUISH_TEAMMATES_Title"
 	{
 		"en"	"Infernal Medicine"
 	}
-
-	"InfernalMedicine_Desc"
+	"TF_MEDIC_EXTINGUISH_TEAMMATES_Desc"
 	{
-		"en"	"Extinguish one hundred burning teammates"
+		"en"	"Extinguish 100 burning teammates."
 	}
-
-	"DoctorAssistedHomicide_Title"
+	"TF_MEDIC_ASSIST_VS_NEMESES_Title"
 	{
 		"en"	"Doctor Assisted Homicide"
 	}
-
-	"DoctorAssistedHomicide_Desc"
+	"TF_MEDIC_ASSIST_VS_NEMESES_Desc"
 	{
-		"en"	"Assist in killing twenty nemeses"
+		"en"	"Assist in killing 20 nemeses."
 	}
-
-	"PlaceboEffect_Title"
+	"TF_MEDIC_KILL_WHILE_CHARGED_Title"
 	{
 		"en"	"Placebo Effect"
 	}
-
-	"PlaceboEffect_Desc"
+	"TF_MEDIC_KILL_WHILE_CHARGED_Desc"
 	{
-		"en"	"Kill five enemies in a single life, while having your ÜberCharge ready but undeployed"
+		"en"	"Kill 5 enemies in a single life, while having your ÜberCharge ready, but undeployed."
 	}
-
-	"Sawbones_Title"
+	"TF_MEDIC_BONESAW_NOMISSES_Title"
 	{
 		"en"	"Sawbones"
 	}
-
-	"Sawbones_Desc"
+	"TF_MEDIC_BONESAW_NOMISSES_Desc"
 	{
-		"en"	"Hit enemies with your bonesaw five times in a row without dying or missing"
+		"en"	"Hit enemies with your bonesaw 5 times in a row without dying or missing."
 	}
-
-	"Intern_Title"
+	"TF_MEDIC_HEAL_LARGE_Title"
 	{
 		"en"	"Intern"
 	}
-
-	"Intern_Desc"
+	"TF_MEDIC_HEAL_LARGE_Desc"
 	{
-		"en"	"Accumulate seven thousand heal points in a single life"
+		"en"	"Accumulate 7000 heal points in a single life."
 	}
-
-	"Specialist_Title"
+	"TF_MEDIC_HEAL_HUGE_Title"
 	{
 		"en"	"Specialist"
 	}
-
-	"Specialist_Desc"
+	"TF_MEDIC_HEAL_HUGE_Desc"
 	{
-		"en"	"Accumulate ten thousand heal points in a single life"
+		"en"	"Accumulate 10000 heal points health in a single life."
 	}
-
-	"ChiefofStaff_Title"
+	"TF_MEDIC_HEAL_GRIND_Title"
 	{
 		"en"	"Chief of Staff"
 	}
-
-	"ChiefofStaff_Desc"
+	"TF_MEDIC_HEAL_GRIND_Desc"
 	{
-		"en"	"Accumulate one million total health points"
+		"en"	"Accumulate 1 million total heal points."
 	}
-
-	"HypocriticalOath_Title"
+	"TF_MEDIC_KILL_HEALED_SPY_Title"
 	{
 		"en"	"Hypocritical Oath"
 	}
-
-	"HypocriticalOath_Desc"
+	"TF_MEDIC_KILL_HEALED_SPY_Desc"
 	{
-		"en"	"Kill an enemy Spy that you have been healing"
+		"en"	"Kill an enemy Spy that you have been healing."
 	}
-
-	"MedicalIntervention_Title"
+	"TF_MEDIC_SAVE_FALLING_TEAMMATE_Title"
 	{
 		"en"	"Medical Intervention"
 	}
-
-	"MedicalIntervention_Desc"
+	"TF_MEDIC_SAVE_FALLING_TEAMMATE_Desc"
 	{
-		"en"	"Save a falling teammate from dying on impact"
+		"en"	"Save a falling teammate from dying on impact."
 	}
-
-	"SecondOpinion_Title"
+	"TF_MEDIC_CHARGE_JUGGLE_Title"
 	{
 		"en"	"Second Opinion"
 	}
-
-	"SecondOpinion_Desc"
+	"TF_MEDIC_CHARGE_JUGGLE_Desc"
 	{
-		"en"	"ÜberCharge 2 teammates at once"
+		"en"	"ÜberCharge 2 teammates at once."
 	}
-
-	"AutopsyReport_Title"
+	"TF_MEDIC_FREEZECAM_RAGDOLL_Title"
 	{
 		"en"	"Autopsy Report"
 	}
-
-	"AutopsyReport_Desc"
+	"TF_MEDIC_FREEZECAM_RAGDOLL_Desc"
 	{
-		"en"	"Provide an enemy with a freezecam shot of you taunting above their ragdoll"
+		"en"	"Provide an enemy with a freezecam shot of you taunting above their ragdoll."
 	}
-
-	"FYIIamaMedic_Title"
+	"TF_MEDIC_BONESAW_SPY_CALLERS_Title"
 	{
-		"en"	"FYI I am a Medic"
+		"en"	"FYI I am A Medic"
 	}
-
-	"FYIIamaMedic_Desc"
+	"TF_MEDIC_BONESAW_SPY_CALLERS_Desc"
 	{
-		"en"	"Use a bonesaw to kill five enemy Spies who have been calling for Medic"
+		"en"	"Use your bonesaw to kill 5 Spies who have been calling for 'Medic!'."
 	}
-
-	"FamilyPractice_Title"
+	"TF_MEDIC_CHARGE_FRIENDS_Title"
 	{
 		"en"	"Family Practice"
 	}
-
-	"FamilyPractice_Desc"
+	"TF_MEDIC_CHARGE_FRIENDS_Desc"
 	{
-		"en"	"ÜberCharge ten of your steam community friends"
+		"en"	"ÜberCharge ten of your Steam Community Friends."
 	}
-
-	"HouseCall_Title"
+	"TF_MEDIC_INVITE_JOIN_CHARGE_Title"
 	{
 		"en"	"House Call"
 	}
-
-	"HouseCall_Desc"
+	"TF_MEDIC_INVITE_JOIN_CHARGE_Desc"
 	{
-		"en"	"Join a game that one of your friends is in and then deploy an ÜberCharge on him"
+		"en"	"Join a game that one of your friends is in and then deploy an ÜberCharge on him."
 	}
-
-	"BedsideManner_Title"
+	"TF_MEDIC_HEAL_ACHIEVER_Title"
 	{
 		"en"	"Bedside Manner"
 	}
-
-	"BedsideManner_Desc"
+	"TF_MEDIC_HEAL_ACHIEVER_Desc"
 	{
-		"en"	"Be healing a teammate as he achieves an achievement of his own"
+		"en"	"Be healing a teammate as he achieves an achievement of his own."
 	}
-
-	"MedicMilestone1_Title"
+	"TF_MEDIC_ACHIEVE_PROGRESS1_Title"
 	{
 		"en"	"Medic Milestone 1"
 	}
-
-	"MedicMilestone1_Desc"
+	"TF_MEDIC_ACHIEVE_PROGRESS1_Desc"
 	{
-		"en"	"Obtain 10 of the Medic achievements"
+		"en"	"Achieve 10 of the achievements in the Medic pack."
 	}
-
-	"MedicMilestone2_Title"
+	"TF_MEDIC_ACHIEVE_PROGRESS2_Title"
 	{
 		"en"	"Medic Milestone 2"
 	}
-
-	"MedicMilestone2_Desc"
+	"TF_MEDIC_ACHIEVE_PROGRESS2_Desc"
 	{
-		"en"	"Obtain 16 of the Medic achievements"
+		"en"	"Achieve 16 of the achievements in the Medic pack."
 	}
-
-	"MedicMilestone3_Title"
+	"TF_MEDIC_ACHIEVE_PROGRESS3_Title"
 	{
 		"en"	"Medic Milestone 3"
 	}
-
-	"MedicMilestone3_Desc"
+	"TF_MEDIC_ACHIEVE_PROGRESS3_Desc"
 	{
-		"en"	"Obtain 22 of the Medic achievements"
+		"en"	"Achieve 22 of the achievements in the Medic pack."
 	}
-
-	"IronKurtain_Title"
-	{
-		"en"	"Iron Kurtain"
-	}
-
-	"IronKurtain_Desc"
-	{
-		"en"	"Take 1000 points of damage in a single life"
-	}
-
-	"PartyLoyalty_Title"
-	{
-		"en"	"Party Loyalty"
-	}
-
-	"PartyLoyalty_Desc"
-	{
-		"en"	"Kill 50 enemies within 3 seconds of them attacking your Medic"
-	}
-
-	"DivisionofLabor_Title"
-	{
-		"en"	"Division of Labor"
-	}
-
-	"DivisionofLabor_Desc"
-	{
-		"en"	"Kill 10 enemies with a Medic assisting you, where neither of you die"
-	}
-
-	"RedOktoberfest_Title"
-	{
-		"en"	"Red Oktoberfest"
-	}
-
-	"RedOktoberfest_Desc"
-	{
-		"en"	"Earn a domination for a Medic who's healing you"
-	}
-
-	"ShowTrial_Title"
-	{
-		"en"	"Show Trial"
-	}
-
-	"ShowTrial_Desc"
-	{
-		"en"	"Kill an enemy with a taunt"
-	}
-
-	"CrimeandPunishment_Title"
-	{
-		"en"	"Crime and Punishment"
-	}
-
-	"CrimeandPunishment_Desc"
-	{
-		"en"	"Kill 10 enemies carrying your intelligence"
-	}
-
-	"ClassStruggle_Title"
-	{
-		"en"	"Class Struggle"
-	}
-
-	"ClassStruggle_Desc"
-	{
-		"en"	"Work with a friendly Medic to kill an enemy Heavy Medic pair"
-	}
-
-	"SovietBlock_Title"
-	{
-		"en"	"Soviet Block"
-	}
-
-	"SovietBlock_Desc"
-	{
-		"en"	"While invulnerable and on defense, block an invulnerable enemy Heavy's movement"
-	}
-
-	"StalintheKart_Title"
-	{
-		"en"	"Stalin the Kart"
-	}
-
-	"StalintheKart_Desc"
-	{
-		"en"	"Block the enemy from moving the payload cart 25 times"
-	}
-
-	"SupremeSoviet_Title"
-	{
-		"en"	"Supreme Soviet"
-	}
-
-	"SupremeSoviet_Desc"
-	{
-		"en"	"Get Übered 50 times"
-	}
-
-	"FactoryWorker_Title"
-	{
-		"en"	"Factory Worker"
-	}
-
-	"FactoryWorker_Desc"
-	{
-		"en"	"Kill 20 enemies while being recharged by a dispenser"
-	}
-
-	"SovietUnion_Title"
-	{
-		"en"	"Soviet Union"
-	}
-
-	"SovietUnion_Desc"
-	{
-		"en"	"Get 25 enemy kills where you either assist or are assisted by another Heavy"
-	}
-
-	"OwntheMeansofProduction_Title"
-	{
-		"en"	"Own the Means of Production"
-	}
-
-	"OwntheMeansofProduction_Desc"
-	{
-		"en"	"Remove 20 stickybombs by killing the Demomen who produced them"
-	}
-
-	"KrazyIvan_Title"
-	{
-		"en"	"Krazy Ivan"
-	}
-
-	"KrazyIvan_Desc"
-	{
-		"en"	"Kill 100 enemies while both you and your victim are underwater"
-	}
-
-	"Rasputin_Title"
-	{
-		"en"	"Rasputin"
-	}
-
-	"Rasputin_Desc"
-	{
-		"en"	"In a single life, get shot, burned, bludgeoned, and receive explosive damage"
-	}
-
-	"IcingontheCake_Title"
-	{
-		"en"	"Icing on the Cake"
-	}
-
-	"IcingontheCake_Desc"
-	{
-		"en"	"Get 20 kills on players that you're dominating"
-	}
-
-	"CrockBlock_Title"
-	{
-		"en"	"Crock Block"
-	}
-
-	"CrockBlock_Desc"
-	{
-		"en"	"Survive a direct hit from a Critical rocket"
-	}
-
-	"Kollectivization_Title"
-	{
-		"en"	"Kollectivization"
-	}
-
-	"Kollectivization_Desc"
-	{
-		"en"	"Get 1000 assists"
-	}
-
-	"SpyalecticalMaterialism_Title"
-	{
-		"en"	"Spyalectical Materialism"
-	}
-
-	"SpyalecticalMaterialism_Desc"
-	{
-		"en"	"Kill or assist in killing 10 cloaked Spies"
-	}
-
-	"PermanentRevolution_Title"
-	{
-		"en"	"Permanent Revolution"
-	}
-
-	"PermanentRevolution_Desc"
-	{
-		"en"	"Kill 5 enemies without spinning down your gun"
-	}
-
-	"HeavyIndustry_Title"
-	{
-		"en"	"Heavy Industry"
-	}
-
-	"HeavyIndustry_Desc"
-	{
-		"en"	"Fire $200,000 worth of minigun rounds in a single life"
-	}
-
-	"CommunistMani-Fisto_Title"
-	{
-		"en"	"Communist Mani-Fisto"
-	}
-
-	"CommunistMani-Fisto_Desc"
-	{
-		"en"	"Kill an enemy with a Critical punch"
-	}
-
-	"RedistributionofHealth_Title"
-	{
-		"en"	"Redistribution of Health"
-	}
-
-	"RedistributionofHealth_Desc"
-	{
-		"en"	"Heal 1000 damage with med-kits in a single life"
-	}
-
-	"Rationing_Title"
-	{
-		"en"	"Rationing"
-	}
-
-	"Rationing_Desc"
-	{
-		"en"	"Kill an enemy with your shotgun while you're out of minigun ammo"
-	}
-
-	"VanguardParty_Title"
-	{
-		"en"	"Vanguard Party"
-	}
-
-	"VanguardParty_Desc"
-	{
-		"en"	"Be the first on your team to start capturing a control point in a round"
-	}
-
-	"PushkintheKart_Title"
-	{
-		"en"	"Pushkin the Kart"
-	}
-
-	"PushkintheKart_Desc"
-	{
-		"en"	"Get 50 caps on payload maps"
-	}
-
-	"Marxman_Title"
-	{
-		"en"	"Marxman"
-	}
-
-	"Marxman_Desc"
-	{
-		"en"	"Kill 10 enemies in mid-air with the minigun"
-	}
-
-	"GorkyParked_Title"
-	{
-		"en"	"Gorky Parked"
-	}
-
-	"GorkyParked_Desc"
-	{
-		"en"	"Kill 25 enemies while you're standing on a control point you own"
-	}
-
-	"Purge_Title"
-	{
-		"en"	"Purge"
-	}
-
-	"Purge_Desc"
-	{
-		"en"	"Kill 15 enemies capturing a control point you own"
-	}
-
-	"LeninAHand_Title"
-	{
-		"en"	"Lenin A Hand"
-	}
-
-	"LeninAHand_Desc"
-	{
-		"en"	"Help 5 team-mates get revenge on their nemeses"
-	}
-
-	"FiveSecondPlan_Title"
-	{
-		"en"	"Five Second Plan"
-	}
-
-	"FiveSecondPlan_Desc"
-	{
-		"en"	"Kill an enemy in the first 5 seconds after you exit a teleporter"
-	}
-
-	"Photostroika_Title"
-	{
-		"en"	"Photostroika"
-	}
-
-	"Photostroika_Desc"
-	{
-		"en"	"Provide an enemy with a freezecam shot of you taunting while invulnerable"
-	}
-
-	"KonspicuousKonsumption_Title"
-	{
-		"en"	"Konspicuous Konsumption"
-	}
-
-	"KonspicuousKonsumption_Desc"
-	{
-		"en"	"Eat 100 sandviches"
-	}
-
-	"Don'tTouchSandvich_Title"
-	{
-		"en"	"Don't Touch Sandvich"
-	}
-
-	"Don'tTouchSandvich_Desc"
-	{
-		"en"	"Kill 50 Scouts using Natascha"
-	}
-
-	"BorschtBelt_Title"
-	{
-		"en"	"Borscht Belt"
-	}
-
-	"BorschtBelt_Desc"
-	{
-		"en"	"Kill 10 Heavies with The K.G.B"
-	}
-
-	"HeavyMilestone1_Title"
-	{
-		"en"	"Heavy Milestone 1"
-	}
-
-	"HeavyMilestone1_Desc"
-	{
-		"en"	"Obtain 10 of the Heavy achievements"
-	}
-
-	"HeavyMilestone2_Title"
-	{
-		"en"	"Heavy Milestone 2"
-	}
-
-	"HeavyMilestone2_Desc"
-	{
-		"en"	"Obtain 15 of the Heavy achievements"
-	}
-
-	"HeavyMilestone3_Title"
-	{
-		"en"	"Heavy Milestone 3"
-	}
-
-	"HeavyMilestone3_Desc"
-	{
-		"en"	"Obtain 20 of the Heavy achievements"
-	}
-
-	"CombinedFire_Title"
+	"TF_PYRO_KILL_MULTIWEAPONS_Title"
 	{
 		"en"	"Combined Fire"
 	}
-
-	"CombinedFire_Desc"
+	"TF_PYRO_KILL_MULTIWEAPONS_Desc"
 	{
-		"en"	"Use your shotgun to finish off 20 players you've ignited"
+		"en"	"Use your shotgun to finish off 20 players you've ignited."
 	}
-
-	"WeenieRoast_Title"
+	"TF_PYRO_SIMULBURN_SCOUTS_Title"
 	{
 		"en"	"Weenie Roast"
 	}
-
-	"WeenieRoast_Desc"
+	"TF_PYRO_SIMULBURN_SCOUTS_Desc"
 	{
-		"en"	"Assist in killing five enemies on an enemy control point in a single life"
+		"en"	"Have 2 enemy Scouts on fire at the same time."
 	}
-
-	"BaptismbyFire_Title"
+	"TF_PYRO_FORCE_WATERJUMP_Title"
 	{
 		"en"	"Baptism by Fire"
 	}
-
-	"BaptismbyFire_Desc"
+	"TF_PYRO_FORCE_WATERJUMP_Desc"
 	{
-		"en"	"Force 10 burning enemies to jump into water"
+		"en"	"Force 10 burning enemies to jump into water."
 	}
-
-	"FireandForget_Title"
+	"TF_PYRO_KILL_POSTDEATH_Title"
 	{
 		"en"	"Fire and Forget"
 	}
-
-	"FireandForget_Desc"
+	"TF_PYRO_KILL_POSTDEATH_Desc"
 	{
-		"en"	"Kill 15 players while you're dead"
+		"en"	"Kill 15 players while you're dead."
 	}
-
-	"Firewall_Title"
+	"TF_PYRO_KILL_SPIES_Title"
 	{
 		"en"	"Firewall"
 	}
-
-	"Firewall_Desc"
+	"TF_PYRO_KILL_SPIES_Desc"
 	{
-		"en"	"Ignite 5 Spies who have a sapper on a friendly building"
+		"en"	"Ignite 5 Spies who have a sapper on a friendly building."
 	}
-
-	"CookingtheBooks_Title"
+	"TF_PYRO_KILL_CARRIERS_Title"
 	{
 		"en"	"Cooking the Books"
 	}
-
-	"CookingtheBooks_Desc"
+	"TF_PYRO_KILL_CARRIERS_Desc"
 	{
-		"en"	"Ignite 5 enemies carrying your intelligence"
+		"en"	"Ignite 5 enemies carrying your intelligence."
 	}
-
-	"SpontaneousCombustion_Title"
+	"TF_PYRO_REVEAL_SPIES_Title"
 	{
 		"en"	"Spontaneous Combustion"
 	}
-
-	"SpontaneousCombustion_Desc"
+	"TF_PYRO_REVEAL_SPIES_Desc"
 	{
-		"en"	"Ignite 10 cloaked Spies"
+		"en"	"Ignite 10 cloaked Spies."
 	}
-
-	"Trailblazer_Title"
+	"TF_PYRO_CAMP_TELEPORTERS_Title"
 	{
 		"en"	"Trailblazer"
 	}
-
-	"Trailblazer_Desc"
+	"TF_PYRO_CAMP_TELEPORTERS_Desc"
 	{
-		"en"	"Ignite 10 enemies that have recently used a teleporter"
+		"en"	"Ignite 10 enemies that have recently used a teleporter."
 	}
-
-	"CampFire_Title"
+	"TF_PYRO_CAMP_POSITION_Title"
 	{
 		"en"	"Camp Fire"
 	}
-
-	"CampFire_Desc"
+	"TF_PYRO_CAMP_POSITION_Desc"
 	{
-		"en"	"Kill 3 enemies in a row, all within the same area"
+		"en"	"Kill 3 enemies in a row, all within the same area."
 	}
-
-	"Lumberjack_Title"
+	"TF_PYRO_KILL_AXE_SMALL_Title"
 	{
 		"en"	"Lumberjack"
 	}
-
-	"Lumberjack_Desc"
+	"TF_PYRO_KILL_AXE_SMALL_Desc"
 	{
-		"en"	"Kill 3 people with your axe in one life"
+		"en"	"Kill 3 people with your axe in one life."
 	}
-
-	"Clearcutter_Title"
+	"TF_PYRO_KILL_AXE_LARGE_Title"
 	{
 		"en"	"Clearcutter"
 	}
-
-	"Clearcutter_Desc"
+	"TF_PYRO_KILL_AXE_LARGE_Desc"
 	{
-		"en"	"Kill 6 people with your axe in one life"
+		"en"	"Kill 6 people with your axe in one life."
 	}
-
-	"HotonYourHeels_Title"
+	"TF_PYRO_KILL_FROM_BEHIND_Title"
 	{
 		"en"	"Hot on Your Heels"
 	}
-
-	"HotonYourHeels_Desc"
+	"TF_PYRO_KILL_FROM_BEHIND_Desc"
 	{
-		"en"	"Kill 50 enemies with your flamethrower, from behind"
+		"en"	"Kill 50 enemies with your flamethrower, from behind."
 	}
-
-	"IFry_Title"
+	"TF_PYRO_BURN_SPIES_AS_YOU_Title"
 	{
 		"en"	"I Fry"
 	}
-
-	"IFry_Desc"
+	"TF_PYRO_BURN_SPIES_AS_YOU_Desc"
 	{
-		"en"	"Ignite 10 disguised Spies"
+		"en"	"Ignite 10 disguised Spies."
 	}
-
-	"Firewatch_Title"
+	"TF_PYRO_BURN_SNIPERS_ZOOMED_Title"
 	{
 		"en"	"Firewatch"
 	}
-
-	"Firewatch_Desc"
+	"TF_PYRO_BURN_SNIPERS_ZOOMED_Desc"
 	{
-		"en"	"Ignite 10 Snipers while they are zoomed in"
+		"en"	"Ignite 10 Snipers while they are zoomed in."
 	}
-
-	"BurnWard_Title"
+	"TF_PYRO_BURN_MEDICS_CHARGED_Title"
 	{
 		"en"	"Burn Ward"
 	}
-
-	"BurnWard_Desc"
+	"TF_PYRO_BURN_MEDICS_CHARGED_Desc"
 	{
-		"en"	"Ignite 3 Medics that are ready to deploy an Uber-charge"
+		"en"	"Ignite 3 Medics that are ready to deploy an ÜberCharge."
 	}
-
-	"HotPotato_Title"
+	"TF_PYRO_REFLECT_PROJECTILES_Title"
 	{
 		"en"	"Hot Potato"
 	}
-
-	"HotPotato_Desc"
+	"TF_PYRO_REFLECT_PROJECTILES_Desc"
 	{
-		"en"	"Reflect 100 projectiles with your compressed air blast"
+		"en"	"Reflect 100 projectiles with your compressed air blast."
 	}
-
-	"Makin'Bacon_Title"
+	"TF_PYRO_KILL_HEAVIES_Title"
 	{
 		"en"	"Makin' Bacon"
 	}
-
-	"Makin'Bacon_Desc"
+	"TF_PYRO_KILL_HEAVIES_Desc"
 	{
-		"en"	"Kill 50 Heavies with your flamethrower"
+		"en"	"Kill 50 Heavies with your flamethrower."
 	}
-
-	"PlanB_Title"
+	"TF_PYRO_KILL_UNDERWATER_Title"
 	{
 		"en"	"Plan B"
 	}
-
-	"PlanB_Desc"
+	"TF_PYRO_KILL_UNDERWATER_Desc"
 	{
-		"en"	"Kill 10 enemies while you're both underwater"
+		"en"	"Kill 10 enemies while you're both underwater."
 	}
-
-	"Pyrotechnics_Title"
+	"TF_PYRO_KILL_UBERCHARGE_Title"
 	{
 		"en"	"Pyrotechnics"
 	}
-
-	"Pyrotechnics_Desc"
+	"TF_PYRO_KILL_UBERCHARGE_Desc"
 	{
-		"en"	"Kill 3 enemies in a single uber-charge"
+		"en"	"Kill 3 enemies in a single ÜberCharge."
 	}
-
-	"Arsonist_Title"
+	"TF_PYRO_DESTROY_BUILDINGS_Title"
 	{
 		"en"	"Arsonist"
 	}
-
-	"Arsonist_Desc"
+	"TF_PYRO_DESTROY_BUILDINGS_Desc"
 	{
-		"en"	"Destroy 50 Engineer buildings"
+		"en"	"Destroy 50 Engineer buildings."
 	}
-
-	"ControlledBurn_Title"
+	"TF_PYRO_DEFEND_POINTS_Title"
 	{
 		"en"	"Controlled Burn"
 	}
-
-	"ControlledBurn_Desc"
+	"TF_PYRO_DEFEND_POINTS_Desc"
 	{
-		"en"	"Ignite 50 enemies capturing one of your control points"
+		"en"	"Ignite 50 enemies capturing one of your control points."
 	}
-
-	"Firefighter_Title"
+	"TF_PYRO_KILL_GRIND_Title"
 	{
 		"en"	"Firefighter"
 	}
-
-	"Firefighter_Desc"
+	"TF_PYRO_KILL_GRIND_Desc"
 	{
-		"en"	"Kill 500 enemies"
+		"en"	"Kill 500 enemies."
 	}
-
-	"Pyromancer_Title"
+	"TF_PYRO_DAMAGE_GRIND_Title"
 	{
 		"en"	"Pyromancer"
 	}
-
-	"Pyromancer_Desc"
+	"TF_PYRO_DAMAGE_GRIND_Desc"
 	{
-		"en"	"Do 1 million points of total fire damage"
+		"en"	"Do 1 million points of total fire damage."
 	}
-
-	"NextofKindling_Title"
+	"TF_PYRO_BURN_MEDICPAIR_Title"
 	{
 		"en"	"Next of Kindling"
 	}
-
-	"NextofKindling_Desc"
+	"TF_PYRO_BURN_MEDICPAIR_Desc"
 	{
-		"en"	"Ignite an enemy, and the Medic healing him"
+		"en"	"Ignite an enemy, and the Medic healing him."
 	}
-
-	"OMGWTFBBQ_Title"
+	"TF_PYRO_KILL_TAUNT_Title"
 	{
 		"en"	"OMGWTFBBQ"
 	}
-
-	"OMGWTFBBQ_Desc"
+	"TF_PYRO_KILL_TAUNT_Desc"
 	{
-		"en"	"Kill an enemy with a taunt"
+		"en"	"Kill an enemy with a taunt."
 	}
-
-	"SecondDegreeBurn_Title"
+	"TF_PYRO_KILL_TEAMWORK_Title"
 	{
 		"en"	"Second Degree Burn"
 	}
-
-	"SecondDegreeBurn_Desc"
+	"TF_PYRO_KILL_TEAMWORK_Desc"
 	{
-		"en"	"Kill a burning enemy who was ignited by another Pyro"
+		"en"	"Kill a burning enemy who was ignited by another Pyro."
 	}
-
-	"GotALight?_Title"
+	"TF_PYRO_BURN_SPY_TAUNT_Title"
 	{
 		"en"	"Got A Light?"
 	}
-
-	"GotALight?_Desc"
+	"TF_PYRO_BURN_SPY_TAUNT_Desc"
 	{
-		"en"	"Ignite an enemy Spy while he's flicking a cigarette"
+		"en"	"Ignite an enemy Spy while he's flicking a cigarette."
 	}
-
-	"BarbeQueQ_Title"
+	"TF_PYRO_DOMINATE_LEAVESVR_Title"
 	{
 		"en"	"BarbeQueQ"
 	}
-
-	"BarbeQueQ_Desc"
+	"TF_PYRO_DOMINATE_LEAVESVR_Desc"
 	{
-		"en"	"Cause a dominated player to leave the server"
+		"en"	"Cause a dominated player to leave the server."
 	}
-
-	"Hotshot_Title"
+	"TF_PYRO_REFLECT_CROCKET_KILL_Title"
 	{
 		"en"	"Hotshot"
 	}
-
-	"Hotshot_Desc"
+	"TF_PYRO_REFLECT_CROCKET_KILL_Desc"
 	{
-		"en"	"Kill a Soldier with a reflected Critical rocket"
+		"en"	"Kill a Soldier with a reflected critical rocket."
 	}
-
-	"DanceDanceImmolation_Title"
+	"TF_PYRO_KILL_TAUNTERS_Title"
 	{
 		"en"	"Dance Dance Immolation"
 	}
-
-	"DanceDanceImmolation_Desc"
+	"TF_PYRO_KILL_TAUNTERS_Desc"
 	{
-		"en"	"Kill 3 enemies while they're taunting"
+		"en"	"Kill 3 enemies while they're taunting."
 	}
-
-	"DeadHeat_Title"
+	"TF_PYRO_DOUBLE_KO_Title"
 	{
 		"en"	"Dead Heat"
 	}
-
-	"DeadHeat_Desc"
+	"TF_PYRO_DOUBLE_KO_Desc"
 	{
-		"en"	"Kill an enemy in the same second that he kills you"
+		"en"	"Kill an enemy in the same second that he kills you."
 	}
-
-	"PilotLight_Title"
+	"TF_PYRO_BURN_RJ_SOLDIER_Title"
 	{
 		"en"	"Pilot Light"
 	}
-
-	"PilotLight_Desc"
+	"TF_PYRO_BURN_RJ_SOLDIER_Desc"
 	{
-		"en"	"Ignite a rocket-jumping Soldier while he's in midair"
+		"en"	"Ignite a rocket-jumping Soldier while he's in midair."
 	}
-
-	"FreezerBurn_Title"
+	"TF_PYRO_FREEZECAM_TAUNTS_Title"
 	{
 		"en"	"Freezer Burn"
 	}
-
-	"FreezerBurn_Desc"
+	"TF_PYRO_FREEZECAM_TAUNTS_Desc"
 	{
-		"en"	"Provide enemies with freezecam shots of each of your taunts"
+		"en"	"Provide enemies with freezecam shots of each of your taunts."
 	}
-
-	"FireChief_Title"
+	"TF_PYRO_KILL_GRIND_LARGE_Title"
 	{
 		"en"	"Fire Chief"
 	}
-
-	"FireChief_Desc"
+	"TF_PYRO_KILL_GRIND_LARGE_Desc"
 	{
-		"en"	"Kill 1000 enemies"
+		"en"	"Kill 1000 enemies."
 	}
-
-	"AttentionGetter_Title"
+	"TF_PYRO_IGNITE_FLAREGUN_Title"
 	{
 		"en"	"Attention Getter"
 	}
-
-	"AttentionGetter_Desc"
+	"TF_PYRO_IGNITE_FLAREGUN_Desc"
 	{
-		"en"	"Ignite 100 enemies with the flare gun"
+		"en"	"Ignite 100 enemies with the flare gun."
 	}
-
-	"PyroMilestone1_Title"
+	"TF_PYRO_ACHIEVE_PROGRESS1_Title"
 	{
 		"en"	"Pyro Milestone 1"
 	}
-
-	"PyroMilestone1_Desc"
+	"TF_PYRO_ACHIEVE_PROGRESS1_Desc"
 	{
-		"en"	"Obtain 10 of the Pyro achievements"
+		"en"	"Achieve 10 of the achievements in the Pyro pack."
 	}
-
-	"PyroMilestone2_Title"
+	"TF_PYRO_ACHIEVE_PROGRESS2_Title"
 	{
 		"en"	"Pyro Milestone 2"
 	}
-
-	"PyroMilestone2_Desc"
+	"TF_PYRO_ACHIEVE_PROGRESS2_Desc"
 	{
-		"en"	"Obtain 16 of the Pyro achievements"
+		"en"	"Achieve 16 of the achievements in the Pyro pack."
 	}
-
-	"PyroMilestone3_Title"
+	"TF_PYRO_ACHIEVE_PROGRESS3_Title"
 	{
 		"en"	"Pyro Milestone 3"
 	}
-
-	"PyroMilestone3_Desc"
+	"TF_PYRO_ACHIEVE_PROGRESS3_Desc"
 	{
-		"en"	"Obtain 22 of the Pyro achievements"
+		"en"	"Achieve 22 of the achievements in the Pyro pack."
 	}
-
-	"Triplecrossed_Title"
+	"TF_HEAVY_DAMAGE_TAKEN_Title"
+	{
+		"en"	"Iron Kurtain"
+	}
+	"TF_HEAVY_DAMAGE_TAKEN_Desc"
+	{
+		"en"	"Take 1000 points of damage in a single life."
+	}
+	"TF_HEAVY_DEFEND_MEDIC_Title"
+	{
+		"en"	"Party Loyalty"
+	}
+	"TF_HEAVY_DEFEND_MEDIC_Desc"
+	{
+		"en"	"Kill 50 enemies within 3 seconds of them attacking your Medic."
+	}
+	"TF_HEAVY_ASSIST_MEDIC_LARGE_Title"
+	{
+		"en"	"Division of Labor"
+	}
+	"TF_HEAVY_ASSIST_MEDIC_LARGE_Desc"
+	{
+		"en"	"Kill 20 enemies with a Medic assisting you, where neither of you die."
+	}
+	"TF_HEAVY_EARN_MEDIC_DOMINATION_Title"
+	{
+		"en"	"Red Oktoberfest"
+	}
+	"TF_HEAVY_EARN_MEDIC_DOMINATION_Desc"
+	{
+		"en"	"Earn a domination for a Medic who's healing you."
+	}
+	"TF_HEAVY_KILL_TAUNT_Title"
+	{
+		"en"	"Show Trial"
+	}
+	"TF_HEAVY_KILL_TAUNT_Desc"
+	{
+		"en"	"Kill an enemy with a taunt."
+	}
+	"TF_HEAVY_KILL_FLAG_CARRIERS_Title"
+	{
+		"en"	"Crime and Punishment"
+	}
+	"TF_HEAVY_KILL_FLAG_CARRIERS_Desc"
+	{
+		"en"	"Kill 10 enemies carrying your intelligence."
+	}
+	"TF_HEAVY_KILL_MEDIC_PAIR_Title"
+	{
+		"en"	"Class Struggle"
+	}
+	"TF_HEAVY_KILL_MEDIC_PAIR_Desc"
+	{
+		"en"	"Work with a friendly Medic to kill an enemy Heavy & Medic pair."
+	}
+	"TF_HEAVY_BLOCK_INVULN_HEAVY_Title"
+	{
+		"en"	"Soviet Block"
+	}
+	"TF_HEAVY_BLOCK_INVULN_HEAVY_Desc"
+	{
+		"en"	"While invulnerable and on defense, block an invulnerable enemy Heavy's movement."
+	}
+	"TF_HEAVY_BLOCK_CART_Title"
+	{
+		"en"	"Stalin the Kart"
+	}
+	"TF_HEAVY_BLOCK_CART_Desc"
+	{
+		"en"	"Block the enemy from moving the payload cart 25 times."
+	}
+	"TF_HEAVY_RECEIVE_UBER_GRIND_Title"
+	{
+		"en"	"Supreme Soviet"
+	}
+	"TF_HEAVY_RECEIVE_UBER_GRIND_Desc"
+	{
+		"en"	"Get ÜberCharged 50 times."
+	}
+	"TF_HEAVY_STAND_NEAR_DISPENSER_Title"
+	{
+		"en"	"Factory Worker"
+	}
+	"TF_HEAVY_STAND_NEAR_DISPENSER_Desc"
+	{
+		"en"	"Kill 20 enemies while being recharged by a dispenser."
+	}
+	"TF_HEAVY_ASSIST_HEAVY_GRIND_Title"
+	{
+		"en"	"Soviet Union"
+	}
+	"TF_HEAVY_ASSIST_HEAVY_GRIND_Desc"
+	{
+		"en"	"Get 25 enemy kills where you either assist or are assisted by another Heavy."
+	}
+	"TF_HEAVY_CLEAR_STICKYBOMBS_Title"
+	{
+		"en"	"0wn the Means of Production"
+	}
+	"TF_HEAVY_CLEAR_STICKYBOMBS_Desc"
+	{
+		"en"	"Remove 20 stickybombs by killing the Demomen who produced them."
+	}
+	"TF_HEAVY_KILL_UNDERWATER_Title"
+	{
+		"en"	"Krazy Ivan"
+	}
+	"TF_HEAVY_KILL_UNDERWATER_Desc"
+	{
+		"en"	"Kill 100 enemies while both you and your victim are underwater."
+	}
+	"TF_HEAVY_TAKE_MULTI_DAMAGE_Title"
+	{
+		"en"	"Rasputin"
+	}
+	"TF_HEAVY_TAKE_MULTI_DAMAGE_Desc"
+	{
+		"en"	"In a single life, get shot, burned, bludgeoned, and receive explosive damage."
+	}
+	"TF_HEAVY_KILL_DOMINATED_Title"
+	{
+		"en"	"Icing on the Cake"
+	}
+	"TF_HEAVY_KILL_DOMINATED_Desc"
+	{
+		"en"	"Get 20 kills on players that you're dominating."
+	}
+	"TF_HEAVY_SURVIVE_CROCKET_Title"
+	{
+		"en"	"Crock Block"
+	}
+	"TF_HEAVY_SURVIVE_CROCKET_Desc"
+	{
+		"en"	"Survive a direct hit from a critical rocket."
+	}
+	"TF_HEAVY_ASSIST_GRIND_Title"
+	{
+		"en"	"Kollectivization"
+	}
+	"TF_HEAVY_ASSIST_GRIND_Desc"
+	{
+		"en"	"Get 1000 assists."
+	}
+	"TF_HEAVY_UNCOVER_SPIES_Title"
+	{
+		"en"	"Spyalectical Materialism"
+	}
+	"TF_HEAVY_UNCOVER_SPIES_Desc"
+	{
+		"en"	"Kill or assist in killing 10 cloaked Spies."
+	}
+	"TF_HEAVY_KILL_WHILE_SPUNUP_Title"
+	{
+		"en"	"Permanent Revolution"
+	}
+	"TF_HEAVY_KILL_WHILE_SPUNUP_Desc"
+	{
+		"en"	"Kill 5 enemies without spinning down your gun."
+	}
+	"TF_HEAVY_FIRE_LOTS_Title"
+	{
+		"en"	"Heavy Industry"
+	}
+	"TF_HEAVY_FIRE_LOTS_Desc"
+	{
+		"en"	"Fire $200,000 worth of minigun rounds in a single life."
+	}
+	"TF_HEAVY_KILL_CRIT_PUNCH_Title"
+	{
+		"en"	"Communist Mani-Fisto"
+	}
+	"TF_HEAVY_KILL_CRIT_PUNCH_Desc"
+	{
+		"en"	"Kill an enemy with a critical punch."
+	}
+	"TF_HEAVY_HEAL_MEDIKITS_Title"
+	{
+		"en"	"Redistribution of Health"
+	}
+	"TF_HEAVY_HEAL_MEDIKITS_Desc"
+	{
+		"en"	"Heal 1000 damage with med-kits in a single life."
+	}
+	"TF_HEAVY_KILL_SHOTGUN_Title"
+	{
+		"en"	"Rationing"
+	}
+	"TF_HEAVY_KILL_SHOTGUN_Desc"
+	{
+		"en"	"Kill an enemy with your shotgun while you're out of minigun ammo."
+	}
+	"TF_HEAVY_FIRST_TO_CAP_Title"
+	{
+		"en"	"Vanguard Party"
+	}
+	"TF_HEAVY_FIRST_TO_CAP_Desc"
+	{
+		"en"	"Be the first on your team to start capturing a control point in a round."
+	}
+	"TF_HEAVY_PAYLOAD_CAP_GRIND_Title"
+	{
+		"en"	"Pushkin the Kart"
+	}
+	"TF_HEAVY_PAYLOAD_CAP_GRIND_Desc"
+	{
+		"en"	"Get 50 caps on payload maps."
+	}
+	"TF_HEAVY_KILL_MIDAIR_MINIGUN_Title"
+	{
+		"en"	"Marxman"
+	}
+	"TF_HEAVY_KILL_MIDAIR_MINIGUN_Desc"
+	{
+		"en"	"Kill 10 enemies in mid-air with the minigun."
+	}
+	"TF_HEAVY_DEFEND_CONTROL_POINT_Title"
+	{
+		"en"	"Gorky Parked"
+	}
+	"TF_HEAVY_DEFEND_CONTROL_POINT_Desc"
+	{
+		"en"	"Kill 25 enemies while you're standing on a control point you own."
+	}
+	"TF_HEAVY_KILL_CAPPING_ENEMIES_Title"
+	{
+		"en"	"Purge"
+	}
+	"TF_HEAVY_KILL_CAPPING_ENEMIES_Desc"
+	{
+		"en"	"Kill 15 enemies capturing a control point you own."
+	}
+	"TF_HEAVY_REVENGE_ASSIST_Title"
+	{
+		"en"	"Lenin A Hand"
+	}
+	"TF_HEAVY_REVENGE_ASSIST_Desc"
+	{
+		"en"	"Help 5 teammates get revenge on their nemeses."
+	}
+	"TF_HEAVY_TELEPORT_FAST_KILL_Title"
+	{
+		"en"	"Five Second Plan"
+	}
+	"TF_HEAVY_TELEPORT_FAST_KILL_Desc"
+	{
+		"en"	"Kill an enemy in the first 5 seconds after you exit a teleporter."
+	}
+	"TF_HEAVY_FREEZECAM_TAUNT_Title"
+	{
+		"en"	"Photostroika"
+	}
+	"TF_HEAVY_FREEZECAM_TAUNT_Desc"
+	{
+		"en"	"Provide an enemy with a freezecam shot of you taunting while invulnerable."
+	}
+	"TF_HEAVY_EAT_SANDWICHES_Title"
+	{
+		"en"	"Konspicuous Konsumption"
+	}
+	"TF_HEAVY_EAT_SANDWICHES_Desc"
+	{
+		"en"	"Eat 100 sandviches."
+	}
+	"TF_HEAVY_KILL_SCOUTS_Title"
+	{
+		"en"	"Don't Touch Sandvich"
+	}
+	"TF_HEAVY_KILL_SCOUTS_Desc"
+	{
+		"en"	"Kill 50 Scouts using Natascha."
+	}
+	"TF_HEAVY_KILL_HEAVIES_GLOVES_Title"
+	{
+		"en"	"Borscht Belt"
+	}
+	"TF_HEAVY_KILL_HEAVIES_GLOVES_Desc"
+	{
+		"en"	"Kill 10 Heavies with The K.G.B."
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS1_Title"
+	{
+		"en"	"Heavy Milestone 1"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS1_Desc"
+	{
+		"en"	"Achieve 10 of the achievements in the Heavy pack."
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS2_Title"
+	{
+		"en"	"Heavy Milestone 2"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS2_Desc"
+	{
+		"en"	"Achieve 16 of the achievements in the Heavy pack."
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS3_Title"
+	{
+		"en"	"Heavy Milestone 3"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS3_Desc"
+	{
+		"en"	"Achieve 22 of the achievements in the Heavy pack."
+	}
+	"TF_SCOUT_FIRST_BLOOD_Title"
+	{
+		"en"	"First Blood"
+	}
+	"TF_SCOUT_FIRST_BLOOD_Desc"
+	{
+		"en"	"Get the first kill in an Arena match."
+	}
+	"TF_SCOUT_FIRST_BLOOD_KILL_Title"
+	{
+		"en"	"First Blood, Part 2"
+	}
+	"TF_SCOUT_FIRST_BLOOD_KILL_Desc"
+	{
+		"en"	"Kill 5 enemies with the First Blood crit buff."
+	}
+	"TF_SCOUT_WELL_EARLY_KILL_Title"
+	{
+		"en"	"Quick Hook"
+	}
+	"TF_SCOUT_WELL_EARLY_KILL_Desc"
+	{
+		"en"	"Kill a player in Well before the round starts."
+	}
+	"TF_SCOUT_LIFETIME_KILLS_Title"
+	{
+		"en"	"A Year to Remember"
+	}
+	"TF_SCOUT_LIFETIME_KILLS_Desc"
+	{
+		"en"	"Get 2004 lifetime kills."
+	}
+	"TF_SCOUT_IRON_MAN_KILLS_Title"
+	{
+		"en"	"The Cycle"
+	}
+	"TF_SCOUT_IRON_MAN_KILLS_Desc"
+	{
+		"en"	"In a single life, kill an enemy while you are on the ground, in the air, and in the water."
+	}
+	"TF_SCOUT_DESTROY_TELEPORTERS_Title"
+	{
+		"en"	"Closer"
+	}
+	"TF_SCOUT_DESTROY_TELEPORTERS_Desc"
+	{
+		"en"	"Destroy 3 teleporter entrances."
+	}
+	"TF_SCOUT_DESTROY_BUILDINGS_BEING_BUILT_Title"
+	{
+		"en"	"If You Build It"
+	}
+	"TF_SCOUT_DESTROY_BUILDINGS_BEING_BUILT_Desc"
+	{
+		"en"	"Destroy 3 enemy buildings while they are still under construction."
+	}
+	"TF_SCOUT_DESTROY_SENTRY_WITH_PISTOL_Title"
+	{
+		"en"	"Gun Down"
+	}
+	"TF_SCOUT_DESTROY_SENTRY_WITH_PISTOL_Desc"
+	{
+		"en"	"Destroy an active sentry gun using your pistol."
+	}
+	"TF_SCOUT_DOUBLE_JUMPS_Title"
+	{
+		"en"	"Batter Up"
+	}
+	"TF_SCOUT_DOUBLE_JUMPS_Desc"
+	{
+		"en"	"Perform 1000 double jumps."
+	}
+	"TF_SCOUT_ASSIST_MEDIC_Title"
+	{
+		"en"	"Doctoring the Ball"
+	}
+	"TF_SCOUT_ASSIST_MEDIC_Desc"
+	{
+		"en"	"Kill 3 enemies while under the effects of a Medic's ÜberCharge."
+	}
+	"TF_SCOUT_STEAL_SANDWICH_Title"
+	{
+		"en"	"Dodgers 1, Giants 0"
+	}
+	"TF_SCOUT_STEAL_SANDWICH_Desc"
+	{
+		"en"	"Kill an enemy Heavy and take his Sandvich."
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS1_Title"
+	{
+		"en"	"Scout Milestone 1"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS1_Desc"
+	{
+		"en"	"Achieve 10 of the achievements in the Scout pack."
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS2_Title"
+	{
+		"en"	"Scout Milestone 2"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS2_Desc"
+	{
+		"en"	"Achieve 16 of the achievements in the Scout pack."
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS3_Title"
+	{
+		"en"	"Scout Milestone 3"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS3_Desc"
+	{
+		"en"	"Achieve 22 of the achievements in the Scout pack."
+	}
+	"TF_SCOUT_KILL_CHARGED_MEDICS_Title"
+	{
+		"en"	"Batting the Doctor"
+	}
+	"TF_SCOUT_KILL_CHARGED_MEDICS_Desc"
+	{
+		"en"	"Kill a Medic that is ready to deploy an ÜberCharge."
+	}
+	"TF_SCOUT_SURVIVE_DAMAGE_Title"
+	{
+		"en"	"I'm Bat Man"
+	}
+	"TF_SCOUT_SURVIVE_DAMAGE_Desc"
+	{
+		"en"	"Survive 500 damage in one life."
+	}
+	"TF_SCOUT_DOUBLEJUMP_KILL_Title"
+	{
+		"en"	"Pop Fly"
+	}
+	"TF_SCOUT_DOUBLEJUMP_KILL_Desc"
+	{
+		"en"	"Kill 20 players while double-jumping."
+	}
+	"TF_SCOUT_FLAG_CAP_GRIND_Title"
+	{
+		"en"	"Round-Tripper"
+	}
+	"TF_SCOUT_FLAG_CAP_GRIND_Desc"
+	{
+		"en"	"Capture the enemy intelligence 25 times."
+	}
+	"TF_SCOUT_THREE_FLAGCAPS_Title"
+	{
+		"en"	"Triple Steal"
+	}
+	"TF_SCOUT_THREE_FLAGCAPS_Desc"
+	{
+		"en"	"Capture the enemy intelligence 3 times in a single CTF round."
+	}
+	"TF_SCOUT_DODGE_DAMAGE_Title"
+	{
+		"en"	"Artful Dodger"
+	}
+	"TF_SCOUT_DODGE_DAMAGE_Desc"
+	{
+		"en"	"Dodge 1000 damage in a single life using your Bonk! Atomic Punch."
+	}
+	"TF_SCOUT_KNOCK_INTO_TRAIN_Title"
+	{
+		"en"	"Fall Classic"
+	}
+	"TF_SCOUT_KNOCK_INTO_TRAIN_Desc"
+	{
+		"en"	"Cause an environmental death or suicide using the Force-A-Nature's knockback."
+	}
+	"TF_SCOUT_KILL_STUNNED_Title"
+	{
+		"en"	"Strike Zone"
+	}
+	"TF_SCOUT_KILL_STUNNED_Desc"
+	{
+		"en"	"Kill 50 enemies while they are stunned."
+	}
+	"TF_SCOUT_STUN_INTO_TRAIN_Title"
+	{
+		"en"	"Foul Territory"
+	}
+	"TF_SCOUT_STUN_INTO_TRAIN_Desc"
+	{
+		"en"	"Cause an environmental death by stunning an enemy."
+	}
+	"TF_SCOUT_STUN_UBER_ENEMIES_Title"
+	{
+		"en"	"The Big Hurt"
+	}
+	"TF_SCOUT_STUN_UBER_ENEMIES_Desc"
+	{
+		"en"	"Stun 2 Medics that are ready to deploy an ÜberCharge."
+	}
+	"TF_SCOUT_STUN_CAPPING_ENEMIES_Title"
+	{
+		"en"	"Brushback"
+	}
+	"TF_SCOUT_STUN_CAPPING_ENEMIES_Desc"
+	{
+		"en"	"Stun 50 enemies while they are capturing a point or pushing the cart."
+	}
+	"TF_SCOUT_MAX_STUNS_Title"
+	{
+		"en"	"Moon Shot"
+	}
+	"TF_SCOUT_MAX_STUNS_Desc"
+	{
+		"en"	"Stun an enemy for the maximum possible duration by hitting them with a long-range ball."
+	}
+	"TF_SCOUT_STUN_SCOUT_WITH_THEIR_BALL_Title"
+	{
+		"en"	"Beanball"
+	}
+	"TF_SCOUT_STUN_SCOUT_WITH_THEIR_BALL_Desc"
+	{
+		"en"	"Stun a Scout with their own ball."
+	}
+	"TF_SCOUT_KILL_IN_DODGE_COOLDOWN_Title"
+	{
+		"en"	"Retire the Runner"
+	}
+	"TF_SCOUT_KILL_IN_DODGE_COOLDOWN_Desc"
+	{
+		"en"	"Kill a Scout while they are snared by the post-dodge slowdown effect."
+	}
+	"TF_SCOUT_KILL_FROM_BEHIND_Title"
+	{
+		"en"	"Caught Napping"
+	}
+	"TF_SCOUT_KILL_FROM_BEHIND_Desc"
+	{
+		"en"	"Kill 50 enemies from behind with the Force-A-Nature."
+	}
+	"TF_SCOUT_CAPTURE_LAST_POINT_Title"
+	{
+		"en"	"Side Retired"
+	}
+	"TF_SCOUT_CAPTURE_LAST_POINT_Desc"
+	{
+		"en"	"Capture the last point in a CP map."
+	}
+	"TF_SCOUT_CAPTURE_THREE_POINTS_Title"
+	{
+		"en"	"Triple Play"
+	}
+	"TF_SCOUT_CAPTURE_THREE_POINTS_Desc"
+	{
+		"en"	"Capture three capture points in a row in one life."
+	}
+	"TF_SCOUT_FAST_CAP_Title"
+	{
+		"en"	"Stealing Home"
+	}
+	"TF_SCOUT_FAST_CAP_Desc"
+	{
+		"en"	"Start capping a capture point within a second of it becoming available."
+	}
+	"TF_SCOUT_START_AND_FINISH_CAP_Title"
+	{
+		"en"	"Set the Table"
+	}
+	"TF_SCOUT_START_AND_FINISH_CAP_Desc"
+	{
+		"en"	"Initiate 10 point captures that ultimately succeed."
+	}
+	"TF_SCOUT_BLOCK_CAPS_Title"
+	{
+		"en"	"Block the Plate"
+	}
+	"TF_SCOUT_BLOCK_CAPS_Desc"
+	{
+		"en"	"Block 50 point captures."
+	}
+	"TF_SCOUT_CARRIER_KILL_CARRIER_Title"
+	{
+		"en"	"Belittled Beleaguer"
+	}
+	"TF_SCOUT_CARRIER_KILL_CARRIER_Desc"
+	{
+		"en"	"Kill an opposing player that has your intelligence while holding theirs."
+	}
+	"TF_SCOUT_CAP_FLAG_WITHOUT_ATTACKING_Title"
+	{
+		"en"	"No-Hitter"
+	}
+	"TF_SCOUT_CAP_FLAG_WITHOUT_ATTACKING_Desc"
+	{
+		"en"	"Steal and then capture the enemy intelligence without firing a shot."
+	}
+	"TF_SCOUT_LONG_DISTANCE_RUNNER_Title"
+	{
+		"en"	"Race for the Pennant"
+	}
+	"TF_SCOUT_LONG_DISTANCE_RUNNER_Desc"
+	{
+		"en"	"Run 25 kilometers."
+	}
+	"TF_SCOUT_TAUNT_KILL_Title"
+	{
+		"en"	"Out of the Park"
+	}
+	"TF_SCOUT_TAUNT_KILL_Desc"
+	{
+		"en"	"Bat an enemy 25 meters."
+	}
+	"TF_SNIPER_JARATE_DOMINATED_Title"
+	{
+		"en"	"Rode Hard, Put Away Wet"
+	}
+	"TF_SNIPER_JARATE_DOMINATED_Desc"
+	{
+		"en"	"Jarate an enemy that you're dominating."
+	}
+	"TF_SNIPER_FREEZECAM_HAT_Title"
+	{
+		"en"	"Be Polite"
+	}
+	"TF_SNIPER_FREEZECAM_HAT_Desc"
+	{
+		"en"	"Provide an enemy with a freezecam shot of you doffing your hat."
+	}
+	"TF_SNIPER_RIFLE_NO_MISSING_Title"
+	{
+		"en"	"Be Efficient"
+	}
+	"TF_SNIPER_RIFLE_NO_MISSING_Desc"
+	{
+		"en"	"Get 3 kills with the Sniper Rifle without missing a shot."
+	}
+	"TF_SNIPER_CAPTURE_FLAG_Title"
+	{
+		"en"	"Have a Plan"
+	}
+	"TF_SNIPER_CAPTURE_FLAG_Desc"
+	{
+		"en"	"Capture the flag in CTF."
+	}
+	"TF_SNIPER_KILL_GRIND_Title"
+	{
+		"en"	"Kill Everyone You Meet"
+	}
+	"TF_SNIPER_KILL_GRIND_Desc"
+	{
+		"en"	"Kill 1000 enemies."
+	}
+	"TF_SNIPER_KILL_WEAPONS_Title"
+	{
+		"en"	"Triple Prey"
+	}
+	"TF_SNIPER_KILL_WEAPONS_Desc"
+	{
+		"en"	"In a single round, get a kill with 3 different weapons."
+	}
+	"TF_SNIPER_HEADSHOT_SNIPERS_Title"
+	{
+		"en"	"Self-destruct Sequence"
+	}
+	"TF_SNIPER_HEADSHOT_SNIPERS_Desc"
+	{
+		"en"	"Headshot 10 enemy Snipers."
+	}
+	"TF_SNIPER_DESTROY_SENTRYGUNS_Title"
+	{
+		"en"	"De-sentry-lized"
+	}
+	"TF_SNIPER_DESTROY_SENTRYGUNS_Desc"
+	{
+		"en"	"Destroy 3 Engineer sentry guns."
+	}
+	"TF_SNIPER_KILL_INVIS_SPY_Title"
+	{
+		"en"	"Shoot the Breeze"
+	}
+	"TF_SNIPER_KILL_INVIS_SPY_Desc"
+	{
+		"en"	"Kill a fully invisible Spy in a single hit."
+	}
+	"TF_SNIPER_KILL_MIDAIR_SCOUT_Title"
+	{
+		"en"	"Dropped Dead"
+	}
+	"TF_SNIPER_KILL_MIDAIR_SCOUT_Desc"
+	{
+		"en"	"Kill a Scout in midair with your Sniper Rifle or the Huntsman."
+	}
+	"TF_SNIPER_FREEZECAM_WAVE_Title"
+	{
+		"en"	"The Last Wave"
+	}
+	"TF_SNIPER_FREEZECAM_WAVE_Desc"
+	{
+		"en"	"Provide an enemy with a freezecam shot of you waving to them."
+	}
+	"TF_SNIPER_DOMINATE_SNIPER_Title"
+	{
+		"en"	"Australian Rules"
+	}
+	"TF_SNIPER_DOMINATE_SNIPER_Desc"
+	{
+		"en"	"Dominate an enemy Sniper."
+	}
+	"TF_SNIPER_KILL_SPIES_MELEE_Title"
+	{
+		"en"	"Kook the Spook"
+	}
+	"TF_SNIPER_KILL_SPIES_MELEE_Desc"
+	{
+		"en"	"Kill 10 Spies with your Kukri."
+	}
+	"TF_SNIPER_HEADSHOT_DEMOMAN_Title"
+	{
+		"en"	"Socket to Him"
+	}
+	"TF_SNIPER_HEADSHOT_DEMOMAN_Desc"
+	{
+		"en"	"Headshot an enemy Demoman."
+	}
+	"TF_SNIPER_KILL_RJER_Title"
+	{
+		"en"	"Jumper Stumper"
+	}
+	"TF_SNIPER_KILL_RJER_Desc"
+	{
+		"en"	"Kill a rocket or grenade-jumping enemy in midair with your Sniper Rifle or the Huntsman."
+	}
+	"TF_SNIPER_KILL_OBJECTIVES_Title"
+	{
+		"en"	"Not a Crazed Gunman, Dad"
+	}
+	"TF_SNIPER_KILL_OBJECTIVES_Desc"
+	{
+		"en"	"In a single life, kill 3 enemies while they are achieving an objective."
+	}
+	"TF_SNIPER_KILL_UNSCOPED_Title"
+	{
+		"en"	"Trust Your Feelings"
+	}
+	"TF_SNIPER_KILL_UNSCOPED_Desc"
+	{
+		"en"	"Get 5 kills with the Sniper Rifle without your scope."
+	}
+	"TF_SNIPER_KILL_CHARGED_MEDIC_Title"
+	{
+		"en"	"Überectomy"
+	}
+	"TF_SNIPER_KILL_CHARGED_MEDIC_Desc"
+	{
+		"en"	"Kill a Medic that is ready to deploy an ÜberCharge."
+	}
+	"TF_SNIPER_GET_BACKSTABBED_Title"
+	{
+		"en"	"Consolation Prize"
+	}
+	"TF_SNIPER_GET_BACKSTABBED_Desc"
+	{
+		"en"	"Get backstabbed 50 times."
+	}
+	"TF_SNIPER_KILL_AT_ROUNDSTART_Title"
+	{
+		"en"	"Enemy at the Gate"
+	}
+	"TF_SNIPER_KILL_AT_ROUNDSTART_Desc"
+	{
+		"en"	"Kill an opponent within the first second of a round."
+	}
+	"TF_SNIPER_HEADSHOT_POST_INVULN_Title"
+	{
+		"en"	"Parting Shot"
+	}
+	"TF_SNIPER_HEADSHOT_POST_INVULN_Desc"
+	{
+		"en"	"Headshot an enemy player the moment his invulnerability wears off."
+	}
+	"TF_SNIPER_TOP_SCOREBOARD_GRIND_Title"
+	{
+		"en"	"My Brilliant Career"
+	}
+	"TF_SNIPER_TOP_SCOREBOARD_GRIND_Desc"
+	{
+		"en"	"Top the scoreboard 10 times on teams of 6 or more players."
+	}
+	"TF_SNIPER_KILL_FAILED_SPY_Title"
+	{
+		"en"	"Shock Treatment"
+	}
+	"TF_SNIPER_KILL_FAILED_SPY_Desc"
+	{
+		"en"	"Kill a spy whose backstab attempt was blocked by your Razorback."
+	}
+	"TF_SNIPER_JARATE_GROUP_Title"
+	{
+		"en"	"Saturation Bombing"
+	}
+	"TF_SNIPER_JARATE_GROUP_Desc"
+	{
+		"en"	"Jarate 4 enemy players with a single throw."
+	}
+	"TF_SNIPER_JARATE_MEDIC_PAIR_Title"
+	{
+		"en"	"Rain on Their Parade"
+	}
+	"TF_SNIPER_JARATE_MEDIC_PAIR_Desc"
+	{
+		"en"	"Jarate an enemy and the Medic healing him."
+	}
+	"TF_SNIPER_JARATE_REVEAL_SPY_Title"
+	{
+		"en"	"Jarring Transition"
+	}
+	"TF_SNIPER_JARATE_REVEAL_SPY_Desc"
+	{
+		"en"	"Use Jarate to reveal a cloaked Spy."
+	}
+	"TF_SNIPER_JARATE_EXTINGUISH_Title"
+	{
+		"en"	"Friendship is Golden"
+	}
+	"TF_SNIPER_JARATE_EXTINGUISH_Desc"
+	{
+		"en"	"Extinguish a burning teammate with your Jarate."
+	}
+	"TF_SNIPER_BOW_PIN_HEAVY_Title"
+	{
+		"en"	"William Tell Overkill"
+	}
+	"TF_SNIPER_BOW_PIN_HEAVY_Desc"
+	{
+		"en"	"Pin an enemy Heavy to the wall via his head."
+	}
+	"TF_SNIPER_BOW_KILL_MEDIC_PAIR_Title"
+	{
+		"en"	"Beaux and Arrows"
+	}
+	"TF_SNIPER_BOW_KILL_MEDIC_PAIR_Desc"
+	{
+		"en"	"Kill a Heavy & Medic pair with the bow."
+	}
+	"TF_SNIPER_BOW_KILL_FLAGCARRIER_Title"
+	{
+		"en"	"Robbin’ Hood"
+	}
+	"TF_SNIPER_BOW_KILL_FLAGCARRIER_Desc"
+	{
+		"en"	"Take down an intelligence carrier with a single arrow."
+	}
+	"TF_SNIPER_BOW_PINCUSHION_Title"
+	{
+		"en"	"Pincushion"
+	}
+	"TF_SNIPER_BOW_PINCUSHION_Desc"
+	{
+		"en"	"Hit an enemy with 3 arrows, without killing them."
+	}
+	"TF_SNIPER_JARATE_ASSISTS_Title"
+	{
+		"en"	"Number One Assistant"
+	}
+	"TF_SNIPER_JARATE_ASSISTS_Desc"
+	{
+		"en"	"Score 5 assists with the Jarate in a single round."
+	}
+	"TF_SNIPER_JARATE_KILL_MELEE_Title"
+	{
+		"en"	"Jarate Chop"
+	}
+	"TF_SNIPER_JARATE_KILL_MELEE_Desc"
+	{
+		"en"	"Jarate and then kill 3 enemies with your Kukri."
+	}
+	"TF_SNIPER_TAUNT_KILL_Title"
+	{
+		"en"	"Shafted"
+	}
+	"TF_SNIPER_TAUNT_KILL_Desc"
+	{
+		"en"	"Stab an enemy with an arrow."
+	}
+	"TF_SNIPER_BOW_KILL_WHILEDEAD_Title"
+	{
+		"en"	"Dead Reckoning"
+	}
+	"TF_SNIPER_BOW_KILL_WHILEDEAD_Desc"
+	{
+		"en"	"Kill an enemy with an arrow while you're dead."
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS1_Title"
+	{
+		"en"	"Sniper Milestone 1"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS1_Desc"
+	{
+		"en"	"Achieve 5 of the achievements in the Sniper pack."
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS2_Title"
+	{
+		"en"	"Sniper Milestone 2"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS2_Desc"
+	{
+		"en"	"Achieve 11 of the achievements in the Sniper pack."
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS3_Title"
+	{
+		"en"	"Sniper Milestone 3"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS3_Desc"
+	{
+		"en"	"Achieve 17 of the achievements in the Sniper pack."
+	}
+	"TF_SPY_BACKSTAB_SNIPERS_Title"
 	{
 		"en"	"Triplecrossed"
 	}
-
-	"Triplecrossed_Desc"
+	"TF_SPY_BACKSTAB_SNIPERS_Desc"
 	{
-		"en"	"Backstab 3 Snipers in a single life"
+		"en"	"Backstab 3 Snipers in a single life."
 	}
-
-	"ForYourEyesOnly_Title"
+	"TF_SPY_FREEZECAM_FLICK_Title"
 	{
 		"en"	"For Your Eyes Only"
 	}
-
-	"ForYourEyesOnly_Desc"
+	"TF_SPY_FREEZECAM_FLICK_Desc"
 	{
-		"en"	"Provide an enemy with a freezecam shot of you flicking a cigarette onto their corpse"
+		"en"	"Provide an enemy with a freezecam shot of you flicking a cigarette onto their corpse."
 	}
-
-	"CounterEspionage_Title"
+	"TF_SPY_BACKSTAB_DISGUISED_SPY_Title"
 	{
 		"en"	"Counter Espionage"
 	}
-
-	"CounterEspionage_Desc"
+	"TF_SPY_BACKSTAB_DISGUISED_SPY_Desc"
 	{
-		"en"	"Backstab a disguised Spy"
+		"en"	"Backstab a disguised Spy."
 	}
-
-	"IdentityTheft_Title"
+	"TF_SPY_BACKSTAB_DISGUISE_TARGET_Title"
 	{
 		"en"	"Identity Theft"
 	}
-
-	"IdentityTheft_Desc"
+	"TF_SPY_BACKSTAB_DISGUISE_TARGET_Desc"
 	{
-		"en"	"Backstab the enemy that you're currently disguised as"
+		"en"	"Backstab the enemy that you're currently disguised as."
 	}
-
-	"TheManFromPUNCTURE_Title"
-	{
-		"en"	"The Man From P.U.N.C.T.U.R.E."
-	}
-
-	"TheManFromPUNCTURE_Desc"
-	{
-		"en"	"Stab an enemy while fencing"
-	}
-
-	"FYIIamaSpy_Title"
+	"TF_SPY_BACKSTAB_MEDIC_HEALING_YOU_Title"
 	{
 		"en"	"FYI I am a Spy"
 	}
-
-	"FYIIamaSpy_Desc"
+	"TF_SPY_BACKSTAB_MEDIC_HEALING_YOU_Desc"
 	{
-		"en"	"Backstab a Medic who has healed you in the last 5 seconds"
+		"en"	"Backstab a Medic who has healed you in the last 5 seconds."
 	}
-
-	"TheManwiththeBrokenGuns_Title"
+	"TF_SPY_BACKSTAB_ENGY_SAP_BUILDING_Title"
 	{
 		"en"	"The Man with the Broken Guns"
 	}
-
-	"TheManwiththeBrokenGuns_Desc"
+	"TF_SPY_BACKSTAB_ENGY_SAP_BUILDING_Desc"
 	{
-		"en"	"Backstab an Engineer, then sap 3 of his buildings within 10 seconds"
+		"en"	"Backstab an Engineer, then sap 3 of his buildings within 10 seconds."
 	}
-
-	"Sapsucker_Title"
+	"TF_SPY_SAP_BUILDING_BACKSTAB_ENGY_Title"
 	{
 		"en"	"Sapsucker"
 	}
-
-	"Sapsucker_Desc"
+	"TF_SPY_SAP_BUILDING_BACKSTAB_ENGY_Desc"
 	{
-		"en"	"Sap an enemy building, then backstab the Engineer who built it within 5 seconds"
+		"en"	"Sap an enemy building, then backstab the Engineer who built it within 5 seconds."
 	}
-
-	"MayICutIn?_Title"
+	"TF_SPY_BACKSTAB_MEDIC_PAIR_Title"
 	{
 		"en"	"May I Cut In?"
 	}
-
-	"MayICutIn?_Desc"
+	"TF_SPY_BACKSTAB_MEDIC_PAIR_Desc"
 	{
-		"en"	"Backstab an enemy and the Medic healing him within 10 seconds of each other"
+		"en"	"Backstab an enemy and the Medic healing him within 10 seconds of each other."
 	}
-
-	"AgentProvocateur_Title"
+	"TF_SPY_BACKSTAB_FRIENDS_Title"
 	{
 		"en"	"Agent Provocateur"
 	}
-
-	"AgentProvocateur_Desc"
+	"TF_SPY_BACKSTAB_FRIENDS_Desc"
 	{
-		"en"	"Backstab your Steam Community friends 10 times"
+		"en"	"Backstab your Steam Community friends 10 times."
 	}
-
-	"TheMelbourneSupremacy_Title"
+	"TF_SPY_DOMINATE_SNIPER_Title"
 	{
 		"en"	"The Melbourne Supremacy"
 	}
-
-	"TheMelbourneSupremacy_Desc"
+	"TF_SPY_DOMINATE_SNIPER_Desc"
 	{
-		"en"	"Dominate a Sniper"
+		"en"	"Dominate a Sniper."
 	}
-
-	"SpiesLikeUs_Title"
+	"TF_SPY_BUMP_CLOAKED_SPY_Title"
 	{
 		"en"	"Spies Like Us"
 	}
-
-	"SpiesLikeUs_Desc"
+	"TF_SPY_BUMP_CLOAKED_SPY_Desc"
 	{
-		"en"	"While cloaked, bump into an enemy cloaked Spy"
+		"en"	"While cloaked, bump into an enemy cloaked Spy."
 	}
-
-	"ACutAbove_Title"
+	"TF_SPY_KILL_SPY_WITH_KNIFE_Title"
 	{
 		"en"	"A Cut Above"
 	}
-
-	"ACutAbove_Desc"
+	"TF_SPY_KILL_SPY_WITH_KNIFE_Desc"
 	{
-		"en"	"Kill an enemy Spy wielding a Revolver, using your knife"
+		"en"	"Kill a gun-wielding Spy with your knife."
 	}
-
-	"BurnNotice_Title"
+	"TF_SPY_SURVIVE_BURNING_Title"
 	{
 		"en"	"Burn Notice"
 	}
-
-	"BurnNotice_Desc"
+	"TF_SPY_SURVIVE_BURNING_Desc"
 	{
-		"en"	"Survive 30 seconds after being ignited while cloaked"
+		"en"	"Survive 30 seconds after being ignited while cloaked."
 	}
-
-	"DieAnotherWay_Title"
+	"TF_SPY_BREAK_SHIELD_KILL_SNIPER_Title"
 	{
 		"en"	"Die Another Way"
 	}
-
-	"DieAnotherWay_Desc"
+	"TF_SPY_BREAK_SHIELD_KILL_SNIPER_Desc"
 	{
-		"en"	"Kill a Sniper after your backstab breaks his Razorback"
+		"en"	"Kill a Sniper after your backstab breaks his Razorback."
 	}
-
-	"ConstructusInterruptus_Title"
+	"TF_SPY_KILL_WORKING_ENGY_Title"
 	{
 		"en"	"Constructus Interruptus"
 	}
-
-	"ConstructusInterruptus_Desc"
+	"TF_SPY_KILL_WORKING_ENGY_Desc"
 	{
-		"en"	"Kill an Engineer who is working on a sentry gun"
+		"en"	"Kill an Engineer who is working on a sentry gun."
 	}
-
-	"OnHerMajesty'sSecretSurface_Title"
-	{
-		"en"	"On Her Majesty's Secret Surface"
-	}
-
-	"OnHerMajesty'sSecretSurface_Desc"
-	{
-		"en"	"Start capping a capture point within a second of it becoming available"
-	}
-
-	"InsuranceFraud_Title"
+	"TF_SPY_MEDIC_HEALING_KILL_ENEMY_Title"
 	{
 		"en"	"Insurance Fraud"
 	}
-
-	"InsuranceFraud_Desc"
+	"TF_SPY_MEDIC_HEALING_KILL_ENEMY_Desc"
 	{
-		"en"	"Kill an enemy while you're being healed by an enemy Medic"
+		"en"	"Kill an enemy while you're being healed by an enemy Medic."
 	}
-
-	"PointBreaker_Title"
+	"TF_SPY_KILL_CP_DEFENDERS_Title"
 	{
 		"en"	"Point Breaker"
 	}
-
-	"PointBreaker_Desc"
+	"TF_SPY_KILL_CP_DEFENDERS_Desc"
 	{
-		"en"	"Kill 15 enemies who are standing on a control point they own"
+		"en"	"Kill 15 enemies who are standing on a control point they own."
 	}
-
-	"HighValueTarget_Title"
+	"TF_SPY_BACKSTAB_DOMINATING_ENEMY_Title"
 	{
 		"en"	"High Value Target"
 	}
-
-	"HighValueTarget_Desc"
+	"TF_SPY_BACKSTAB_DOMINATING_ENEMY_Desc"
 	{
-		"en"	"Backstab an enemy who is dominating 3 or more of your teammates"
+		"en"	"Backstab an enemy who is dominating 3 or more of your teammates."
 	}
-
-	"ComeInFromTheCold_Title"
+	"TF_SPY_REVENGE_WITH_BACKSTAB_Title"
 	{
-		"en"	"Come In From The Cold"
+		"en"	"Come in From the Cold"
 	}
-
-	"ComeInFromTheCold_Desc"
+	"TF_SPY_REVENGE_WITH_BACKSTAB_Desc"
 	{
-		"en"	"Get a Revenge kill with a backstab"
+		"en"	"Get a Revenge kill with a backstab."
 	}
-
-	"Wetwork_Title"
+	"TF_SPY_KNIFE_KILL_WHILE_JARATED_Title"
 	{
 		"en"	"Wetwork"
 	}
-
-	"Wetwork_Desc"
+	"TF_SPY_KNIFE_KILL_WHILE_JARATED_Desc"
 	{
-		"en"	"Stab an enemy to death while under the influence of Jarate"
+		"en"	"Stab an enemy to death while under the influence of Jarate."
 	}
-
-	"YouOnlyShivThrice_Title"
+	"TF_SPY_BACKSTAB_QUICK_KILLS_Title"
 	{
 		"en"	"You Only Shiv Thrice"
 	}
-
-	"YouOnlyShivThrice_Desc"
+	"TF_SPY_BACKSTAB_QUICK_KILLS_Desc"
 	{
-		"en"	"Backstab 3 enemies within 10 seconds"
+		"en"	"Backstab 3 enemies within 10 seconds."
 	}
-
-	"Spymaster_Title"
+	"TF_SPY_BACKSTAB_GRIND_Title"
 	{
 		"en"	"Spymaster"
 	}
-
-	"Spymaster_Desc"
+	"TF_SPY_BACKSTAB_GRIND_Desc"
 	{
-		"en"	"Backstab 1000 enemies"
+		"en"	"Backstab 1000 enemies."
 	}
-
-	"SapAuteur_Title"
+	"TF_SPY_SAPPER_GRIND_Title"
 	{
 		"en"	"Sap Auteur"
 	}
-
-	"SapAuteur_Desc"
+	"TF_SPY_SAPPER_GRIND_Desc"
 	{
-		"en"	"Destroy 1000 Engineer buildings with sappers"
+		"en"	"Destroy 1000 Engineer buildings with sappers."
 	}
-
-	"JointOperation_Title"
+	"TF_SPY_SAPPER_TEAMWORK_Title"
 	{
 		"en"	"Joint Operation"
 	}
-
-	"JointOperation_Desc"
+	"TF_SPY_SAPPER_TEAMWORK_Desc"
 	{
-		"en"	"Sap an enemy sentry gun within 3 seconds of a teammate sapping another"
+		"en"	"Sap an enemy sentry gun within 3 seconds of a teammate sapping another."
 	}
-
-	"DrNooooo_Title"
+	"TF_SPY_BACKSTAB_MEDIC_CHARGED_Title"
 	{
 		"en"	"Dr. Nooooo"
 	}
-
-	"DrNooooo_Desc"
+	"TF_SPY_BACKSTAB_MEDIC_CHARGED_Desc"
 	{
-		"en"	"Backstab a Medic that is ready to deploy an ÜberCharge"
+		"en"	"Backstab a Medic that is ready to deploy an ÜberCharge."
 	}
-
-	"IsItSafe?_Title"
+	"TF_SPY_BACKSTAB_CAPPING_ENEMIES_Title"
 	{
 		"en"	"Is It Safe?"
 	}
-
-	"IsItSafe?_Desc"
+	"TF_SPY_BACKSTAB_CAPPING_ENEMIES_Desc"
 	{
-		"en"	"Backstab 50 enemies who are capturing control points"
+		"en"	"Backstab 50 enemies who are capturing control points."
 	}
-
-	"SlashandBurn_Title"
+	"TF_SPY_BACKSTAB_ENEMY_SWITCH_PYRO_Title"
 	{
 		"en"	"Slash and Burn"
 	}
-
-	"SlashandBurn_Desc"
+	"TF_SPY_BACKSTAB_ENEMY_SWITCH_PYRO_Desc"
 	{
-		"en"	"Backstab an enemy, who then switches to Pyro before they respawn"
+		"en"	"Backstab an enemy, who then switches to Pyro before they respawn."
 	}
-
-	"Diplomacy_Title"
+	"TF_SPY_AMBASSADOR_GRIND_Title"
 	{
 		"en"	"Diplomacy"
 	}
-
-	"Diplomacy_Desc"
+	"TF_SPY_AMBASSADOR_GRIND_Desc"
 	{
-		"en"	"Kill 50 enemies with the Ambassador"
+		"en"	"Kill 50 enemies with the Ambassador."
 	}
-
-	"Skullpluggery_Title"
+	"TF_SPY_AMBASSADOR_SNIPER_GRIND_Title"
 	{
 		"en"	"Skullpluggery"
 	}
-
-	"Skullpluggery_Desc"
+	"TF_SPY_AMBASSADOR_SNIPER_GRIND_Desc"
 	{
-		"en"	"Headshot 20 Snipers with the Ambassador"
+		"en"	"Headshot 20 Snipers with the Ambassador."
 	}
-
-	"SleeperAgent_Title"
+	"TF_SPY_FEIGN_DEATH_KILL_Title"
 	{
 		"en"	"Sleeper Agent"
 	}
-
-	"SleeperAgent_Desc"
+	"TF_SPY_FEIGN_DEATH_KILL_Desc"
 	{
-		"en"	"Kill an enemy who triggered your feign death in the last 20 seconds"
+		"en"	"Kill an enemy who triggered your feign death in the last 20 seconds."
 	}
-
-	"Who'sYourDaddy?_Title"
+	"TF_SPY_AMBASSADOR_SCOUT_GRIND_Title"
 	{
 		"en"	"Who's Your Daddy?"
 	}
-
-	"Who'sYourDaddy?_Desc"
+	"TF_SPY_AMBASSADOR_SCOUT_GRIND_Desc"
 	{
-		"en"	"Headshot 3 Scouts with the Ambassador"
+		"en"	"Headshot 3 Scouts with the Ambassador."
 	}
-
-	"DeepUndercover_Title"
+	"TF_SPY_CAMP_POSITION_Title"
 	{
 		"en"	"Deep Undercover"
 	}
-
-	"DeepUndercover_Desc"
+	"TF_SPY_CAMP_POSITION_Desc"
 	{
-		"en"	"While using the Cloak and Dagger, kill the same enemy 3 times, all within the same area in a single life"
+		"en"	"While using the Cloak and Dagger, kill the same enemy 3 times, all within the same area in a single life."
 	}
-
-	"SpyMilestone1_Title"
+	"TF_SPY_ACHIEVE_PROGRESS1_Title"
 	{
 		"en"	"Spy Milestone 1"
 	}
-
-	"SpyMilestone1_Desc"
+	"TF_SPY_ACHIEVE_PROGRESS1_Desc"
 	{
-		"en"	"Obtain 5 of the Spy achievements"
+		"en"	"Achieve 5 of the achievements in the Spy pack."
 	}
-
-	"SpyMilestone2_Title"
+	"TF_SPY_ACHIEVE_PROGRESS2_Title"
 	{
 		"en"	"Spy Milestone 2"
 	}
-
-	"SpyMilestone2_Desc"
+	"TF_SPY_ACHIEVE_PROGRESS2_Desc"
 	{
-		"en"	"Obtain 11 of the Spy achievements"
+		"en"	"Achieve 11 of the achievements in the Spy pack."
 	}
-
-	"SpyMilestone3_Title"
+	"TF_SPY_ACHIEVE_PROGRESS3_Title"
 	{
 		"en"	"Spy Milestone 3"
 	}
-
-	"SpyMilestone3_Desc"
+	"TF_SPY_ACHIEVE_PROGRESS3_Desc"
 	{
-		"en"	"Obtain 17 of the Spy achievements"
+		"en"	"Achieve 17 of the achievements in the Spy pack."
 	}
-
-	"CandyCoroner_Title"
+	"TF_HALLOWEEN_COLLECT_PUMPKINS_Title"
 	{
 		"en"	"Candy Coroner"
 	}
-
-	"CandyCoroner_Desc"
+	"TF_HALLOWEEN_COLLECT_PUMPKINS_Desc"
 	{
-		"en"	"Collect 20 Halloween pumpkins from dead players to unlock a hat"
+		"en"	"Collect 20 Halloween pumpkins from dead players to unlock a hat."
 	}
-
-	"GhastlyGibusGrab_Title"
+	"TF_HALLOWEEN_DOMINATE_FOR_HAT_Title"
 	{
 		"en"	"Ghastly Gibus Grab"
 	}
-
-	"GhastlyGibusGrab_Desc"
+	"TF_HALLOWEEN_DOMINATE_FOR_HAT_Desc"
 	{
-		"en"	"Dominate a player wearing the Ghastly gibus to earn your own"
+		"en"	"Dominate a player wearing the Ghastly Gibus to earn your own."
 	}
-
-	"ScaredStiff_Title"
+	"TF_HALLOWEEN_KILL_SCARED_PLAYER_Title"
 	{
 		"en"	"Scared Stiff"
 	}
-
-	"ScaredStiff_Desc"
+	"TF_HALLOWEEN_KILL_SCARED_PLAYER_Desc"
 	{
-		"en"	"Kill a player scared by the ghost haunting KOTH Harvest"
+		"en"	"Kill a player scared by the ghost haunting KOTH Harvest."
 	}
-
-	"Attacko'Lantern_Title"
+	"TF_HALLOWEEN_PUMPKIN_KILL_Title"
 	{
 		"en"	"Attack o' Lantern"
 	}
-
-	"Attacko'Lantern_Desc"
+	"TF_HALLOWEEN_PUMPKIN_KILL_Desc"
 	{
-		"en"	"Cause the deaths of 5 players by exploding nearby pumpkin bombs"
+		"en"	"Cause the deaths of 5 players by exploding nearby pumpkin bombs."
 	}
-
-	"CostumeContest_Title"
+	"TF_HALLOWEEN_DISGUISED_SPY_KILL_Title"
 	{
 		"en"	"Costume Contest"
 	}
-
-	"CostumeContest_Desc"
+	"TF_HALLOWEEN_DISGUISED_SPY_KILL_Desc"
 	{
-		"en"	"Kill a Spy disguised as your current class"
+		"en"	"Kill a Spy disguised as your current class."
 	}
-
+	"TF_SOLDIER_ACHIEVE_PROGRESS1_Title"
+	{
+		"en"	"Soldier Milestone 1"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS1_Desc"
+	{
+		"en"	"Achieve 5 of the achievements in the Soldier pack."
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS2_Title"
+	{
+		"en"	"Soldier Milestone 2"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS2_Desc"
+	{
+		"en"	"Achieve 11 of the achievements in the Soldier pack."
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS3_Title"
+	{
+		"en"	"Soldier Milestone 3"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS3_Desc"
+	{
+		"en"	"Achieve 17 of the achievements in the Soldier pack."
+	}
+	"TF_SOLDIER_KILL_GROUP_WITH_CROCKET_Title"
+	{
+		"en"	"Tri-Splatteral Damage"
+	}
+	"TF_SOLDIER_KILL_GROUP_WITH_CROCKET_Desc"
+	{
+		"en"	"Kill 3 enemies with a single critical rocket."
+	}
+	"TF_SOLDIER_KILL_TWO_DURING_ROCKET_JUMP_Title"
+	{
+		"en"	"Death from Above"
+	}
+	"TF_SOLDIER_KILL_TWO_DURING_ROCKET_JUMP_Desc"
+	{
+		"en"	"Rocket jump and kill 2 enemies before you land."
+	}
+	"TF_SOLDIER_THREE_DOMINATIONS_Title"
+	{
+		"en"	"Dominator"
+	}
+	"TF_SOLDIER_THREE_DOMINATIONS_Desc"
+	{
+		"en"	"Get 3 dominations in a single life."
+	}
+	"TF_SOLDIER_DEFEND_MEDIC_Title"
+	{
+		"en"	"War Crime and Punishment"
+	}
+	"TF_SOLDIER_DEFEND_MEDIC_Desc"
+	{
+		"en"	"In a single life, kill 3 enemies who have damaged a Medic that is healing you."
+	}
+	"TF_SOLDIER_KILL_TAUNT_Title"
+	{
+		"en"	"Spray of Defeat"
+	}
+	"TF_SOLDIER_KILL_TAUNT_Desc"
+	{
+		"en"	"Use a grenade to gib a player."
+	}
+	"TF_SOLDIER_DESTROY_SENTRY_OUT_OF_RANGE_Title"
+	{
+		"en"	"Guns of the Navar0wned"
+	}
+	"TF_SOLDIER_DESTROY_SENTRY_OUT_OF_RANGE_Desc"
+	{
+		"en"	"Kill 5 Engineer sentries while you are standing outside of their range."
+	}
+	"TF_SOLDIER_KILL_SNIPER_WHILE_DEAD_Title"
+	{
+		"en"	"Mutually Assured Destruction"
+	}
+	"TF_SOLDIER_KILL_SNIPER_WHILE_DEAD_Desc"
+	{
+		"en"	"Kill an enemy sniper with a rocket after he kills you."
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_TARGET_WHILE_AIRBORNE_Title"
+	{
+		"en"	"Wings of Glory"
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_TARGET_WHILE_AIRBORNE_Desc"
+	{
+		"en"	"Kill an enemy soldier while both you and the target are airborne."
+	}
+	"TF_SOLDIER_KILL_ENGY_Title"
+	{
+		"en"	"Engineer to Eternity"
+	}
+	"TF_SOLDIER_KILL_ENGY_Desc"
+	{
+		"en"	"Kill an Engineer as he repairs his sentry gun while it's under enemy fire."
+	}
+	"TF_SOLDIER_NEMESIS_SHOVEL_KILL_Title"
+	{
+		"en"	"Trench Warfare"
+	}
+	"TF_SOLDIER_NEMESIS_SHOVEL_KILL_Desc"
+	{
+		"en"	"Kill your nemesis with a shovel."
+	}
+	"TF_SOLDIER_DESTROY_STICKIES_Title"
+	{
+		"en"	"Bomb Squaddie"
+	}
+	"TF_SOLDIER_DESTROY_STICKIES_Desc"
+	{
+		"en"	"Destroy 10 sticky bombs with the shotgun in a single life."
+	}
+	"TF_SOLDIER_CROUCH_ROCKET_JUMP_Title"
+	{
+		"en"	"Where Eagles Dare"
+	}
+	"TF_SOLDIER_CROUCH_ROCKET_JUMP_Desc"
+	{
+		"en"	"Get the highest possible rocket jump using jump and crouch."
+	}
+	"TF_SOLDIER_BUFF_FRIENDS_Title"
+	{
+		"en"	"Banner of Brothers"
+	}
+	"TF_SOLDIER_BUFF_FRIENDS_Desc"
+	{
+		"en"	"Buff 5 steam friends at once with the Buff Banner."
+	}
+	"TF_SOLDIER_KILL_TWENTY_FROM_ABOVE_Title"
+	{
+		"en"	"Screamin' Eagle"
+	}
+	"TF_SOLDIER_KILL_TWENTY_FROM_ABOVE_Desc"
+	{
+		"en"	"Kill 20 enemies from above."
+	}
+	"TF_SOLDIER_SHOOT_MULT_CRITS_Title"
+	{
+		"en"	"Crockets Are Such B.S."
+	}
+	"TF_SOLDIER_SHOOT_MULT_CRITS_Desc"
+	{
+		"en"	"Shoot two non-boosted crit rockets in a row."
+	}
+	"TF_SOLDIER_KILL_DEFENSELESS_Title"
+	{
+		"en"	"Geneva Contravention"
+	}
+	"TF_SOLDIER_KILL_DEFENSELESS_Desc"
+	{
+		"en"	"Kill 5 defenseless players after a single match has ended."
+	}
+	"TF_SOLDIER_KILL_ON_FIRE_Title"
+	{
+		"en"	"Semper Fry"
+	}
+	"TF_SOLDIER_KILL_ON_FIRE_Desc"
+	{
+		"en"	"Kill 20 enemies while you are on fire."
+	}
+	"TF_SOLDIER_KILL_FIVE_STUNNED_Title"
+	{
+		"en"	"The Longest Daze"
+	}
+	"TF_SOLDIER_KILL_FIVE_STUNNED_Desc"
+	{
+		"en"	"Kill 5 stunned players."
+	}
+	"TF_SOLDIER_FREEZECAM_GIBS_Title"
+	{
+		"en"	"Gore-a! Gore-a! Gore-a!"
+	}
+	"TF_SOLDIER_FREEZECAM_GIBS_Desc"
+	{
+		"en"	"Provide the enemy with a freezecam of you taunting over 3 of their body parts."
+	}
+	"TF_SOLDIER_KILL_SPY_KILLER_Title"
+	{
+		"en"	"War Crime Spybunal"
+	}
+	"TF_SOLDIER_KILL_SPY_KILLER_Desc"
+	{
+		"en"	"Kill a Spy who just backstabbed a teammate."
+	}
+	"TF_SOLDIER_DEFEND_CAP_THIRTY_TIMES_Title"
+	{
+		"en"	"Hamburger Hill"
+	}
+	"TF_SOLDIER_DEFEND_CAP_THIRTY_TIMES_Desc"
+	{
+		"en"	"Defend a cap point 30 times."
+	}
+	"TF_SOLDIER_GIB_GRIND_Title"
+	{
+		"en"	"Frags of our Fathers"
+	}
+	"TF_SOLDIER_GIB_GRIND_Desc"
+	{
+		"en"	"Gib 1000 people."
+	}
+	"TF_SOLDIER_RJ_EQUALIZER_KILL_Title"
+	{
+		"en"	"Duty Bound"
+	}
+	"TF_SOLDIER_RJ_EQUALIZER_KILL_Desc"
+	{
+		"en"	"While rocket jumping kill an enemy with the Equalizer before you land."
+	}
+	"TF_SOLDIER_BUFF_TEAMMATES_Title"
+	{
+		"en"	"The Boostie Boys"
+	}
+	"TF_SOLDIER_BUFF_TEAMMATES_Desc"
+	{
+		"en"	"Buff 15 teammates with the Buff Banner in a single life."
+	}
+	"TF_SOLDIER_KILL_DEMOMAN_GRIND_Title"
+	{
+		"en"	"Out, Damned Scot!"
+	}
+	"TF_SOLDIER_KILL_DEMOMAN_GRIND_Desc"
+	{
+		"en"	"Kill 500 enemy Demomen"
+	}
+	"TF_SOLDIER_KILL_PYRO_Title"
+	{
+		"en"	"Backdraft Dodger"
+	}
+	"TF_SOLDIER_KILL_PYRO_Desc"
+	{
+		"en"	"Kill a Pyro who has airblasted one of your rockets in the last 10 seconds."
+	}
+	"TF_SOLDIER_EQUALIZER_STREAK_Title"
+	{
+		"en"	"Ain't Got Time to Bleed"
+	}
+	"TF_SOLDIER_EQUALIZER_STREAK_Desc"
+	{
+		"en"	"Kill 3 players with the Equalizer in a single life without being healed."
+	}
+	"TF_SOLDIER_KILL_WITH_EQUALIZER_WHILE_HURT_Title"
+	{
+		"en"	"Near Death Experience"
+	}
+	"TF_SOLDIER_KILL_WITH_EQUALIZER_WHILE_HURT_Desc"
+	{
+		"en"	"Kill 20 enemies with your Equalizer while you have less than 25 health."
+	}
+	"TF_SOLDIER_BOUNCE_THEN_SHOTGUN_Title"
+	{
+		"en"	"For Whom the Shell Trolls"
+	}
+	"TF_SOLDIER_BOUNCE_THEN_SHOTGUN_Desc"
+	{
+		"en"	"Bounce an opponent into the air with a rocket and then kill them with the shotgun before they land."
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_WITH_DIRECT_HIT_Title"
+	{
+		"en"	"Death From Below"
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_WITH_DIRECT_HIT_Desc"
+	{
+		"en"	"Kill 10 opponents who are airborne with the Direct Hit."
+	}
+	"TF_SOLDIER_FREEZECAM_TAUNT_Title"
+	{
+		"en"	"Worth a Thousand Words"
+	}
+	"TF_SOLDIER_FREEZECAM_TAUNT_Desc"
+	{
+		"en"	"Provide the enemy with a freezecam of your 21 gun salute."
+	}
+	"TF_SOLDIER_DUO_SOLDIER_KILLS_Title"
+	{
+		"en"	"Brothers in Harms"
+	}
+	"TF_SOLDIER_DUO_SOLDIER_KILLS_Desc"
+	{
+		"en"	"Kill 10 enemies while assisting or being assisted by another Soldier."
+	}
+	"TF_SOLDIER_MVP_Title"
+	{
+		"en"	"Medals of Honor"
+	}
+	"TF_SOLDIER_MVP_Desc"
+	{
+		"en"	"Finish a round as an MVP 10 times."
+	}
+	"TF_SOLDIER_RIDE_THE_CART_Title"
+	{
+		"en"	"Ride of the Valkartie"
+	}
+	"TF_SOLDIER_RIDE_THE_CART_Desc"
+	{
+		"en"	"Ride the cart for 30 seconds."
+	}
+	"TF_SOLDIER_ASSIST_MEDIC_UBER_Title"
+	{
+		"en"	"S*M*A*S*H"
+	}
+	"TF_SOLDIER_ASSIST_MEDIC_UBER_Desc"
+	{
+		"en"	"Assist a Medic in exploding 5 enemies with a single ÜberCharge."
+	}
+	"TF_DEMOMAN_KILL_SOLDIER_GRIND_Title"
+	{
+		"en"	"Kilt in Action"
+	}
+	"TF_DEMOMAN_KILL_SOLDIER_GRIND_Desc"
+	{
+		"en"	"Kill 500 enemy Soldiers"
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_WITH_MEDIC_Title"
+	{
+		"en"	"Tam O'Shatter"
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_WITH_MEDIC_Desc"
+	{
+		"en"	"Destroy 5 enemy Engineer buildings during a single ÜberCharge from a Medic."
+	}
+	"TF_DEMOMAN_DECAPITATE_CLOAKED_SPY_Title"
+	{
+		"en"	"Shorn Connery"
+	}
+	"TF_DEMOMAN_DECAPITATE_CLOAKED_SPY_Desc"
+	{
+		"en"	"Decapitate a cloaked Spy."
+	}
+	"TF_DEMOMAN_KILL_X_WITH_DIRECTPIPE_Title"
+	{
+		"en"	"Laddy Macdeth"
+	}
+	"TF_DEMOMAN_KILL_X_WITH_DIRECTPIPE_Desc"
+	{
+		"en"	"Kill 50 enemies with direct hits from the Grenade Launcher."
+	}
+	"TF_DEMOMAN_BOUNCE_AND_KILL_Title"
+	{
+		"en"	"Caber Toss"
+	}
+	"TF_DEMOMAN_BOUNCE_AND_KILL_Desc"
+	{
+		"en"	"Bounce an enemy into the air and kill them before they land."
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_Title"
+	{
+		"en"	"Brainspotting"
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_Desc"
+	{
+		"en"	"Decapitate 50 enemy players."
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_FAST_Title"
+	{
+		"en"	"Left 4 Heads"
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_FAST_Desc"
+	{
+		"en"	"Decapitate 4 players with only 10 seconds between each kill."
+	}
+	"TF_DEMOMAN_DUO_DEMOMAN_KILLS_Title"
+	{
+		"en"	"Well Plaid!"
+	}
+	"TF_DEMOMAN_DUO_DEMOMAN_KILLS_Desc"
+	{
+		"en"	"Kill 10 enemies while assisting or being assisted by another Demoman."
+	}
+	"TF_DEMOMAN_KILL_TWO_DURING_STICKYJUMP_Title"
+	{
+		"en"	"Double Mauled Scotch"
+	}
+	"TF_DEMOMAN_KILL_TWO_DURING_STICKYJUMP_Desc"
+	{
+		"en"	"Kill 2 people in a single sticky jump."
+	}
+	"TF_DEMOMAN_KILL_PLAYER_AFTER_TP_Title"
+	{
+		"en"	"Loch Ness Bombster"
+	}
+	"TF_DEMOMAN_KILL_PLAYER_AFTER_TP_Desc"
+	{
+		"en"	"Kill an enemy player with sticky bombs within 5 seconds of them teleporting."
+	}
+	"TF_DEMOMAN_DOMINATE_THREE_ENGINEERS_Title"
+	{
+		"en"	"Three Times a Laddy"
+	}
+	"TF_DEMOMAN_DOMINATE_THREE_ENGINEERS_Desc"
+	{
+		"en"	"Dominate 3 Engineers."
+	}
+	"TF_DEMOMAN_KILL_BUILDING_DIRECT_HIT_Title"
+	{
+		"en"	"Blind Fire"
+	}
+	"TF_DEMOMAN_KILL_BUILDING_DIRECT_HIT_Desc"
+	{
+		"en"	"Kill an Engineer building that you can't see with a direct hit from your Grenade Launcher."
+	}
+	"TF_DEMOMAN_MELEE_KILL_WHILE_STICKYJUMPING_Title"
+	{
+		"en"	"The Scottish Play"
+	}
+	"TF_DEMOMAN_MELEE_KILL_WHILE_STICKYJUMPING_Desc"
+	{
+		"en"	"Get a melee kill while sticky jumping."
+	}
+	"TF_DEMOMAN_KILL_ENGI_SENTRY_DISPENSER_Title"
+	{
+		"en"	"The Argyle Sap"
+	}
+	"TF_DEMOMAN_KILL_ENGI_SENTRY_DISPENSER_Desc"
+	{
+		"en"	"Blow up an Engineer, his sentry gun, and his dispenser with a single Sticky bomb detonation."
+	}
+	"TF_DEMOMAN_DECAPITATE_EQUALIZER_Title"
+	{
+		"en"	"Slammy Slayvis Woundya"
+	}
+	"TF_DEMOMAN_DECAPITATE_EQUALIZER_Desc"
+	{
+		"en"	"Decapitate an enemy Soldier who is brandishing the Equalizer."
+	}
+	"TF_DEMOMAN_DECAPITATE_NEMESIS_Title"
+	{
+		"en"	"There Can Be Only One"
+	}
+	"TF_DEMOMAN_DECAPITATE_NEMESIS_Desc"
+	{
+		"en"	"Decapitate your nemesis."
+	}
+	"TF_DEMOMAN_DAMAGE_GRIND_Title"
+	{
+		"en"	"Tartan Spartan"
+	}
+	"TF_DEMOMAN_DAMAGE_GRIND_Desc"
+	{
+		"en"	"Do 1 million points of total blast damage."
+	}
+	"TF_DEMOMAN_KILL_X_CAPPING_ONEDET_Title"
+	{
+		"en"	"Scotch Guard"
+	}
+	"TF_DEMOMAN_KILL_X_CAPPING_ONEDET_Desc"
+	{
+		"en"	"Kill 3 enemies capping or pushing a cart in a single Stickybomb detonation 3 separate times."
+	}
+	"TF_DEMOMAN_KILL_X_DEFENDING_Title"
+	{
+		"en"	"Bravehurt"
+	}
+	"TF_DEMOMAN_KILL_X_DEFENDING_Desc"
+	{
+		"en"	"Kill 25 players defending a capture point or cart."
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_GRIND_Title"
+	{
+		"en"	"Cry Some Moor!"
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_GRIND_Desc"
+	{
+		"en"	"Destroy 50 buildings."
+	}
+	"TF_DEMOMAN_KILL_X_HEAVIES_FULLHP_ONEDET_Title"
+	{
+		"en"	"The Stickening"
+	}
+	"TF_DEMOMAN_KILL_X_HEAVIES_FULLHP_ONEDET_Desc"
+	{
+		"en"	"Kill 5 Heavies from full health with a single sticky bomb detonation."
+	}
+	"TF_DEMOMAN_KILL_X_SCOUTS_PYROS_Title"
+	{
+		"en"	"Glasg0wned"
+	}
+	"TF_DEMOMAN_KILL_X_SCOUTS_PYROS_Desc"
+	{
+		"en"	"Kill 25 Scouts and Pyros with the Grenade Launcher."
+	}
+	"TF_DEMOMAN_TAUNT_KILL_Title"
+	{
+		"en"	"Scotch Tap"
+	}
+	"TF_DEMOMAN_TAUNT_KILL_Desc"
+	{
+		"en"	"Glory in the slaughter of your enemies using the Eyelander."
+	}
+	"TF_DEMOMAN_CHARGE_KILL_Title"
+	{
+		"en"	"The Targe Charge"
+	}
+	"TF_DEMOMAN_CHARGE_KILL_Desc"
+	{
+		"en"	"Charge and kill someone with your shield bash."
+	}
+	"TF_DEMOMAN_CRIT_SWORD_KILL_Title"
+	{
+		"en"	"Beat Me Up, Scotty"
+	}
+	"TF_DEMOMAN_CRIT_SWORD_KILL_Desc"
+	{
+		"en"	"Use a critical swing with the Eyelander to kill 5 enemy players."
+	}
+	"TF_DEMOMAN_AIR_BURST_KILLS_Title"
+	{
+		"en"	"Something Stickied This Way Comes"
+	}
+	"TF_DEMOMAN_AIR_BURST_KILLS_Desc"
+	{
+		"en"	"Kill 30 players with air burst sticky bombs."
+	}
+	"TF_DEMOMAN_STICKYJUMP_CAP_Title"
+	{
+		"en"	"The High Road"
+	}
+	"TF_DEMOMAN_STICKYJUMP_CAP_Desc"
+	{
+		"en"	"Sticky jump onto a cap point and capture it."
+	}
+	"TF_DEMOMAN_FREEZECAM_SMILE_Title"
+	{
+		"en"	"Bloody Merry"
+	}
+	"TF_DEMOMAN_FREEZECAM_SMILE_Desc"
+	{
+		"en"	"Provide an enemy player with a freeze cam of your smiling face."
+	}
+	"TF_DEMOMAN_FREEZECAM_RUMP_Title"
+	{
+		"en"	"Second Eye"
+	}
+	"TF_DEMOMAN_FREEZECAM_RUMP_Desc"
+	{
+		"en"	"Provide an enemy player with a freeze cam of you shaking your rump."
+	}
+	"TF_DEMOMAN_ENVIRONMENTAL_KILL_Title"
+	{
+		"en"	"He Who Celt It"
+	}
+	"TF_DEMOMAN_ENVIRONMENTAL_KILL_Desc"
+	{
+		"en"	"Use the Sticky Launcher to kill an enemy player via environmental damage."
+	}
+	"TF_DEMOMAN_DESTROY_X_STICKYBOMBS_Title"
+	{
+		"en"	"Robbed Royal"
+	}
+	"TF_DEMOMAN_DESTROY_X_STICKYBOMBS_Desc"
+	{
+		"en"	"Destroy 100 enemy sticky bombs with the Scottish Resistance."
+	}
+	"TF_DEMOMAN_STICKJUMP_DISTANCE_Title"
+	{
+		"en"	"Highland Fling"
+	}
+	"TF_DEMOMAN_STICKJUMP_DISTANCE_Desc"
+	{
+		"en"	"Sticky jump a really long way..."
+	}
+	"TF_DEMOMAN_KILL3_WITH_DETONATION_Title"
+	{
+		"en"	"Pipebagger"
+	}
+	"TF_DEMOMAN_KILL3_WITH_DETONATION_Desc"
+	{
+		"en"	"Kill at least three players with a single detonation of sticky bombs."
+	}
+	"TF_DEMOMAN_KILLXSAPPINGSPIES_Title"
+	{
+		"en"	"Spynal Tap"
+	}
+	"TF_DEMOMAN_KILLXSAPPINGSPIES_Desc"
+	{
+		"en"	"Kill 20 spies within 5 seconds of them sapping a friendly building."
+	}
+	"TF_DEMOMAN_KILL3_WITH_PIPE_SETUPS_Title"
+	{
+		"en"	"Sticky Thump"
+	}
+	"TF_DEMOMAN_KILL3_WITH_PIPE_SETUPS_Desc"
+	{
+		"en"	"Using the Scottish Resistance, kill 3 players in separate explosions without placing new sticky bombs."
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS1_Title"
+	{
+		"en"	"Demoman Milestone 1"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS1_Desc"
+	{
+		"en"	"Achieve 5 of the achievements in the Demoman pack."
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS2_Title"
+	{
+		"en"	"Demoman Milestone 2"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS2_Desc"
+	{
+		"en"	"Achieve 11 of the achievements in the Demoman pack."
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS3_Title"
+	{
+		"en"	"Demoman Milestone 3"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS3_Desc"
+	{
+		"en"	"Achieve 17 of the achievements in the Demoman pack."
+	}
+	"TF_SPY_TAUNT_KILL_Title"
+	{
+		"en"	"The Man from P.U.N.C.T.U.R.E."
+	}
+	"TF_SPY_TAUNT_KILL_Desc"
+	{
+		"en"	"Stab an enemy while fencing."
+	}
+	"TF_SPY_FAST_CAP_Title"
+	{
+		"en"	"On Her Majesty’s Secret Surface"
+	}
+	"TF_SPY_FAST_CAP_Desc"
+	{
+		"en"	"Start capping a capture point within a second of it becoming available."
+	}
 }
