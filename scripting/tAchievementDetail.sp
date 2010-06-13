@@ -3,7 +3,7 @@
 #include <sdktools>
 #include <colors>
 
-#define PLUGIN_VERSION "1.0"
+#define PLUGIN_VERSION "0.0.1"
 #define MAX_ACHIEVEMENTS 512
 #define MSGSIZE 255
 
@@ -22,12 +22,11 @@ enum achievement {
 }
 
 new g_oList[MAX_ACHIEVEMENTS][achievement];
-
 new g_iCount = 0;
 
 public Plugin:myinfo =
 {
-	name = "tAchievementExplain",
+	name = "tAchievementDetail",
 	author = "Thrawn",
 	description = "Explains achievements in any game supporting achievements",
 	version = PLUGIN_VERSION,
@@ -36,10 +35,10 @@ public Plugin:myinfo =
 
 public OnPluginStart()
 {
-	CreateConVar("sm_tachievementexplain_version", PLUGIN_VERSION, "Plugin version.", FCVAR_PLUGIN|FCVAR_REPLICATED|FCVAR_NOTIFY);
+	CreateConVar("sm_tachievementdetail_version", PLUGIN_VERSION, "Plugin version.", FCVAR_PLUGIN|FCVAR_REPLICATED|FCVAR_NOTIFY);
 
-	g_hCvarEnabled = CreateConVar("sm_tachievementexplain_enabled", "1", "Enable tAchievementExplain", FCVAR_PLUGIN, true, 0.0, true, 1.0);
-	g_hCvarDisplay = CreateConVar("sm_tachievementexplain_display", "0", "How to display messages. 1 - Chat, 2 - Hint, 0 - No Messages", FCVAR_PLUGIN, true, 0.0, true, 2.0);
+	g_hCvarEnabled = CreateConVar("sm_tachievementdetail_enabled", "1", "Enable tAchievementDetail", FCVAR_PLUGIN, true, 0.0, true, 1.0);
+	g_hCvarDisplay = CreateConVar("sm_tachievementdetail_display", "0", "How to display messages. 1 - Chat, 2 - Hint, 0 - No Messages", FCVAR_PLUGIN, true, 0.0, true, 2.0);
 
 	HookConVarChange(g_hCvarEnabled, Cvar_Changed);
 	HookConVarChange(g_hCvarDisplay, Cvar_Changed);
@@ -48,7 +47,7 @@ public OnPluginStart()
 
 	RegConsoleCmd("sm_setlast", Command_SetLastAchievement);
 
-	RegConsoleCmd("sm_explain", Command_ExplainLastAchievement);
+	RegConsoleCmd("sm_explain", Command_DetailLastAchievement);
 	RegConsoleCmd("say", Cmd_BlockTriggers);
 	RegConsoleCmd("say_team", Cmd_BlockTriggers);
 
@@ -61,7 +60,7 @@ public LoadGameTranslations() {
 	GetGameFolderName(game, sizeof(game));
 
 	decl String:shortName[255];
-	Format(shortName, 255, "tAchievementExplain.phrases.%s.txt", game);
+	Format(shortName, 255, "tAchievementDetail.phrases.%s.txt", game);
 
 	decl String:translationPath[PLATFORM_MAX_PATH];
 	BuildPath(Path_SM, translationPath, PLATFORM_MAX_PATH, "translations/%s", shortName);
@@ -89,7 +88,7 @@ public Action:Cmd_BlockTriggers(iClient, iArgs)
 
 	// Retrieve the first argument and check it's a valid trigger
 	decl String:strArgument[64]; GetCmdArg(1, strArgument, sizeof(strArgument));
-	if (StrEqual(strArgument, "!explain", true)) return Plugin_Handled;
+	if (StrEqual(strArgument, "!detail", true)) return Plugin_Handled;
 
 	// If no valid argument found, pass
 	return Plugin_Continue;
@@ -116,7 +115,7 @@ public ParseConfig() {
 	GetGameFolderName(game, sizeof(game));
 
 	decl String:configPath[256];
-	BuildPath(Path_SM, configPath, sizeof(configPath), "configs/tAchievementExplain.%s.txt", game);
+	BuildPath(Path_SM, configPath, sizeof(configPath), "configs/tAchievementDetail.%s.txt", game);
 
 	if (!FileExists(configPath))
 	{
@@ -154,7 +153,7 @@ public SMCResult:EndSection(Handle:smc)
 
 public Action:Command_SetLastAchievement(client, args) {
 	if(!g_bEnabled) {
-		ReplyToCommand(client, "tAchievementExplain is disabled.");
+		ReplyToCommand(client, "tAchievementDetail is disabled.");
 		return Plugin_Handled;
 	}
 
@@ -184,9 +183,9 @@ public Action:Command_SetLastAchievement(client, args) {
 }
 
 
-public Action:Command_ExplainLastAchievement(client, args) {
+public Action:Command_DetailLastAchievement(client, args) {
 	if(!g_bEnabled) {
-		ReplyToCommand(client, "tAchievementExplain is disabled.");
+		ReplyToCommand(client, "tAchievementDetail is disabled.");
 		return Plugin_Handled;
 	}
 
@@ -210,6 +209,11 @@ public Action:Event_Achievement(Handle:event, const String:name[], bool:dontBroa
 		return Plugin_Continue;
 	}
 
+	new iPlayer = GetClientOfUserId(GetEventInt(event, "player"));
+	if(iPlayer < 0 || iPlayer > MaxClients || !IsClientInGame(iPlayer)) {
+		return Plugin_Continue;
+	}
+
 	new iAchievement = GetEventInt(event, "achievement");
 
 	g_iLastAchievement = -1;
@@ -228,7 +232,6 @@ public Action:Event_Achievement(Handle:event, const String:name[], bool:dontBroa
 	decl String:searchDesc[MSGSIZE];
 	Format(searchTitle,MSGSIZE,"%s_Title", g_oList[g_iLastAchievement][shortname]);
 	Format(searchDesc,MSGSIZE,"%s_Desc", g_oList[g_iLastAchievement][shortname]);
-
 
 	if(g_iDisplayMode == 1) {
 		CPrintToChatAll("{olive}%T: {default}%T", searchTitle, searchDesc);
