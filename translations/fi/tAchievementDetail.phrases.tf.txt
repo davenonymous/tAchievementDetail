@@ -1,0 +1,2611 @@
+"Phrases"
+{
+	"TF_GET_TURRETKILLS_Title"
+	{
+		"fi"	"Vartiotykki"
+	}
+	"TF_GET_TURRETKILLS_Desc"
+	{
+		"fi"	"Tee 10 tappoa yhdell‰ vartiotykill‰."
+	}
+	"TF_KILL_NEMESIS_Title"
+	{
+		"fi"	"Perivihollinen"
+	}
+	"TF_KILL_NEMESIS_Desc"
+	{
+		"fi"	"Tapa kostoksi viisi kertaa."
+	}
+	"TF_GET_CONSECUTIVEKILLS_NODEATHS_Title"
+	{
+		"fi"	"Vaikeasti tapettava"
+	}
+	"TF_GET_CONSECUTIVEKILLS_NODEATHS_Desc"
+	{
+		"fi"	"Tapa viidesti per‰j‰lkeen kuolematta v‰lill‰."
+	}
+	"TF_GET_HEALED_BYENEMY_Title"
+	{
+		"fi"	"Valepukujen mestari"
+	}
+	"TF_GET_HEALED_BYENEMY_Desc"
+	{
+		"fi"	"Huiputa vastustajan Medic parantamaan sinut."
+	}
+	"TF_GET_HEADSHOTS_Title"
+	{
+		"fi"	"Harmaata ainesta"
+	}
+	"TF_GET_HEADSHOTS_Desc"
+	{
+		"fi"	"Ammu 25 kertaa p‰‰h‰n Sniperina."
+	}
+	"TF_PLAY_GAME_FRIENDSONLY_Title"
+	{
+		"fi"	"Kavereiden kanssa"
+	}
+	"TF_PLAY_GAME_FRIENDSONLY_Desc"
+	{
+		"fi"	"Pelaa v‰hint‰‰n 7:n kaveriluetteloosi kuuluvan kaverin kanssa."
+	}
+	"TF_WIN_MULTIPLEGAMES_Title"
+	{
+		"fi"	"Dynastia"
+	}
+	"TF_WIN_MULTIPLEGAMES_Desc"
+	{
+		"fi"	"Voita 20 peli‰."
+	}
+	"TF_GET_MULTIPLEKILLS_Title"
+	{
+		"fi"	"Tappokone"
+	}
+	"TF_GET_MULTIPLEKILLS_Desc"
+	{
+		"fi"	"Saavuta 1000 tapon kokonaism‰‰r‰."
+	}
+	"TF_WIN_2FORT_NOENEMYCAPS_Title"
+	{
+		"fi"	"T‰ydellinen hyˆkk‰ys"
+	}
+	"TF_WIN_2FORT_NOENEMYCAPS_Desc"
+	{
+		"fi"	"Voita 2Fort ilman tappioita."
+	}
+	"TF_WIN_WELL_MINIMUMTIME_Title"
+	{
+		"fi"	"Salamasotaa"
+	}
+	"TF_WIN_WELL_MINIMUMTIME_Desc"
+	{
+		"fi"	"Voita Well 5 minuutin sis‰ll‰."
+	}
+	"TF_WIN_HYDRO_NOENEMYCAPS_Title"
+	{
+		"fi"	"Ankara taistelu"
+	}
+	"TF_WIN_HYDRO_NOENEMYCAPS_Desc"
+	{
+		"fi"	"Voita Hydro ilman yhdenk‰‰n komentopisteen menett‰mist‰."
+	}
+	"TF_WIN_DUSTBOWL_NOENEMYCAPS_Title"
+	{
+		"fi"	"Murtumaton puolustus"
+	}
+	"TF_WIN_DUSTBOWL_NOENEMYCAPS_Desc"
+	{
+		"fi"	"Puolusta Dustbowlia onnistuneesti ilman yhdenk‰‰n komentopisteen menett‰mist‰."
+	}
+	"TF_WIN_GRAVELPIT_NOENEMYCAPS_Title"
+	{
+		"fi"	"Mahdoton puolustus"
+	}
+	"TF_WIN_GRAVELPIT_NOENEMYCAPS_Desc"
+	{
+		"fi"	"Puolusta Gravel Piti‰ onnistuneesti ilman yhdenk‰‰n komentopisteen menett‰mist‰."
+	}
+	"TF_PLAY_GAME_EVERYCLASS_Title"
+	{
+		"fi"	"Luokkansa huippu"
+	}
+	"TF_PLAY_GAME_EVERYCLASS_Desc"
+	{
+		"fi"	"Pelaa t‰ysi er‰ jokaisen luokan hahmoilla."
+	}
+	"TF_PLAY_GAME_EVERYMAP_Title"
+	{
+		"fi"	"Maailmanmatkaaja"
+	}
+	"TF_PLAY_GAME_EVERYMAP_Desc"
+	{
+		"fi"	"Pelaa kokonainen peli kartoilla 2Fort, Dustbowl, Granary, Gravel Pit, Hydro ja Well (CP)."
+	}
+	"TF_GET_HEALPOINTS_Title"
+	{
+		"fi"	"Tiimin tohtori"
+	}
+	"TF_GET_HEALPOINTS_Desc"
+	{
+		"fi"	"Ker‰‰ 25†000 parannuspistett‰ Medicin‰."
+	}
+	"TF_BURN_PLAYERSINMINIMUMTIME_Title"
+	{
+		"fi"	"Liekinheitin"
+	}
+	"TF_BURN_PLAYERSINMINIMUMTIME_Desc"
+	{
+		"fi"	"Sytyt‰ viisi vihollista tuleen 30 sekunnissa."
+	}
+	"TF_MEDIC_TOP_SCOREBOARD_Title"
+	{
+		"fi"	"J‰‰hyv‰iset aseille"
+	}
+	"TF_MEDIC_TOP_SCOREBOARD_Desc"
+	{
+		"fi"	"Pelaa t‰ysi er‰ tappamatta yht‰‰n vihollista ja ker‰‰ korkeimmat pisteet joukkueessa, jossa on 6 pelaajaa tai enemm‰n."
+	}
+	"TF_MEDIC_HEAL_UNDER_FIRE_Title"
+	{
+		"fi"	"Nelinkertainen ohitusleikkaus"
+	}
+	"TF_MEDIC_HEAL_UNDER_FIRE_Desc"
+	{
+		"fi"	"Paranna tiimikaveri, johon 4 vastustajaa osui kerralla."
+	}
+	"TF_MEDIC_SIMUL_CHARGE_Title"
+	{
+		"fi"	"Ryhm‰terapiaa"
+	}
+	"TF_MEDIC_SIMUL_CHARGE_Desc"
+	{
+		"fi"	"K‰yt‰ 2 muun Medicin kanssa 3 samanaikaista ylilatausta."
+	}
+	"TF_MEDIC_SETUP_CHARGE_Title"
+	{
+		"fi"	"V‰lineet valmiiksi"
+	}
+	"TF_MEDIC_SETUP_CHARGE_Desc"
+	{
+		"fi"	"Lataa ylilataus valmiiksi ennen asetusvaiheen p‰‰ttymist‰."
+	}
+	"TF_MEDIC_RAPID_CHARGE_Title"
+	{
+		"fi"	"Monta rautaa tulessa"
+	}
+	"TF_MEDIC_RAPID_CHARGE_Desc"
+	{
+		"fi"	"K‰yt‰ 3 ylilatausta alle 5 minuutissa ja avusta siin‰ ajassa 5 tapossa."
+	}
+	"TF_MEDIC_COUNTER_CHARGE_Title"
+	{
+		"fi"	"Tohtorien taisto"
+	}
+	"TF_MEDIC_COUNTER_CHARGE_Desc"
+	{
+		"fi"	"K‰yt‰ ylilatausta 8 sekunnissa siit‰, kun l‰hettyvill‰ oleva Medic k‰ytt‰‰ omaansa."
+	}
+	"TF_MEDIC_SWITCH_TO_MEDIC_Title"
+	{
+		"fi"	"L‰‰k‰rileikkej‰"
+	}
+	"TF_MEDIC_SWITCH_TO_MEDIC_Desc"
+	{
+		"fi"	"Ole ensimm‰inen Mediciksi vaihtaja tiimiss‰ ilman Medici‰ sen j‰lkeen, kun tiimikaveri kutsuu Medici‰. Paranna sitten 500 terveyspistett‰."
+	}
+	"TF_MEDIC_SAVE_TEAMMATE_Title"
+	{
+		"fi"	"Kun h‰t‰ on suurin"
+	}
+	"TF_MEDIC_SAVE_TEAMMATE_Desc"
+	{
+		"fi"	"K‰yt‰ ylilatausta tiimikaveriisi alle sekunti ennen kriittisen r‰j‰hdyksen osumista h‰neen."
+	}
+	"TF_MEDIC_CHARGE_BLOCKER_Title"
+	{
+		"fi"	"Ennaltaehk‰isy"
+	}
+	"TF_MEDIC_CHARGE_BLOCKER_Desc"
+	{
+		"fi"	"Est‰ vihollista valloittamasta komentopistett‰ yliladatun tiimikaverin avulla."
+	}
+	"TF_MEDIC_ASSIST_MEDIC_Title"
+	{
+		"fi"	"Virka-apua"
+	}
+	"TF_MEDIC_ASSIST_MEDIC_Desc"
+	{
+		"fi"	"Avusta toista Medici‰ tappamaan 4 vihollista yhdess‰ el‰m‰ss‰."
+	}
+	"TF_MEDIC_SYRINGE_SCOUTS_Title"
+	{
+		"fi"	"T‰m‰ voi nipist‰‰ hieman"
+	}
+	"TF_MEDIC_SYRINGE_SCOUTS_Desc"
+	{
+		"fi"	"Tapa 50 Scoutia ruiskuaseella."
+	}
+	"TF_MEDIC_BONESAW_MEDICS_Title"
+	{
+		"fi"	"Kollegat kylm‰ksi"
+	}
+	"TF_MEDIC_BONESAW_MEDICS_Desc"
+	{
+		"fi"	"Tapa 50 Medici‰ luusahalla."
+	}
+	"TF_MEDIC_ASSIST_HEAVY_LONG_Title"
+	{
+		"fi"	"Vahva l‰‰kitys"
+	}
+	"TF_MEDIC_ASSIST_HEAVY_LONG_Desc"
+	{
+		"fi"	"Avusta Heavya 20 vihollisen tapossa ilman, ett‰ kumpikaan teist‰ kuolee."
+	}
+	"TF_MEDIC_ASSIST_SCOUT_Title"
+	{
+		"fi"	"Pillereit‰ pojanklopille"
+	}
+	"TF_MEDIC_ASSIST_SCOUT_Desc"
+	{
+		"fi"	"Avusta 3 vihollisen tapossa yhdell‰ Scoutin ylilatauksella."
+	}
+	"TF_MEDIC_ASSIST_PYRO_Title"
+	{
+		"fi"	"Palovammoja"
+	}
+	"TF_MEDIC_ASSIST_PYRO_Desc"
+	{
+		"fi"	"Avusta 5 vihollisen polttamisessa yhdell‰ Pyron ylilatauksella."
+	}
+	"TF_MEDIC_ASSIST_HEAVY_Title"
+	{
+		"fi"	"Ruhjevammoja"
+	}
+	"TF_MEDIC_ASSIST_HEAVY_Desc"
+	{
+		"fi"	"Avusta 2 vihollisen hakkaamisessa yhdell‰ Heavyn ylilatauksella."
+	}
+	"TF_MEDIC_ASSIST_DEMOMAN_Title"
+	{
+		"fi"	"L‰‰ketieteellinen l‰pimurto"
+	}
+	"TF_MEDIC_ASSIST_DEMOMAN_Desc"
+	{
+		"fi"	"Avusta 5 vihollisen Engineer-rakennelman tuhoamisessa yhdell‰ Demon ylilatauksella."
+	}
+	"TF_MEDIC_ASSIST_SOLDIER_Title"
+	{
+		"fi"	"Tulilanka palamaan"
+	}
+	"TF_MEDIC_ASSIST_SOLDIER_Desc"
+	{
+		"fi"	"Avusta 5 vihollisen r‰j‰ytt‰misess‰ yhdell‰ Soldierin ylilatauksella."
+	}
+	"TF_MEDIC_HEAL_ENGINEER_Title"
+	{
+		"fi"	"Korjaava resepti"
+	}
+	"TF_MEDIC_HEAL_ENGINEER_Desc"
+	{
+		"fi"	"Paranna Engineer samalla, kun t‰m‰ korjaa tulen alla olevaa vartiotykki‰‰n."
+	}
+	"TF_MEDIC_ASSIST_CAPTURER_Title"
+	{
+		"fi"	"Kriittinen piste"
+	}
+	"TF_MEDIC_ASSIST_CAPTURER_Desc"
+	{
+		"fi"	"Avusta 5 vihollisen tappamisessa yhdell‰ komentopisteell‰ yhden el‰m‰n aikana."
+	}
+	"TF_MEDIC_HEAL_CALLERS_Title"
+	{
+		"fi"	"Siin‰ Medic miss‰ mainitaan"
+	}
+	"TF_MEDIC_HEAL_CALLERS_Desc"
+	{
+		"fi"	"Paranna 200 tiimikaveria, kun he ovat kutsuneet Medici‰."
+	}
+	"TF_MEDIC_EXTINGUISH_TEAMMATES_Title"
+	{
+		"fi"	"Palokunta koolle"
+	}
+	"TF_MEDIC_EXTINGUISH_TEAMMATES_Desc"
+	{
+		"fi"	"Sammuta 100 palavaa tiimikaveria."
+	}
+	"TF_MEDIC_ASSIST_VS_NEMESES_Title"
+	{
+		"fi"	"Kosto on suloinen"
+	}
+	"TF_MEDIC_ASSIST_VS_NEMESES_Desc"
+	{
+		"fi"	"Avusta 20 perivihollisen tappamisessa."
+	}
+	"TF_MEDIC_KILL_WHILE_CHARGED_Title"
+	{
+		"fi"	"Lumel‰‰kitys"
+	}
+	"TF_MEDIC_KILL_WHILE_CHARGED_Desc"
+	{
+		"fi"	"Tapa 5 vihollista yhden el‰m‰n aikana samalla, kun ylilataus on valmiina mutta ei k‰ytˆss‰."
+	}
+	"TF_MEDIC_BONESAW_NOMISSES_Title"
+	{
+		"fi"	"Luihin ja ytimiin"
+	}
+	"TF_MEDIC_BONESAW_NOMISSES_Desc"
+	{
+		"fi"	"Iske vihollista luusahalla 5 kertaa per‰kk‰in ilman kuolemista tai ohilyˆnti‰."
+	}
+	"TF_MEDIC_HEAL_LARGE_Title"
+	{
+		"fi"	"Kandi"
+	}
+	"TF_MEDIC_HEAL_LARGE_Desc"
+	{
+		"fi"	"Ker‰‰ 7000 parannuspistett‰ yhden el‰m‰n aikana."
+	}
+	"TF_MEDIC_HEAL_HUGE_Title"
+	{
+		"fi"	"Erikoisl‰‰k‰ri"
+	}
+	"TF_MEDIC_HEAL_HUGE_Desc"
+	{
+		"fi"	"Ker‰‰ 10000 parannuspistett‰ yhden el‰m‰n aikana."
+	}
+	"TF_MEDIC_HEAL_GRIND_Title"
+	{
+		"fi"	"Ylil‰‰k‰ri"
+	}
+	"TF_MEDIC_HEAL_GRIND_Desc"
+	{
+		"fi"	"Ker‰‰ yhteens‰ 1 miljoona parannuspistett‰."
+	}
+	"TF_MEDIC_KILL_HEALED_SPY_Title"
+	{
+		"fi"	"Kuolettavaa hoitoa"
+	}
+	"TF_MEDIC_KILL_HEALED_SPY_Desc"
+	{
+		"fi"	"Tapa vihollis-Spy, jota olet parantanut."
+	}
+	"TF_MEDIC_SAVE_FALLING_TEAMMATE_Title"
+	{
+		"fi"	"Pehme‰ lasku"
+	}
+	"TF_MEDIC_SAVE_FALLING_TEAMMATE_Desc"
+	{
+		"fi"	"Est‰ putoavaa tiimikaveria kuolemasta."
+	}
+	"TF_MEDIC_CHARGE_JUGGLE_Title"
+	{
+		"fi"	"Toinen diagnoosi"
+	}
+	"TF_MEDIC_CHARGE_JUGGLE_Desc"
+	{
+		"fi"	"Ylilataa 2 tiimikaveria kerralla."
+	}
+	"TF_MEDIC_FREEZECAM_RAGDOLL_Title"
+	{
+		"fi"	"Ruumiinavausraportti"
+	}
+	"TF_MEDIC_FREEZECAM_RAGDOLL_Desc"
+	{
+		"fi"	"Anna viholliselle pys‰ytyskamerakuva itsest‰si irvailemassa h‰nen ruumiinsa yl‰puolella."
+	}
+	"TF_MEDIC_BONESAW_SPY_CALLERS_Title"
+	{
+		"fi"	"Tohtoria ei huijata"
+	}
+	"TF_MEDIC_BONESAW_SPY_CALLERS_Desc"
+	{
+		"fi"	"Tapa luusahalla 5 Spyta, jotka ovat kutsuneet Medici‰."
+	}
+	"TF_MEDIC_CHARGE_FRIENDS_Title"
+	{
+		"fi"	"Perhel‰‰k‰ri"
+	}
+	"TF_MEDIC_CHARGE_FRIENDS_Desc"
+	{
+		"fi"	"Ylilataa kymmenen Steam-yhteisˆkaveriasi."
+	}
+	"TF_MEDIC_INVITE_JOIN_CHARGE_Title"
+	{
+		"fi"	"Kotik‰ynti"
+	}
+	"TF_MEDIC_INVITE_JOIN_CHARGE_Desc"
+	{
+		"fi"	"Liity peliin, jossa kaverisi on mukana, ja k‰yt‰ h‰neen ylilatausta."
+	}
+	"TF_MEDIC_HEAL_ACHIEVER_Title"
+	{
+		"fi"	"Vastapalvelus"
+	}
+	"TF_MEDIC_HEAL_ACHIEVER_Desc"
+	{
+		"fi"	"Paranna tiimikaveria samalla, kun h‰n saa oman saavutuksen."
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS1_Title"
+	{
+		"fi"	"Medicin merkkipaalu 1"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS1_Desc"
+	{
+		"fi"	"Ansaitse 10 Medic-paketin saavutusta."
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS2_Title"
+	{
+		"fi"	"Medicin merkkipaalu 2"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS2_Desc"
+	{
+		"fi"	"Ansaitse 16 Medic-paketin saavutusta."
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS3_Title"
+	{
+		"fi"	"Medicin merkkipaalu 3"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS3_Desc"
+	{
+		"fi"	"Ansaitse 22 Medic-paketin saavutusta."
+	}
+	"TF_PYRO_KILL_MULTIWEAPONS_Title"
+	{
+		"fi"	"Tuplatulta"
+	}
+	"TF_PYRO_KILL_MULTIWEAPONS_Desc"
+	{
+		"fi"	"Lopeta haulikolla 20 sytytt‰m‰si pelaajan k‰rsimykset."
+	}
+	"TF_PYRO_SIMULBURN_SCOUTS_Title"
+	{
+		"fi"	"Prinssinnakkeja"
+	}
+	"TF_PYRO_SIMULBURN_SCOUTS_Desc"
+	{
+		"fi"	"Sytyt‰ vihollisen Scouteja niin, ett‰ kaksi on tulessa yht‰ aikaa."
+	}
+	"TF_PYRO_FORCE_WATERJUMP_Title"
+	{
+		"fi"	"Tulikaste"
+	}
+	"TF_PYRO_FORCE_WATERJUMP_Desc"
+	{
+		"fi"	"Pakota 10 palavaa vihollista hypp‰‰m‰‰n j‰rveen."
+	}
+	"TF_PYRO_KILL_POSTDEATH_Title"
+	{
+		"fi"	"Sytyt‰ ja unohda"
+	}
+	"TF_PYRO_KILL_POSTDEATH_Desc"
+	{
+		"fi"	"Tapa 15 pelaajaa ollessasi kuollut."
+	}
+	"TF_PYRO_KILL_SPIES_Title"
+	{
+		"fi"	"Palomuuri"
+	}
+	"TF_PYRO_KILL_SPIES_Desc"
+	{
+		"fi"	"Sytyt‰ 5 Spyta, joilla on tyhjent‰j‰ oman tiimisi rakennelmassa."
+	}
+	"TF_PYRO_KILL_CARRIERS_Title"
+	{
+		"fi"	"Kirjarovio"
+	}
+	"TF_PYRO_KILL_CARRIERS_Desc"
+	{
+		"fi"	"Sytyt‰ 5 vihollista, jotka kuljettavat tietojasi."
+	}
+	"TF_PYRO_REVEAL_SPIES_Title"
+	{
+		"fi"	"Itsesyttyminen"
+	}
+	"TF_PYRO_REVEAL_SPIES_Desc"
+	{
+		"fi"	"Sytyt‰ 10 verhoutunutta Spyta."
+	}
+	"TF_PYRO_CAMP_TELEPORTERS_Title"
+	{
+		"fi"	"Tienraivaaja"
+	}
+	"TF_PYRO_CAMP_TELEPORTERS_Desc"
+	{
+		"fi"	"Sytyt‰ 10 vihollista, jotka ovat hiljattain k‰ytt‰neet teleporttia."
+	}
+	"TF_PYRO_CAMP_POSITION_Title"
+	{
+		"fi"	"Nuotiopiiri"
+	}
+	"TF_PYRO_CAMP_POSITION_Desc"
+	{
+		"fi"	"Tapa 3 vihollista per‰kk‰in, kaikki samalla alueella."
+	}
+	"TF_PYRO_KILL_AXE_SMALL_Title"
+	{
+		"fi"	"Kirvesmies"
+	}
+	"TF_PYRO_KILL_AXE_SMALL_Desc"
+	{
+		"fi"	"Tapa 3 henkilˆ‰ kirveell‰ yhden el‰m‰n aikana."
+	}
+	"TF_PYRO_KILL_AXE_LARGE_Title"
+	{
+		"fi"	"Metsuri"
+	}
+	"TF_PYRO_KILL_AXE_LARGE_Desc"
+	{
+		"fi"	"Tapa 6 henkilˆ‰ kirveell‰ yhden el‰m‰n aikana."
+	}
+	"TF_PYRO_KILL_FROM_BEHIND_Title"
+	{
+		"fi"	"Tuli h‰nn‰n alla"
+	}
+	"TF_PYRO_KILL_FROM_BEHIND_Desc"
+	{
+		"fi"	"Tapa liekinheittimell‰ 50 vihollista takaap‰in."
+	}
+	"TF_PYRO_BURN_SPIES_AS_YOU_Title"
+	{
+		"fi"	"K‰rvent‰j‰"
+	}
+	"TF_PYRO_BURN_SPIES_AS_YOU_Desc"
+	{
+		"fi"	"Sytyt‰ 10 valeasuista Spyta."
+	}
+	"TF_PYRO_BURN_SNIPERS_ZOOMED_Title"
+	{
+		"fi"	"Palovartija"
+	}
+	"TF_PYRO_BURN_SNIPERS_ZOOMED_Desc"
+	{
+		"fi"	"Sytyt‰ 10 t‰ht‰‰v‰‰ tarkka-ampujaa."
+	}
+	"TF_PYRO_BURN_MEDICS_CHARGED_Title"
+	{
+		"fi"	"Palovammaosasto"
+	}
+	"TF_PYRO_BURN_MEDICS_CHARGED_Desc"
+	{
+		"fi"	"Sytyt‰ 3 Medici‰, jotka ovat valmiita viritt‰m‰‰n ylilatauksen."
+	}
+	"TF_PYRO_REFLECT_PROJECTILES_Title"
+	{
+		"fi"	"Kuuma peruna"
+	}
+	"TF_PYRO_REFLECT_PROJECTILES_Desc"
+	{
+		"fi"	"Torju 100 ammusta paineaallolla."
+	}
+	"TF_PYRO_KILL_HEAVIES_Title"
+	{
+		"fi"	"Grillimestari"
+	}
+	"TF_PYRO_KILL_HEAVIES_Desc"
+	{
+		"fi"	"Tapa 50 Heavya liekinheittimell‰."
+	}
+	"TF_PYRO_KILL_UNDERWATER_Title"
+	{
+		"fi"	"B-suunnitelma"
+	}
+	"TF_PYRO_KILL_UNDERWATER_Desc"
+	{
+		"fi"	"Tapa 10 vihollista, kun olette molemmat veden alla."
+	}
+	"TF_PYRO_KILL_UBERCHARGE_Title"
+	{
+		"fi"	"Pyroteknikko"
+	}
+	"TF_PYRO_KILL_UBERCHARGE_Desc"
+	{
+		"fi"	"Tapa 3 vihollista yhdell‰ ylilatauksella."
+	}
+	"TF_PYRO_DESTROY_BUILDINGS_Title"
+	{
+		"fi"	"Tuhopolttaja"
+	}
+	"TF_PYRO_DESTROY_BUILDINGS_Desc"
+	{
+		"fi"	"Tuhoa 50 Engineer-rakennelmaa."
+	}
+	"TF_PYRO_DEFEND_POINTS_Title"
+	{
+		"fi"	"Kaskenpolttoa"
+	}
+	"TF_PYRO_DEFEND_POINTS_Desc"
+	{
+		"fi"	"Sytyt‰ 50 vihollista, jotka ovat valtaamassa komentopistett‰si."
+	}
+	"TF_PYRO_KILL_GRIND_Title"
+	{
+		"fi"	"Palomies"
+	}
+	"TF_PYRO_KILL_GRIND_Desc"
+	{
+		"fi"	"Tapa 500 vihollista."
+	}
+	"TF_PYRO_DAMAGE_GRIND_Title"
+	{
+		"fi"	"Tulitikkuleikkej‰"
+	}
+	"TF_PYRO_DAMAGE_GRIND_Desc"
+	{
+		"fi"	"Tee 1 miljoonan pisteen edest‰ tulituhoa."
+	}
+	"TF_PYRO_BURN_MEDICPAIR_Title"
+	{
+		"fi"	"L‰‰kint‰mies liekeiss‰"
+	}
+	"TF_PYRO_BURN_MEDICPAIR_Desc"
+	{
+		"fi"	"Sytyt‰ vihollinen ja h‰nt‰ parantava Medic."
+	}
+	"TF_PYRO_KILL_TAUNT_Title"
+	{
+		"fi"	"Hauskat grillijuhlat"
+	}
+	"TF_PYRO_KILL_TAUNT_Desc"
+	{
+		"fi"	"Tapa vihollinen pilkaten."
+	}
+	"TF_PYRO_KILL_TEAMWORK_Title"
+	{
+		"fi"	"Toisen asteen palovamma"
+	}
+	"TF_PYRO_KILL_TEAMWORK_Desc"
+	{
+		"fi"	"Tapa palava vihollinen, jonka toinen Pyro on sytytt‰nyt."
+	}
+	"TF_PYRO_BURN_SPY_TAUNT_Title"
+	{
+		"fi"	"Olisiko tulta?"
+	}
+	"TF_PYRO_BURN_SPY_TAUNT_Desc"
+	{
+		"fi"	"Sytyt‰ Spy, joka on n‰ps‰ytt‰m‰ss‰ tupakkaansa menem‰‰n."
+	}
+	"TF_PYRO_DOMINATE_LEAVESVR_Title"
+	{
+		"fi"	"Tukahduttaja"
+	}
+	"TF_PYRO_DOMINATE_LEAVESVR_Desc"
+	{
+		"fi"	"Pakota hallittu pelaaja ulos palvelimelta."
+	}
+	"TF_PYRO_REFLECT_CROCKET_KILL_Title"
+	{
+		"fi"	"Kuumakalle"
+	}
+	"TF_PYRO_REFLECT_CROCKET_KILL_Desc"
+	{
+		"fi"	"Tapa Soldier kimmotetulla kriittisell‰ raketilla."
+	}
+	"TF_PYRO_KILL_TAUNTERS_Title"
+	{
+		"fi"	"Tanssii liekkien kanssa"
+	}
+	"TF_PYRO_KILL_TAUNTERS_Desc"
+	{
+		"fi"	"Tapa 3 vihollista, jotka ovat pilkkaamassa."
+	}
+	"TF_PYRO_DOUBLE_KO_Title"
+	{
+		"fi"	"Kuuma kuolema"
+	}
+	"TF_PYRO_DOUBLE_KO_Desc"
+	{
+		"fi"	"Tapa vihollinen samalla sekunnilla kun h‰n tappaa sinut."
+	}
+	"TF_PYRO_BURN_RJ_SOLDIER_Title"
+	{
+		"fi"	"J‰lkipoltto"
+	}
+	"TF_PYRO_BURN_RJ_SOLDIER_Desc"
+	{
+		"fi"	"Sytyt‰ rakettihypp‰‰v‰ Soldier, kun h‰n on ilmassa."
+	}
+	"TF_PYRO_FREEZECAM_TAUNTS_Title"
+	{
+		"fi"	"Kuumottava kuva"
+	}
+	"TF_PYRO_FREEZECAM_TAUNTS_Desc"
+	{
+		"fi"	"Anna vihollisille pys‰ytyskuvia pilkkaamisestasi."
+	}
+	"TF_PYRO_KILL_GRIND_LARGE_Title"
+	{
+		"fi"	"Palop‰‰llikkˆ"
+	}
+	"TF_PYRO_KILL_GRIND_LARGE_Desc"
+	{
+		"fi"	"Tapa 1000 vihollista."
+	}
+	"TF_PYRO_IGNITE_FLAREGUN_Title"
+	{
+		"fi"	"Huomionkipe‰"
+	}
+	"TF_PYRO_IGNITE_FLAREGUN_Desc"
+	{
+		"fi"	"Sytyt‰ 100 vihollista valopistoolilla."
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS1_Title"
+	{
+		"fi"	"Pyron merkkipaalu 1"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS1_Desc"
+	{
+		"fi"	"Ansaitse 10 Pyro-paketin saavutusta."
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS2_Title"
+	{
+		"fi"	"Pyron merkkipaalu 2"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS2_Desc"
+	{
+		"fi"	"Ansaitse 16 Pyro-paketin saavutusta."
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS3_Title"
+	{
+		"fi"	"Pyron merkkipaalu 3"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS3_Desc"
+	{
+		"fi"	"Ansaitse 22 Pyro-paketin saavutusta."
+	}
+	"TF_HEAVY_DAMAGE_TAKEN_Title"
+	{
+		"fi"	"Rautaesirippu"
+	}
+	"TF_HEAVY_DAMAGE_TAKEN_Desc"
+	{
+		"fi"	"K‰rsi 1000 pistett‰ vahinkoa yhden el‰m‰n aikana."
+	}
+	"TF_HEAVY_DEFEND_MEDIC_Title"
+	{
+		"fi"	"Puolueuskollisuus"
+	}
+	"TF_HEAVY_DEFEND_MEDIC_Desc"
+	{
+		"fi"	"Tapa 50 vihollista 3 sekunnin kuluessa siit‰, kun ne ovat hyˆk‰nneet tiimisi Medicin kimppuun."
+	}
+	"TF_HEAVY_ASSIST_MEDIC_LARGE_Title"
+	{
+		"fi"	"Tyˆnjako"
+	}
+	"TF_HEAVY_ASSIST_MEDIC_LARGE_Desc"
+	{
+		"fi"	"Tapa 20 vihollista Medicin avustuksella niin, ett‰ kumpikaan teist‰ ei kuole."
+	}
+	"TF_HEAVY_EARN_MEDIC_DOMINATION_Title"
+	{
+		"fi"	"Punainen lokakuu"
+	}
+	"TF_HEAVY_EARN_MEDIC_DOMINATION_Desc"
+	{
+		"fi"	"Ansaitse hallinta Medicille, joka parantaa sinua."
+	}
+	"TF_HEAVY_KILL_TAUNT_Title"
+	{
+		"fi"	"N‰ytˆsoikeudenk‰ynti"
+	}
+	"TF_HEAVY_KILL_TAUNT_Desc"
+	{
+		"fi"	"Tapa vihollinen pilkaten."
+	}
+	"TF_HEAVY_KILL_FLAG_CARRIERS_Title"
+	{
+		"fi"	"Rikos ja rangaistus"
+	}
+	"TF_HEAVY_KILL_FLAG_CARRIERS_Desc"
+	{
+		"fi"	"Tapa 10 vihollista, jotka kuljettavat tietojasi."
+	}
+	"TF_HEAVY_KILL_MEDIC_PAIR_Title"
+	{
+		"fi"	"Luokkasota"
+	}
+	"TF_HEAVY_KILL_MEDIC_PAIR_Desc"
+	{
+		"fi"	"Tapa yhdess‰ oman Medicin kanssa vihollisen Heavy ja Medic -kaksikko."
+	}
+	"TF_HEAVY_BLOCK_INVULN_HEAVY_Title"
+	{
+		"fi"	"Neuvostoblokki"
+	}
+	"TF_HEAVY_BLOCK_INVULN_HEAVY_Desc"
+	{
+		"fi"	"Kun olet haavoittumaton ja puolustustilanteessa, est‰ haavoittumatonta vihollis-Heavy‰ liikkumasta."
+	}
+	"TF_HEAVY_BLOCK_CART_Title"
+	{
+		"fi"	"Kuljetus seis"
+	}
+	"TF_HEAVY_BLOCK_CART_Desc"
+	{
+		"fi"	"Pys‰yt‰ vihollisen pommilasti 25 kertaa."
+	}
+	"TF_HEAVY_RECEIVE_UBER_GRIND_Title"
+	{
+		"fi"	"Id‰n j‰ttil‰inen"
+	}
+	"TF_HEAVY_RECEIVE_UBER_GRIND_Desc"
+	{
+		"fi"	"Hanki ylilataus 50 kertaa."
+	}
+	"TF_HEAVY_STAND_NEAR_DISPENSER_Title"
+	{
+		"fi"	"Tehdastyˆl‰inen"
+	}
+	"TF_HEAVY_STAND_NEAR_DISPENSER_Desc"
+	{
+		"fi"	"Tapa 20 vihollista, kun olet apulaitteen lataama."
+	}
+	"TF_HEAVY_ASSIST_HEAVY_GRIND_Title"
+	{
+		"fi"	"Varsovan liitto"
+	}
+	"TF_HEAVY_ASSIST_HEAVY_GRIND_Desc"
+	{
+		"fi"	"Tapa 25 vihollista siten, ett‰ toinen Heavy avustaa sinua tai sin‰ h‰nt‰."
+	}
+	"TF_HEAVY_CLEAR_STICKYBOMBS_Title"
+	{
+		"fi"	"Tuotantov‰lineet hallintaan"
+	}
+	"TF_HEAVY_CLEAR_STICKYBOMBS_Desc"
+	{
+		"fi"	"Poista 20 tahmapommia tappamalla demot, jotka tuottivat ne."
+	}
+	"TF_HEAVY_KILL_UNDERWATER_Title"
+	{
+		"fi"	"Iivana julma"
+	}
+	"TF_HEAVY_KILL_UNDERWATER_Desc"
+	{
+		"fi"	"Tapa 100 vihollista siten, ett‰ sin‰ ja uhri olette molemmat veden alla."
+	}
+	"TF_HEAVY_TAKE_MULTI_DAMAGE_Title"
+	{
+		"fi"	"Rasputin"
+	}
+	"TF_HEAVY_TAKE_MULTI_DAMAGE_Desc"
+	{
+		"fi"	"Tule yhden el‰m‰n aikana ammutuksi, poltetuksi, nuijituksi ja k‰rsi r‰j‰hdysvahinkoa."
+	}
+	"TF_HEAVY_KILL_DOMINATED_Title"
+	{
+		"fi"	"Kuorrutusta kakulla"
+	}
+	"TF_HEAVY_KILL_DOMINATED_Desc"
+	{
+		"fi"	"Tapa 20 pelaajaa, joita hallitset."
+	}
+	"TF_HEAVY_SURVIVE_CROCKET_Title"
+	{
+		"fi"	"Voittamaton Vanja"
+	}
+	"TF_HEAVY_SURVIVE_CROCKET_Desc"
+	{
+		"fi"	"Selviydy kriittisen raketin suorasta osumasta."
+	}
+	"TF_HEAVY_ASSIST_GRIND_Title"
+	{
+		"fi"	"Kolhoosityˆt‰"
+	}
+	"TF_HEAVY_ASSIST_GRIND_Desc"
+	{
+		"fi"	"Tee 1000 avustusta."
+	}
+	"TF_HEAVY_UNCOVER_SPIES_Title"
+	{
+		"fi"	"Petturit sein‰‰ vasten"
+	}
+	"TF_HEAVY_UNCOVER_SPIES_Desc"
+	{
+		"fi"	"Tapa tai avusta 10 verhoutuneen Spyn tappamisessa."
+	}
+	"TF_HEAVY_KILL_WHILE_SPUNUP_Title"
+	{
+		"fi"	"Jatkuva vallankumous"
+	}
+	"TF_HEAVY_KILL_WHILE_SPUNUP_Desc"
+	{
+		"fi"	"Tapa 5 vihollista pyˆritt‰m‰tt‰ asettasi."
+	}
+	"TF_HEAVY_FIRE_LOTS_Title"
+	{
+		"fi"	"Raskas teollisuus"
+	}
+	"TF_HEAVY_FIRE_LOTS_Desc"
+	{
+		"fi"	"Tulita 200†000 dollarin edest‰ konekiv‰‰rin ammuksia yhden el‰m‰n aikana."
+	}
+	"TF_HEAVY_KILL_CRIT_PUNCH_Title"
+	{
+		"fi"	"Ter‰snyrkki"
+	}
+	"TF_HEAVY_KILL_CRIT_PUNCH_Desc"
+	{
+		"fi"	"Tapa vihollinen kriittisell‰ nyrkiniskulla."
+	}
+	"TF_HEAVY_HEAL_MEDIKITS_Title"
+	{
+		"fi"	"Terveyden uudelleenjako"
+	}
+	"TF_HEAVY_HEAL_MEDIKITS_Desc"
+	{
+		"fi"	"Paranna 1000 vahinkopistett‰ l‰‰kepakkauksilla yhden el‰m‰n aikana."
+	}
+	"TF_HEAVY_KILL_SHOTGUN_Title"
+	{
+		"fi"	"S‰‰nnˆstely‰"
+	}
+	"TF_HEAVY_KILL_SHOTGUN_Desc"
+	{
+		"fi"	"Tapa vihollinen haulikolla, kun konekiv‰‰rin ammukset ovat loppu."
+	}
+	"TF_HEAVY_FIRST_TO_CAP_Title"
+	{
+		"fi"	"Etujoukkopuolue"
+	}
+	"TF_HEAVY_FIRST_TO_CAP_Desc"
+	{
+		"fi"	"Ole tiimisi ensimm‰inen, joka alkaa vallata komentopistett‰."
+	}
+	"TF_HEAVY_PAYLOAD_CAP_GRIND_Title"
+	{
+		"fi"	"Volgan lautturi"
+	}
+	"TF_HEAVY_PAYLOAD_CAP_GRIND_Desc"
+	{
+		"fi"	"Ker‰‰ 50 pistett‰ lastin tyˆnt‰misest‰ pommilastikartoilla."
+	}
+	"TF_HEAVY_KILL_MIDAIR_MINIGUN_Title"
+	{
+		"fi"	"Sorsamets‰ll‰"
+	}
+	"TF_HEAVY_KILL_MIDAIR_MINIGUN_Desc"
+	{
+		"fi"	"Tapa 10 vihollista ilmasta konekiv‰‰rill‰."
+	}
+	"TF_HEAVY_DEFEND_CONTROL_POINT_Title"
+	{
+		"fi"	"Rintama pit‰‰"
+	}
+	"TF_HEAVY_DEFEND_CONTROL_POINT_Desc"
+	{
+		"fi"	"Tapa 25 vihollista seisoessasi hallitsemallasi komentopisteell‰."
+	}
+	"TF_HEAVY_KILL_CAPPING_ENEMIES_Title"
+	{
+		"fi"	"Puhdistus"
+	}
+	"TF_HEAVY_KILL_CAPPING_ENEMIES_Desc"
+	{
+		"fi"	"Tapa 15 vihollista, jotka ovat valtaamassa hallitsemaasi komentopistett‰."
+	}
+	"TF_HEAVY_REVENGE_ASSIST_Title"
+	{
+		"fi"	"Toverin puolesta"
+	}
+	"TF_HEAVY_REVENGE_ASSIST_Desc"
+	{
+		"fi"	"Auta 5 tiimikaveria kostamaan perivihollisilleen."
+	}
+	"TF_HEAVY_TELEPORT_FAST_KILL_Title"
+	{
+		"fi"	"Viiden sekunnin suunnitelma"
+	}
+	"TF_HEAVY_TELEPORT_FAST_KILL_Desc"
+	{
+		"fi"	"Tapa vihollinen 5 sekunnin kuluessa siit‰, kun poistut teleportista."
+	}
+	"TF_HEAVY_FREEZECAM_TAUNT_Title"
+	{
+		"fi"	"Fotostroika"
+	}
+	"TF_HEAVY_FREEZECAM_TAUNT_Desc"
+	{
+		"fi"	"Anna viholliselle pys‰ytyskamerakuva itsest‰si irvailemassa, kun olet haavoittumaton."
+	}
+	"TF_HEAVY_EAT_SANDWICHES_Title"
+	{
+		"fi"	"Herkkuhetki‰"
+	}
+	"TF_HEAVY_EAT_SANDWICHES_Desc"
+	{
+		"fi"	"Syˆ 100 voileip‰‰."
+	}
+	"TF_HEAVY_KILL_SCOUTS_Title"
+	{
+		"fi"	"Irti voileiv‰st‰ni"
+	}
+	"TF_HEAVY_KILL_SCOUTS_Desc"
+	{
+		"fi"	"Tapa 50 Scoutia Natashalla."
+	}
+	"TF_HEAVY_KILL_HEAVIES_GLOVES_Title"
+	{
+		"fi"	"Keh‰kettu"
+	}
+	"TF_HEAVY_KILL_HEAVIES_GLOVES_Desc"
+	{
+		"fi"	"Tapa 10 Heavy‰ nyrkkeilyhanskoilla."
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS1_Title"
+	{
+		"fi"	"Heavyn merkkipaalu 1"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS1_Desc"
+	{
+		"fi"	"Ansaitse 10 Heavy-paketin saavutusta."
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS2_Title"
+	{
+		"fi"	"Heavyn merkkipaalu 2"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS2_Desc"
+	{
+		"fi"	"Ansaitse 16 Heavy-paketin saavutusta."
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS3_Title"
+	{
+		"fi"	"Heavyn merkkipaalu 3"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS3_Desc"
+	{
+		"fi"	"Ansaitse 22 Heavy-paketin saavutusta."
+	}
+	"TF_SCOUT_FIRST_BLOOD_Title"
+	{
+		"fi"	"Verikaste"
+	}
+	"TF_SCOUT_FIRST_BLOOD_Desc"
+	{
+		"fi"	"Tee ensimm‰inen tappo areenamatsissa."
+	}
+	"TF_SCOUT_FIRST_BLOOD_KILL_Title"
+	{
+		"fi"	"Verikaste II"
+	}
+	"TF_SCOUT_FIRST_BLOOD_KILL_Desc"
+	{
+		"fi"	"Tapa 5 vihollista Verikasteen antamilla kriittisill‰ osumilla."
+	}
+	"TF_SCOUT_WELL_EARLY_KILL_Title"
+	{
+		"fi"	"Vauhtitappo"
+	}
+	"TF_SCOUT_WELL_EARLY_KILL_Desc"
+	{
+		"fi"	"Tapa pelaaja Well-kartalla ennen er‰n alkua."
+	}
+	"TF_SCOUT_LIFETIME_KILLS_Title"
+	{
+		"fi"	"Ikimuistoinen vuosi"
+	}
+	"TF_SCOUT_LIFETIME_KILLS_Desc"
+	{
+		"fi"	"Tee 2004 tappoa elinaikanasi."
+	}
+	"TF_SCOUT_IRON_MAN_KILLS_Title"
+	{
+		"fi"	"Kolme elementti‰"
+	}
+	"TF_SCOUT_IRON_MAN_KILLS_Desc"
+	{
+		"fi"	"Tapa yhden el‰m‰n aikana vihollinen maasta, ilmasta ja vedest‰ k‰sin."
+	}
+	"TF_SCOUT_DESTROY_TELEPORTERS_Title"
+	{
+		"fi"	"Tientukkija"
+	}
+	"TF_SCOUT_DESTROY_TELEPORTERS_Desc"
+	{
+		"fi"	"Tuhoa 3 teleportin sis‰‰nk‰ynti‰."
+	}
+	"TF_SCOUT_DESTROY_BUILDINGS_BEING_BUILT_Title"
+	{
+		"fi"	"Sabotaasi"
+	}
+	"TF_SCOUT_DESTROY_BUILDINGS_BEING_BUILT_Desc"
+	{
+		"fi"	"Tuhoa 3 vihollisen rakennusta, jotka ovat vasta rakenteilla."
+	}
+	"TF_SCOUT_DESTROY_SENTRY_WITH_PISTOL_Title"
+	{
+		"fi"	"Tykit hajalle"
+	}
+	"TF_SCOUT_DESTROY_SENTRY_WITH_PISTOL_Desc"
+	{
+		"fi"	"Tuhoa k‰ytˆss‰ oleva vartiotykki pistoolilla"
+	}
+	"TF_SCOUT_DOUBLE_JUMPS_Title"
+	{
+		"fi"	"Loikkamestari"
+	}
+	"TF_SCOUT_DOUBLE_JUMPS_Desc"
+	{
+		"fi"	"Tee 1000 tuplahyppy‰."
+	}
+	"TF_SCOUT_ASSIST_MEDIC_Title"
+	{
+		"fi"	"Tohtorilta tukea"
+	}
+	"TF_SCOUT_ASSIST_MEDIC_Desc"
+	{
+		"fi"	"Tapa 3 vihollista Medicin ylilatauksen vaikutuksen alaisena."
+	}
+	"TF_SCOUT_STEAL_SANDWICH_Title"
+	{
+		"fi"	"Dodgers 1, Giants 0"
+	}
+	"TF_SCOUT_STEAL_SANDWICH_Desc"
+	{
+		"fi"	"Tapa vihollis-Heavy ja vie h‰nelt‰ voileip‰."
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS1_Title"
+	{
+		"fi"	"Scoutin merkkipaalu 1"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS1_Desc"
+	{
+		"fi"	"Ansaitse 10 Scout-paketin saavutusta."
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS2_Title"
+	{
+		"fi"	"Scoutin merkkipaalu 2"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS2_Desc"
+	{
+		"fi"	"Ansaitse 16 Scout-paketin saavutusta."
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS3_Title"
+	{
+		"fi"	"Scoutin merkkipaalu 3"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS3_Desc"
+	{
+		"fi"	"Ansaitse 22 Scout-paketin saavutusta."
+	}
+	"TF_SCOUT_KILL_CHARGED_MEDICS_Title"
+	{
+		"fi"	"Valkotakkiset hautaan"
+	}
+	"TF_SCOUT_KILL_CHARGED_MEDICS_Desc"
+	{
+		"fi"	"Tapa Medic, joka on tekem‰ss‰ ylilatauksen."
+	}
+	"TF_SCOUT_SURVIVE_DAMAGE_Title"
+	{
+		"fi"	"Supernappula"
+	}
+	"TF_SCOUT_SURVIVE_DAMAGE_Desc"
+	{
+		"fi"	"Kest‰ 500 pistett‰ vahinkoa yhdess‰ el‰m‰ss‰."
+	}
+	"TF_SCOUT_DOUBLEJUMP_KILL_Title"
+	{
+		"fi"	"Lent‰v‰ kuolema"
+	}
+	"TF_SCOUT_DOUBLEJUMP_KILL_Desc"
+	{
+		"fi"	"Tapa 20 pelaajaa tuplahypyn aikana."
+	}
+	"TF_SCOUT_FLAG_CAP_GRIND_Title"
+	{
+		"fi"	"Kiusanhenki"
+	}
+	"TF_SCOUT_FLAG_CAP_GRIND_Desc"
+	{
+		"fi"	"Kaappaa vihollisen tiedot 25 kertaa."
+	}
+	"TF_SCOUT_THREE_FLAGCAPS_Title"
+	{
+		"fi"	"Triplavarkaus"
+	}
+	"TF_SCOUT_THREE_FLAGCAPS_Desc"
+	{
+		"fi"	"Kaappaa vihollisen tiedot 3 kertaa yhdess‰ lipunsieppauser‰ss‰."
+	}
+	"TF_SCOUT_DODGE_DAMAGE_Title"
+	{
+		"fi"	"Liukas luikku"
+	}
+	"TF_SCOUT_DODGE_DAMAGE_Desc"
+	{
+		"fi"	"V‰ist‰ 1000 vahinkopistett‰ yhden el‰m‰n aikana k‰ytt‰m‰ll‰ Naps!- atomi-iskua"
+	}
+	"TF_SCOUT_KNOCK_INTO_TRAIN_Title"
+	{
+		"fi"	"Takapakki"
+	}
+	"TF_SCOUT_KNOCK_INTO_TRAIN_Desc"
+	{
+		"fi"	"Aiheuta ymp‰ristˆn tuottama kuolema tai itsemurha Luonnonvoiman potkaisun avulla."
+	}
+	"TF_SCOUT_KILL_STUNNED_Title"
+	{
+		"fi"	"Lyˆntialue"
+	}
+	"TF_SCOUT_KILL_STUNNED_Desc"
+	{
+		"fi"	"Tapa 50 tyrm‰tty‰ vihollista."
+	}
+	"TF_SCOUT_STUN_INTO_TRAIN_Title"
+	{
+		"fi"	"Ymp‰ristˆtuho"
+	}
+	"TF_SCOUT_STUN_INTO_TRAIN_Desc"
+	{
+		"fi"	"Aiheuta ymp‰ristˆn tuottama kuolema tyrm‰‰m‰ll‰ vihollinen."
+	}
+	"TF_SCOUT_STUN_UBER_ENEMIES_Title"
+	{
+		"fi"	"Iso tuska"
+	}
+	"TF_SCOUT_STUN_UBER_ENEMIES_Desc"
+	{
+		"fi"	"Tyrm‰‰ 2 Medici‰, jotka ovat valmiita viritt‰m‰‰n ylilatauksen."
+	}
+	"TF_SCOUT_STUN_CAPPING_ENEMIES_Title"
+	{
+		"fi"	"Toiveet tyhjiksi"
+	}
+	"TF_SCOUT_STUN_CAPPING_ENEMIES_Desc"
+	{
+		"fi"	"Tyrm‰‰ 50 vihollista, jotka ovat valtaamassa pistett‰ tai tyˆnt‰m‰ss‰ k‰rry‰."
+	}
+	"TF_SCOUT_MAX_STUNS_Title"
+	{
+		"fi"	"Kunnarilyˆnti"
+	}
+	"TF_SCOUT_MAX_STUNS_Desc"
+	{
+		"fi"	"Tyrm‰‰ vihollinen mahdollisimman pitk‰ksi aikaa osumalla heihin kaukaa pallolla."
+	}
+	"TF_SCOUT_STUN_SCOUT_WITH_THEIR_BALL_Title"
+	{
+		"fi"	"Palloilua"
+	}
+	"TF_SCOUT_STUN_SCOUT_WITH_THEIR_BALL_Desc"
+	{
+		"fi"	"Tyrm‰‰ Scout h‰nen omalla pallollaan."
+	}
+	"TF_SCOUT_KILL_IN_DODGE_COOLDOWN_Title"
+	{
+		"fi"	"Polta juoksija"
+	}
+	"TF_SCOUT_KILL_IN_DODGE_COOLDOWN_Desc"
+	{
+		"fi"	"Tapa 10 Scoutia, joiden liikkeet ovat hidastuneita v‰istˆn j‰lkeen."
+	}
+	"TF_SCOUT_KILL_FROM_BEHIND_Title"
+	{
+		"fi"	"Torkkujalle yll‰tys"
+	}
+	"TF_SCOUT_KILL_FROM_BEHIND_Desc"
+	{
+		"fi"	"Tapa 50 vihollista takaap‰in Luonnonvoimalla."
+	}
+	"TF_SCOUT_CAPTURE_LAST_POINT_Title"
+	{
+		"fi"	"Voittoisa osuma"
+	}
+	"TF_SCOUT_CAPTURE_LAST_POINT_Desc"
+	{
+		"fi"	"Valtaa viimeinen piste komentopistekartalla."
+	}
+	"TF_SCOUT_CAPTURE_THREE_POINTS_Title"
+	{
+		"fi"	"Kolmoisvoitto"
+	}
+	"TF_SCOUT_CAPTURE_THREE_POINTS_Desc"
+	{
+		"fi"	"Valtaa kolme pistett‰ per‰kk‰in yhden el‰m‰n aikana."
+	}
+	"TF_SCOUT_FAST_CAP_Title"
+	{
+		"fi"	"K‰rkkyminen kannattaa"
+	}
+	"TF_SCOUT_FAST_CAP_Desc"
+	{
+		"fi"	"Aloita pisteen valtaus sekunnin kuluessa siit‰, kun piste tulee saataville."
+	}
+	"TF_SCOUT_START_AND_FINISH_CAP_Title"
+	{
+		"fi"	"Kata pˆyt‰"
+	}
+	"TF_SCOUT_START_AND_FINISH_CAP_Desc"
+	{
+		"fi"	"Laita alulle 50 onnistunutta pisteen valtausta."
+	}
+	"TF_SCOUT_BLOCK_CAPS_Title"
+	{
+		"fi"	"Torjuntavoitto"
+	}
+	"TF_SCOUT_BLOCK_CAPS_Desc"
+	{
+		"fi"	"Est‰ 50 pisteen valtausta."
+	}
+	"TF_SCOUT_CARRIER_KILL_CARRIER_Title"
+	{
+		"fi"	"Kuolettava kohtaaminen"
+	}
+	"TF_SCOUT_CARRIER_KILL_CARRIER_Desc"
+	{
+		"fi"	"Tapa vastapuolen pelaaja, jolla on oman tiimisi tiedot, samalla kun kannat vihollisen tietoja."
+	}
+	"TF_SCOUT_CAP_FLAG_WITHOUT_ATTACKING_Title"
+	{
+		"fi"	"Osumia nolla"
+	}
+	"TF_SCOUT_CAP_FLAG_WITHOUT_ATTACKING_Desc"
+	{
+		"fi"	"Varasta ja kaappaa vihollisen tiedot ampumatta laukaustakaan."
+	}
+	"TF_SCOUT_LONG_DISTANCE_RUNNER_Title"
+	{
+		"fi"	"Mestaruusjuoksu"
+	}
+	"TF_SCOUT_LONG_DISTANCE_RUNNER_Desc"
+	{
+		"fi"	"Juokse 25 kilometri‰."
+	}
+	"TF_SCOUT_TAUNT_KILL_Title"
+	{
+		"fi"	"Takalaiton"
+	}
+	"TF_SCOUT_TAUNT_KILL_Desc"
+	{
+		"fi"	"Lenn‰t‰ vihollista mailanlyˆnnill‰ 25 metri‰."
+	}
+	"TF_SNIPER_JARATE_DOMINATED_Title"
+	{
+		"fi"	"Uuvuta uhri"
+	}
+	"TF_SNIPER_JARATE_DOMINATED_Desc"
+	{
+		"fi"	"Tapa nestekaratella vihollinen, jota hallitset."
+	}
+	"TF_SNIPER_FREEZECAM_HAT_Title"
+	{
+		"fi"	"Ole kohtelias"
+	}
+	"TF_SNIPER_FREEZECAM_HAT_Desc"
+	{
+		"fi"	"Anna viholliselle pys‰ytyskuva, jossa nostat hattua."
+	}
+	"TF_SNIPER_RIFLE_NO_MISSING_Title"
+	{
+		"fi"	"Ole tehokas"
+	}
+	"TF_SNIPER_RIFLE_NO_MISSING_Desc"
+	{
+		"fi"	"Tee 3 tappoa tarkkuuskiv‰‰rill‰ ampumatta kertaakaan ohi."
+	}
+	"TF_SNIPER_CAPTURE_FLAG_Title"
+	{
+		"fi"	"Seuraa suunnitelmaa"
+	}
+	"TF_SNIPER_CAPTURE_FLAG_Desc"
+	{
+		"fi"	"Sieppaa lippu CTF:ss‰."
+	}
+	"TF_SNIPER_KILL_GRIND_Title"
+	{
+		"fi"	"Tapa kaikki vastaantulijat"
+	}
+	"TF_SNIPER_KILL_GRIND_Desc"
+	{
+		"fi"	"Tapa 1000 vihollista."
+	}
+	"TF_SNIPER_KILL_WEAPONS_Title"
+	{
+		"fi"	"Kolmoissaalis"
+	}
+	"TF_SNIPER_KILL_WEAPONS_Desc"
+	{
+		"fi"	"Tee yhdess‰ er‰ss‰ tappo 3 eri aseella."
+	}
+	"TF_SNIPER_HEADSHOT_SNIPERS_Title"
+	{
+		"fi"	"Itsetuho"
+	}
+	"TF_SNIPER_HEADSHOT_SNIPERS_Desc"
+	{
+		"fi"	"Tapa p‰‰osumalla 10 vastapuolen Sniperia."
+	}
+	"TF_SNIPER_DESTROY_SENTRYGUNS_Title"
+	{
+		"fi"	"Tykintuhoaja"
+	}
+	"TF_SNIPER_DESTROY_SENTRYGUNS_Desc"
+	{
+		"fi"	"Tuhoa 3 Engineerin vartiotykki‰."
+	}
+	"TF_SNIPER_KILL_INVIS_SPY_Title"
+	{
+		"fi"	"Ammu ilmaa"
+	}
+	"TF_SNIPER_KILL_INVIS_SPY_Desc"
+	{
+		"fi"	"Tapa t‰ysin n‰kym‰tˆn Spy yhdell‰ osumalla."
+	}
+	"TF_SNIPER_KILL_MIDAIR_SCOUT_Title"
+	{
+		"fi"	"Pudota lennosta"
+	}
+	"TF_SNIPER_KILL_MIDAIR_SCOUT_Desc"
+	{
+		"fi"	"Tapa Scout ilmasta tarkkuuskiv‰‰rill‰ tai Mets‰miehell‰."
+	}
+	"TF_SNIPER_FREEZECAM_WAVE_Title"
+	{
+		"fi"	"Viimeinen vilkutus"
+	}
+	"TF_SNIPER_FREEZECAM_WAVE_Desc"
+	{
+		"fi"	"Anna viholliselle pys‰ytyskuva, jossa vilkutat h‰nelle."
+	}
+	"TF_SNIPER_DOMINATE_SNIPER_Title"
+	{
+		"fi"	"Australian s‰‰nnˆt"
+	}
+	"TF_SNIPER_DOMINATE_SNIPER_Desc"
+	{
+		"fi"	"Hallitse vihollis-Sniperia."
+	}
+	"TF_SNIPER_KILL_SPIES_MELEE_Title"
+	{
+		"fi"	"Viiltele vakoojat"
+	}
+	"TF_SNIPER_KILL_SPIES_MELEE_Desc"
+	{
+		"fi"	"Tapa 10 Spyta kukri-veitsell‰."
+	}
+	"TF_SNIPER_HEADSHOT_DEMOMAN_Title"
+	{
+		"fi"	"Nappi otsaan"
+	}
+	"TF_SNIPER_HEADSHOT_DEMOMAN_Desc"
+	{
+		"fi"	"Tapa vihollis-Demo p‰‰osumalla."
+	}
+	"TF_SNIPER_KILL_RJER_Title"
+	{
+		"fi"	"Loikkijan loppu"
+	}
+	"TF_SNIPER_KILL_RJER_Desc"
+	{
+		"fi"	"Tapa raketti- tai kranaattihypp‰‰v‰ vihollinen ilmasta tarkkuuskiv‰‰rill‰ tai Mets‰miehell‰."
+	}
+	"TF_SNIPER_KILL_OBJECTIVES_Title"
+	{
+		"fi"	"Triplatappaja"
+	}
+	"TF_SNIPER_KILL_OBJECTIVES_Desc"
+	{
+		"fi"	"Tapa yhdess‰ el‰m‰ss‰ 3 vihollista, jotka ovat saavuttamassa tavoitetta."
+	}
+	"TF_SNIPER_KILL_UNSCOPED_Title"
+	{
+		"fi"	"Luota tunteisiin"
+	}
+	"TF_SNIPER_KILL_UNSCOPED_Desc"
+	{
+		"fi"	"Tee 5 tappoa tarkkuuskiv‰‰rill‰ ilman kiikarit‰ht‰int‰."
+	}
+	"TF_SNIPER_KILL_CHARGED_MEDIC_Title"
+	{
+		"fi"	"Tohtorin tuho"
+	}
+	"TF_SNIPER_KILL_CHARGED_MEDIC_Desc"
+	{
+		"fi"	"Tapa Medic, joka on tekem‰ss‰ ylilatauksen."
+	}
+	"TF_SNIPER_GET_BACKSTABBED_Title"
+	{
+		"fi"	"Lohdutuspalkinto"
+	}
+	"TF_SNIPER_GET_BACKSTABBED_Desc"
+	{
+		"fi"	"Tule selk‰‰npuukotetuksi 50 kertaa."
+	}
+	"TF_SNIPER_KILL_AT_ROUNDSTART_Title"
+	{
+		"fi"	"Vihollinen porteilla"
+	}
+	"TF_SNIPER_KILL_AT_ROUNDSTART_Desc"
+	{
+		"fi"	"Tapa vastustaja er‰n ensimm‰isen sekunnin aikana."
+	}
+	"TF_SNIPER_HEADSHOT_POST_INVULN_Title"
+	{
+		"fi"	"J‰‰hyv‰islaukaus"
+	}
+	"TF_SNIPER_HEADSHOT_POST_INVULN_Desc"
+	{
+		"fi"	"Tapa vihollinen p‰‰osumalla heti, kun haavoittumattomuus lakkaa."
+	}
+	"TF_SNIPER_TOP_SCOREBOARD_GRIND_Title"
+	{
+		"fi"	"Loistava urani"
+	}
+	"TF_SNIPER_TOP_SCOREBOARD_GRIND_Desc"
+	{
+		"fi"	"Nouse pistetaulukon ykkˆseksi 10 kertaa 6 tai useamman pelaajan tiimeiss‰."
+	}
+	"TF_SNIPER_KILL_FAILED_SPY_Title"
+	{
+		"fi"	"Shokkihoitoa"
+	}
+	"TF_SNIPER_KILL_FAILED_SPY_Desc"
+	{
+		"fi"	"Tapa Spy, jonka puukotuksen selk‰suojasi esti."
+	}
+	"TF_SNIPER_JARATE_GROUP_Title"
+	{
+		"fi"	"Kemiallista pommitusta"
+	}
+	"TF_SNIPER_JARATE_GROUP_Desc"
+	{
+		"fi"	"K‰yt‰ nestekaratea 4 viholliseen yhdell‰ heitolla."
+	}
+	"TF_SNIPER_JARATE_MEDIC_PAIR_Title"
+	{
+		"fi"	"Sadetta niskaan"
+	}
+	"TF_SNIPER_JARATE_MEDIC_PAIR_Desc"
+	{
+		"fi"	"K‰yt‰ nestekaratea viholliseen ja h‰nt‰ parantavaan Mediciin."
+	}
+	"TF_SNIPER_JARATE_REVEAL_SPY_Title"
+	{
+		"fi"	"Paljastava neste"
+	}
+	"TF_SNIPER_JARATE_REVEAL_SPY_Desc"
+	{
+		"fi"	"Paljasta verhoutunut Spy nestekaratella."
+	}
+	"TF_SNIPER_JARATE_EXTINGUISH_Title"
+	{
+		"fi"	"Yst‰vyys on kultaa"
+	}
+	"TF_SNIPER_JARATE_EXTINGUISH_Desc"
+	{
+		"fi"	"Sammuta palava tiimikaveri nestekaratella."
+	}
+	"TF_SNIPER_BOW_PIN_HEAVY_Title"
+	{
+		"fi"	"William Tellin moka"
+	}
+	"TF_SNIPER_BOW_PIN_HEAVY_Desc"
+	{
+		"fi"	"Niittaa Heavy p‰‰st‰‰n kiinni sein‰‰n."
+	}
+	"TF_SNIPER_BOW_KILL_MEDIC_PAIR_Title"
+	{
+		"fi"	"Amorin nuoli"
+	}
+	"TF_SNIPER_BOW_KILL_MEDIC_PAIR_Desc"
+	{
+		"fi"	"Tapa Heavy- ja Medic-pari jousella."
+	}
+	"TF_SNIPER_BOW_KILL_FLAGCARRIER_Title"
+	{
+		"fi"	"Robin Hood"
+	}
+	"TF_SNIPER_BOW_KILL_FLAGCARRIER_Desc"
+	{
+		"fi"	"Pudota tietojen kuljettaja yhdell‰ nuolella."
+	}
+	"TF_SNIPER_BOW_PINCUSHION_Title"
+	{
+		"fi"	"Neulatyyny"
+	}
+	"TF_SNIPER_BOW_PINCUSHION_Desc"
+	{
+		"fi"	"Ammu viholliseen 3 nuolta tappamatta h‰nt‰."
+	}
+	"TF_SNIPER_JARATE_ASSISTS_Title"
+	{
+		"fi"	"Ykkˆsavustaja"
+	}
+	"TF_SNIPER_JARATE_ASSISTS_Desc"
+	{
+		"fi"	"Tee 5 avustusta nestekaratella yhdess‰ er‰ss‰."
+	}
+	"TF_SNIPER_JARATE_KILL_MELEE_Title"
+	{
+		"fi"	"Purkki-isku"
+	}
+	"TF_SNIPER_JARATE_KILL_MELEE_Desc"
+	{
+		"fi"	"K‰yt‰ nestekaratea 3 viholliseen ja tapa sitten heid‰t kukri-veitsell‰."
+	}
+	"TF_SNIPER_TAUNT_KILL_Title"
+	{
+		"fi"	"Tuikkaus"
+	}
+	"TF_SNIPER_TAUNT_KILL_Desc"
+	{
+		"fi"	"Puukota vihollista nuolella."
+	}
+	"TF_SNIPER_BOW_KILL_WHILEDEAD_Title"
+	{
+		"fi"	"Kosto kuoleman takaa"
+	}
+	"TF_SNIPER_BOW_KILL_WHILEDEAD_Desc"
+	{
+		"fi"	"Tapa vihollinen nuolella, kun olet jo kuollut."
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS1_Title"
+	{
+		"fi"	"Sniperin merkkipaalu 1"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS1_Desc"
+	{
+		"fi"	"Ansaitse 5 Sniper-paketin saavutusta."
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS2_Title"
+	{
+		"fi"	"Sniperin merkkipaalu 2"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS2_Desc"
+	{
+		"fi"	"Ansaitse 11 Sniper-paketin saavutusta."
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS3_Title"
+	{
+		"fi"	"Sniperin merkkipaalu 3"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS3_Desc"
+	{
+		"fi"	"Ansaitse 17 Sniper-paketin saavutusta."
+	}
+	"TF_SPY_BACKSTAB_SNIPERS_Title"
+	{
+		"fi"	"Kolmoispetos"
+	}
+	"TF_SPY_BACKSTAB_SNIPERS_Desc"
+	{
+		"fi"	"Puukota selk‰‰n 3 Sniperia yhdess‰ el‰m‰ss‰."
+	}
+	"TF_SPY_FREEZECAM_FLICK_Title"
+	{
+		"fi"	"Huippusalainen"
+	}
+	"TF_SPY_FREEZECAM_FLICK_Desc"
+	{
+		"fi"	"Anna viholliselle pys‰ytyskuva, jossa n‰ps‰yt‰t tupakan h‰nen ruumiilleen."
+	}
+	"TF_SPY_BACKSTAB_DISGUISED_SPY_Title"
+	{
+		"fi"	"Vastavakoilua"
+	}
+	"TF_SPY_BACKSTAB_DISGUISED_SPY_Desc"
+	{
+		"fi"	"Puukota selk‰‰n valeasuista Spyta."
+	}
+	"TF_SPY_BACKSTAB_DISGUISE_TARGET_Title"
+	{
+		"fi"	"Varastettu henkilˆllisyys"
+	}
+	"TF_SPY_BACKSTAB_DISGUISE_TARGET_Desc"
+	{
+		"fi"	"Puukota selk‰‰n vihollista, joksi olet parhaillaan naamioitunut."
+	}
+	"TF_SPY_BACKSTAB_MEDIC_HEALING_YOU_Title"
+	{
+		"fi"	"FYI olen vakooja"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_HEALING_YOU_Desc"
+	{
+		"fi"	"Puukota selk‰‰n Medici‰, joka on parantanut sinut viimeisen 5 sekunnin aikana."
+	}
+	"TF_SPY_BACKSTAB_ENGY_SAP_BUILDING_Title"
+	{
+		"fi"	"Rikkin‰iset rakennelmat"
+	}
+	"TF_SPY_BACKSTAB_ENGY_SAP_BUILDING_Desc"
+	{
+		"fi"	"Puukota selk‰‰n Engineeri‰ ja aseta sitten tyhjent‰j‰ 3:een h‰nen rakennukseensa 10 sekunnin kuluessa."
+	}
+	"TF_SPY_SAP_BUILDING_BACKSTAB_ENGY_Title"
+	{
+		"fi"	"Tyhjent‰v‰ esitys"
+	}
+	"TF_SPY_SAP_BUILDING_BACKSTAB_ENGY_Desc"
+	{
+		"fi"	"Aseta tyhjent‰j‰ vihollisen rakennukseen ja puukota selk‰‰n sen rakentanutta Engineeri‰ 5 sekunnin kuluessa."
+	}
+	"TF_SPY_BACKSTAB_MEDIC_PAIR_Title"
+	{
+		"fi"	"Viilt‰v‰ v‰liintulo"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_PAIR_Desc"
+	{
+		"fi"	"Puukota selk‰‰n vihollista ja h‰nt‰ parantavaa Medici‰ 10 sekunnin kuluessa."
+	}
+	"TF_SPY_BACKSTAB_FRIENDS_Title"
+	{
+		"fi"	"Provokaattori"
+	}
+	"TF_SPY_BACKSTAB_FRIENDS_Desc"
+	{
+		"fi"	"Puukota selk‰‰n Steam-yhteisˆkavereitasi 10 kertaa."
+	}
+	"TF_SPY_DOMINATE_SNIPER_Title"
+	{
+		"fi"	"Alista aussi"
+	}
+	"TF_SPY_DOMINATE_SNIPER_Desc"
+	{
+		"fi"	"Hallitse Sniperia."
+	}
+	"TF_SPY_BUMP_CLOAKED_SPY_Title"
+	{
+		"fi"	"Mit‰s me vakoojat"
+	}
+	"TF_SPY_BUMP_CLOAKED_SPY_Desc"
+	{
+		"fi"	"Tˆrm‰‰ verhoutuneena vihollispuolen verhoutuneeseen Spyhin."
+	}
+	"TF_SPY_KILL_SPY_WITH_KNIFE_Title"
+	{
+		"fi"	"Veitsi vie voiton"
+	}
+	"TF_SPY_KILL_SPY_WITH_KNIFE_Desc"
+	{
+		"fi"	"Tapa asetta k‰ytt‰v‰ Spy veitsell‰."
+	}
+	"TF_SPY_SURVIVE_BURNING_Title"
+	{
+		"fi"	"Tulenkest‰v‰"
+	}
+	"TF_SPY_SURVIVE_BURNING_Desc"
+	{
+		"fi"	"Pysy hengiss‰ 30 sekuntia sytytty‰si tuleen verhoutuneena."
+	}
+	"TF_SPY_BREAK_SHIELD_KILL_SNIPER_Title"
+	{
+		"fi"	"Kuolema sai odottaa"
+	}
+	"TF_SPY_BREAK_SHIELD_KILL_SNIPER_Desc"
+	{
+		"fi"	"Tapa Sniper, kun puukotuksesi on rikkonut h‰nen selk‰suojansa."
+	}
+	"TF_SPY_KILL_WORKING_ENGY_Title"
+	{
+		"fi"	"Tyˆnseisaus"
+	}
+	"TF_SPY_KILL_WORKING_ENGY_Desc"
+	{
+		"fi"	"Tapa vartiotykki‰ rakentava Engineer."
+	}
+	"TF_SPY_MEDIC_HEALING_KILL_ENEMY_Title"
+	{
+		"fi"	"Vakuutuspetos"
+	}
+	"TF_SPY_MEDIC_HEALING_KILL_ENEMY_Desc"
+	{
+		"fi"	"Tapa vihollinen samalla, kun vastapuolen Medic parantaa sinua."
+	}
+	"TF_SPY_KILL_CP_DEFENDERS_Title"
+	{
+		"fi"	"Teurastaja pisteell‰"
+	}
+	"TF_SPY_KILL_CP_DEFENDERS_Desc"
+	{
+		"fi"	"Tapa 15 vihollista, jotka seisovat hallussaan olevalla komentopisteell‰."
+	}
+	"TF_SPY_BACKSTAB_DOMINATING_ENEMY_Title"
+	{
+		"fi"	"Arvokas kohde"
+	}
+	"TF_SPY_BACKSTAB_DOMINATING_ENEMY_Desc"
+	{
+		"fi"	"Puukota selk‰‰n vihollista, joka hallitsee 3 tai useampaa tiimikaveriasi."
+	}
+	"TF_SPY_REVENGE_WITH_BACKSTAB_Title"
+	{
+		"fi"	"Kylm‰ kostaja"
+	}
+	"TF_SPY_REVENGE_WITH_BACKSTAB_Desc"
+	{
+		"fi"	"Tee kostotappo selk‰‰npuukotuksella."
+	}
+	"TF_SPY_KNIFE_KILL_WHILE_JARATED_Title"
+	{
+		"fi"	"M‰rk‰ kuolema"
+	}
+	"TF_SPY_KNIFE_KILL_WHILE_JARATED_Desc"
+	{
+		"fi"	"Puukota vihollinen hengilt‰, kun olet nestekaraten vaikutuksen alaisena."
+	}
+	"TF_SPY_BACKSTAB_QUICK_KILLS_Title"
+	{
+		"fi"	"Viill‰t vain kolmesti"
+	}
+	"TF_SPY_BACKSTAB_QUICK_KILLS_Desc"
+	{
+		"fi"	"Puukota selk‰‰n 3 vihollista 10 sekunnissa."
+	}
+	"TF_SPY_BACKSTAB_GRIND_Title"
+	{
+		"fi"	"Vakoojien kuningas"
+	}
+	"TF_SPY_BACKSTAB_GRIND_Desc"
+	{
+		"fi"	"Puukota selk‰‰n 1000 vihollista."
+	}
+	"TF_SPY_SAPPER_GRIND_Title"
+	{
+		"fi"	"Tuhat tyhjennyst‰"
+	}
+	"TF_SPY_SAPPER_GRIND_Desc"
+	{
+		"fi"	"Tuhoa 1000 Engineerin rakennusta tyhjent‰jill‰."
+	}
+	"TF_SPY_SAPPER_TEAMWORK_Title"
+	{
+		"fi"	"Yhteisoperaatio"
+	}
+	"TF_SPY_SAPPER_TEAMWORK_Desc"
+	{
+		"fi"	"Aseta tyhjent‰j‰ vihollisen vartiotykkiin 3 sekunnin kuluessa siit‰, kun tiimikaverisi tekee saman toiseen tykkiin."
+	}
+	"TF_SPY_BACKSTAB_MEDIC_CHARGED_Title"
+	{
+		"fi"	"Tri Eeeiiiiiii"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_CHARGED_Desc"
+	{
+		"fi"	"Puukota selk‰‰n Medici‰, joka on tekem‰ss‰ ylilatauksen."
+	}
+	"TF_SPY_BACKSTAB_CAPPING_ENEMIES_Title"
+	{
+		"fi"	"Onko jo turvallista?"
+	}
+	"TF_SPY_BACKSTAB_CAPPING_ENEMIES_Desc"
+	{
+		"fi"	"Puukota selk‰‰n 50 vihollista, jotka ovat valtaamassa komentopisteit‰."
+	}
+	"TF_SPY_BACKSTAB_ENEMY_SWITCH_PYRO_Title"
+	{
+		"fi"	"Leikkaa ja polta"
+	}
+	"TF_SPY_BACKSTAB_ENEMY_SWITCH_PYRO_Desc"
+	{
+		"fi"	"Puukota selk‰‰n vihollista, joka vaihtaa Pyroon ennen uudelleensyntymist‰."
+	}
+	"TF_SPY_AMBASSADOR_GRIND_Title"
+	{
+		"fi"	"Diplomatiaa"
+	}
+	"TF_SPY_AMBASSADOR_GRIND_Desc"
+	{
+		"fi"	"Tapa 50 vihollista Suurl‰hettil‰‰ll‰."
+	}
+	"TF_SPY_AMBASSADOR_SNIPER_GRIND_Title"
+	{
+		"fi"	"Kuula kalloon"
+	}
+	"TF_SPY_AMBASSADOR_SNIPER_GRIND_Desc"
+	{
+		"fi"	"Tapa p‰‰osumalla 20 Sniperia Suurl‰hettil‰‰ll‰."
+	}
+	"TF_SPY_FEIGN_DEATH_KILL_Title"
+	{
+		"fi"	"Nukkuva agentti"
+	}
+	"TF_SPY_FEIGN_DEATH_KILL_Desc"
+	{
+		"fi"	"Tapa vihollinen, joka sai sinut n‰yttelem‰‰n kuollutta viimeisen 20 sekunnin aikana."
+	}
+	"TF_SPY_AMBASSADOR_SCOUT_GRIND_Title"
+	{
+		"fi"	"Nirri pois nappulalta"
+	}
+	"TF_SPY_AMBASSADOR_SCOUT_GRIND_Desc"
+	{
+		"fi"	"Tapa p‰‰osumalla 3 Scoutia Suurl‰hettil‰‰ll‰."
+	}
+	"TF_SPY_CAMP_POSITION_Title"
+	{
+		"fi"	"Soluttautuja"
+	}
+	"TF_SPY_CAMP_POSITION_Desc"
+	{
+		"fi"	"Tapa Viitta ja tikari -kelloa k‰ytt‰ess‰si sama vihollinen 3 kertaa samalla alueella yhdess‰ el‰m‰ss‰."
+	}
+	"TF_SPY_ACHIEVE_PROGRESS1_Title"
+	{
+		"fi"	"Spyn merkkipaalu 1"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS1_Desc"
+	{
+		"fi"	"Ansaitse 5 Spy-paketin saavutusta."
+	}
+	"TF_SPY_ACHIEVE_PROGRESS2_Title"
+	{
+		"fi"	"Spyn merkkipaalu 2"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS2_Desc"
+	{
+		"fi"	"Ansaitse 11 Spy-paketin saavutusta."
+	}
+	"TF_SPY_ACHIEVE_PROGRESS3_Title"
+	{
+		"fi"	"Spyn merkkipaalu 3"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS3_Desc"
+	{
+		"fi"	"Ansaitse 17 Spy-paketin saavutusta."
+	}
+	"TF_HALLOWEEN_COLLECT_PUMPKINS_Title"
+	{
+		"fi"	"Karkki tai kuolema"
+	}
+	"TF_HALLOWEEN_COLLECT_PUMPKINS_Desc"
+	{
+		"fi"	"Ansaitse hattu ker‰‰m‰ll‰ 20 Halloween-kurpitsaa kuolleilta pelaajilta."
+	}
+	"TF_HALLOWEEN_DOMINATE_FOR_HAT_Title"
+	{
+		"fi"	"Hirvityshattu haltuun"
+	}
+	"TF_HALLOWEEN_DOMINATE_FOR_HAT_Desc"
+	{
+		"fi"	"Hallitse hirvityshattua k‰ytt‰v‰‰ pelaajaa, niin ansaitset omasi."
+	}
+	"TF_HALLOWEEN_KILL_SCARED_PLAYER_Title"
+	{
+		"fi"	"Heikkohermoiset hautaan"
+	}
+	"TF_HALLOWEEN_KILL_SCARED_PLAYER_Desc"
+	{
+		"fi"	"Tapa haamujen s‰ikytt‰m‰ pelaaja KOTH Harvest -kartalla."
+	}
+	"TF_HALLOWEEN_PUMPKIN_KILL_Title"
+	{
+		"fi"	"Turmion lyhdyt"
+	}
+	"TF_HALLOWEEN_PUMPKIN_KILL_Desc"
+	{
+		"fi"	"Aiheuta 5 pelaajan kuolema kurpitsapommien r‰j‰hdyksill‰."
+	}
+	"TF_HALLOWEEN_DISGUISED_SPY_KILL_Title"
+	{
+		"fi"	"Pukukilpailu"
+	}
+	"TF_HALLOWEEN_DISGUISED_SPY_KILL_Desc"
+	{
+		"fi"	"Tapa oman hahmoluokkasi edustajaksi naamioitunut Spy."
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS1_Title"
+	{
+		"fi"	"Soldierin merkkipaalu 1"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS1_Desc"
+	{
+		"fi"	"Ansaitse 5 Soldier-paketin saavutusta."
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS2_Title"
+	{
+		"fi"	"Soldierin merkkipaalu 2"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS2_Desc"
+	{
+		"fi"	"Ansaitse 11 Soldier-paketin saavutusta."
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS3_Title"
+	{
+		"fi"	"Soldierin merkkipaalu 3"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS3_Desc"
+	{
+		"fi"	"Ansaitse 17 Soldier-paketin saavutusta."
+	}
+	"TF_SOLDIER_KILL_GROUP_WITH_CROCKET_Title"
+	{
+		"fi"	"Triplatuhoa"
+	}
+	"TF_SOLDIER_KILL_GROUP_WITH_CROCKET_Desc"
+	{
+		"fi"	"Tapa 3 vihollista yhdell‰ kriittisell‰ rakettiosumalla."
+	}
+	"TF_SOLDIER_KILL_TWO_DURING_ROCKET_JUMP_Title"
+	{
+		"fi"	"Kuolema ylh‰‰lt‰"
+	}
+	"TF_SOLDIER_KILL_TWO_DURING_ROCKET_JUMP_Desc"
+	{
+		"fi"	"Tee rakettihyppy ja tapa 2 vihollista ennen kuin osut maahan."
+	}
+	"TF_SOLDIER_THREE_DOMINATIONS_Title"
+	{
+		"fi"	"Hallitsija"
+	}
+	"TF_SOLDIER_THREE_DOMINATIONS_Desc"
+	{
+		"fi"	"Tee 3 hallitsemista yhden el‰m‰n aikana."
+	}
+	"TF_SOLDIER_DEFEND_MEDIC_Title"
+	{
+		"fi"	"Sotarikos ja rangaistus"
+	}
+	"TF_SOLDIER_DEFEND_MEDIC_Desc"
+	{
+		"fi"	"Tapa yhden el‰m‰n aikana 3 vihollista, jotka ovat haavoittaneet Medici‰, joka parantaa sinua."
+	}
+	"TF_SOLDIER_KILL_TAUNT_Title"
+	{
+		"fi"	"Verta ja suolenp‰tki‰"
+	}
+	"TF_SOLDIER_KILL_TAUNT_Desc"
+	{
+		"fi"	"Pist‰ pelaaja palasiksi kranaatilla."
+	}
+	"TF_SOLDIER_DESTROY_SENTRY_OUT_OF_RANGE_Title"
+	{
+		"fi"	"Tulta kaukaisuudesta"
+	}
+	"TF_SOLDIER_DESTROY_SENTRY_OUT_OF_RANGE_Desc"
+	{
+		"fi"	"Tuhoa 3 Engineerin vartiotykki‰, kun olet niiden kantaman ulkopuolella."
+	}
+	"TF_SOLDIER_KILL_SNIPER_WHILE_DEAD_Title"
+	{
+		"fi"	"Kauhun tasapaino"
+	}
+	"TF_SOLDIER_KILL_SNIPER_WHILE_DEAD_Desc"
+	{
+		"fi"	"Tapa vihollis-Sniper raketilla sen j‰lkeen, kun h‰n on tappanut sinut."
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_TARGET_WHILE_AIRBORNE_Title"
+	{
+		"fi"	"Punainen paroni"
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_TARGET_WHILE_AIRBORNE_Desc"
+	{
+		"fi"	"Tapa vihollis-Soldier, kun olette molemmat ilmassa."
+	}
+	"TF_SOLDIER_KILL_ENGY_Title"
+	{
+		"fi"	"Korjaukset seis"
+	}
+	"TF_SOLDIER_KILL_ENGY_Desc"
+	{
+		"fi"	"Tapa Engineer samalla, kun t‰m‰ korjaa tulen alla olevaa vartiotykki‰‰n."
+	}
+	"TF_SOLDIER_NEMESIS_SHOVEL_KILL_Title"
+	{
+		"fi"	"Kuoppajaiset"
+	}
+	"TF_SOLDIER_NEMESIS_SHOVEL_KILL_Desc"
+	{
+		"fi"	"Tapa perivihollinen lapiolla."
+	}
+	"TF_SOLDIER_DESTROY_STICKIES_Title"
+	{
+		"fi"	"Pomminpurkaja"
+	}
+	"TF_SOLDIER_DESTROY_STICKIES_Desc"
+	{
+		"fi"	"Tuhoa 10 tahmapommia haulikolla yhden el‰m‰n aikana."
+	}
+	"TF_SOLDIER_CROUCH_ROCKET_JUMP_Title"
+	{
+		"fi"	"Kotkat kuuntelevat"
+	}
+	"TF_SOLDIER_CROUCH_ROCKET_JUMP_Desc"
+	{
+		"fi"	"Tee korkein mahdollinen rakettihyppy kyyristymis- ja hyppytoiminnolla."
+	}
+	"TF_SOLDIER_BUFF_FRIENDS_Title"
+	{
+		"fi"	"Lippu liehuu"
+	}
+	"TF_SOLDIER_BUFF_FRIENDS_Desc"
+	{
+		"fi"	"Buustaa 5:tt‰ Steam-kaveria samanaikaisesti Sotalipulla."
+	}
+	"TF_SOLDIER_KILL_TWENTY_FROM_ABOVE_Title"
+	{
+		"fi"	"Ilmojen valtias"
+	}
+	"TF_SOLDIER_KILL_TWENTY_FROM_ABOVE_Desc"
+	{
+		"fi"	"Tapa 20 vihollista yl‰ilmoista."
+	}
+	"TF_SOLDIER_SHOOT_MULT_CRITS_Title"
+	{
+		"fi"	"Tappava tupla"
+	}
+	"TF_SOLDIER_SHOOT_MULT_CRITS_Desc"
+	{
+		"fi"	"Ammu kaksi ei-buustattua kriittist‰ rakettia per‰j‰lkeen"
+	}
+	"TF_SOLDIER_KILL_DEFENSELESS_Title"
+	{
+		"fi"	"Geneven sopimukset m‰keen"
+	}
+	"TF_SOLDIER_KILL_DEFENSELESS_Desc"
+	{
+		"fi"	"Tapa 5 puolustuskyvytˆnt‰ pelaajaa yhden matsin aikana."
+	}
+	"TF_SOLDIER_KILL_ON_FIRE_Title"
+	{
+		"fi"	"Liekehtiv‰ kuolema"
+	}
+	"TF_SOLDIER_KILL_ON_FIRE_Desc"
+	{
+		"fi"	"Tapa 20 vihollista, kun olet tulessa."
+	}
+	"TF_SOLDIER_KILL_FIVE_STUNNED_Title"
+	{
+		"fi"	"Lyˆ lyˆty‰"
+	}
+	"TF_SOLDIER_KILL_FIVE_STUNNED_Desc"
+	{
+		"fi"	"Tapa 5 tyrm‰tty‰ pelaajaa."
+	}
+	"TF_SOLDIER_FREEZECAM_GIBS_Title"
+	{
+		"fi"	"Suolaa haavoihin"
+	}
+	"TF_SOLDIER_FREEZECAM_GIBS_Desc"
+	{
+		"fi"	"Anna viholliselle pys‰ytyskuvat, joissa pilkkaat 3 eri ruumiinosan yll‰."
+	}
+	"TF_SOLDIER_KILL_SPY_KILLER_Title"
+	{
+		"fi"	"Petturille ansionsa mukaan"
+	}
+	"TF_SOLDIER_KILL_SPY_KILLER_Desc"
+	{
+		"fi"	"Tapa Spy, joka on juuri puukottanut selk‰‰n tiimikaveria."
+	}
+	"TF_SOLDIER_DEFEND_CAP_THIRTY_TIMES_Title"
+	{
+		"fi"	"Kollaa kest‰‰"
+	}
+	"TF_SOLDIER_DEFEND_CAP_THIRTY_TIMES_Desc"
+	{
+		"fi"	"Puolusta valtauspistett‰ 30 kertaa."
+	}
+	"TF_SOLDIER_GIB_GRIND_Title"
+	{
+		"fi"	"Sodan arvet"
+	}
+	"TF_SOLDIER_GIB_GRIND_Desc"
+	{
+		"fi"	"Pist‰ 1000 pelaajaa silpuksi"
+	}
+	"TF_SOLDIER_RJ_EQUALIZER_KILL_Title"
+	{
+		"fi"	"Ilmaisku"
+	}
+	"TF_SOLDIER_RJ_EQUALIZER_KILL_Desc"
+	{
+		"fi"	"Tapa rakettihypyn aikana vihollinen Tasoittajalla, ennen kuin osut maahan."
+	}
+	"TF_SOLDIER_BUFF_TEAMMATES_Title"
+	{
+		"fi"	"Moraalin nostatus"
+	}
+	"TF_SOLDIER_BUFF_TEAMMATES_Desc"
+	{
+		"fi"	"Buustaa 15 tiimikaveria Sotalipulla yhden el‰m‰n aikana."
+	}
+	"TF_SOLDIER_KILL_DEMOMAN_GRIND_Title"
+	{
+		"fi"	"Skotit sukupuuttoon!"
+	}
+	"TF_SOLDIER_KILL_DEMOMAN_GRIND_Desc"
+	{
+		"fi"	"Tapa 500 tapa vihollis-Demoa"
+	}
+	"TF_SOLDIER_KILL_PYRO_Title"
+	{
+		"fi"	"Leiki tulella"
+	}
+	"TF_SOLDIER_KILL_PYRO_Desc"
+	{
+		"fi"	"Tapa Pyro, joka on haitannut rakettisi lentoa ilmapuhalluksella viimeisen 10 sekunnin aikana."
+	}
+	"TF_SOLDIER_EQUALIZER_STREAK_Title"
+	{
+		"fi"	"Ei aikaa verenvuodatukseen"
+	}
+	"TF_SOLDIER_EQUALIZER_STREAK_Desc"
+	{
+		"fi"	"Tapa 3 pelaajaa yhden el‰m‰n aikana ilman, ett‰ sinua parannetaan."
+	}
+	"TF_SOLDIER_KILL_WITH_EQUALIZER_WHILE_HURT_Title"
+	{
+		"fi"	"L‰hell‰ kuolemaa"
+	}
+	"TF_SOLDIER_KILL_WITH_EQUALIZER_WHILE_HURT_Desc"
+	{
+		"fi"	"Tapa 20 vihollista Tasoittajalla, kun sinulla on alle 25 pistett‰ terveytt‰."
+	}
+	"TF_SOLDIER_BOUNCE_THEN_SHOTGUN_Title"
+	{
+		"fi"	"Savikiekko"
+	}
+	"TF_SOLDIER_BOUNCE_THEN_SHOTGUN_Desc"
+	{
+		"fi"	"Ponnahduta vihollinen ilmaan raketilla ja tapa h‰net haulikolla ilmasta."
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_WITH_DIRECT_HIT_Title"
+	{
+		"fi"	"Ilmatorjuntaa"
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_WITH_DIRECT_HIT_Desc"
+	{
+		"fi"	"Tapa 10 ilmassa olevaa vihollista Suoraosumalla."
+	}
+	"TF_SOLDIER_FREEZECAM_TAUNT_Title"
+	{
+		"fi"	"Enemm‰n kuin tuhat sanaa"
+	}
+	"TF_SOLDIER_FREEZECAM_TAUNT_Desc"
+	{
+		"fi"	"Anna viholliselle pys‰ytyskuva kunnialaukauksistasi."
+	}
+	"TF_SOLDIER_DUO_SOLDIER_KILLS_Title"
+	{
+		"fi"	"Asevelitalkoot"
+	}
+	"TF_SOLDIER_DUO_SOLDIER_KILLS_Desc"
+	{
+		"fi"	"Tapa 10 vihollista toisen Soldierin avulla tai avustajana."
+	}
+	"TF_SOLDIER_MVP_Title"
+	{
+		"fi"	"Kunniamitalit"
+	}
+	"TF_SOLDIER_MVP_Desc"
+	{
+		"fi"	"Ole er‰n t‰rkein pelaaja 10 kertaa."
+	}
+	"TF_SOLDIER_RIDE_THE_CART_Title"
+	{
+		"fi"	"Ajoneuvoon nouse"
+	}
+	"TF_SOLDIER_RIDE_THE_CART_Desc"
+	{
+		"fi"	"Aja k‰rryn kyydiss‰ 30 sekuntia."
+	}
+	"TF_SOLDIER_ASSIST_MEDIC_UBER_Title"
+	{
+		"fi"	"Terminaalihoitoa"
+	}
+	"TF_SOLDIER_ASSIST_MEDIC_UBER_Desc"
+	{
+		"fi"	"Avusta Medici‰ 5 vihollisen r‰j‰ytt‰misess‰ yhdell‰ ylilatauksella."
+	}
+	"TF_DEMOMAN_KILL_SOLDIER_GRIND_Title"
+	{
+		"fi"	"Rintaman kauhu"
+	}
+	"TF_DEMOMAN_KILL_SOLDIER_GRIND_Desc"
+	{
+		"fi"	"Tapa 500 vihollis-Soldieria"
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_WITH_MEDIC_Title"
+	{
+		"fi"	"Murskaaja"
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_WITH_MEDIC_Desc"
+	{
+		"fi"	"Tuhoa 5 vihollispuolen Engineerin rakennusta yhden Medicin ylilatauksen aikana."
+	}
+	"TF_DEMOMAN_DECAPITATE_CLOAKED_SPY_Title"
+	{
+		"fi"	"Ei armoa agentille"
+	}
+	"TF_DEMOMAN_DECAPITATE_CLOAKED_SPY_Desc"
+	{
+		"fi"	"Lyˆ verhoutuneen Spyn p‰‰ irti."
+	}
+	"TF_DEMOMAN_KILL_X_WITH_DIRECTPIPE_Title"
+	{
+		"fi"	"Tarkkaa tulta"
+	}
+	"TF_DEMOMAN_KILL_X_WITH_DIRECTPIPE_Desc"
+	{
+		"fi"	"Tapa 50 vihollista kranaatinheittimen suoraosumilla."
+	}
+	"TF_DEMOMAN_BOUNCE_AND_KILL_Title"
+	{
+		"fi"	"Hirrenheitto"
+	}
+	"TF_DEMOMAN_BOUNCE_AND_KILL_Desc"
+	{
+		"fi"	"Ponnahduta vihollinen ilmaan ja tapa h‰net ilmassa."
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_Title"
+	{
+		"fi"	"Aivojumppaa"
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_Desc"
+	{
+		"fi"	"Lyˆ p‰‰ irti 50 vihollispelaajalta."
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_FAST_Title"
+	{
+		"fi"	"Nelj‰n p‰‰n kokoelma"
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_FAST_Desc"
+	{
+		"fi"	"Lyˆ p‰‰ irti 4 pelaajalta niin, ett‰ tappojen v‰lill‰ kuluu aikaa vain 10 sekuntia."
+	}
+	"TF_DEMOMAN_DUO_DEMOMAN_KILLS_Title"
+	{
+		"fi"	"R‰j‰ht‰v‰‰ tiimityˆt‰"
+	}
+	"TF_DEMOMAN_DUO_DEMOMAN_KILLS_Desc"
+	{
+		"fi"	"Tapa 10 vihollista toisen Demon avulla tai avustajana."
+	}
+	"TF_DEMOMAN_KILL_TWO_DURING_STICKYJUMP_Title"
+	{
+		"fi"	"Skottilainen tuplatappo"
+	}
+	"TF_DEMOMAN_KILL_TWO_DURING_STICKYJUMP_Desc"
+	{
+		"fi"	"Tapa 2 pelaajaa yhden tahmapommihypyn aikana."
+	}
+	"TF_DEMOMAN_KILL_PLAYER_AFTER_TP_Title"
+	{
+		"fi"	"Tahmainen loppu"
+	}
+	"TF_DEMOMAN_KILL_PLAYER_AFTER_TP_Desc"
+	{
+		"fi"	"Tapa vihollispelaaja tahmapommeilla 5 sekunnin kuluessa siit‰, kun h‰n on teleportannut."
+	}
+	"TF_DEMOMAN_DOMINATE_THREE_ENGINEERS_Title"
+	{
+		"fi"	"Kolmoisvoitto"
+	}
+	"TF_DEMOMAN_DOMINATE_THREE_ENGINEERS_Desc"
+	{
+		"fi"	"Hallitse 3 Engineeri‰."
+	}
+	"TF_DEMOMAN_KILL_BUILDING_DIRECT_HIT_Title"
+	{
+		"fi"	"Sokeaa tulta"
+	}
+	"TF_DEMOMAN_KILL_BUILDING_DIRECT_HIT_Desc"
+	{
+		"fi"	"Tuhoa kranaatinheittimen suoraosumalla Engineerin rakennus, joka ei ole n‰kyviss‰si."
+	}
+	"TF_DEMOMAN_MELEE_KILL_WHILE_STICKYJUMPING_Title"
+	{
+		"fi"	"Kuoleman lento"
+	}
+	"TF_DEMOMAN_MELEE_KILL_WHILE_STICKYJUMPING_Desc"
+	{
+		"fi"	"Tee l‰hitaistelutappo tahmapommihypyn aikana."
+	}
+	"TF_DEMOMAN_KILL_ENGI_SENTRY_DISPENSER_Title"
+	{
+		"fi"	"Tahmapommin tehok‰yttˆ"
+	}
+	"TF_DEMOMAN_KILL_ENGI_SENTRY_DISPENSER_Desc"
+	{
+		"fi"	"R‰j‰yt‰ Engineer, h‰nen vartiotykkins‰ ja apulaitteensa yhdell‰ tahmapommilla."
+	}
+	"TF_DEMOMAN_DECAPITATE_EQUALIZER_Title"
+	{
+		"fi"	"Silvottu solttu"
+	}
+	"TF_DEMOMAN_DECAPITATE_EQUALIZER_Desc"
+	{
+		"fi"	"Lyˆ p‰‰ irti vihollis-Soldierilta, joka heiluttaa Tasoittajaa."
+	}
+	"TF_DEMOMAN_DECAPITATE_NEMESIS_Title"
+	{
+		"fi"	"Voi olla vain yksi"
+	}
+	"TF_DEMOMAN_DECAPITATE_NEMESIS_Desc"
+	{
+		"fi"	"Lyˆ p‰‰ irti periviholliseltasi."
+	}
+	"TF_DEMOMAN_DAMAGE_GRIND_Title"
+	{
+		"fi"	"Miljoonasaldo"
+	}
+	"TF_DEMOMAN_DAMAGE_GRIND_Desc"
+	{
+		"fi"	"Tee 1 miljoonan pisteen edest‰ r‰j‰hdystuhoa."
+	}
+	"TF_DEMOMAN_KILL_X_CAPPING_ONEDET_Title"
+	{
+		"fi"	"Hattutemppu"
+	}
+	"TF_DEMOMAN_KILL_X_CAPPING_ONEDET_Desc"
+	{
+		"fi"	"Tapa yhdell‰ tahmapommilla 3 vihollista, jotka ovat valtaamassa pistett‰ tai tyˆnt‰m‰ss‰ k‰rry‰, 3 eri kertaa."
+	}
+	"TF_DEMOMAN_KILL_X_DEFENDING_Title"
+	{
+		"fi"	"Yl‰maan ylpeys"
+	}
+	"TF_DEMOMAN_KILL_X_DEFENDING_Desc"
+	{
+		"fi"	"Tapa 25 pelaajaa valtauspisteen tai k‰rryn puolustuksen aikana."
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_GRIND_Title"
+	{
+		"fi"	"Purkumestari"
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_GRIND_Desc"
+	{
+		"fi"	"Tuhoa 50 rakennusta."
+	}
+	"TF_DEMOMAN_KILL_X_HEAVIES_FULLHP_ONEDET_Title"
+	{
+		"fi"	"ƒkkikuolema"
+	}
+	"TF_DEMOMAN_KILL_X_HEAVIES_FULLHP_ONEDET_Desc"
+	{
+		"fi"	"Tapa 5 Heavy‰, joilla on t‰ysi terveys, yhdell‰ tahmapommilla."
+	}
+	"TF_DEMOMAN_KILL_X_SCOUTS_PYROS_Title"
+	{
+		"fi"	"Ei yht‰‰n kiltti‰"
+	}
+	"TF_DEMOMAN_KILL_X_SCOUTS_PYROS_Desc"
+	{
+		"fi"	"Tapa 25 Scoutia ja Pyroa kranaatinheittimell‰."
+	}
+	"TF_DEMOMAN_TAUNT_KILL_Title"
+	{
+		"fi"	"Verenhimo"
+	}
+	"TF_DEMOMAN_TAUNT_KILL_Desc"
+	{
+		"fi"	"Hekumoi vihollisten teurastuksesta Kaulankatkojalla."
+	}
+	"TF_DEMOMAN_CHARGE_KILL_Title"
+	{
+		"fi"	"Kilpitappo"
+	}
+	"TF_DEMOMAN_CHARGE_KILL_Desc"
+	{
+		"fi"	"Rynn‰kˆi ja tapa toinen pelaaja kilvell‰."
+	}
+	"TF_DEMOMAN_CRIT_SWORD_KILL_Title"
+	{
+		"fi"	"Miekkamies"
+	}
+	"TF_DEMOMAN_CRIT_SWORD_KILL_Desc"
+	{
+		"fi"	"Tapa 5 pelaajaa Kaulankatkojan kriittisell‰ iskulla."
+	}
+	"TF_DEMOMAN_AIR_BURST_KILLS_Title"
+	{
+		"fi"	"Tahmea sade"
+	}
+	"TF_DEMOMAN_AIR_BURST_KILLS_Desc"
+	{
+		"fi"	"Tapa 30 pelaajaa ilmassa r‰j‰ht‰vill‰ tahmapommeilla."
+	}
+	"TF_DEMOMAN_STICKYJUMP_CAP_Title"
+	{
+		"fi"	"Ilmojen halki"
+	}
+	"TF_DEMOMAN_STICKYJUMP_CAP_Desc"
+	{
+		"fi"	"Tee tahmapommihyppy valtauspisteelle ja valtaa se."
+	}
+	"TF_DEMOMAN_FREEZECAM_SMILE_Title"
+	{
+		"fi"	"Veriset terveiset"
+	}
+	"TF_DEMOMAN_FREEZECAM_SMILE_Desc"
+	{
+		"fi"	"Anna vihollispelaajalle pys‰ytyskuva hymyilevist‰ kasvoistasi."
+	}
+	"TF_DEMOMAN_FREEZECAM_RUMP_Title"
+	{
+		"fi"	"P‰in peppua"
+	}
+	"TF_DEMOMAN_FREEZECAM_RUMP_Desc"
+	{
+		"fi"	"Anna vihollispelaajalle pys‰ytyskuva, jossa heilutat takapuoltasi."
+	}
+	"TF_DEMOMAN_ENVIRONMENTAL_KILL_Title"
+	{
+		"fi"	"Ik‰v‰ sattuma"
+	}
+	"TF_DEMOMAN_ENVIRONMENTAL_KILL_Desc"
+	{
+		"fi"	"Tapa vihollispelaaja tahmapommin laukaisimen aiheuttamalla ymp‰ristˆvahingolla."
+	}
+	"TF_DEMOMAN_DESTROY_X_STICKYBOMBS_Title"
+	{
+		"fi"	"Pommintorjuntaa"
+	}
+	"TF_DEMOMAN_DESTROY_X_STICKYBOMBS_Desc"
+	{
+		"fi"	"Tuhoa 100 vihollisen tahmapommia Skotlannin vastarinnalla."
+	}
+	"TF_DEMOMAN_STICKJUMP_DISTANCE_Title"
+	{
+		"fi"	"Lent‰v‰ skotlantilainen"
+	}
+	"TF_DEMOMAN_STICKJUMP_DISTANCE_Desc"
+	{
+		"fi"	"Tee todella pitk‰ tahmapommihyppy..."
+	}
+	"TF_DEMOMAN_KILL3_WITH_DETONATION_Title"
+	{
+		"fi"	"S‰kkipilli soimaan"
+	}
+	"TF_DEMOMAN_KILL3_WITH_DETONATION_Desc"
+	{
+		"fi"	"Tapa v‰hint‰‰n kolme pelaajaa yhdell‰ tahmapommien r‰j‰ytyksell‰."
+	}
+	"TF_DEMOMAN_KILLXSAPPINGSPIES_Title"
+	{
+		"fi"	"Sabotaasi seis"
+	}
+	"TF_DEMOMAN_KILLXSAPPINGSPIES_Desc"
+	{
+		"fi"	"Tapa 20 Spyta 5 sekunnin kuluessa siit‰, kun he ovat laittaneet tyhjent‰j‰n oman puolesi rakennukseen."
+	}
+	"TF_DEMOMAN_KILL3_WITH_PIPE_SETUPS_Title"
+	{
+		"fi"	"Tuhoketju"
+	}
+	"TF_DEMOMAN_KILL3_WITH_PIPE_SETUPS_Desc"
+	{
+		"fi"	"Tapa Skotlannin vastarinnalla 3 pelaajaa erillisiss‰ r‰j‰hdyksiss‰ asettamatta uusia tahmapommeja."
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS1_Title"
+	{
+		"fi"	"Demon merkkipaalu 1"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS1_Desc"
+	{
+		"fi"	"Ansaitse 5 Demo-paketin saavutusta."
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS2_Title"
+	{
+		"fi"	"Demon merkkipaalu 2"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS2_Desc"
+	{
+		"fi"	"Ansaitse 11 Demo-paketin saavutusta."
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS3_Title"
+	{
+		"fi"	"Demon merkkipaalu 3"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS3_Desc"
+	{
+		"fi"	"Ansaitse 17 Demo-paketin saavutusta."
+	}
+	"TF_SPY_TAUNT_KILL_Title"
+	{
+		"fi"	"Miekanviuhuttaja"
+	}
+	"TF_SPY_TAUNT_KILL_Desc"
+	{
+		"fi"	"Puukota vihollista, kun esittelet miekkailutaitojasi."
+	}
+	"TF_SPY_FAST_CAP_Title"
+	{
+		"fi"	"Salamavakooja"
+	}
+	"TF_SPY_FAST_CAP_Desc"
+	{
+		"fi"	"Aloita pisteen valtaus sekunnin kuluessa siit‰, kun piste tulee saataville."
+	}
+}

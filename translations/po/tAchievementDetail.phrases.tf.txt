@@ -1,0 +1,2611 @@
+"Phrases"
+{
+	"TF_GET_TURRETKILLS_Title"
+	{
+		"po"	"Atirador de sentinela"
+	}
+	"TF_GET_TURRETKILLS_Desc"
+	{
+		"po"	"Acumule 10 mortes de sentinela com uma só sentinela."
+	}
+	"TF_KILL_NEMESIS_Title"
+	{
+		"po"	"Némesis"
+	}
+	"TF_KILL_NEMESIS_Desc"
+	{
+		"po"	"Faça cinco mortes de vingança."
+	}
+	"TF_GET_CONSECUTIVEKILLS_NODEATHS_Title"
+	{
+		"po"	"Duro de matar"
+	}
+	"TF_GET_CONSECUTIVEKILLS_NODEATHS_Desc"
+	{
+		"po"	"Faça cinco mortes consecutivas sem morrer."
+	}
+	"TF_GET_HEALED_BYENEMY_Title"
+	{
+		"po"	"Mestre do disfarce"
+	}
+	"TF_GET_HEALED_BYENEMY_Desc"
+	{
+		"po"	"Engane um Medic inimigo, levando-o a curá-lo."
+	}
+	"TF_GET_HEADSHOTS_Title"
+	{
+		"po"	"Massa cinzenta"
+	}
+	"TF_GET_HEADSHOTS_Desc"
+	{
+		"po"	"Atinja 25 inimigos na cabeça enquanto Sniper."
+	}
+	"TF_PLAY_GAME_FRIENDSONLY_Title"
+	{
+		"po"	"Com amigos destes..."
+	}
+	"TF_PLAY_GAME_FRIENDSONLY_Desc"
+	{
+		"po"	"Jogue com 7 ou mais jogadores da sua lista de amigos."
+	}
+	"TF_WIN_MULTIPLEGAMES_Title"
+	{
+		"po"	"Dinastia"
+	}
+	"TF_WIN_MULTIPLEGAMES_Desc"
+	{
+		"po"	"Vença 20 jogos."
+	}
+	"TF_GET_MULTIPLEKILLS_Title"
+	{
+		"po"	"Hardcore"
+	}
+	"TF_GET_MULTIPLEKILLS_Desc"
+	{
+		"po"	"Acumule um total de 1000 mortes."
+	}
+	"TF_WIN_2FORT_NOENEMYCAPS_Title"
+	{
+		"po"	"Ataque à central eléctrica"
+	}
+	"TF_WIN_2FORT_NOENEMYCAPS_Desc"
+	{
+		"po"	"Ganhe 2Fort com um apagão."
+	}
+	"TF_WIN_WELL_MINIMUMTIME_Title"
+	{
+		"po"	"Ataque relâmpago"
+	}
+	"TF_WIN_WELL_MINIMUMTIME_Desc"
+	{
+		"po"	"Ganhe Well em 5 minutos ou menos."
+	}
+	"TF_WIN_HYDRO_NOENEMYCAPS_Title"
+	{
+		"po"	"Ataque implacável"
+	}
+	"TF_WIN_HYDRO_NOENEMYCAPS_Desc"
+	{
+		"po"	"Ganhe o Hydro sem ceder uma captura."
+	}
+	"TF_WIN_DUSTBOWL_NOENEMYCAPS_Title"
+	{
+		"po"	"Defesa impenetrável"
+	}
+	"TF_WIN_DUSTBOWL_NOENEMYCAPS_Desc"
+	{
+		"po"	"Defenda o Dustbowl com sucesso sem ceder uma captura."
+	}
+	"TF_WIN_GRAVELPIT_NOENEMYCAPS_Title"
+	{
+		"po"	"Defesa impossível"
+	}
+	"TF_WIN_GRAVELPIT_NOENEMYCAPS_Desc"
+	{
+		"po"	"Defenda o Gravel Pit com sucesso sem ceder uma captura."
+	}
+	"TF_PLAY_GAME_EVERYCLASS_Title"
+	{
+		"po"	"Chefe de classe"
+	}
+	"TF_PLAY_GAME_EVERYCLASS_Desc"
+	{
+		"po"	"Jogue uma ronda completa com cada uma das classes."
+	}
+	"TF_PLAY_GAME_EVERYMAP_Title"
+	{
+		"po"	"Viajante do mundo"
+	}
+	"TF_PLAY_GAME_EVERYMAP_Desc"
+	{
+		"po"	"Jogue um jogo completo nos mapas 2Fort, Dustbowl, Granary, Gravel Pit, Hydro e Well (CP)."
+	}
+	"TF_GET_HEALPOINTS_Title"
+	{
+		"po"	"Médico da equipa"
+	}
+	"TF_GET_HEALPOINTS_Desc"
+	{
+		"po"	"Acumule 25.000 pontos de energia enquanto Medic."
+	}
+	"TF_BURN_PLAYERSINMINIMUMTIME_Title"
+	{
+		"po"	"Lança-chamas"
+	}
+	"TF_BURN_PLAYERSINMINIMUMTIME_Desc"
+	{
+		"po"	"Incendeie cinco inimigos em 30 segundos."
+	}
+	"TF_MEDIC_TOP_SCOREBOARD_Title"
+	{
+		"po"	"A princípio, não farás mal"
+	}
+	"TF_MEDIC_TOP_SCOREBOARD_Desc"
+	{
+		"po"	"Jogue uma ronda completa sem matar inimigos e obtenha a pontuação mais alta numa equipa de 6 ou mais jogadores."
+	}
+	"TF_MEDIC_HEAL_UNDER_FIRE_Title"
+	{
+		"po"	"Bypass quádruplo"
+	}
+	"TF_MEDIC_HEAL_UNDER_FIRE_Desc"
+	{
+		"po"	"Cure um companheiro de equipa que esteja a ser atacado por 4 inimigos em simultâneo."
+	}
+	"TF_MEDIC_SIMUL_CHARGE_Title"
+	{
+		"po"	"Energia em grupo"
+	}
+	"TF_MEDIC_SIMUL_CHARGE_Desc"
+	{
+		"po"	"Em conjunto com 2 outros Medics, monte 3 SobreCargas em simultâneo."
+	}
+	"TF_MEDIC_SETUP_CHARGE_Title"
+	{
+		"po"	"Preparação cirúrgica"
+	}
+	"TF_MEDIC_SETUP_CHARGE_Desc"
+	{
+		"po"	"Tenha uma SobreCarga preparada antes do fim da fase de configuração."
+	}
+	"TF_MEDIC_RAPID_CHARGE_Title"
+	{
+		"po"	"Rei das urgências"
+	}
+	"TF_MEDIC_RAPID_CHARGE_Desc"
+	{
+		"po"	"Monte 3 SobreCargas em menos de 5 minutos e ajude em 5 mortes durante esse tempo."
+	}
+	"TF_MEDIC_COUNTER_CHARGE_Title"
+	{
+		"po"	"Experiência cega"
+	}
+	"TF_MEDIC_COUNTER_CHARGE_Desc"
+	{
+		"po"	"Monte uma SobreCarga até 8 segundos após um Medic inimigo próximo ter montado a sua."
+	}
+	"TF_MEDIC_SWITCH_TO_MEDIC_Title"
+	{
+		"po"	"Brincar aos médicos"
+	}
+	"TF_MEDIC_SWITCH_TO_MEDIC_Desc"
+	{
+		"po"	"Numa equipa sem Medics, seja a primeira pessoa a mudar para Medic após um companheiro de equipa chamar um Medic e active 500 pontos de energia."
+	}
+	"TF_MEDIC_SAVE_TEAMMATE_Title"
+	{
+		"po"	"Triagem"
+	}
+	"TF_MEDIC_SAVE_TEAMMATE_Desc"
+	{
+		"po"	"Monte uma SobreCarga para um companheiro de equipa menos de um segundo antes de este ser atingido por uma explosão crítica."
+	}
+	"TF_MEDIC_CHARGE_BLOCKER_Title"
+	{
+		"po"	"Medicina preventiva"
+	}
+	"TF_MEDIC_CHARGE_BLOCKER_Desc"
+	{
+		"po"	"Bloqueie a captura inimiga de um ponto de controlo com um companheiro de equipa SobreCarregado."
+	}
+	"TF_MEDIC_ASSIST_MEDIC_Title"
+	{
+		"po"	"Consulta"
+	}
+	"TF_MEDIC_ASSIST_MEDIC_Desc"
+	{
+		"po"	"Ajude um Medic da mesma equipa a matar 5 inimigos numa única vida."
+	}
+	"TF_MEDIC_SYRINGE_SCOUTS_Title"
+	{
+		"po"	"Dói quando faço isto?"
+	}
+	"TF_MEDIC_SYRINGE_SCOUTS_Desc"
+	{
+		"po"	"Mate 50 Scouts com a pistola de seringa."
+	}
+	"TF_MEDIC_BONESAW_MEDICS_Title"
+	{
+		"po"	"Avaliação profissional"
+	}
+	"TF_MEDIC_BONESAW_MEDICS_Desc"
+	{
+		"po"	"Mate 50 Medics com a serra de ossos."
+	}
+	"TF_MEDIC_ASSIST_HEAVY_LONG_Title"
+	{
+		"po"	"Farmacêuticos de peso"
+	}
+	"TF_MEDIC_ASSIST_HEAVY_LONG_Desc"
+	{
+		"po"	"Ajude um Heavy a matar 20 inimigos sem que nenhum dos dois morra."
+	}
+	"TF_MEDIC_ASSIST_SCOUT_Title"
+	{
+		"po"	"Pode sentir uma picada"
+	}
+	"TF_MEDIC_ASSIST_SCOUT_Desc"
+	{
+		"po"	"Ajude a matar 3 inimigos com uma única SobreCarga sobre um Scout."
+	}
+	"TF_MEDIC_ASSIST_PYRO_Title"
+	{
+		"po"	"Autoclave"
+	}
+	"TF_MEDIC_ASSIST_PYRO_Desc"
+	{
+		"po"	"Ajude a matar 5 inimigos com uma única SobreCarga sobre um Pyro."
+	}
+	"TF_MEDIC_ASSIST_HEAVY_Title"
+	{
+		"po"	"Ferimentos traumáticos"
+	}
+	"TF_MEDIC_ASSIST_HEAVY_Desc"
+	{
+		"po"	"Ajude a bater em 2 inimigos com uma única SobreCarga sobre um Heavy."
+	}
+	"TF_MEDIC_ASSIST_DEMOMAN_Title"
+	{
+		"po"	"Avanço médico"
+	}
+	"TF_MEDIC_ASSIST_DEMOMAN_Desc"
+	{
+		"po"	"Ajude a destruir 5 construções de um Engineer inimigo com uma única SobreCarga sobre um Demoman."
+	}
+	"TF_MEDIC_ASSIST_SOLDIER_Title"
+	{
+		"po"	"Assistência explosiva"
+	}
+	"TF_MEDIC_ASSIST_SOLDIER_Desc"
+	{
+		"po"	"Ajude a explodir com 5 inimigos com uma única SobreCarga sobre um Soldier."
+	}
+	"TF_MEDIC_HEAL_ENGINEER_Title"
+	{
+		"po"	"Reparação crítica"
+	}
+	"TF_MEDIC_HEAL_ENGINEER_Desc"
+	{
+		"po"	"Cure um Engineer enquanto este repara uma arma sentinela debaixo de fogo inimigo."
+	}
+	"TF_MEDIC_ASSIST_CAPTURER_Title"
+	{
+		"po"	"Ubi concordia, ibi victoria"
+	}
+	"TF_MEDIC_ASSIST_CAPTURER_Desc"
+	{
+		"po"	"Ajude a matar 5 inimigos num ponto de controlo inimigo, numa única vida."
+	}
+	"TF_MEDIC_HEAL_CALLERS_Title"
+	{
+		"po"	"Consultas com classe"
+	}
+	"TF_MEDIC_HEAL_CALLERS_Desc"
+	{
+		"po"	"Cure 200 companheiros de equipa após estes terem chamado por um Medic."
+	}
+	"TF_MEDIC_EXTINGUISH_TEAMMATES_Title"
+	{
+		"po"	"Medicina infernal"
+	}
+	"TF_MEDIC_EXTINGUISH_TEAMMATES_Desc"
+	{
+		"po"	"Apague o fogo em 100 companheiros de equipa incendiados."
+	}
+	"TF_MEDIC_ASSIST_VS_NEMESES_Title"
+	{
+		"po"	"Homicídio medicamente assistido"
+	}
+	"TF_MEDIC_ASSIST_VS_NEMESES_Desc"
+	{
+		"po"	"Ajude a matar 20 némesis."
+	}
+	"TF_MEDIC_KILL_WHILE_CHARGED_Title"
+	{
+		"po"	"Efeito de placebo"
+	}
+	"TF_MEDIC_KILL_WHILE_CHARGED_Desc"
+	{
+		"po"	"Mate 5 inimigos numa única vida, tendo uma SobreCarga pronta mas não montada."
+	}
+	"TF_MEDIC_BONESAW_NOMISSES_Title"
+	{
+		"po"	"Serrar ossos"
+	}
+	"TF_MEDIC_BONESAW_NOMISSES_Desc"
+	{
+		"po"	"Mate inimigos com a serra de ossos 5 vezes seguidas, sem morrer ou falhar."
+	}
+	"TF_MEDIC_HEAL_LARGE_Title"
+	{
+		"po"	"Estagiário"
+	}
+	"TF_MEDIC_HEAL_LARGE_Desc"
+	{
+		"po"	"Acumule 7000 pontos de energia numa única vida."
+	}
+	"TF_MEDIC_HEAL_HUGE_Title"
+	{
+		"po"	"Especialista"
+	}
+	"TF_MEDIC_HEAL_HUGE_Desc"
+	{
+		"po"	"Acumule 10000 pontos de energia numa única vida."
+	}
+	"TF_MEDIC_HEAL_GRIND_Title"
+	{
+		"po"	"Director"
+	}
+	"TF_MEDIC_HEAL_GRIND_Desc"
+	{
+		"po"	"Acumule um total de 1 milhão de pontos de energia."
+	}
+	"TF_MEDIC_KILL_HEALED_SPY_Title"
+	{
+		"po"	"Juramento hipócrita"
+	}
+	"TF_MEDIC_KILL_HEALED_SPY_Desc"
+	{
+		"po"	"Mate um Spy inimigo que tenha estado a curar."
+	}
+	"TF_MEDIC_SAVE_FALLING_TEAMMATE_Title"
+	{
+		"po"	"Intervenção médica"
+	}
+	"TF_MEDIC_SAVE_FALLING_TEAMMATE_Desc"
+	{
+		"po"	"Salve um companheiro de equipa em queda de morrer no impacto."
+	}
+	"TF_MEDIC_CHARGE_JUGGLE_Title"
+	{
+		"po"	"Segunda opinião"
+	}
+	"TF_MEDIC_CHARGE_JUGGLE_Desc"
+	{
+		"po"	"SobreCarregue 2 companheiros de equipa de uma só vez."
+	}
+	"TF_MEDIC_FREEZECAM_RAGDOLL_Title"
+	{
+		"po"	"Relatório de autópsia"
+	}
+	"TF_MEDIC_FREEZECAM_RAGDOLL_Desc"
+	{
+		"po"	"Dê a um inimigo a imagem de uma provocação sobre o corpo dele."
+	}
+	"TF_MEDIC_BONESAW_SPY_CALLERS_Title"
+	{
+		"po"	"Para sua informação, eu sou médico"
+	}
+	"TF_MEDIC_BONESAW_SPY_CALLERS_Desc"
+	{
+		"po"	"Use a serra de ossos para matar 5 Spies que chamaram por um Medic."
+	}
+	"TF_MEDIC_CHARGE_FRIENDS_Title"
+	{
+		"po"	"Médico de família"
+	}
+	"TF_MEDIC_CHARGE_FRIENDS_Desc"
+	{
+		"po"	"SobreCarregue dez dos seus amigos da Comunidade Steam."
+	}
+	"TF_MEDIC_INVITE_JOIN_CHARGE_Title"
+	{
+		"po"	"Visita ao domicílio"
+	}
+	"TF_MEDIC_INVITE_JOIN_CHARGE_Desc"
+	{
+		"po"	"Entre num jogo no qual esteja um amigo seu e monte uma SobreCarga para ele."
+	}
+	"TF_MEDIC_HEAL_ACHIEVER_Title"
+	{
+		"po"	"Bons tratos"
+	}
+	"TF_MEDIC_HEAL_ACHIEVER_Desc"
+	{
+		"po"	"Cure um companheiro de equipa enquanto ele alcança uma proeza própria."
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS1_Title"
+	{
+		"po"	"Medic - Marco 1"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS1_Desc"
+	{
+		"po"	"Alcance 10 das proezas do Medic."
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS2_Title"
+	{
+		"po"	"Medic - Marco 2"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS2_Desc"
+	{
+		"po"	"Alcance 16 das proezas do Medic."
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS3_Title"
+	{
+		"po"	"Medic - Marco 3"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS3_Desc"
+	{
+		"po"	"Alcance 22 das proezas do Medic."
+	}
+	"TF_PYRO_KILL_MULTIWEAPONS_Title"
+	{
+		"po"	"Fogo combinado"
+	}
+	"TF_PYRO_KILL_MULTIWEAPONS_Desc"
+	{
+		"po"	"Utilize a sua caçadeira para acabar com 20 jogadores que tenha incendiado."
+	}
+	"TF_PYRO_SIMULBURN_SCOUTS_Title"
+	{
+		"po"	"Churrasco"
+	}
+	"TF_PYRO_SIMULBURN_SCOUTS_Desc"
+	{
+		"po"	"Consiga com que 2 Scouts inimigos estejam a arder ao mesmo tempo."
+	}
+	"TF_PYRO_FORCE_WATERJUMP_Title"
+	{
+		"po"	"Baptismo de fogo"
+	}
+	"TF_PYRO_FORCE_WATERJUMP_Desc"
+	{
+		"po"	"Obrigue 10 inimigos incendiados a saltar para água."
+	}
+	"TF_PYRO_KILL_POSTDEATH_Title"
+	{
+		"po"	"Disparar e esquecer"
+	}
+	"TF_PYRO_KILL_POSTDEATH_Desc"
+	{
+		"po"	"Mate 15 inimigos enquanto está morto."
+	}
+	"TF_PYRO_KILL_SPIES_Title"
+	{
+		"po"	"Firewall"
+	}
+	"TF_PYRO_KILL_SPIES_Desc"
+	{
+		"po"	"Incendeie 5 Spies que têm um sapador num edifício da sua equipa."
+	}
+	"TF_PYRO_KILL_CARRIERS_Title"
+	{
+		"po"	"Biblioteca a arder"
+	}
+	"TF_PYRO_KILL_CARRIERS_Desc"
+	{
+		"po"	"Incendeie 5 inimigos que transportem informações secretas suas."
+	}
+	"TF_PYRO_REVEAL_SPIES_Title"
+	{
+		"po"	"Ignição espontânea"
+	}
+	"TF_PYRO_REVEAL_SPIES_Desc"
+	{
+		"po"	"Incendeie 10 Spies camuflados."
+	}
+	"TF_PYRO_CAMP_TELEPORTERS_Title"
+	{
+		"po"	"Caminho de chamas"
+	}
+	"TF_PYRO_CAMP_TELEPORTERS_Desc"
+	{
+		"po"	"Incendeie 10 inimigos que tenham utilizado teletransportador recentemente."
+	}
+	"TF_PYRO_CAMP_POSITION_Title"
+	{
+		"po"	"Em torno da fogueira"
+	}
+	"TF_PYRO_CAMP_POSITION_Desc"
+	{
+		"po"	"Mate 3 inimigos consecutivamente, dentro da mesma área."
+	}
+	"TF_PYRO_KILL_AXE_SMALL_Title"
+	{
+		"po"	"Lenhador"
+	}
+	"TF_PYRO_KILL_AXE_SMALL_Desc"
+	{
+		"po"	"Mate 3 inimigos com o seu machado numa só vida."
+	}
+	"TF_PYRO_KILL_AXE_LARGE_Title"
+	{
+		"po"	"Desflorestação"
+	}
+	"TF_PYRO_KILL_AXE_LARGE_Desc"
+	{
+		"po"	"Mate 6 inimigos com o seu machado numa só vida."
+	}
+	"TF_PYRO_KILL_FROM_BEHIND_Title"
+	{
+		"po"	"Seguido de perto"
+	}
+	"TF_PYRO_KILL_FROM_BEHIND_Desc"
+	{
+		"po"	"Mate 50 inimigos pelas costas com o seu lança-chamas."
+	}
+	"TF_PYRO_BURN_SPIES_AS_YOU_Title"
+	{
+		"po"	"Eu frito"
+	}
+	"TF_PYRO_BURN_SPIES_AS_YOU_Desc"
+	{
+		"po"	"Incendeie 10 Spies disfarçados."
+	}
+	"TF_PYRO_BURN_SNIPERS_ZOOMED_Title"
+	{
+		"po"	"Vigilância contra incêndios"
+	}
+	"TF_PYRO_BURN_SNIPERS_ZOOMED_Desc"
+	{
+		"po"	"Incendeie 10 Snipers enquanto estes estão a fazer zoom."
+	}
+	"TF_PYRO_BURN_MEDICS_CHARGED_Title"
+	{
+		"po"	"Ala de queimados"
+	}
+	"TF_PYRO_BURN_MEDICS_CHARGED_Desc"
+	{
+		"po"	"Incendeie 3 Medics preparados para lançar uma SobreCarga."
+	}
+	"TF_PYRO_REFLECT_PROJECTILES_Title"
+	{
+		"po"	"Batata quente"
+	}
+	"TF_PYRO_REFLECT_PROJECTILES_Desc"
+	{
+		"po"	"Desvie 100 projécteis com a sua descarga de ar comprimido."
+	}
+	"TF_PYRO_KILL_HEAVIES_Title"
+	{
+		"po"	"É assim mesmo"
+	}
+	"TF_PYRO_KILL_HEAVIES_Desc"
+	{
+		"po"	"Mate 50 inimigos com o seu lança-chamas."
+	}
+	"TF_PYRO_KILL_UNDERWATER_Title"
+	{
+		"po"	"Plano B"
+	}
+	"TF_PYRO_KILL_UNDERWATER_Desc"
+	{
+		"po"	"Mate 10 inimigos enquanto ambos estão debaixo de água."
+	}
+	"TF_PYRO_KILL_UBERCHARGE_Title"
+	{
+		"po"	"Pirotecnia"
+	}
+	"TF_PYRO_KILL_UBERCHARGE_Desc"
+	{
+		"po"	"Mate 3 inimigos com uma única SobreCarga."
+	}
+	"TF_PYRO_DESTROY_BUILDINGS_Title"
+	{
+		"po"	"Incendiário"
+	}
+	"TF_PYRO_DESTROY_BUILDINGS_Desc"
+	{
+		"po"	"Destrua 50 construções de um Engineer."
+	}
+	"TF_PYRO_DEFEND_POINTS_Title"
+	{
+		"po"	"Fogo preso"
+	}
+	"TF_PYRO_DEFEND_POINTS_Desc"
+	{
+		"po"	"Incendeie 50 inimigos que estejam a capturar um dos seus pontos de controlo."
+	}
+	"TF_PYRO_KILL_GRIND_Title"
+	{
+		"po"	"Bombeiro"
+	}
+	"TF_PYRO_KILL_GRIND_Desc"
+	{
+		"po"	"Mate 500 inimigos."
+	}
+	"TF_PYRO_DAMAGE_GRIND_Title"
+	{
+		"po"	"Piromaníaco"
+	}
+	"TF_PYRO_DAMAGE_GRIND_Desc"
+	{
+		"po"	"Faça um total de 1 milhão de pontos de danos por fogo."
+	}
+	"TF_PYRO_BURN_MEDICPAIR_Title"
+	{
+		"po"	"Próximo em linha"
+	}
+	"TF_PYRO_BURN_MEDICPAIR_Desc"
+	{
+		"po"	"Incendeie um inimigo e o Medic que esteja a curá-lo."
+	}
+	"TF_PYRO_KILL_TAUNT_Title"
+	{
+		"po"	"OMGWTFBBQ"
+	}
+	"TF_PYRO_KILL_TAUNT_Desc"
+	{
+		"po"	"Mate um inimigo com uma provocação."
+	}
+	"TF_PYRO_KILL_TEAMWORK_Title"
+	{
+		"po"	"Queimaduras de segundo grau"
+	}
+	"TF_PYRO_KILL_TEAMWORK_Desc"
+	{
+		"po"	"Mate um inimigo a arder que tenha sido incendiado por outro Pyro."
+	}
+	"TF_PYRO_BURN_SPY_TAUNT_Title"
+	{
+		"po"	"Tem lumes?"
+	}
+	"TF_PYRO_BURN_SPY_TAUNT_Desc"
+	{
+		"po"	"Incendeie um Spy inimigo enquanto este está a manusear um cigarro."
+	}
+	"TF_PYRO_DOMINATE_LEAVESVR_Title"
+	{
+		"po"	"Churrasco"
+	}
+	"TF_PYRO_DOMINATE_LEAVESVR_Desc"
+	{
+		"po"	"Faça com que um jogador dominado saia do servidor."
+	}
+	"TF_PYRO_REFLECT_CROCKET_KILL_Title"
+	{
+		"po"	"Exibicionista"
+	}
+	"TF_PYRO_REFLECT_CROCKET_KILL_Desc"
+	{
+		"po"	"Mate um Soldier com rocket crítico desviado."
+	}
+	"TF_PYRO_KILL_TAUNTERS_Title"
+	{
+		"po"	"Dança da imolação"
+	}
+	"TF_PYRO_KILL_TAUNTERS_Desc"
+	{
+		"po"	"Mate 3 inimigos enquanto estes estiverem a fazer provocações."
+	}
+	"TF_PYRO_DOUBLE_KO_Title"
+	{
+		"po"	"Calor de morte"
+	}
+	"TF_PYRO_DOUBLE_KO_Desc"
+	{
+		"po"	"Mate um inimigo no momento em que ele o mata a si."
+	}
+	"TF_PYRO_BURN_RJ_SOLDIER_Title"
+	{
+		"po"	"Luz-guia"
+	}
+	"TF_PYRO_BURN_RJ_SOLDIER_Desc"
+	{
+		"po"	"Incendeie em pleno ar um Soldier que esteja a fazer um salto de rocket."
+	}
+	"TF_PYRO_FREEZECAM_TAUNTS_Title"
+	{
+		"po"	"Queimadura de frio"
+	}
+	"TF_PYRO_FREEZECAM_TAUNTS_Desc"
+	{
+		"po"	"Envie aos inimigos imagens das suas provocações."
+	}
+	"TF_PYRO_KILL_GRIND_LARGE_Title"
+	{
+		"po"	"Chefe dos bombeiros"
+	}
+	"TF_PYRO_KILL_GRIND_LARGE_Desc"
+	{
+		"po"	"Mate 1000 inimigos."
+	}
+	"TF_PYRO_IGNITE_FLAREGUN_Title"
+	{
+		"po"	"No centro das atenções"
+	}
+	"TF_PYRO_IGNITE_FLAREGUN_Desc"
+	{
+		"po"	"Incendeie 100 inimigos com a pistola de sinalização."
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS1_Title"
+	{
+		"po"	"Pyro - Marco 1"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS1_Desc"
+	{
+		"po"	"Alcance 10 das proezas do Pyro."
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS2_Title"
+	{
+		"po"	"Pyro - Marco 2"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS2_Desc"
+	{
+		"po"	"Alcance 16 das proezas do Pyro."
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS3_Title"
+	{
+		"po"	"Pyro - Marco 3"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS3_Desc"
+	{
+		"po"	"Alcance 22 das proezas do Pyro."
+	}
+	"TF_HEAVY_DAMAGE_TAKEN_Title"
+	{
+		"po"	"Cortina de ferro"
+	}
+	"TF_HEAVY_DAMAGE_TAKEN_Desc"
+	{
+		"po"	"Resista a 1000 pontos de danos numa única vida."
+	}
+	"TF_HEAVY_DEFEND_MEDIC_Title"
+	{
+		"po"	"Fiel à equipa"
+	}
+	"TF_HEAVY_DEFEND_MEDIC_Desc"
+	{
+		"po"	"Mate 50 inimigos após 3 segundos de atacarem o seu Medic."
+	}
+	"TF_HEAVY_ASSIST_MEDIC_LARGE_Title"
+	{
+		"po"	"Divisão laboral"
+	}
+	"TF_HEAVY_ASSIST_MEDIC_LARGE_Desc"
+	{
+		"po"	"Mate 20 inimigos com a assistência de um Medic, sem que nenhum dos dois morra."
+	}
+	"TF_HEAVY_EARN_MEDIC_DOMINATION_Title"
+	{
+		"po"	"Oktoberfest vermelho"
+	}
+	"TF_HEAVY_EARN_MEDIC_DOMINATION_Desc"
+	{
+		"po"	"Ganhe uma dominação para um Medic que o esteja a curar."
+	}
+	"TF_HEAVY_KILL_TAUNT_Title"
+	{
+		"po"	"Espectáculo de exibição"
+	}
+	"TF_HEAVY_KILL_TAUNT_Desc"
+	{
+		"po"	"Mate um inimigo com uma provocação."
+	}
+	"TF_HEAVY_KILL_FLAG_CARRIERS_Title"
+	{
+		"po"	"Crime e castigo"
+	}
+	"TF_HEAVY_KILL_FLAG_CARRIERS_Desc"
+	{
+		"po"	"Mate 10 inimigos que transportem informações secretas suas."
+	}
+	"TF_HEAVY_KILL_MEDIC_PAIR_Title"
+	{
+		"po"	"Luta de classes"
+	}
+	"TF_HEAVY_KILL_MEDIC_PAIR_Desc"
+	{
+		"po"	"Colabore com um Medic amigo para matar um par Heavy e Medic inimigo."
+	}
+	"TF_HEAVY_BLOCK_INVULN_HEAVY_Title"
+	{
+		"po"	"Bloco soviético"
+	}
+	"TF_HEAVY_BLOCK_INVULN_HEAVY_Desc"
+	{
+		"po"	"Enquanto invulnerável e a defender, bloqueie um movimento de Heavy invulnerável inimigo."
+	}
+	"TF_HEAVY_BLOCK_CART_Title"
+	{
+		"po"	"Empata carrinhos"
+	}
+	"TF_HEAVY_BLOCK_CART_Desc"
+	{
+		"po"	"Impedir 25 vezes que o inimigo movimente o carrinho."
+	}
+	"TF_HEAVY_RECEIVE_UBER_GRIND_Title"
+	{
+		"po"	"Soviet supremo"
+	}
+	"TF_HEAVY_RECEIVE_UBER_GRIND_Desc"
+	{
+		"po"	"Seja SobreCarregado 50 vezes."
+	}
+	"TF_HEAVY_STAND_NEAR_DISPENSER_Title"
+	{
+		"po"	"Operário"
+	}
+	"TF_HEAVY_STAND_NEAR_DISPENSER_Desc"
+	{
+		"po"	"Mate 20 inimigos enquanto é recarregado por um distribuidor."
+	}
+	"TF_HEAVY_ASSIST_HEAVY_GRIND_Title"
+	{
+		"po"	"União soviética"
+	}
+	"TF_HEAVY_ASSIST_HEAVY_GRIND_Desc"
+	{
+		"po"	"Mate 25 inimigos assistindo ou assistido por outro Heavy."
+	}
+	"TF_HEAVY_CLEAR_STICKYBOMBS_Title"
+	{
+		"po"	"Controlar os meios de produção"
+	}
+	"TF_HEAVY_CLEAR_STICKYBOMBS_Desc"
+	{
+		"po"	"Remova 20 bombas colantes matando os Demomen que as produziram."
+	}
+	"TF_HEAVY_KILL_UNDERWATER_Title"
+	{
+		"po"	"Ivan, o Louco"
+	}
+	"TF_HEAVY_KILL_UNDERWATER_Desc"
+	{
+		"po"	"Mate 100 inimigos debaixo de água."
+	}
+	"TF_HEAVY_TAKE_MULTI_DAMAGE_Title"
+	{
+		"po"	"Rasputin"
+	}
+	"TF_HEAVY_TAKE_MULTI_DAMAGE_Desc"
+	{
+		"po"	"Numa só vida, seja alvejado, queimado, martelado e sustenha danos explosivos."
+	}
+	"TF_HEAVY_KILL_DOMINATED_Title"
+	{
+		"po"	"A cereja no bolo"
+	}
+	"TF_HEAVY_KILL_DOMINATED_Desc"
+	{
+		"po"	"Obtenha 20 mortes sobre jogadores que está a dominar."
+	}
+	"TF_HEAVY_SURVIVE_CROCKET_Title"
+	{
+		"po"	"Bloco da morte"
+	}
+	"TF_HEAVY_SURVIVE_CROCKET_Desc"
+	{
+		"po"	"Sobreviva a um dano directo de rocket crítico."
+	}
+	"TF_HEAVY_ASSIST_GRIND_Title"
+	{
+		"po"	"Colectivização"
+	}
+	"TF_HEAVY_ASSIST_GRIND_Desc"
+	{
+		"po"	"Obtenha 1000 assistências."
+	}
+	"TF_HEAVY_UNCOVER_SPIES_Title"
+	{
+		"po"	"Materialismo espialético"
+	}
+	"TF_HEAVY_UNCOVER_SPIES_Desc"
+	{
+		"po"	"Mate ou ajude a matar 10 Spies camuflados."
+	}
+	"TF_HEAVY_KILL_WHILE_SPUNUP_Title"
+	{
+		"po"	"Revolução permanente"
+	}
+	"TF_HEAVY_KILL_WHILE_SPUNUP_Desc"
+	{
+		"po"	"Mate 5 inimigos sem que a sua arma pare de rodar."
+	}
+	"TF_HEAVY_FIRE_LOTS_Title"
+	{
+		"po"	"Indústria pesada"
+	}
+	"TF_HEAVY_FIRE_LOTS_Desc"
+	{
+		"po"	"Dispare $200 000 de munições de mini-arma numa única vida."
+	}
+	"TF_HEAVY_KILL_CRIT_PUNCH_Title"
+	{
+		"po"	"Punho erguido"
+	}
+	"TF_HEAVY_KILL_CRIT_PUNCH_Desc"
+	{
+		"po"	"Mate um inimigo com um murro crítico."
+	}
+	"TF_HEAVY_HEAL_MEDIKITS_Title"
+	{
+		"po"	"Redistribuição das riquezas"
+	}
+	"TF_HEAVY_HEAL_MEDIKITS_Desc"
+	{
+		"po"	"Cure 1000 pontos de danos com kits médicos numa única vida."
+	}
+	"TF_HEAVY_KILL_SHOTGUN_Title"
+	{
+		"po"	"Racionamento"
+	}
+	"TF_HEAVY_KILL_SHOTGUN_Desc"
+	{
+		"po"	"Mate um inimigo com a caçadeira quando já não tiver munições de mini-arma."
+	}
+	"TF_HEAVY_FIRST_TO_CAP_Title"
+	{
+		"po"	"Partido de vanguarda"
+	}
+	"TF_HEAVY_FIRST_TO_CAP_Desc"
+	{
+		"po"	"Seja o primeiro da sua equipa a iniciar a captura de um ponto de controlo numa ronda."
+	}
+	"TF_HEAVY_PAYLOAD_CAP_GRIND_Title"
+	{
+		"po"	"Condutor de carrinhos"
+	}
+	"TF_HEAVY_PAYLOAD_CAP_GRIND_Desc"
+	{
+		"po"	"Obtenha 50 capturas em mapas de carregamento."
+	}
+	"TF_HEAVY_KILL_MIDAIR_MINIGUN_Title"
+	{
+		"po"	"Franco-atirador"
+	}
+	"TF_HEAVY_KILL_MIDAIR_MINIGUN_Desc"
+	{
+		"po"	"Mate 10 inimigos em pleno ar com a mini-arma."
+	}
+	"TF_HEAVY_DEFEND_CONTROL_POINT_Title"
+	{
+		"po"	"Estacionado"
+	}
+	"TF_HEAVY_DEFEND_CONTROL_POINT_Desc"
+	{
+		"po"	"Mate 25 inimigos enquanto está num ponto de controlo que seja seu."
+	}
+	"TF_HEAVY_KILL_CAPPING_ENEMIES_Title"
+	{
+		"po"	"Purga"
+	}
+	"TF_HEAVY_KILL_CAPPING_ENEMIES_Desc"
+	{
+		"po"	"Mate 15 inimigos que estejam a capturar um ponto de controlo que seja seu."
+	}
+	"TF_HEAVY_REVENGE_ASSIST_Title"
+	{
+		"po"	"Dar uma mãozinha"
+	}
+	"TF_HEAVY_REVENGE_ASSIST_Desc"
+	{
+		"po"	"Ajude 5 colegas de equipa a obter vingança sobre as respectivas némesis."
+	}
+	"TF_HEAVY_TELEPORT_FAST_KILL_Title"
+	{
+		"po"	"Plano de 5 segundos"
+	}
+	"TF_HEAVY_TELEPORT_FAST_KILL_Desc"
+	{
+		"po"	"Mate um inimigo 5 segundos após sair de um teletransportador."
+	}
+	"TF_HEAVY_FREEZECAM_TAUNT_Title"
+	{
+		"po"	"Fotostroika"
+	}
+	"TF_HEAVY_FREEZECAM_TAUNT_Desc"
+	{
+		"po"	"Enquanto invulnerável, dê a um inimigo a imagem de uma provocação."
+	}
+	"TF_HEAVY_EAT_SANDWICHES_Title"
+	{
+		"po"	"Consumo conspícuo"
+	}
+	"TF_HEAVY_EAT_SANDWICHES_Desc"
+	{
+		"po"	"Coma 100 sandviches."
+	}
+	"TF_HEAVY_KILL_SCOUTS_Title"
+	{
+		"po"	"Proibido tocar na sandvich"
+	}
+	"TF_HEAVY_KILL_SCOUTS_Desc"
+	{
+		"po"	"Mate 50 Scouts com a Natascha."
+	}
+	"TF_HEAVY_KILL_HEAVIES_GLOVES_Title"
+	{
+		"po"	"Cintura de leste"
+	}
+	"TF_HEAVY_KILL_HEAVIES_GLOVES_Desc"
+	{
+		"po"	"Mate 10 Heavies com a K.G.B."
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS1_Title"
+	{
+		"po"	"Heavy - Marco 1"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS1_Desc"
+	{
+		"po"	"Alcance 10 das proezas do Heavy."
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS2_Title"
+	{
+		"po"	"Heavy - Marco 2"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS2_Desc"
+	{
+		"po"	"Alcance 16 das proezas do Heavy."
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS3_Title"
+	{
+		"po"	"Heavy - Marco 3"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS3_Desc"
+	{
+		"po"	"Alcance 22 das proezas do Heavy."
+	}
+	"TF_SCOUT_FIRST_BLOOD_Title"
+	{
+		"po"	"Primeira Morte"
+	}
+	"TF_SCOUT_FIRST_BLOOD_Desc"
+	{
+		"po"	"Faça a primeira morte na partida de Arena."
+	}
+	"TF_SCOUT_FIRST_BLOOD_KILL_Title"
+	{
+		"po"	"Primeira Morte, Parte 2"
+	}
+	"TF_SCOUT_FIRST_BLOOD_KILL_Desc"
+	{
+		"po"	"Mate 5 inimigos com a potência de tiro da Primeira Morte."
+	}
+	"TF_SCOUT_WELL_EARLY_KILL_Title"
+	{
+		"po"	"Golpe rápido"
+	}
+	"TF_SCOUT_WELL_EARLY_KILL_Desc"
+	{
+		"po"	"Mate um jogador no Poço antes do início da ronda."
+	}
+	"TF_SCOUT_LIFETIME_KILLS_Title"
+	{
+		"po"	"Um ano inesquecível"
+	}
+	"TF_SCOUT_LIFETIME_KILLS_Desc"
+	{
+		"po"	"Faça 2004 mortes para recordar 2004."
+	}
+	"TF_SCOUT_IRON_MAN_KILLS_Title"
+	{
+		"po"	"O Ciclo"
+	}
+	"TF_SCOUT_IRON_MAN_KILLS_Desc"
+	{
+		"po"	"Numa única vida, mate um inimigo enquanto está no chão, em pleno ar ou dentro de água."
+	}
+	"TF_SCOUT_DESTROY_TELEPORTERS_Title"
+	{
+		"po"	"Placador"
+	}
+	"TF_SCOUT_DESTROY_TELEPORTERS_Desc"
+	{
+		"po"	"Destrua 3 entradas de teletransportador."
+	}
+	"TF_SCOUT_DESTROY_BUILDINGS_BEING_BUILT_Title"
+	{
+		"po"	"Se o construir..."
+	}
+	"TF_SCOUT_DESTROY_BUILDINGS_BEING_BUILT_Desc"
+	{
+		"po"	"Destrua 3 construções inimigas enquanto ainda estão em construção."
+	}
+	"TF_SCOUT_DESTROY_SENTRY_WITH_PISTOL_Title"
+	{
+		"po"	"Armas ao fundo"
+	}
+	"TF_SCOUT_DESTROY_SENTRY_WITH_PISTOL_Desc"
+	{
+		"po"	"Destrua uma arma sentinela activa utilizando a sua pistola."
+	}
+	"TF_SCOUT_DOUBLE_JUMPS_Title"
+	{
+		"po"	"Dê às asas"
+	}
+	"TF_SCOUT_DOUBLE_JUMPS_Desc"
+	{
+		"po"	"Faça 1000 saltos duplos."
+	}
+	"TF_SCOUT_ASSIST_MEDIC_Title"
+	{
+		"po"	"Trate-lhes da saúde"
+	}
+	"TF_SCOUT_ASSIST_MEDIC_Desc"
+	{
+		"po"	"Mate 3 inimigos enquanto está sob os efeitos de uma sobrecarga de Medic."
+	}
+	"TF_SCOUT_STEAL_SANDWICH_Title"
+	{
+		"po"	"Esquivadores 1, Gigantes 0"
+	}
+	"TF_SCOUT_STEAL_SANDWICH_Desc"
+	{
+		"po"	"Mate um Heavy inimigo e fique com a sua sandvich."
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS1_Title"
+	{
+		"po"	"Scout - Marco 1"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS1_Desc"
+	{
+		"po"	"Alcance 10 dos objectivos do pack Scout."
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS2_Title"
+	{
+		"po"	"Scout - Marco 2"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS2_Desc"
+	{
+		"po"	"Alcance 16 dos objectivos do pack Scout."
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS3_Title"
+	{
+		"po"	"Scout - Marco 3"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS3_Desc"
+	{
+		"po"	"Alcance 22 dos objectivos do pack Scout."
+	}
+	"TF_SCOUT_KILL_CHARGED_MEDICS_Title"
+	{
+		"po"	"Tratar do Doctor"
+	}
+	"TF_SCOUT_KILL_CHARGED_MEDICS_Desc"
+	{
+		"po"	"Mate um Medic que esteja pronto a efectuar uma SobreCarga."
+	}
+	"TF_SCOUT_SURVIVE_DAMAGE_Title"
+	{
+		"po"	"Sou o Bat Man"
+	}
+	"TF_SCOUT_SURVIVE_DAMAGE_Desc"
+	{
+		"po"	"Sobreviva a 500 danos numa vida."
+	}
+	"TF_SCOUT_DOUBLEJUMP_KILL_Title"
+	{
+		"po"	"Franco-voador"
+	}
+	"TF_SCOUT_DOUBLEJUMP_KILL_Desc"
+	{
+		"po"	"Mate 20 jogadores enquanto faz saltos duplos."
+	}
+	"TF_SCOUT_FLAG_CAP_GRIND_Title"
+	{
+		"po"	"Vaivém"
+	}
+	"TF_SCOUT_FLAG_CAP_GRIND_Desc"
+	{
+		"po"	"Capture as informações secretas do inimigo 25 vezes."
+	}
+	"TF_SCOUT_THREE_FLAGCAPS_Title"
+	{
+		"po"	"Captura tripla"
+	}
+	"TF_SCOUT_THREE_FLAGCAPS_Desc"
+	{
+		"po"	"Capture as informações secretas 3 vezes numa única ronda CTF."
+	}
+	"TF_SCOUT_DODGE_DAMAGE_Title"
+	{
+		"po"	"A arte de esquivar-se"
+	}
+	"TF_SCOUT_DODGE_DAMAGE_Desc"
+	{
+		"po"	"Evite 1000 pontos de danos numa única vida, utilizando o seu Glup! Elixir Atómico."
+	}
+	"TF_SCOUT_KNOCK_INTO_TRAIN_Title"
+	{
+		"po"	"A morte óbvia"
+	}
+	"TF_SCOUT_KNOCK_INTO_TRAIN_Desc"
+	{
+		"po"	"Cause uma morte ou um suicídio ambiental com o ricochete da sua Força da Natureza."
+	}
+	"TF_SCOUT_KILL_STUNNED_Title"
+	{
+		"po"	"Zona de impacto"
+	}
+	"TF_SCOUT_KILL_STUNNED_Desc"
+	{
+		"po"	"Mate 50 inimigos enquanto estão atordoados."
+	}
+	"TF_SCOUT_STUN_INTO_TRAIN_Title"
+	{
+		"po"	"Território Malvado"
+	}
+	"TF_SCOUT_STUN_INTO_TRAIN_Desc"
+	{
+		"po"	"Cause uma morte ambiental atordoando um inimigo."
+	}
+	"TF_SCOUT_STUN_UBER_ENEMIES_Title"
+	{
+		"po"	"O grande golpe"
+	}
+	"TF_SCOUT_STUN_UBER_ENEMIES_Desc"
+	{
+		"po"	"Atordoe 2 Medics preparados para lançar uma SobreCarga."
+	}
+	"TF_SCOUT_STUN_CAPPING_ENEMIES_Title"
+	{
+		"po"	"Todos para trás"
+	}
+	"TF_SCOUT_STUN_CAPPING_ENEMIES_Desc"
+	{
+		"po"	"Atordoe 50 inimigos enquanto capturam um ponto ou empurram o carrinho."
+	}
+	"TF_SCOUT_MAX_STUNS_Title"
+	{
+		"po"	"Catapulta"
+	}
+	"TF_SCOUT_MAX_STUNS_Desc"
+	{
+		"po"	"Atordoe 1 inimigo durante o máximo tempo possível atingindo-o com uma bola de longo alcance."
+	}
+	"TF_SCOUT_STUN_SCOUT_WITH_THEIR_BALL_Title"
+	{
+		"po"	"A bola vai mas volta"
+	}
+	"TF_SCOUT_STUN_SCOUT_WITH_THEIR_BALL_Desc"
+	{
+		"po"	"Atordoe um Scout com a sua própria bola."
+	}
+	"TF_SCOUT_KILL_IN_DODGE_COOLDOWN_Title"
+	{
+		"po"	"Eliminar o corredor"
+	}
+	"TF_SCOUT_KILL_IN_DODGE_COOLDOWN_Desc"
+	{
+		"po"	"Mate um Scout enquanto este está confuso pelo efeito de abrandamento depois da finta."
+	}
+	"TF_SCOUT_KILL_FROM_BEHIND_Title"
+	{
+		"po"	"Apanhados de surpresa"
+	}
+	"TF_SCOUT_KILL_FROM_BEHIND_Desc"
+	{
+		"po"	"Mate 50 inimigos pelas costas com a Força da Natureza."
+	}
+	"TF_SCOUT_CAPTURE_LAST_POINT_Title"
+	{
+		"po"	"Fim da entrada"
+	}
+	"TF_SCOUT_CAPTURE_LAST_POINT_Desc"
+	{
+		"po"	"Capture o último ponto com o mapa CP."
+	}
+	"TF_SCOUT_CAPTURE_THREE_POINTS_Title"
+	{
+		"po"	"Jogada tripla"
+	}
+	"TF_SCOUT_CAPTURE_THREE_POINTS_Desc"
+	{
+		"po"	"Capture três pontos de captura de uma só vez e numa vida."
+	}
+	"TF_SCOUT_FAST_CAP_Title"
+	{
+		"po"	"Roubar a base"
+	}
+	"TF_SCOUT_FAST_CAP_Desc"
+	{
+		"po"	"Comece a pressionar um ponto de captura em menos de um segundo depois de estar disponível."
+	}
+	"TF_SCOUT_START_AND_FINISH_CAP_Title"
+	{
+		"po"	"Defina as regras do jogo"
+	}
+	"TF_SCOUT_START_AND_FINISH_CAP_Desc"
+	{
+		"po"	"Inicie 10 pontos de captura que culminarão em sucesso."
+	}
+	"TF_SCOUT_BLOCK_CAPS_Title"
+	{
+		"po"	"Bloqueio de base"
+	}
+	"TF_SCOUT_BLOCK_CAPS_Desc"
+	{
+		"po"	"Bloqueie 50 pontos de captura."
+	}
+	"TF_SCOUT_CARRIER_KILL_CARRIER_Title"
+	{
+		"po"	"Emboscada"
+	}
+	"TF_SCOUT_CARRIER_KILL_CARRIER_Desc"
+	{
+		"po"	"Mate um jogador adversário que tem as suas informações secretas enquanto possui as dele."
+	}
+	"TF_SCOUT_CAP_FLAG_WITHOUT_ATTACKING_Title"
+	{
+		"po"	"Vitória pacífica"
+	}
+	"TF_SCOUT_CAP_FLAG_WITHOUT_ATTACKING_Desc"
+	{
+		"po"	"Roube e depois capture as informações secretas do inimigo sem disparar."
+	}
+	"TF_SCOUT_LONG_DISTANCE_RUNNER_Title"
+	{
+		"po"	"A maratona"
+	}
+	"TF_SCOUT_LONG_DISTANCE_RUNNER_Desc"
+	{
+		"po"	"Corra 25 quilómetros."
+	}
+	"TF_SCOUT_TAUNT_KILL_Title"
+	{
+		"po"	"Para o terceiro anel"
+	}
+	"TF_SCOUT_TAUNT_KILL_Desc"
+	{
+		"po"	"Dê uma pancada num inimigo de 25 metros."
+	}
+	"TF_SNIPER_JARATE_DOMINATED_Title"
+	{
+		"po"	"Mastigado e cuspido"
+	}
+	"TF_SNIPER_JARATE_DOMINATED_Desc"
+	{
+		"po"	"Jarate um inimigo que esteja a dominar."
+	}
+	"TF_SNIPER_FREEZECAM_HAT_Title"
+	{
+		"po"	"Seja educado"
+	}
+	"TF_SNIPER_FREEZECAM_HAT_Desc"
+	{
+		"po"	"Dê ao inimigo uma fotografia sua a levantar o chapéu."
+	}
+	"TF_SNIPER_RIFLE_NO_MISSING_Title"
+	{
+		"po"	"Seja eficiente"
+	}
+	"TF_SNIPER_RIFLE_NO_MISSING_Desc"
+	{
+		"po"	"Faça 3 mortes com a Espingarda de Sniper sem falhar um alvo."
+	}
+	"TF_SNIPER_CAPTURE_FLAG_Title"
+	{
+		"po"	"Tenha um plano"
+	}
+	"TF_SNIPER_CAPTURE_FLAG_Desc"
+	{
+		"po"	"Apanhe a bandeira em CTF."
+	}
+	"TF_SNIPER_KILL_GRIND_Title"
+	{
+		"po"	"Mate tudo o que encontrar"
+	}
+	"TF_SNIPER_KILL_GRIND_Desc"
+	{
+		"po"	"Mate 1000 inimigos."
+	}
+	"TF_SNIPER_KILL_WEAPONS_Title"
+	{
+		"po"	"Presa tripla"
+	}
+	"TF_SNIPER_KILL_WEAPONS_Desc"
+	{
+		"po"	"Numa única ronda, faça uma morte com 3 armas diferentes."
+	}
+	"TF_SNIPER_HEADSHOT_SNIPERS_Title"
+	{
+		"po"	"Sequência de auto-destruição"
+	}
+	"TF_SNIPER_HEADSHOT_SNIPERS_Desc"
+	{
+		"po"	"Morte com tiro na cabeça de 10 Snipers inimigos."
+	}
+	"TF_SNIPER_DESTROY_SENTRYGUNS_Title"
+	{
+		"po"	"Des-sentinel-lizados"
+	}
+	"TF_SNIPER_DESTROY_SENTRYGUNS_Desc"
+	{
+		"po"	"Destrua 3 armas de sentinela Engineer."
+	}
+	"TF_SNIPER_KILL_INVIS_SPY_Title"
+	{
+		"po"	"Matar a Brisa"
+	}
+	"TF_SNIPER_KILL_INVIS_SPY_Desc"
+	{
+		"po"	"Mate um Spy totalmente invisível com um único tiro."
+	}
+	"TF_SNIPER_KILL_MIDAIR_SCOUT_Title"
+	{
+		"po"	"Cair morto"
+	}
+	"TF_SNIPER_KILL_MIDAIR_SCOUT_Desc"
+	{
+		"po"	"Mate um Scout durante um salto com a sua Espingarda de Sniper ou Huntsman."
+	}
+	"TF_SNIPER_FREEZECAM_WAVE_Title"
+	{
+		"po"	"A última vaga"
+	}
+	"TF_SNIPER_FREEZECAM_WAVE_Desc"
+	{
+		"po"	"Forneça uma fotografia ao inimigo a acenar-lhes."
+	}
+	"TF_SNIPER_DOMINATE_SNIPER_Title"
+	{
+		"po"	"Regras Australianas"
+	}
+	"TF_SNIPER_DOMINATE_SNIPER_Desc"
+	{
+		"po"	"Domine um Sniper inimigo."
+	}
+	"TF_SNIPER_KILL_SPIES_MELEE_Title"
+	{
+		"po"	"Susto de morte"
+	}
+	"TF_SNIPER_KILL_SPIES_MELEE_Desc"
+	{
+		"po"	"Mate 10 Spies com o seu Kukri."
+	}
+	"TF_SNIPER_HEADSHOT_DEMOMAN_Title"
+	{
+		"po"	"Socket nele"
+	}
+	"TF_SNIPER_HEADSHOT_DEMOMAN_Desc"
+	{
+		"po"	"Mate um Demoman inimigo com um tiro na cabeça."
+	}
+	"TF_SNIPER_KILL_RJER_Title"
+	{
+		"po"	"Jumper Stumper"
+	}
+	"TF_SNIPER_KILL_RJER_Desc"
+	{
+		"po"	"Mate um inimigo durante um salto com um foguete ou uma granada com a sua Espingarda de Sniper ou Hunstman."
+	}
+	"TF_SNIPER_KILL_OBJECTIVES_Title"
+	{
+		"po"	"Não sou um atirador certeiro, pai"
+	}
+	"TF_SNIPER_KILL_OBJECTIVES_Desc"
+	{
+		"po"	"Numa única vida, mate 3 inimigos enquanto estiverem a atingir o objectivo."
+	}
+	"TF_SNIPER_KILL_UNSCOPED_Title"
+	{
+		"po"	"Confie nos seus sentidos"
+	}
+	"TF_SNIPER_KILL_UNSCOPED_Desc"
+	{
+		"po"	"Faça 5 mortes com a Espingarda de Sniper sem a sua mira."
+	}
+	"TF_SNIPER_KILL_CHARGED_MEDIC_Title"
+	{
+		"po"	"Sobrecotomia"
+	}
+	"TF_SNIPER_KILL_CHARGED_MEDIC_Desc"
+	{
+		"po"	"Mate um Medic que esteja pronto a efectuar uma SobreCarga."
+	}
+	"TF_SNIPER_GET_BACKSTABBED_Title"
+	{
+		"po"	"Prémio de consolação"
+	}
+	"TF_SNIPER_GET_BACKSTABBED_Desc"
+	{
+		"po"	"Seja apunhalado nas costas 50 vezes."
+	}
+	"TF_SNIPER_KILL_AT_ROUNDSTART_Title"
+	{
+		"po"	"Inimigo às portas"
+	}
+	"TF_SNIPER_KILL_AT_ROUNDSTART_Desc"
+	{
+		"po"	"Mate um adversário no primeiro segundo de uma ronda."
+	}
+	"TF_SNIPER_HEADSHOT_POST_INVULN_Title"
+	{
+		"po"	"Tiro furtivo"
+	}
+	"TF_SNIPER_HEADSHOT_POST_INVULN_Desc"
+	{
+		"po"	"Mate um jogador inimigo com um tiro na cabeça quando a invulnerabilidade dele acabar."
+	}
+	"TF_SNIPER_TOP_SCOREBOARD_GRIND_Title"
+	{
+		"po"	"A minha carreira brilhante"
+	}
+	"TF_SNIPER_TOP_SCOREBOARD_GRIND_Desc"
+	{
+		"po"	"Bata o recorde de pontuação 10 vezes em equipas de 6 ou mais jogadores."
+	}
+	"TF_SNIPER_KILL_FAILED_SPY_Title"
+	{
+		"po"	"Tratamento de choque"
+	}
+	"TF_SNIPER_KILL_FAILED_SPY_Desc"
+	{
+		"po"	"Mate um Spy cuja tentativa de esfaqueamento nas costas foi bloqueada pelo seu Razorback."
+	}
+	"TF_SNIPER_JARATE_GROUP_Title"
+	{
+		"po"	"Bombas de saturação"
+	}
+	"TF_SNIPER_JARATE_GROUP_Desc"
+	{
+		"po"	"Jarate 4 jogadores inimigos com um único golpe."
+	}
+	"TF_SNIPER_JARATE_MEDIC_PAIR_Title"
+	{
+		"po"	"Rajada"
+	}
+	"TF_SNIPER_JARATE_MEDIC_PAIR_Desc"
+	{
+		"po"	"Jarate um inimigo e o Medic que esteja a curá-lo."
+	}
+	"TF_SNIPER_JARATE_REVEAL_SPY_Title"
+	{
+		"po"	"Transição súbita"
+	}
+	"TF_SNIPER_JARATE_REVEAL_SPY_Desc"
+	{
+		"po"	"Utilize o Jarate para desvendar um Spy disfarçado."
+	}
+	"TF_SNIPER_JARATE_EXTINGUISH_Title"
+	{
+		"po"	"A amizade é de ouro"
+	}
+	"TF_SNIPER_JARATE_EXTINGUISH_Desc"
+	{
+		"po"	"Apague o fogo de um colega de equipa com o seu Jarate."
+	}
+	"TF_SNIPER_BOW_PIN_HEAVY_Title"
+	{
+		"po"	"Chacina Guilherme Tell"
+	}
+	"TF_SNIPER_BOW_PIN_HEAVY_Desc"
+	{
+		"po"	"Pregue um inimigo Heavy à parede pela cabeça."
+	}
+	"TF_SNIPER_BOW_KILL_MEDIC_PAIR_Title"
+	{
+		"po"	"Arcos e flechas"
+	}
+	"TF_SNIPER_BOW_KILL_MEDIC_PAIR_Desc"
+	{
+		"po"	"Mate um par de Heavy e Medic com o arco."
+	}
+	"TF_SNIPER_BOW_KILL_FLAGCARRIER_Title"
+	{
+		"po"	"Robbin dos Bosques"
+	}
+	"TF_SNIPER_BOW_KILL_FLAGCARRIER_Desc"
+	{
+		"po"	"Abata um informador com uma única seta."
+	}
+	"TF_SNIPER_BOW_PINCUSHION_Title"
+	{
+		"po"	"Almofada de alfinetes"
+	}
+	"TF_SNIPER_BOW_PINCUSHION_Desc"
+	{
+		"po"	"Atinja um inimigo com 3 setas sem o matar."
+	}
+	"TF_SNIPER_JARATE_ASSISTS_Title"
+	{
+		"po"	"Assistente número um"
+	}
+	"TF_SNIPER_JARATE_ASSISTS_Desc"
+	{
+		"po"	"Marque 5 assistências com o Jarate numa única ronda."
+	}
+	"TF_SNIPER_JARATE_KILL_MELEE_Title"
+	{
+		"po"	"Golpe Jarate"
+	}
+	"TF_SNIPER_JARATE_KILL_MELEE_Desc"
+	{
+		"po"	"Jarate e mate 3 inimigos com o seu Kukri."
+	}
+	"TF_SNIPER_TAUNT_KILL_Title"
+	{
+		"po"	"Flechado"
+	}
+	"TF_SNIPER_TAUNT_KILL_Desc"
+	{
+		"po"	"Espete uma seta no inimigo."
+	}
+	"TF_SNIPER_BOW_KILL_WHILEDEAD_Title"
+	{
+		"po"	"Coroação dos mortos"
+	}
+	"TF_SNIPER_BOW_KILL_WHILEDEAD_Desc"
+	{
+		"po"	"Mate um inimigo com uma seta enquanto está morto."
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS1_Title"
+	{
+		"po"	"Sniper - Marco 1"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS1_Desc"
+	{
+		"po"	"Alcance 5 dos objectivos do pack Sniper."
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS2_Title"
+	{
+		"po"	"Sniper - Marco 2"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS2_Desc"
+	{
+		"po"	"Alcance 11 dos objectivos do pack Sniper."
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS3_Title"
+	{
+		"po"	"Sniper - Marco 3"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS3_Desc"
+	{
+		"po"	"Alcance 17 dos objectivos do pack Sniper."
+	}
+	"TF_SPY_BACKSTAB_SNIPERS_Title"
+	{
+		"po"	"Traição tripla"
+	}
+	"TF_SPY_BACKSTAB_SNIPERS_Desc"
+	{
+		"po"	"Apunhale 3 Snipers pelas costas numa única vida."
+	}
+	"TF_SPY_FREEZECAM_FLICK_Title"
+	{
+		"po"	"Apenas para os seus olhos"
+	}
+	"TF_SPY_FREEZECAM_FLICK_Desc"
+	{
+		"po"	"Forneça ao inimigo uma fotografia a apagar um cigarro no corpo deles."
+	}
+	"TF_SPY_BACKSTAB_DISGUISED_SPY_Title"
+	{
+		"po"	"Contra-espionagem"
+	}
+	"TF_SPY_BACKSTAB_DISGUISED_SPY_Desc"
+	{
+		"po"	"Apunhale nas costas um Spy disfarçado."
+	}
+	"TF_SPY_BACKSTAB_DISGUISE_TARGET_Title"
+	{
+		"po"	"Roubo de identidade"
+	}
+	"TF_SPY_BACKSTAB_DISGUISE_TARGET_Desc"
+	{
+		"po"	"Apunhale nas costas o inimigo do qual está disfarçado."
+	}
+	"TF_SPY_BACKSTAB_MEDIC_HEALING_YOU_Title"
+	{
+		"po"	"Para sua informação, sou um Spy"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_HEALING_YOU_Desc"
+	{
+		"po"	"Apunhale nas costas um Medic que o curou nos últimos 5 segundos."
+	}
+	"TF_SPY_BACKSTAB_ENGY_SAP_BUILDING_Title"
+	{
+		"po"	"O homem da arma destruída "
+	}
+	"TF_SPY_BACKSTAB_ENGY_SAP_BUILDING_Desc"
+	{
+		"po"	"Apunhale nas costas um Engineer e depois coloque um sapador em 3 dos seus edifícios num espaço de 10 segundos."
+	}
+	"TF_SPY_SAP_BUILDING_BACKSTAB_ENGY_Title"
+	{
+		"po"	"Sapador e punhalada"
+	}
+	"TF_SPY_SAP_BUILDING_BACKSTAB_ENGY_Desc"
+	{
+		"po"	"Coloque um sapador num edifício inimigo e apunhale pelas costas o Engineer que o construiu num espaço de 5 segundos."
+	}
+	"TF_SPY_BACKSTAB_MEDIC_PAIR_Title"
+	{
+		"po"	"Posso espetar?"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_PAIR_Desc"
+	{
+		"po"	"Apunhale pelas costas um inimigo e o Medic que o curou num espaço de 10 segundos."
+	}
+	"TF_SPY_BACKSTAB_FRIENDS_Title"
+	{
+		"po"	"Agente Provocateur"
+	}
+	"TF_SPY_BACKSTAB_FRIENDS_Desc"
+	{
+		"po"	"Apunhale pelas costas 10 vezes os seus amigos da Comunidade Steam."
+	}
+	"TF_SPY_DOMINATE_SNIPER_Title"
+	{
+		"po"	"A Supremacia de Melbourne"
+	}
+	"TF_SPY_DOMINATE_SNIPER_Desc"
+	{
+		"po"	"Domine um Sniper."
+	}
+	"TF_SPY_BUMP_CLOAKED_SPY_Title"
+	{
+		"po"	"Spies como nós"
+	}
+	"TF_SPY_BUMP_CLOAKED_SPY_Desc"
+	{
+		"po"	"Enquanto disfarçado, acerte num Spy inimigo camuflado."
+	}
+	"TF_SPY_KILL_SPY_WITH_KNIFE_Title"
+	{
+		"po"	"Uma facada mais"
+	}
+	"TF_SPY_KILL_SPY_WITH_KNIFE_Desc"
+	{
+		"po"	"Mate um guarda de armas Spy com a sua faca."
+	}
+	"TF_SPY_SURVIVE_BURNING_Title"
+	{
+		"po"	"Notícia escaldante"
+	}
+	"TF_SPY_SURVIVE_BURNING_Desc"
+	{
+		"po"	"Sobreviva 30 segundos depois de ser incendiado enquanto camuflado."
+	}
+	"TF_SPY_BREAK_SHIELD_KILL_SNIPER_Title"
+	{
+		"po"	"Morrer de outra forma"
+	}
+	"TF_SPY_BREAK_SHIELD_KILL_SNIPER_Desc"
+	{
+		"po"	"Mate um Sniper depois de a sua punhalada nas costas partir o seu Razorback."
+	}
+	"TF_SPY_KILL_WORKING_ENGY_Title"
+	{
+		"po"	"Constructus Interruptus"
+	}
+	"TF_SPY_KILL_WORKING_ENGY_Desc"
+	{
+		"po"	"Mate um Engineer que esteja a trabalhar numa arma de sentinela."
+	}
+	"TF_SPY_MEDIC_HEALING_KILL_ENEMY_Title"
+	{
+		"po"	"Fraude de seguros"
+	}
+	"TF_SPY_MEDIC_HEALING_KILL_ENEMY_Desc"
+	{
+		"po"	"Mate um inimigo enquanto estiver a ser curado por um Medic inimigo."
+	}
+	"TF_SPY_KILL_CP_DEFENDERS_Title"
+	{
+		"po"	"Ponto de ruptura"
+	}
+	"TF_SPY_KILL_CP_DEFENDERS_Desc"
+	{
+		"po"	"Mate 15 inimigos que estejam num ponto de controlo que possuam."
+	}
+	"TF_SPY_BACKSTAB_DOMINATING_ENEMY_Title"
+	{
+		"po"	"Alvo de valor acrescentado"
+	}
+	"TF_SPY_BACKSTAB_DOMINATING_ENEMY_Desc"
+	{
+		"po"	"Apunhale pelas costas um inimigo que esteja a dominar 3 ou mais dos seus colegas de equipa."
+	}
+	"TF_SPY_REVENGE_WITH_BACKSTAB_Title"
+	{
+		"po"	"Regresso do frio"
+	}
+	"TF_SPY_REVENGE_WITH_BACKSTAB_Desc"
+	{
+		"po"	"Obtenha uma Vingança matando com uma punhalada nas costas."
+	}
+	"TF_SPY_KNIFE_KILL_WHILE_JARATED_Title"
+	{
+		"po"	"Cuspideira"
+	}
+	"TF_SPY_KNIFE_KILL_WHILE_JARATED_Desc"
+	{
+		"po"	"Apunhale um inimigo até à morte sob a influência do Jarate."
+	}
+	"TF_SPY_BACKSTAB_QUICK_KILLS_Title"
+	{
+		"po"	"Só se morre três vezes"
+	}
+	"TF_SPY_BACKSTAB_QUICK_KILLS_Desc"
+	{
+		"po"	"Apunhale pelas costas 3 inimigos em 10 segundos."
+	}
+	"TF_SPY_BACKSTAB_GRIND_Title"
+	{
+		"po"	"Spymaster"
+	}
+	"TF_SPY_BACKSTAB_GRIND_Desc"
+	{
+		"po"	"Apunhale pelas costas 1000 inimigos."
+	}
+	"TF_SPY_SAPPER_GRIND_Title"
+	{
+		"po"	"Sapador implacável"
+	}
+	"TF_SPY_SAPPER_GRIND_Desc"
+	{
+		"po"	"Destrua 1000 edifícios de Engineers com os sapadores."
+	}
+	"TF_SPY_SAPPER_TEAMWORK_Title"
+	{
+		"po"	"Operação conjunta"
+	}
+	"TF_SPY_SAPPER_TEAMWORK_Desc"
+	{
+		"po"	"Coloque um sapador numa arma sentinela de um inimigo no espaço de 3 segundos após um colega de equipa colocar um sapador noutra."
+	}
+	"TF_SPY_BACKSTAB_MEDIC_CHARGED_Title"
+	{
+		"po"	"Dr. Nooooo"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_CHARGED_Desc"
+	{
+		"po"	"Apunhale nas costas um Medic que esteja pronto a efectuar uma SobreCarga."
+	}
+	"TF_SPY_BACKSTAB_CAPPING_ENEMIES_Title"
+	{
+		"po"	"É seguro?"
+	}
+	"TF_SPY_BACKSTAB_CAPPING_ENEMIES_Desc"
+	{
+		"po"	"Apunhale pelas costas 50 inimigos que estejam a captar pontos de controlo."
+	}
+	"TF_SPY_BACKSTAB_ENEMY_SWITCH_PYRO_Title"
+	{
+		"po"	"Esmagar e Queimar"
+	}
+	"TF_SPY_BACKSTAB_ENEMY_SWITCH_PYRO_Desc"
+	{
+		"po"	"Apunhale nas costas um inimigo, que se transforma em Pyro antes de reentrar no jogo."
+	}
+	"TF_SPY_AMBASSADOR_GRIND_Title"
+	{
+		"po"	"Diplomacia"
+	}
+	"TF_SPY_AMBASSADOR_GRIND_Desc"
+	{
+		"po"	"Mate 50 inimigos com o Ambassador."
+	}
+	"TF_SPY_AMBASSADOR_SNIPER_GRIND_Title"
+	{
+		"po"	"Skullpluggery"
+	}
+	"TF_SPY_AMBASSADOR_SNIPER_GRIND_Desc"
+	{
+		"po"	"Mate 20 Snipers com um tiro na cabeça com o Ambassador."
+	}
+	"TF_SPY_FEIGN_DEATH_KILL_Title"
+	{
+		"po"	"Agente Eliminador"
+	}
+	"TF_SPY_FEIGN_DEATH_KILL_Desc"
+	{
+		"po"	"Mate o inimigo que originou a sua morte simulada nos últimos 20 segundos."
+	}
+	"TF_SPY_AMBASSADOR_SCOUT_GRIND_Title"
+	{
+		"po"	"Quem manda aqui?"
+	}
+	"TF_SPY_AMBASSADOR_SCOUT_GRIND_Desc"
+	{
+		"po"	"Mate 3 Scouts com um tiro na cabeça com o Ambassador."
+	}
+	"TF_SPY_CAMP_POSITION_Title"
+	{
+		"po"	"Infiltragem"
+	}
+	"TF_SPY_CAMP_POSITION_Desc"
+	{
+		"po"	"Utilizando a Capa e o Punhal, mate o mesmo inimigo 3 vezes, tudo na mesma área e numa única vida."
+	}
+	"TF_SPY_ACHIEVE_PROGRESS1_Title"
+	{
+		"po"	"Spy - Marco 1"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS1_Desc"
+	{
+		"po"	"Alcance 5 dos objectivos do pack Spy."
+	}
+	"TF_SPY_ACHIEVE_PROGRESS2_Title"
+	{
+		"po"	"Spy - Marco 2"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS2_Desc"
+	{
+		"po"	"Alcance 11 dos objectivos do pack Spy."
+	}
+	"TF_SPY_ACHIEVE_PROGRESS3_Title"
+	{
+		"po"	"Spy - Marco 3"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS3_Desc"
+	{
+		"po"	"Alcance 17 dos objectivos do pack Spy."
+	}
+	"TF_HALLOWEEN_COLLECT_PUMPKINS_Title"
+	{
+		"po"	"Agente Cabaça"
+	}
+	"TF_HALLOWEEN_COLLECT_PUMPKINS_Desc"
+	{
+		"po"	"Recolha 20 abóboras do Dia das Bruxas de jogadores mortos para desbloquear um chapéu."
+	}
+	"TF_HALLOWEEN_DOMINATE_FOR_HAT_Title"
+	{
+		"po"	"Caça ao Chapéu Monstruoso"
+	}
+	"TF_HALLOWEEN_DOMINATE_FOR_HAT_Desc"
+	{
+		"po"	"Domine um jogador que esteja a usar o Chapéu Monstruoso para ficar também com um."
+	}
+	"TF_HALLOWEEN_KILL_SCARED_PLAYER_Title"
+	{
+		"po"	"Morto de Medo"
+	}
+	"TF_HALLOWEEN_KILL_SCARED_PLAYER_Desc"
+	{
+		"po"	"Mate um jogador assustado pelo fantasma que assombra o mapa Harvest jogando no modo KOTH."
+	}
+	"TF_HALLOWEEN_PUMPKIN_KILL_Title"
+	{
+		"po"	"Ataque da Lanterna"
+	}
+	"TF_HALLOWEEN_PUMPKIN_KILL_Desc"
+	{
+		"po"	"Cause a morte de 5 jogadores explodindo bombas de abóbora das imediações."
+	}
+	"TF_HALLOWEEN_DISGUISED_SPY_KILL_Title"
+	{
+		"po"	"Concurso de Disfarces"
+	}
+	"TF_HALLOWEEN_DISGUISED_SPY_KILL_Desc"
+	{
+		"po"	"Mate um espião com um disfarce da sua classe actual."
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS1_Title"
+	{
+		"po"	"Soldado - Marco 1"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS1_Desc"
+	{
+		"po"	"Alcance 5 dos objectivos do pack Soldier."
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS2_Title"
+	{
+		"po"	"Soldado - Marco 2"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS2_Desc"
+	{
+		"po"	"Alcance 11 dos objectivos do pack Soldier."
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS3_Title"
+	{
+		"po"	"Soldado - Marco 3"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS3_Desc"
+	{
+		"po"	"Alcance 17 dos objectivos do pack Soldier."
+	}
+	"TF_SOLDIER_KILL_GROUP_WITH_CROCKET_Title"
+	{
+		"po"	"Danos Tri-salpicais"
+	}
+	"TF_SOLDIER_KILL_GROUP_WITH_CROCKET_Desc"
+	{
+		"po"	"Mate 3 inimigos com um único rocket crítico."
+	}
+	"TF_SOLDIER_KILL_TWO_DURING_ROCKET_JUMP_Title"
+	{
+		"po"	"Morte vinda de cima"
+	}
+	"TF_SOLDIER_KILL_TWO_DURING_ROCKET_JUMP_Desc"
+	{
+		"po"	"Dê um salto com o rocket e mate 2 inimigos antes de atingir o chão."
+	}
+	"TF_SOLDIER_THREE_DOMINATIONS_Title"
+	{
+		"po"	"Dominador"
+	}
+	"TF_SOLDIER_THREE_DOMINATIONS_Desc"
+	{
+		"po"	"Obtenha 3 dominações numa única vida."
+	}
+	"TF_SOLDIER_DEFEND_MEDIC_Title"
+	{
+		"po"	"Crime de guerra e Castigo"
+	}
+	"TF_SOLDIER_DEFEND_MEDIC_Desc"
+	{
+		"po"	"Numa única vida, mate 3 inimigos que tenham ferido um Medic que o estava a curar."
+	}
+	"TF_SOLDIER_KILL_TAUNT_Title"
+	{
+		"po"	"Spray da Derrota"
+	}
+	"TF_SOLDIER_KILL_TAUNT_Desc"
+	{
+		"po"	"Use uma granada para ferir um jogador."
+	}
+	"TF_SOLDIER_DESTROY_SENTRY_OUT_OF_RANGE_Title"
+	{
+		"po"	"Armas dos Navar0wned"
+	}
+	"TF_SOLDIER_DESTROY_SENTRY_OUT_OF_RANGE_Desc"
+	{
+		"po"	"Mate 5 sentinelas Engineer quando estiver fora do seu alcance."
+	}
+	"TF_SOLDIER_KILL_SNIPER_WHILE_DEAD_Title"
+	{
+		"po"	"Destruição mutuamente garantida"
+	}
+	"TF_SOLDIER_KILL_SNIPER_WHILE_DEAD_Desc"
+	{
+		"po"	"Mate um sniper inimigo com um rocket depois de ele o matar."
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_TARGET_WHILE_AIRBORNE_Title"
+	{
+		"po"	"Asas da Glória"
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_TARGET_WHILE_AIRBORNE_Desc"
+	{
+		"po"	"Mate um soldado inimigo quando você e o alvo estiverem no ar."
+	}
+	"TF_SOLDIER_KILL_ENGY_Title"
+	{
+		"po"	"Engineer para a Eternidade"
+	}
+	"TF_SOLDIER_KILL_ENGY_Desc"
+	{
+		"po"	"Mate um Engineer enquanto este repara uma arma sentinela debaixo de fogo inimigo."
+	}
+	"TF_SOLDIER_NEMESIS_SHOVEL_KILL_Title"
+	{
+		"po"	"Guerra nas trincheiras"
+	}
+	"TF_SOLDIER_NEMESIS_SHOVEL_KILL_Desc"
+	{
+		"po"	"Mate a sua némesis com uma pá."
+	}
+	"TF_SOLDIER_DESTROY_STICKIES_Title"
+	{
+		"po"	"Soldado raso bombista"
+	}
+	"TF_SOLDIER_DESTROY_STICKIES_Desc"
+	{
+		"po"	"Destrua 10 bombas colantes com a caçadeira numa única vida."
+	}
+	"TF_SOLDIER_CROUCH_ROCKET_JUMP_Title"
+	{
+		"po"	"O desafio das águias"
+	}
+	"TF_SOLDIER_CROUCH_ROCKET_JUMP_Desc"
+	{
+		"po"	"Obtenha o salto com rocket mais alto possível e agache-se."
+	}
+	"TF_SOLDIER_BUFF_FRIENDS_Title"
+	{
+		"po"	"Estandarte de Irmãos"
+	}
+	"TF_SOLDIER_BUFF_FRIENDS_Desc"
+	{
+		"po"	"Aumente a potência de 5 amigos Steam de uma só vez com o Estandarte do Buff."
+	}
+	"TF_SOLDIER_KILL_TWENTY_FROM_ABOVE_Title"
+	{
+		"po"	"Águia que grita"
+	}
+	"TF_SOLDIER_KILL_TWENTY_FROM_ABOVE_Desc"
+	{
+		"po"	"Mate 20 inimigos de cima."
+	}
+	"TF_SOLDIER_SHOOT_MULT_CRITS_Title"
+	{
+		"po"	"Os crockets são tão estúpidos"
+	}
+	"TF_SOLDIER_SHOOT_MULT_CRITS_Desc"
+	{
+		"po"	"Dispare dois rockets de tiro sem potência consecutivos."
+	}
+	"TF_SOLDIER_KILL_DEFENSELESS_Title"
+	{
+		"po"	"Contravenção de Genebra"
+	}
+	"TF_SOLDIER_KILL_DEFENSELESS_Desc"
+	{
+		"po"	"Mate 5 jogadores inofensivos após o final de um jogo."
+	}
+	"TF_SOLDIER_KILL_ON_FIRE_Title"
+	{
+		"po"	"Semper Fry"
+	}
+	"TF_SOLDIER_KILL_ON_FIRE_Desc"
+	{
+		"po"	"Mate 20 inimigos enquanto estiver em chamas."
+	}
+	"TF_SOLDIER_KILL_FIVE_STUNNED_Title"
+	{
+		"po"	"O sono mais profundo"
+	}
+	"TF_SOLDIER_KILL_FIVE_STUNNED_Desc"
+	{
+		"po"	"Mate 5 jogadores atordoados."
+	}
+	"TF_SOLDIER_FREEZECAM_GIBS_Title"
+	{
+		"po"	"Sangue! Sangue! Sangue!"
+	}
+	"TF_SOLDIER_FREEZECAM_GIBS_Desc"
+	{
+		"po"	"Dê ao inimigo uma fotografia sua a provocá-lo com 3 das suas partes do corpo."
+	}
+	"TF_SOLDIER_KILL_SPY_KILLER_Title"
+	{
+		"po"	"Tribunal de espiões para crimes de guerra"
+	}
+	"TF_SOLDIER_KILL_SPY_KILLER_Desc"
+	{
+		"po"	"Mate um espião que apunhalou um membro da equipa pelas costas."
+	}
+	"TF_SOLDIER_DEFEND_CAP_THIRTY_TIMES_Title"
+	{
+		"po"	"Hamburger Hill"
+	}
+	"TF_SOLDIER_DEFEND_CAP_THIRTY_TIMES_Desc"
+	{
+		"po"	"Defenda um cume 30 vezes."
+	}
+	"TF_SOLDIER_GIB_GRIND_Title"
+	{
+		"po"	"Granadas dos nossos pais"
+	}
+	"TF_SOLDIER_GIB_GRIND_Desc"
+	{
+		"po"	"Mutile 1000 pessoas."
+	}
+	"TF_SOLDIER_RJ_EQUALIZER_KILL_Title"
+	{
+		"po"	"Em nome do dever"
+	}
+	"TF_SOLDIER_RJ_EQUALIZER_KILL_Desc"
+	{
+		"po"	"Mate um inimigo durante um salto de rocket com o Equalizador antes de atingir o chão."
+	}
+	"TF_SOLDIER_BUFF_TEAMMATES_Title"
+	{
+		"po"	"Os Boostie Boys"
+	}
+	"TF_SOLDIER_BUFF_TEAMMATES_Desc"
+	{
+		"po"	"Aumente a potência de 15 membros da equipa com o Estandarte do Buff numa única vida."
+	}
+	"TF_SOLDIER_KILL_DEMOMAN_GRIND_Title"
+	{
+		"po"	"Fora, maldito escocês!"
+	}
+	"TF_SOLDIER_KILL_DEMOMAN_GRIND_Desc"
+	{
+		"po"	"Mate 500 Demomen inimigos"
+	}
+	"TF_SOLDIER_KILL_PYRO_Title"
+	{
+		"po"	"Backdraft Dodger"
+	}
+	"TF_SOLDIER_KILL_PYRO_Desc"
+	{
+		"po"	"Mate um Pyro que tenha destruído um dos seus rockets nos últimos 10 segundos."
+	}
+	"TF_SOLDIER_EQUALIZER_STREAK_Title"
+	{
+		"po"	"Não tenho tempo para sangrar"
+	}
+	"TF_SOLDIER_EQUALIZER_STREAK_Desc"
+	{
+		"po"	"Mate 3 jogadores com o Equalizador numa única vida sem recorrer a primeiros-socorros."
+	}
+	"TF_SOLDIER_KILL_WITH_EQUALIZER_WHILE_HURT_Title"
+	{
+		"po"	"Experiência de quase morte"
+	}
+	"TF_SOLDIER_KILL_WITH_EQUALIZER_WHILE_HURT_Desc"
+	{
+		"po"	"Mate 20 inimigos com o seu Equalizador quando tiver menos de 25 pontos de energia."
+	}
+	"TF_SOLDIER_BOUNCE_THEN_SHOTGUN_Title"
+	{
+		"po"	"Por quem os cartuchos dobram"
+	}
+	"TF_SOLDIER_BOUNCE_THEN_SHOTGUN_Desc"
+	{
+		"po"	"Atire um inimigo para o ar com um rocket e depois mate-o com a caçadeira antes de este atingir o chão."
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_WITH_DIRECT_HIT_Title"
+	{
+		"po"	"Morte vinda do chão"
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_WITH_DIRECT_HIT_Desc"
+	{
+		"po"	"Mate 10 inimigos que estão no ar com o Dano Directo."
+	}
+	"TF_SOLDIER_FREEZECAM_TAUNT_Title"
+	{
+		"po"	"Vale mil palavras"
+	}
+	"TF_SOLDIER_FREEZECAM_TAUNT_Desc"
+	{
+		"po"	"Dê ao inimigo uma fotografia da sua salva de 21 balas."
+	}
+	"TF_SOLDIER_DUO_SOLDIER_KILLS_Title"
+	{
+		"po"	"Irmãos em perigos"
+	}
+	"TF_SOLDIER_DUO_SOLDIER_KILLS_Desc"
+	{
+		"po"	"Mate 10 inimigos enquanto ajuda ou é ajudado por outro soldado."
+	}
+	"TF_SOLDIER_MVP_Title"
+	{
+		"po"	"Medalhas de honra"
+	}
+	"TF_SOLDIER_MVP_Desc"
+	{
+		"po"	"Termine uma ronda como um MVP 10 vezes."
+	}
+	"TF_SOLDIER_RIDE_THE_CART_Title"
+	{
+		"po"	"Cavalgada da Valkartie"
+	}
+	"TF_SOLDIER_RIDE_THE_CART_Desc"
+	{
+		"po"	"Ande de carrinho durante 30 segundos."
+	}
+	"TF_SOLDIER_ASSIST_MEDIC_UBER_Title"
+	{
+		"po"	"S*M*A*S*H"
+	}
+	"TF_SOLDIER_ASSIST_MEDIC_UBER_Desc"
+	{
+		"po"	"Ajude um médico a explodir 5 inimigos com uma única SobreCarga."
+	}
+	"TF_DEMOMAN_KILL_SOLDIER_GRIND_Title"
+	{
+		"po"	"Kilt em acção"
+	}
+	"TF_DEMOMAN_KILL_SOLDIER_GRIND_Desc"
+	{
+		"po"	"Mate 500 soldados inimigos"
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_WITH_MEDIC_Title"
+	{
+		"po"	"Tam O'Shatter"
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_WITH_MEDIC_Desc"
+	{
+		"po"	"Destrua 5 edifícios de Engineers inimigos durante uma única SobreCarga de um médico."
+	}
+	"TF_DEMOMAN_DECAPITATE_CLOAKED_SPY_Title"
+	{
+		"po"	"Shorn Connery"
+	}
+	"TF_DEMOMAN_DECAPITATE_CLOAKED_SPY_Desc"
+	{
+		"po"	"Decapite um Spy disfarçado."
+	}
+	"TF_DEMOMAN_KILL_X_WITH_DIRECTPIPE_Title"
+	{
+		"po"	"Laddy Macdeth"
+	}
+	"TF_DEMOMAN_KILL_X_WITH_DIRECTPIPE_Desc"
+	{
+		"po"	"Mate 50 inimigos com disparos directos do Lança-granadas."
+	}
+	"TF_DEMOMAN_BOUNCE_AND_KILL_Title"
+	{
+		"po"	"Caber Toss"
+	}
+	"TF_DEMOMAN_BOUNCE_AND_KILL_Desc"
+	{
+		"po"	"Atire um inimigo para o ar e mate-o antes de atingir o chão."
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_Title"
+	{
+		"po"	"Brainspotting"
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_Desc"
+	{
+		"po"	"Decapite 50 inimigos."
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_FAST_Title"
+	{
+		"po"	"4 cabeças restantes"
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_FAST_Desc"
+	{
+		"po"	"Decapite 4 jogadores com um intervalo de apenas 10 segundos entre cada morte."
+	}
+	"TF_DEMOMAN_DUO_DEMOMAN_KILLS_Title"
+	{
+		"po"	"Bem jogado!"
+	}
+	"TF_DEMOMAN_DUO_DEMOMAN_KILLS_Desc"
+	{
+		"po"	"Mate 10 inimigos enquanto ajuda ou é ajudado por outro Demoman."
+	}
+	"TF_DEMOMAN_KILL_TWO_DURING_STICKYJUMP_Title"
+	{
+		"po"	"Escocês duplamente mutilado"
+	}
+	"TF_DEMOMAN_KILL_TWO_DURING_STICKYJUMP_Desc"
+	{
+		"po"	"Mate 2 pessoas com um único salto colante."
+	}
+	"TF_DEMOMAN_KILL_PLAYER_AFTER_TP_Title"
+	{
+		"po"	"Bombista de Loch Ness"
+	}
+	"TF_DEMOMAN_KILL_PLAYER_AFTER_TP_Desc"
+	{
+		"po"	"Mate um inimigo com bombas colantes a 5 segundos de serem teletransportados."
+	}
+	"TF_DEMOMAN_DOMINATE_THREE_ENGINEERS_Title"
+	{
+		"po"	"Três vezes Laddy"
+	}
+	"TF_DEMOMAN_DOMINATE_THREE_ENGINEERS_Desc"
+	{
+		"po"	"Domine 3 Engineers."
+	}
+	"TF_DEMOMAN_KILL_BUILDING_DIRECT_HIT_Title"
+	{
+		"po"	"Fogo cego"
+	}
+	"TF_DEMOMAN_KILL_BUILDING_DIRECT_HIT_Desc"
+	{
+		"po"	"Mate um edifício de Engineers que não consiga ver com um disparo directo do seu Lança-granadas."
+	}
+	"TF_DEMOMAN_MELEE_KILL_WHILE_STICKYJUMPING_Title"
+	{
+		"po"	"A peça escocesa"
+	}
+	"TF_DEMOMAN_MELEE_KILL_WHILE_STICKYJUMPING_Desc"
+	{
+		"po"	"Obtenha uma morte corpo a corpo durante um salto colante."
+	}
+	"TF_DEMOMAN_KILL_ENGI_SENTRY_DISPENSER_Title"
+	{
+		"po"	"O sapador Argyle"
+	}
+	"TF_DEMOMAN_KILL_ENGI_SENTRY_DISPENSER_Desc"
+	{
+		"po"	"Rebente com um Engineer, a respectiva arma sentinela e distribuidor com a detonação de uma bomba colante."
+	}
+	"TF_DEMOMAN_DECAPITATE_EQUALIZER_Title"
+	{
+		"po"	"Slammy Slayvis Woundya"
+	}
+	"TF_DEMOMAN_DECAPITATE_EQUALIZER_Desc"
+	{
+		"po"	"Decapite um soldado inimigo que ostente o Equalizador."
+	}
+	"TF_DEMOMAN_DECAPITATE_NEMESIS_Title"
+	{
+		"po"	"Só pode haver um vencedor"
+	}
+	"TF_DEMOMAN_DECAPITATE_NEMESIS_Desc"
+	{
+		"po"	"Decapite a sua némesis."
+	}
+	"TF_DEMOMAN_DAMAGE_GRIND_Title"
+	{
+		"po"	"Espartano tartano"
+	}
+	"TF_DEMOMAN_DAMAGE_GRIND_Desc"
+	{
+		"po"	"Faça um total de 1 milhão de pontos de danos por disparos."
+	}
+	"TF_DEMOMAN_KILL_X_CAPPING_ONEDET_Title"
+	{
+		"po"	"Guarda escocês"
+	}
+	"TF_DEMOMAN_KILL_X_CAPPING_ONEDET_Desc"
+	{
+		"po"	"Mate 3 inimigos pressionando ou empurrando um carrinho com uma única detonação de bomba colante em 3 vezes diferentes."
+	}
+	"TF_DEMOMAN_KILL_X_DEFENDING_Title"
+	{
+		"po"	"Bravehurt"
+	}
+	"TF_DEMOMAN_KILL_X_DEFENDING_Desc"
+	{
+		"po"	"Mate 25 jogadores defendendo um ponto de captura ou um carrinho."
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_GRIND_Title"
+	{
+		"po"	"Chorar um mouro!"
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_GRIND_Desc"
+	{
+		"po"	"Destrua 50 edifícios."
+	}
+	"TF_DEMOMAN_KILL_X_HEAVIES_FULLHP_ONEDET_Title"
+	{
+		"po"	"O Stickening"
+	}
+	"TF_DEMOMAN_KILL_X_HEAVIES_FULLHP_ONEDET_Desc"
+	{
+		"po"	"Mate 5 Heavies com energia total com uma única detonação de bomba colante."
+	}
+	"TF_DEMOMAN_KILL_X_SCOUTS_PYROS_Title"
+	{
+		"po"	"Glasg0wned"
+	}
+	"TF_DEMOMAN_KILL_X_SCOUTS_PYROS_Desc"
+	{
+		"po"	"Mate 25 escoceses e Pyros com o Lança-granadas."
+	}
+	"TF_DEMOMAN_TAUNT_KILL_Title"
+	{
+		"po"	"Scotch Tap"
+	}
+	"TF_DEMOMAN_TAUNT_KILL_Desc"
+	{
+		"po"	"Utilize o Eyelander e deleite-se a massacrar os seus inimigos."
+	}
+	"TF_DEMOMAN_CHARGE_KILL_Title"
+	{
+		"po"	"Targe Charge"
+	}
+	"TF_DEMOMAN_CHARGE_KILL_Desc"
+	{
+		"po"	"Carregue e mate inimigos com o seu escudo."
+	}
+	"TF_DEMOMAN_CRIT_SWORD_KILL_Title"
+	{
+		"po"	"Bate-me, Scotty"
+	}
+	"TF_DEMOMAN_CRIT_SWORD_KILL_Desc"
+	{
+		"po"	"Utilize o golpe mortal do Eyelander para matar 5 inimigos."
+	}
+	"TF_DEMOMAN_AIR_BURST_KILLS_Title"
+	{
+		"po"	"Algo de colante se aproxima"
+	}
+	"TF_DEMOMAN_AIR_BURST_KILLS_Desc"
+	{
+		"po"	"Mate 30 inimigos com bombas colantes de explosão de ar."
+	}
+	"TF_DEMOMAN_STICKYJUMP_CAP_Title"
+	{
+		"po"	"A estrada elevada"
+	}
+	"TF_DEMOMAN_STICKYJUMP_CAP_Desc"
+	{
+		"po"	"Faça um salto colante para um cume e capture-o."
+	}
+	"TF_DEMOMAN_FREEZECAM_SMILE_Title"
+	{
+		"po"	"Festa sangrenta"
+	}
+	"TF_DEMOMAN_FREEZECAM_SMILE_Desc"
+	{
+		"po"	"Dê a um inimigo uma fotografia sua cara a sorrir."
+	}
+	"TF_DEMOMAN_FREEZECAM_RUMP_Title"
+	{
+		"po"	"Segundo olho"
+	}
+	"TF_DEMOMAN_FREEZECAM_RUMP_Desc"
+	{
+		"po"	"Dê a um inimigo uma fotografia sua a abanar o rabo."
+	}
+	"TF_DEMOMAN_ENVIRONMENTAL_KILL_Title"
+	{
+		"po"	"He Who Celt It"
+	}
+	"TF_DEMOMAN_ENVIRONMENTAL_KILL_Desc"
+	{
+		"po"	"Utilize o Lança-bombas colante para matar um inimigo através de danos ambientais."
+	}
+	"TF_DEMOMAN_DESTROY_X_STICKYBOMBS_Title"
+	{
+		"po"	"Membro real roubado"
+	}
+	"TF_DEMOMAN_DESTROY_X_STICKYBOMBS_Desc"
+	{
+		"po"	"Destrua 100 bombas colantes inimigas com a Resistência Escocesa."
+	}
+	"TF_DEMOMAN_STICKJUMP_DISTANCE_Title"
+	{
+		"po"	"Lance na Escócia"
+	}
+	"TF_DEMOMAN_STICKJUMP_DISTANCE_Desc"
+	{
+		"po"	"Faça um grande salto colante..."
+	}
+	"TF_DEMOMAN_KILL3_WITH_DETONATION_Title"
+	{
+		"po"	"Gaiteiro"
+	}
+	"TF_DEMOMAN_KILL3_WITH_DETONATION_Desc"
+	{
+		"po"	"Mate pelo menos três jogadores com uma única detonação de bombas colantes."
+	}
+	"TF_DEMOMAN_KILLXSAPPINGSPIES_Title"
+	{
+		"po"	"Spynal Tap"
+	}
+	"TF_DEMOMAN_KILLXSAPPINGSPIES_Desc"
+	{
+		"po"	"Mate 20 espiões 5 segundos depois de colocarem um sapador num edifício da sua equipa."
+	}
+	"TF_DEMOMAN_KILL3_WITH_PIPE_SETUPS_Title"
+	{
+		"po"	"Pancada colante"
+	}
+	"TF_DEMOMAN_KILL3_WITH_PIPE_SETUPS_Desc"
+	{
+		"po"	"Recorrendo à Resistência Escocesa, mate 3 inimigos com explosões diferentes sem colocar novas bombas colantes."
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS1_Title"
+	{
+		"po"	"Demoman - Marco 1"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS1_Desc"
+	{
+		"po"	"Alcance 5 dos objectivos do pack Demoman."
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS2_Title"
+	{
+		"po"	"Demoman - Marco 2"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS2_Desc"
+	{
+		"po"	"Alcance 11 dos objectivos do pack Demoman."
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS3_Title"
+	{
+		"po"	"Demoman - Marco 3"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS3_Desc"
+	{
+		"po"	"Alcance 17 dos objectivos do pack Demoman."
+	}
+	"TF_SPY_TAUNT_KILL_Title"
+	{
+		"po"	"O homem do P.U.N.C.T.U.R.E."
+	}
+	"TF_SPY_TAUNT_KILL_Desc"
+	{
+		"po"	"Mate um inimigo na vedação."
+	}
+	"TF_SPY_FAST_CAP_Title"
+	{
+		"po"	"Na superfície secreta de Sua Majestade"
+	}
+	"TF_SPY_FAST_CAP_Desc"
+	{
+		"po"	"Comece a pressionar um ponto de captura em menos de um segundo depois de ficar disponível."
+	}
+}

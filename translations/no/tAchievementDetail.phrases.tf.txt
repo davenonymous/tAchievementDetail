@@ -1,0 +1,2611 @@
+"Phrases"
+{
+	"TF_GET_TURRETKILLS_Title"
+	{
+		"no"	"Sensorvåpen"
+	}
+	"TF_GET_TURRETKILLS_Desc"
+	{
+		"no"	"Samle opp 10 sensorvåpen med én enkelt sensor."
+	}
+	"TF_KILL_NEMESIS_Title"
+	{
+		"no"	"Nemesis"
+	}
+	"TF_KILL_NEMESIS_Desc"
+	{
+		"no"	"Få fem hevndrap."
+	}
+	"TF_GET_CONSECUTIVEKILLS_NODEATHS_Title"
+	{
+		"no"	"Vanskelig å drepe"
+	}
+	"TF_GET_CONSECUTIVEKILLS_NODEATHS_Desc"
+	{
+		"no"	"Få fem drap på rad uten å dø."
+	}
+	"TF_GET_HEALED_BYENEMY_Title"
+	{
+		"no"	"Forkledningens mester"
+	}
+	"TF_GET_HEALED_BYENEMY_Desc"
+	{
+		"no"	"Lur en av motstandernes Medicer til å helbrede deg."
+	}
+	"TF_GET_HEADSHOTS_Title"
+	{
+		"no"	"Grå materie"
+	}
+	"TF_GET_HEADSHOTS_Desc"
+	{
+		"no"	"Få 25 hodeskudd som Sniper."
+	}
+	"TF_PLAY_GAME_FRIENDSONLY_Title"
+	{
+		"no"	"Med venner som disse ..."
+	}
+	"TF_PLAY_GAME_FRIENDSONLY_Desc"
+	{
+		"no"	"Delta i et spill med sju eller flere spillere fra vennelisten din."
+	}
+	"TF_WIN_MULTIPLEGAMES_Title"
+	{
+		"no"	"Dynasti"
+	}
+	"TF_WIN_MULTIPLEGAMES_Desc"
+	{
+		"no"	"Vinn 20 spill."
+	}
+	"TF_GET_MULTIPLEKILLS_Title"
+	{
+		"no"	"Hardcore"
+	}
+	"TF_GET_MULTIPLEKILLS_Desc"
+	{
+		"no"	"Samle opp 1000 drap totalt."
+	}
+	"TF_WIN_2FORT_NOENEMYCAPS_Title"
+	{
+		"no"	"Overlegent angrep"
+	}
+	"TF_WIN_2FORT_NOENEMYCAPS_Desc"
+	{
+		"no"	"Vinn 2Fort med en utestengelse."
+	}
+	"TF_WIN_WELL_MINIMUMTIME_Title"
+	{
+		"no"	"Lynangrep"
+	}
+	"TF_WIN_WELL_MINIMUMTIME_Desc"
+	{
+		"no"	"Vinn Well på fem minutter eller mindre."
+	}
+	"TF_WIN_HYDRO_NOENEMYCAPS_Title"
+	{
+		"no"	"Ustoppelig angrep"
+	}
+	"TF_WIN_HYDRO_NOENEMYCAPS_Desc"
+	{
+		"no"	"Vinn Hydro uten å gi opp en erobring."
+	}
+	"TF_WIN_DUSTBOWL_NOENEMYCAPS_Title"
+	{
+		"no"	"Ugjennomtrengelig forsvar"
+	}
+	"TF_WIN_DUSTBOWL_NOENEMYCAPS_Desc"
+	{
+		"no"	"Lykkes i å forsvare Dustbowl uten å gi opp en erobring."
+	}
+	"TF_WIN_GRAVELPIT_NOENEMYCAPS_Title"
+	{
+		"no"	"Umulig forsvar"
+	}
+	"TF_WIN_GRAVELPIT_NOENEMYCAPS_Desc"
+	{
+		"no"	"Lykkes i å forsvare Gravel Pit uten å gi opp en erobring."
+	}
+	"TF_PLAY_GAME_EVERYCLASS_Title"
+	{
+		"no"	"Klassens beste"
+	}
+	"TF_PLAY_GAME_EVERYCLASS_Desc"
+	{
+		"no"	"Spill en fullstendig runde med hver eneste klasse."
+	}
+	"TF_PLAY_GAME_EVERYMAP_Title"
+	{
+		"no"	"Verdensreisende"
+	}
+	"TF_PLAY_GAME_EVERYMAP_Desc"
+	{
+		"no"	"Spill et fullstendig spill på 2Fort, Dustbowl, Granary, Gravel Pit, Hydro og Well (CP)."
+	}
+	"TF_GET_HEALPOINTS_Title"
+	{
+		"no"	"Lagdoktor"
+	}
+	"TF_GET_HEALPOINTS_Desc"
+	{
+		"no"	"Samle opp 25 000 helbredelsespoeng som Medic."
+	}
+	"TF_BURN_PLAYERSINMINIMUMTIME_Title"
+	{
+		"no"	"Flammekaster"
+	}
+	"TF_BURN_PLAYERSINMINIMUMTIME_Desc"
+	{
+		"no"	"Sett fyr på fem fiender på 30 sekunder."
+	}
+	"TF_MEDIC_TOP_SCOREBOARD_Title"
+	{
+		"no"	"Først – ikke gjør skade"
+	}
+	"TF_MEDIC_TOP_SCOREBOARD_Desc"
+	{
+		"no"	"Spill en hel runde uten å drepe noen fiender, og få høyeste poengsum på laget som består av seks eller flere spillere."
+	}
+	"TF_MEDIC_HEAL_UNDER_FIRE_Title"
+	{
+		"no"	"Firedobbel bypass"
+	}
+	"TF_MEDIC_HEAL_UNDER_FIRE_Desc"
+	{
+		"no"	"Helbred en lagkamerat som blir beskutt av fire fiender samtidig."
+	}
+	"TF_MEDIC_SIMUL_CHARGE_Title"
+	{
+		"no"	"Gruppehelse"
+	}
+	"TF_MEDIC_SIMUL_CHARGE_Desc"
+	{
+		"no"	"Samarbeid med to andre Medicer for å bruke tre superladinger samtidig."
+	}
+	"TF_MEDIC_SETUP_CHARGE_Title"
+	{
+		"no"	"Kirurgiske forberedelser"
+	}
+	"TF_MEDIC_SETUP_CHARGE_Desc"
+	{
+		"no"	"Ha klar en superlading før oppsettsfasen er over."
+	}
+	"TF_MEDIC_RAPID_CHARGE_Title"
+	{
+		"no"	"Traumedronning"
+	}
+	"TF_MEDIC_RAPID_CHARGE_Desc"
+	{
+		"no"	"Bruk tre superladinger på mindre enn fem minutter, og assister til fem drap i løpet av den tiden."
+	}
+	"TF_MEDIC_COUNTER_CHARGE_Title"
+	{
+		"no"	"Dobbel blindprøve"
+	}
+	"TF_MEDIC_COUNTER_CHARGE_Desc"
+	{
+		"no"	"Bruk en superlading innen åtte sekunder fra en fiendtlig Medic bruker sin."
+	}
+	"TF_MEDIC_SWITCH_TO_MEDIC_Title"
+	{
+		"no"	"Lek doktor"
+	}
+	"TF_MEDIC_SWITCH_TO_MEDIC_Desc"
+	{
+		"no"	"I lag uten Medicer må du være den første personen som skifter til Medic etter at en lagkamerat roper på en Medic, og deretter må du helbrede 500 helsepoeng."
+	}
+	"TF_MEDIC_SAVE_TEAMMATE_Title"
+	{
+		"no"	"Triage"
+	}
+	"TF_MEDIC_SAVE_TEAMMATE_Desc"
+	{
+		"no"	"Bruk en superlading på en lagkamerat mindre enn ett sekund før de blir truffet av en kritisk bombe."
+	}
+	"TF_MEDIC_CHARGE_BLOCKER_Title"
+	{
+		"no"	"Forebyggende medisin"
+	}
+	"TF_MEDIC_CHARGE_BLOCKER_Desc"
+	{
+		"no"	"Blokker fienden fra å erobre et kontrollpunkt med en superladet lagkamerat."
+	}
+	"TF_MEDIC_ASSIST_MEDIC_Title"
+	{
+		"no"	"Konsultasjon"
+	}
+	"TF_MEDIC_ASSIST_MEDIC_Desc"
+	{
+		"no"	"Assister en annen Medic i å drepe fem fiender på ett enkelt liv."
+	}
+	"TF_MEDIC_SYRINGE_SCOUTS_Title"
+	{
+		"no"	"Gjør det vondt når jeg gjør dette?"
+	}
+	"TF_MEDIC_SYRINGE_SCOUTS_Desc"
+	{
+		"no"	"Drep 50 Scouter med sprøytepistolen."
+	}
+	"TF_MEDIC_BONESAW_MEDICS_Title"
+	{
+		"no"	"Kollegagjennomgang"
+	}
+	"TF_MEDIC_BONESAW_MEDICS_Desc"
+	{
+		"no"	"Drep 50 Medicer med beinsagen."
+	}
+	"TF_MEDIC_ASSIST_HEAVY_LONG_Title"
+	{
+		"no"	"Store farmasøyt"
+	}
+	"TF_MEDIC_ASSIST_HEAVY_LONG_Desc"
+	{
+		"no"	"Assister en Heavy i å drepe 20 fiender, uten at noen av dere dør."
+	}
+	"TF_MEDIC_ASSIST_SCOUT_Title"
+	{
+		"no"	"Du kommer til å kjenne et lite stikk"
+	}
+	"TF_MEDIC_ASSIST_SCOUT_Desc"
+	{
+		"no"	"Assister i å drepe 3 fiender med en enkelt superlading mot en Scout."
+	}
+	"TF_MEDIC_ASSIST_PYRO_Title"
+	{
+		"no"	"Autoklav"
+	}
+	"TF_MEDIC_ASSIST_PYRO_Desc"
+	{
+		"no"	"Assister i å brenne 5 fiender med en enkelt superlading mot en Pyro."
+	}
+	"TF_MEDIC_ASSIST_HEAVY_Title"
+	{
+		"no"	"Slagskader"
+	}
+	"TF_MEDIC_ASSIST_HEAVY_Desc"
+	{
+		"no"	"Assister i å slå ut to fiender med én enkelt superlading mot en Heavy."
+	}
+	"TF_MEDIC_ASSIST_DEMOMAN_Title"
+	{
+		"no"	"Medisinsk gjennombrudd"
+	}
+	"TF_MEDIC_ASSIST_DEMOMAN_Desc"
+	{
+		"no"	"Assister i å ødelegge 5 fiendtlige Engineer-bygninger med en enkelt superlading mot en Demoman."
+	}
+	"TF_MEDIC_ASSIST_SOLDIER_Title"
+	{
+		"no"	"Eksplosjonsassistanse"
+	}
+	"TF_MEDIC_ASSIST_SOLDIER_Desc"
+	{
+		"no"	"Assister i å eksplodere fem fiender med en enkelt superlading mot en Soldier."
+	}
+	"TF_MEDIC_HEAL_ENGINEER_Title"
+	{
+		"no"	"Jordmor-mord"
+	}
+	"TF_MEDIC_HEAL_ENGINEER_Desc"
+	{
+		"no"	"Helbred en Engineer idet han reparerer sensorvåpenet sitt mens det blir beskutt av fienden."
+	}
+	"TF_MEDIC_ASSIST_CAPTURER_Title"
+	{
+		"no"	"Ubi concordia, ibi victoria"
+	}
+	"TF_MEDIC_ASSIST_CAPTURER_Desc"
+	{
+		"no"	"Assister i å drepe fem fiender ved et av fiendens kontrollpunkter, i ett enkelt liv."
+	}
+	"TF_MEDIC_HEAL_CALLERS_Title"
+	{
+		"no"	"Store runder"
+	}
+	"TF_MEDIC_HEAL_CALLERS_Desc"
+	{
+		"no"	"Helbred 200 lagkamerater etter at de har ropt på en Medic."
+	}
+	"TF_MEDIC_EXTINGUISH_TEAMMATES_Title"
+	{
+		"no"	"Infernalsk medisin"
+	}
+	"TF_MEDIC_EXTINGUISH_TEAMMATES_Desc"
+	{
+		"no"	"Slokk 100 brennende lagkamerater."
+	}
+	"TF_MEDIC_ASSIST_VS_NEMESES_Title"
+	{
+		"no"	"Legeassistert drap"
+	}
+	"TF_MEDIC_ASSIST_VS_NEMESES_Desc"
+	{
+		"no"	"Assister i å drepe 20 nemesis-fiender."
+	}
+	"TF_MEDIC_KILL_WHILE_CHARGED_Title"
+	{
+		"no"	"Placeboeffekten"
+	}
+	"TF_MEDIC_KILL_WHILE_CHARGED_Desc"
+	{
+		"no"	"Drep fem fiender i ett enkelt liv, mens du har superladingen klar uten å bruke den."
+	}
+	"TF_MEDIC_BONESAW_NOMISSES_Title"
+	{
+		"no"	"Sagbein"
+	}
+	"TF_MEDIC_BONESAW_NOMISSES_Desc"
+	{
+		"no"	"Treff fiender med beinsagen 5 ganger på rad uten å dø eller bomme."
+	}
+	"TF_MEDIC_HEAL_LARGE_Title"
+	{
+		"no"	"Turnuskandidat"
+	}
+	"TF_MEDIC_HEAL_LARGE_Desc"
+	{
+		"no"	"Samle opp 7000 helbredelsespoeng i ett enkelt liv."
+	}
+	"TF_MEDIC_HEAL_HUGE_Title"
+	{
+		"no"	"Spesialist"
+	}
+	"TF_MEDIC_HEAL_HUGE_Desc"
+	{
+		"no"	"Samle opp 10000 helbredelsespoeng i ett enkelt liv."
+	}
+	"TF_MEDIC_HEAL_GRIND_Title"
+	{
+		"no"	"Stabssjef"
+	}
+	"TF_MEDIC_HEAL_GRIND_Desc"
+	{
+		"no"	"Samle opp 1 million helbredelsespoeng totalt."
+	}
+	"TF_MEDIC_KILL_HEALED_SPY_Title"
+	{
+		"no"	"Den hyklerske eden"
+	}
+	"TF_MEDIC_KILL_HEALED_SPY_Desc"
+	{
+		"no"	"Drep en fiendtlig Spy som du har helbredet."
+	}
+	"TF_MEDIC_SAVE_FALLING_TEAMMATE_Title"
+	{
+		"no"	"Medisinsk intervensjon"
+	}
+	"TF_MEDIC_SAVE_FALLING_TEAMMATE_Desc"
+	{
+		"no"	"Redd en fallende lagkamerat fra å dø av å treffe bakken."
+	}
+	"TF_MEDIC_CHARGE_JUGGLE_Title"
+	{
+		"no"	"Dobbel dose"
+	}
+	"TF_MEDIC_CHARGE_JUGGLE_Desc"
+	{
+		"no"	"Superlad to lagkamerater samtidig."
+	}
+	"TF_MEDIC_FREEZECAM_RAGDOLL_Title"
+	{
+		"no"	"Obduksjonsrapport"
+	}
+	"TF_MEDIC_FREEZECAM_RAGDOLL_Desc"
+	{
+		"no"	"Gi en fiende et fryst bilde av deg mens du håner ham over filledukken."
+	}
+	"TF_MEDIC_BONESAW_SPY_CALLERS_Title"
+	{
+		"no"	"Førstehjelpsmassakre"
+	}
+	"TF_MEDIC_BONESAW_SPY_CALLERS_Desc"
+	{
+		"no"	"Bruk beinsagen til å drepe fem spioner som har ropt på en Medic."
+	}
+	"TF_MEDIC_CHARGE_FRIENDS_Title"
+	{
+		"no"	"Familieklinikk"
+	}
+	"TF_MEDIC_CHARGE_FRIENDS_Desc"
+	{
+		"no"	"Superlad ti av vennene dine fra Steam Community."
+	}
+	"TF_MEDIC_INVITE_JOIN_CHARGE_Title"
+	{
+		"no"	"Hjemmebesøk"
+	}
+	"TF_MEDIC_INVITE_JOIN_CHARGE_Desc"
+	{
+		"no"	"Bli med i et spill som en av vennene dine er med i, og bruk en superlading på ham."
+	}
+	"TF_MEDIC_HEAL_ACHIEVER_Title"
+	{
+		"no"	"Pasienttekke"
+	}
+	"TF_MEDIC_HEAL_ACHIEVER_Desc"
+	{
+		"no"	"Helbred en lagkamerat idet han oppnår en prestasjon."
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS1_Title"
+	{
+		"no"	"Medic-milepæl 1"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS1_Desc"
+	{
+		"no"	"Oppnå 10 av prestasjonene i Medic-pakken."
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS2_Title"
+	{
+		"no"	"Medic-milepæl 2"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS2_Desc"
+	{
+		"no"	"Oppnå 16 av prestasjonene i Medic-pakken."
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS3_Title"
+	{
+		"no"	"Medic-milepæl 3"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS3_Desc"
+	{
+		"no"	"Oppnå 22 av prestasjonene i Medic-pakken."
+	}
+	"TF_PYRO_KILL_MULTIWEAPONS_Title"
+	{
+		"no"	"Kombinert brann"
+	}
+	"TF_PYRO_KILL_MULTIWEAPONS_Desc"
+	{
+		"no"	"Bruk haglen til å gjøre ende på 20 spillere du har satt fyr på."
+	}
+	"TF_PYRO_SIMULBURN_SCOUTS_Title"
+	{
+		"no"	"Stekte pyser"
+	}
+	"TF_PYRO_SIMULBURN_SCOUTS_Desc"
+	{
+		"no"	"La to Scouter fra fienden stå i brann samtidig."
+	}
+	"TF_PYRO_FORCE_WATERJUMP_Title"
+	{
+		"no"	"Ilddåp"
+	}
+	"TF_PYRO_FORCE_WATERJUMP_Desc"
+	{
+		"no"	"Tving ti brennende fiender til å hoppe i vannet."
+	}
+	"TF_PYRO_KILL_POSTDEATH_Title"
+	{
+		"no"	"Skyt og glem"
+	}
+	"TF_PYRO_KILL_POSTDEATH_Desc"
+	{
+		"no"	"Drep 15 spillere mens du er død."
+	}
+	"TF_PYRO_KILL_SPIES_Title"
+	{
+		"no"	"Brannmur"
+	}
+	"TF_PYRO_KILL_SPIES_Desc"
+	{
+		"no"	"Sett fyr på fem spioner som har en Sapper på en alliert bygning."
+	}
+	"TF_PYRO_KILL_CARRIERS_Title"
+	{
+		"no"	"Bokbål"
+	}
+	"TF_PYRO_KILL_CARRIERS_Desc"
+	{
+		"no"	"Sett fyr på fem fiender som bærer på etterretningen din."
+	}
+	"TF_PYRO_REVEAL_SPIES_Title"
+	{
+		"no"	"Selvantenning"
+	}
+	"TF_PYRO_REVEAL_SPIES_Desc"
+	{
+		"no"	"Sett fyr på ti skjulte spioner."
+	}
+	"TF_PYRO_CAMP_TELEPORTERS_Title"
+	{
+		"no"	"Stifinner"
+	}
+	"TF_PYRO_CAMP_TELEPORTERS_Desc"
+	{
+		"no"	"Sett fyr på ti fiender som nylig har brukt en teleport."
+	}
+	"TF_PYRO_CAMP_POSITION_Title"
+	{
+		"no"	"Leirbål"
+	}
+	"TF_PYRO_CAMP_POSITION_Desc"
+	{
+		"no"	"Drep tre fiender på rad, alle i samme område."
+	}
+	"TF_PYRO_KILL_AXE_SMALL_Title"
+	{
+		"no"	"Tømmerhogger"
+	}
+	"TF_PYRO_KILL_AXE_SMALL_Desc"
+	{
+		"no"	"Drep tre personer med øksen i ett liv."
+	}
+	"TF_PYRO_KILL_AXE_LARGE_Title"
+	{
+		"no"	"Stirydder"
+	}
+	"TF_PYRO_KILL_AXE_LARGE_Desc"
+	{
+		"no"	"Drep seks personer med øksen i ett liv."
+	}
+	"TF_PYRO_KILL_FROM_BEHIND_Title"
+	{
+		"no"	"Brann i hælene"
+	}
+	"TF_PYRO_KILL_FROM_BEHIND_Desc"
+	{
+		"no"	"Drep 50 fiender bakfra med flammekasteren."
+	}
+	"TF_PYRO_BURN_SPIES_AS_YOU_Title"
+	{
+		"no"	"Fresing"
+	}
+	"TF_PYRO_BURN_SPIES_AS_YOU_Desc"
+	{
+		"no"	"Sett fyr på ti forkledde spioner."
+	}
+	"TF_PYRO_BURN_SNIPERS_ZOOMED_Title"
+	{
+		"no"	"Brannvakt"
+	}
+	"TF_PYRO_BURN_SNIPERS_ZOOMED_Desc"
+	{
+		"no"	"Sett fyr på 10 snikskyttere mens du har zoomet inn på dem."
+	}
+	"TF_PYRO_BURN_MEDICS_CHARGED_Title"
+	{
+		"no"	"Brannavdeling"
+	}
+	"TF_PYRO_BURN_MEDICS_CHARGED_Desc"
+	{
+		"no"	"Sett fyr på tre Medicer som er klare til å bruke en superlading."
+	}
+	"TF_PYRO_REFLECT_PROJECTILES_Title"
+	{
+		"no"	"Varm potet"
+	}
+	"TF_PYRO_REFLECT_PROJECTILES_Desc"
+	{
+		"no"	"Kast tilbake 100 prosjektiler med en eksplosjon av komprimert luft."
+	}
+	"TF_PYRO_KILL_HEAVIES_Title"
+	{
+		"no"	"Steike flesk"
+	}
+	"TF_PYRO_KILL_HEAVIES_Desc"
+	{
+		"no"	"Drep 50 Heavyer med flammekasteren."
+	}
+	"TF_PYRO_KILL_UNDERWATER_Title"
+	{
+		"no"	"Plan B"
+	}
+	"TF_PYRO_KILL_UNDERWATER_Desc"
+	{
+		"no"	"Drep ti fiender mens dere er under vann."
+	}
+	"TF_PYRO_KILL_UBERCHARGE_Title"
+	{
+		"no"	"Pyroteknikk"
+	}
+	"TF_PYRO_KILL_UBERCHARGE_Desc"
+	{
+		"no"	"Drep tre fiender i én enkelt superlading."
+	}
+	"TF_PYRO_DESTROY_BUILDINGS_Title"
+	{
+		"no"	"Brannstifter"
+	}
+	"TF_PYRO_DESTROY_BUILDINGS_Desc"
+	{
+		"no"	"Ødelegg 50 Engineer-bygninger."
+	}
+	"TF_PYRO_DEFEND_POINTS_Title"
+	{
+		"no"	"Kontrollert brenning"
+	}
+	"TF_PYRO_DEFEND_POINTS_Desc"
+	{
+		"no"	"Sett fyr på 50 fiender som har erobret et av kontrollpunktene dine."
+	}
+	"TF_PYRO_KILL_GRIND_Title"
+	{
+		"no"	"Brannmann"
+	}
+	"TF_PYRO_KILL_GRIND_Desc"
+	{
+		"no"	"Drep 500 fiender."
+	}
+	"TF_PYRO_DAMAGE_GRIND_Title"
+	{
+		"no"	"Pyroman"
+	}
+	"TF_PYRO_DAMAGE_GRIND_Desc"
+	{
+		"no"	"Få 1 million punkter med total brannskade."
+	}
+	"TF_PYRO_BURN_MEDICPAIR_Title"
+	{
+		"no"	"Nære antenninger"
+	}
+	"TF_PYRO_BURN_MEDICPAIR_Desc"
+	{
+		"no"	"Sett fyr på en fiende og Medicen som helbreder ham."
+	}
+	"TF_PYRO_KILL_TAUNT_Title"
+	{
+		"no"	"OMGWTFBBQ"
+	}
+	"TF_PYRO_KILL_TAUNT_Desc"
+	{
+		"no"	"Drep en fiende med håning."
+	}
+	"TF_PYRO_KILL_TEAMWORK_Title"
+	{
+		"no"	"Annengrads forbrenning"
+	}
+	"TF_PYRO_KILL_TEAMWORK_Desc"
+	{
+		"no"	"Drep en brennende fiende som ble satt fyr på av en annen Pyro."
+	}
+	"TF_PYRO_BURN_SPY_TAUNT_Title"
+	{
+		"no"	"Har du fyr?"
+	}
+	"TF_PYRO_BURN_SPY_TAUNT_Desc"
+	{
+		"no"	"Sett fyr på en Spy fra fienden mens han tenner seg en sigarett."
+	}
+	"TF_PYRO_DOMINATE_LEAVESVR_Title"
+	{
+		"no"	"På grillen"
+	}
+	"TF_PYRO_DOMINATE_LEAVESVR_Desc"
+	{
+		"no"	"Gjør at en dominert spiller må forlate serveren."
+	}
+	"TF_PYRO_REFLECT_CROCKET_KILL_Title"
+	{
+		"no"	"I ilden"
+	}
+	"TF_PYRO_REFLECT_CROCKET_KILL_Desc"
+	{
+		"no"	"Drep en Soldier med en tilbakekastet kritisk rakett."
+	}
+	"TF_PYRO_KILL_TAUNTERS_Title"
+	{
+		"no"	"Dansende brennoffer"
+	}
+	"TF_PYRO_KILL_TAUNTERS_Desc"
+	{
+		"no"	"Drep tre fiender mens de håner."
+	}
+	"TF_PYRO_DOUBLE_KO_Title"
+	{
+		"no"	"Dødelig varme"
+	}
+	"TF_PYRO_DOUBLE_KO_Desc"
+	{
+		"no"	"Drep fienden i samme sekund som han dreper deg."
+	}
+	"TF_PYRO_BURN_RJ_SOLDIER_Title"
+	{
+		"no"	"Pilot i flammer"
+	}
+	"TF_PYRO_BURN_RJ_SOLDIER_Desc"
+	{
+		"no"	"Sett fyr på en Soldier som hopper ut av en rakett, mens han er i luften."
+	}
+	"TF_PYRO_FREEZECAM_TAUNTS_Title"
+	{
+		"no"	"Isbrann"
+	}
+	"TF_PYRO_FREEZECAM_TAUNTS_Desc"
+	{
+		"no"	"Gi fiender fryste bilder av hver av håningene dine."
+	}
+	"TF_PYRO_KILL_GRIND_LARGE_Title"
+	{
+		"no"	"Brannsjef"
+	}
+	"TF_PYRO_KILL_GRIND_LARGE_Desc"
+	{
+		"no"	"Drep 1000 fiender."
+	}
+	"TF_PYRO_IGNITE_FLAREGUN_Title"
+	{
+		"no"	"Oppmerksomhetssøker"
+	}
+	"TF_PYRO_IGNITE_FLAREGUN_Desc"
+	{
+		"no"	"Sett fyr på 100 fiender med flammepistolen."
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS1_Title"
+	{
+		"no"	"Pyro-milepæl 1"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS1_Desc"
+	{
+		"no"	"Oppnå 10 av prestasjonene i Pyro-pakken."
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS2_Title"
+	{
+		"no"	"Pyro-milepæl 2"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS2_Desc"
+	{
+		"no"	"Oppnå 16 av prestasjonene i Pyro-pakken."
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS3_Title"
+	{
+		"no"	"Pyro-milepæl 3"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS3_Desc"
+	{
+		"no"	"Oppnå 22 av prestasjonene i Pyro-pakken."
+	}
+	"TF_HEAVY_DAMAGE_TAKEN_Title"
+	{
+		"no"	"Jernteppe"
+	}
+	"TF_HEAVY_DAMAGE_TAKEN_Desc"
+	{
+		"no"	"Ta 1000 punkter med skade i ett liv."
+	}
+	"TF_HEAVY_DEFEND_MEDIC_Title"
+	{
+		"no"	"Lagspiller"
+	}
+	"TF_HEAVY_DEFEND_MEDIC_Desc"
+	{
+		"no"	"Drep 50 fiender innen 3 sekunder etter at de har angrepet din Medic."
+	}
+	"TF_HEAVY_ASSIST_MEDIC_LARGE_Title"
+	{
+		"no"	"Arbeidsfordeling"
+	}
+	"TF_HEAVY_ASSIST_MEDIC_LARGE_Desc"
+	{
+		"no"	"Drep 20 fiender med hjelp fra en Medic uten at noen av dere dør."
+	}
+	"TF_HEAVY_EARN_MEDIC_DOMINATION_Title"
+	{
+		"no"	"Rød oktoberfest"
+	}
+	"TF_HEAVY_EARN_MEDIC_DOMINATION_Desc"
+	{
+		"no"	"Få et herredømme for en Medic som helbreder deg."
+	}
+	"TF_HEAVY_KILL_TAUNT_Title"
+	{
+		"no"	"Prøvelse"
+	}
+	"TF_HEAVY_KILL_TAUNT_Desc"
+	{
+		"no"	"Drep en fiende med håning."
+	}
+	"TF_HEAVY_KILL_FLAG_CARRIERS_Title"
+	{
+		"no"	"Forbrytelse og straff"
+	}
+	"TF_HEAVY_KILL_FLAG_CARRIERS_Desc"
+	{
+		"no"	"Drep 10 fiender som bærer på etterretningen din."
+	}
+	"TF_HEAVY_KILL_MEDIC_PAIR_Title"
+	{
+		"no"	"Klassekamp"
+	}
+	"TF_HEAVY_KILL_MEDIC_PAIR_Desc"
+	{
+		"no"	"Samarbeid med en alliert Medic om å drepe et fiendtlig par av Heavy og Medic."
+	}
+	"TF_HEAVY_BLOCK_INVULN_HEAVY_Title"
+	{
+		"no"	"Sovjet-blokade"
+	}
+	"TF_HEAVY_BLOCK_INVULN_HEAVY_Desc"
+	{
+		"no"	"Blokker bevegelsene til en usårbar fiendtlig Heavy mens du er usårbar og i forsvar."
+	}
+	"TF_HEAVY_BLOCK_CART_Title"
+	{
+		"no"	"Opphold vognen"
+	}
+	"TF_HEAVY_BLOCK_CART_Desc"
+	{
+		"no"	"Blokker fiendens muligheter til å flytte nyttelastvognen 25 ganger."
+	}
+	"TF_HEAVY_RECEIVE_UBER_GRIND_Title"
+	{
+		"no"	"Enestående"
+	}
+	"TF_HEAVY_RECEIVE_UBER_GRIND_Desc"
+	{
+		"no"	"Få superlading 50 ganger."
+	}
+	"TF_HEAVY_STAND_NEAR_DISPENSER_Title"
+	{
+		"no"	"Fabrikkarbeider"
+	}
+	"TF_HEAVY_STAND_NEAR_DISPENSER_Desc"
+	{
+		"no"	"Drep 20 fiender mens du lader opp på en ladestasjon."
+	}
+	"TF_HEAVY_ASSIST_HEAVY_GRIND_Title"
+	{
+		"no"	"Sovjetunionen"
+	}
+	"TF_HEAVY_ASSIST_HEAVY_GRIND_Desc"
+	{
+		"no"	"Drep 25 fiender enten ved å hjelpe eller ved å få hjelp av en annen Heavy."
+	}
+	"TF_HEAVY_CLEAR_STICKYBOMBS_Title"
+	{
+		"no"	"Produksjonsstopp"
+	}
+	"TF_HEAVY_CLEAR_STICKYBOMBS_Desc"
+	{
+		"no"	"Fjern 20 klisterbomber ved å drepe Demomennene som produserte dem."
+	}
+	"TF_HEAVY_KILL_UNDERWATER_Title"
+	{
+		"no"	"Vannkamp"
+	}
+	"TF_HEAVY_KILL_UNDERWATER_Desc"
+	{
+		"no"	"Drep 100 fiender mens både du og ofrene er under vann."
+	}
+	"TF_HEAVY_TAKE_MULTI_DAMAGE_Title"
+	{
+		"no"	"Rasputin"
+	}
+	"TF_HEAVY_TAKE_MULTI_DAMAGE_Desc"
+	{
+		"no"	"Bli skutt, brent, klubbet ned og få eksplosjonsskader i ett enkelt liv."
+	}
+	"TF_HEAVY_KILL_DOMINATED_Title"
+	{
+		"no"	"Prikken over i-en"
+	}
+	"TF_HEAVY_KILL_DOMINATED_Desc"
+	{
+		"no"	"Drep 20 spillere som du dominerer."
+	}
+	"TF_HEAVY_SURVIVE_CROCKET_Title"
+	{
+		"no"	"Rakettblokkering"
+	}
+	"TF_HEAVY_SURVIVE_CROCKET_Desc"
+	{
+		"no"	"Overlev et direkte treff fra en kritisk rakett."
+	}
+	"TF_HEAVY_ASSIST_GRIND_Title"
+	{
+		"no"	"Kollektivisering"
+	}
+	"TF_HEAVY_ASSIST_GRIND_Desc"
+	{
+		"no"	"Få 1000 medvirkninger."
+	}
+	"TF_HEAVY_UNCOVER_SPIES_Title"
+	{
+		"no"	"Spionlektisk materialisme"
+	}
+	"TF_HEAVY_UNCOVER_SPIES_Desc"
+	{
+		"no"	"Drep eller medvirk til å drepe 10 skjulte spioner."
+	}
+	"TF_HEAVY_KILL_WHILE_SPUNUP_Title"
+	{
+		"no"	"Permanent revolusjon"
+	}
+	"TF_HEAVY_KILL_WHILE_SPUNUP_Desc"
+	{
+		"no"	"Drep 5 fiender uten å spinne ned våpenet ditt."
+	}
+	"TF_HEAVY_FIRE_LOTS_Title"
+	{
+		"no"	"Tungindustri"
+	}
+	"TF_HEAVY_FIRE_LOTS_Desc"
+	{
+		"no"	"Skyt minivåpenrunder for 200 000 dollar i ett enkelt liv."
+	}
+	"TF_HEAVY_KILL_CRIT_PUNCH_Title"
+	{
+		"no"	"Harde knyttnever"
+	}
+	"TF_HEAVY_KILL_CRIT_PUNCH_Desc"
+	{
+		"no"	"Drep en fiende med et kritisk slag."
+	}
+	"TF_HEAVY_HEAL_MEDIKITS_Title"
+	{
+		"no"	"Redistribusjon av helse"
+	}
+	"TF_HEAVY_HEAL_MEDIKITS_Desc"
+	{
+		"no"	"Helbred 1000 skader med førstehjelpssett i ett enkelt liv."
+	}
+	"TF_HEAVY_KILL_SHOTGUN_Title"
+	{
+		"no"	"Rasjonering"
+	}
+	"TF_HEAVY_KILL_SHOTGUN_Desc"
+	{
+		"no"	"Drep en fiende med haglen mens du er tom for ammunisjon til minivåpenet."
+	}
+	"TF_HEAVY_FIRST_TO_CAP_Title"
+	{
+		"no"	"Fortropp"
+	}
+	"TF_HEAVY_FIRST_TO_CAP_Desc"
+	{
+		"no"	"Vær den første på laget ditt til å begynne å erobre et kontrollpunkt i en runde."
+	}
+	"TF_HEAVY_PAYLOAD_CAP_GRIND_Title"
+	{
+		"no"	"Vogndytting"
+	}
+	"TF_HEAVY_PAYLOAD_CAP_GRIND_Desc"
+	{
+		"no"	"Få 50 poeng i nyttelastkart."
+	}
+	"TF_HEAVY_KILL_MIDAIR_MINIGUN_Title"
+	{
+		"no"	"Luftig død"
+	}
+	"TF_HEAVY_KILL_MIDAIR_MINIGUN_Desc"
+	{
+		"no"	"Drep 10 fiender i luften med minivåpenet."
+	}
+	"TF_HEAVY_DEFEND_CONTROL_POINT_Title"
+	{
+		"no"	"Gorky-parkert"
+	}
+	"TF_HEAVY_DEFEND_CONTROL_POINT_Desc"
+	{
+		"no"	"Drep 25 fiender mens du står på et kontrollpunkt du eier."
+	}
+	"TF_HEAVY_KILL_CAPPING_ENEMIES_Title"
+	{
+		"no"	"Rensing"
+	}
+	"TF_HEAVY_KILL_CAPPING_ENEMIES_Desc"
+	{
+		"no"	"Drep 15 fiender som erobrer et kontrollpunkt du eier."
+	}
+	"TF_HEAVY_REVENGE_ASSIST_Title"
+	{
+		"no"	"En hjelpende hånd"
+	}
+	"TF_HEAVY_REVENGE_ASSIST_Desc"
+	{
+		"no"	"Hjelp fem lagkamerater med å ta hevn over nemesisene sine."
+	}
+	"TF_HEAVY_TELEPORT_FAST_KILL_Title"
+	{
+		"no"	"Femsekundersplanen"
+	}
+	"TF_HEAVY_TELEPORT_FAST_KILL_Desc"
+	{
+		"no"	"Drep en fiende på de fem første sekundene etter at du kommer ut av en teleport."
+	}
+	"TF_HEAVY_FREEZECAM_TAUNT_Title"
+	{
+		"no"	"Fotostroika"
+	}
+	"TF_HEAVY_FREEZECAM_TAUNT_Desc"
+	{
+		"no"	"Gi en fiende et fryst bilde av deg mens du håner og er usårbar."
+	}
+	"TF_HEAVY_EAT_SANDWICHES_Title"
+	{
+		"no"	"Kraftig konsum"
+	}
+	"TF_HEAVY_EAT_SANDWICHES_Desc"
+	{
+		"no"	"Spis 100 Sandvicher."
+	}
+	"TF_HEAVY_KILL_SCOUTS_Title"
+	{
+		"no"	"Ikke rør Sandvichen"
+	}
+	"TF_HEAVY_KILL_SCOUTS_Desc"
+	{
+		"no"	"Drep 50 Scouter med Natascha."
+	}
+	"TF_HEAVY_KILL_HEAVIES_GLOVES_Title"
+	{
+		"no"	"Borsjtsj-belte"
+	}
+	"TF_HEAVY_KILL_HEAVIES_GLOVES_Desc"
+	{
+		"no"	"Drep 10 Heavyer med K.G.B."
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS1_Title"
+	{
+		"no"	"Heavy-milepæl 1"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS1_Desc"
+	{
+		"no"	"Oppnå 10 av prestasjonene i Heavy-pakken."
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS2_Title"
+	{
+		"no"	"Heavy-milepæl 2"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS2_Desc"
+	{
+		"no"	"Oppnå 16 av prestasjonene i Heavy-pakken."
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS3_Title"
+	{
+		"no"	"Heavy-milepæl 3"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS3_Desc"
+	{
+		"no"	"Oppnå 22 av prestasjonene i Heavy-pakken."
+	}
+	"TF_SCOUT_FIRST_BLOOD_Title"
+	{
+		"no"	"Første blodsdråpe"
+	}
+	"TF_SCOUT_FIRST_BLOOD_Desc"
+	{
+		"no"	"Få det første drapet i en Arena-kamp."
+	}
+	"TF_SCOUT_FIRST_BLOOD_KILL_Title"
+	{
+		"no"	"Første blodsdråpe, del 2"
+	}
+	"TF_SCOUT_FIRST_BLOOD_KILL_Desc"
+	{
+		"no"	"Drep 5 fiender under fulltrefferperioden i Første blodsdråpe"
+	}
+	"TF_SCOUT_WELL_EARLY_KILL_Title"
+	{
+		"no"	"Slå til raskt"
+	}
+	"TF_SCOUT_WELL_EARLY_KILL_Desc"
+	{
+		"no"	"Drep en spiller i Well før runden starter."
+	}
+	"TF_SCOUT_LIFETIME_KILLS_Title"
+	{
+		"no"	"Et år du sent vil glemme"
+	}
+	"TF_SCOUT_LIFETIME_KILLS_Desc"
+	{
+		"no"	"Få 2004 levetidsdrap."
+	}
+	"TF_SCOUT_IRON_MAN_KILLS_Title"
+	{
+		"no"	"Syklusen"
+	}
+	"TF_SCOUT_IRON_MAN_KILLS_Desc"
+	{
+		"no"	"I ett enkelt liv kan du drepe en fiende mens du er på bakken, i luften og i vannet."
+	}
+	"TF_SCOUT_DESTROY_TELEPORTERS_Title"
+	{
+		"no"	"Nærmere"
+	}
+	"TF_SCOUT_DESTROY_TELEPORTERS_Desc"
+	{
+		"no"	"Ødelegg 3 teleportinnganger."
+	}
+	"TF_SCOUT_DESTROY_BUILDINGS_BEING_BUILT_Title"
+	{
+		"no"	"Hvis du bygger det"
+	}
+	"TF_SCOUT_DESTROY_BUILDINGS_BEING_BUILT_Desc"
+	{
+		"no"	"Ødelegg 3 fiendebygninger mens de fremdeles er under oppføring."
+	}
+	"TF_SCOUT_DESTROY_SENTRY_WITH_PISTOL_Title"
+	{
+		"no"	"Skyt ned"
+	}
+	"TF_SCOUT_DESTROY_SENTRY_WITH_PISTOL_Desc"
+	{
+		"no"	"Ødelegg et aktivt sensorvåpen med pistolen din."
+	}
+	"TF_SCOUT_DOUBLE_JUMPS_Title"
+	{
+		"no"	"Gjør deg klar"
+	}
+	"TF_SCOUT_DOUBLE_JUMPS_Desc"
+	{
+		"no"	"Utfør 1000 dobbelthopp."
+	}
+	"TF_SCOUT_ASSIST_MEDIC_Title"
+	{
+		"no"	"Er det en lege i huset?"
+	}
+	"TF_SCOUT_ASSIST_MEDIC_Desc"
+	{
+		"no"	"Drep 3 fiender mens du påvirket av en Medics superlading."
+	}
+	"TF_SCOUT_STEAL_SANDWICH_Title"
+	{
+		"no"	"1–0 over fienden"
+	}
+	"TF_SCOUT_STEAL_SANDWICH_Desc"
+	{
+		"no"	"Drep en fiendtlig Heavy, og ta Sandvichen hans."
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS1_Title"
+	{
+		"no"	"Scout-milepæl 1"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS1_Desc"
+	{
+		"no"	"Oppnå 10 av prestasjonene i Scout-pakken."
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS2_Title"
+	{
+		"no"	"Scout-milepæl 2"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS2_Desc"
+	{
+		"no"	"Oppnå 16 av prestasjonene i Scout-pakken."
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS3_Title"
+	{
+		"no"	"Scout-milepæl 3"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS3_Desc"
+	{
+		"no"	"Oppnå 22 av prestasjonene i Scout-pakken."
+	}
+	"TF_SCOUT_KILL_CHARGED_MEDICS_Title"
+	{
+		"no"	"Et eple om dagen ..."
+	}
+	"TF_SCOUT_KILL_CHARGED_MEDICS_Desc"
+	{
+		"no"	"Drep en Medic som er klar til å bruke en superlading."
+	}
+	"TF_SCOUT_SURVIVE_DAMAGE_Title"
+	{
+		"no"	"Jeg er Batman"
+	}
+	"TF_SCOUT_SURVIVE_DAMAGE_Desc"
+	{
+		"no"	"Overlev 500 skader i ett liv."
+	}
+	"TF_SCOUT_DOUBLEJUMP_KILL_Title"
+	{
+		"no"	"Høy ball"
+	}
+	"TF_SCOUT_DOUBLEJUMP_KILL_Desc"
+	{
+		"no"	"Drep 20 spillere mens du dobbelthopper."
+	}
+	"TF_SCOUT_FLAG_CAP_GRIND_Title"
+	{
+		"no"	"Rundtur"
+	}
+	"TF_SCOUT_FLAG_CAP_GRIND_Desc"
+	{
+		"no"	"Erobre fiendens etterretning 25 ganger."
+	}
+	"TF_SCOUT_THREE_FLAGCAPS_Title"
+	{
+		"no"	"Trippeltriumf"
+	}
+	"TF_SCOUT_THREE_FLAGCAPS_Desc"
+	{
+		"no"	"Erobre fiendens etterretning 3 ganger i én enkelt CTF-runde."
+	}
+	"TF_SCOUT_DODGE_DAMAGE_Title"
+	{
+		"no"	"Kunstnerisk unnamanøver"
+	}
+	"TF_SCOUT_DODGE_DAMAGE_Desc"
+	{
+		"no"	"Unngå 1000 skader i ett enkelt liv ved hjelp av Bonk! Atomic Punch"
+	}
+	"TF_SCOUT_KNOCK_INTO_TRAIN_Title"
+	{
+		"no"	"Fallklassiker"
+	}
+	"TF_SCOUT_KNOCK_INTO_TRAIN_Desc"
+	{
+		"no"	"Forårsak død eller selvmord som følge av omgivelsene ved hjelp av slagkraften til Force-A-Nature."
+	}
+	"TF_SCOUT_KILL_STUNNED_Title"
+	{
+		"no"	"Angrepssone"
+	}
+	"TF_SCOUT_KILL_STUNNED_Desc"
+	{
+		"no"	"Drep 50 fiender mens de er satt ut av spill."
+	}
+	"TF_SCOUT_STUN_INTO_TRAIN_Title"
+	{
+		"no"	"Dårlig miljø"
+	}
+	"TF_SCOUT_STUN_INTO_TRAIN_Desc"
+	{
+		"no"	"Forårsak død som følge av omgivelsene ved å sette en fiende ut av spill."
+	}
+	"TF_SCOUT_STUN_UBER_ENEMIES_Title"
+	{
+		"no"	"Storeslem"
+	}
+	"TF_SCOUT_STUN_UBER_ENEMIES_Desc"
+	{
+		"no"	"Sett to Medicer som er klare til å bruke en superlading, ut av spill."
+	}
+	"TF_SCOUT_STUN_CAPPING_ENEMIES_Title"
+	{
+		"no"	"Hardt og raskt"
+	}
+	"TF_SCOUT_STUN_CAPPING_ENEMIES_Desc"
+	{
+		"no"	"Sett 50 fiender ut av spill mens de erobrer et punkt eller skyver vognen."
+	}
+	"TF_SCOUT_MAX_STUNS_Title"
+	{
+		"no"	"Sikt mot stjernene"
+	}
+	"TF_SCOUT_MAX_STUNS_Desc"
+	{
+		"no"	"Sett en fiende ut av spill så lenge som mulig ved å treffe ham med en lang ball."
+	}
+	"TF_SCOUT_STUN_SCOUT_WITH_THEIR_BALL_Title"
+	{
+		"no"	"Fulltreffer"
+	}
+	"TF_SCOUT_STUN_SCOUT_WITH_THEIR_BALL_Desc"
+	{
+		"no"	"Sett en Scout ut av spill med sin egen ball."
+	}
+	"TF_SCOUT_KILL_IN_DODGE_COOLDOWN_Title"
+	{
+		"no"	"Sett Runneren på benken"
+	}
+	"TF_SCOUT_KILL_IN_DODGE_COOLDOWN_Desc"
+	{
+		"no"	"Drep en Scout mens han er fanget av forsinkelseseffekten etter en unnamanøver."
+	}
+	"TF_SCOUT_KILL_FROM_BEHIND_Title"
+	{
+		"no"	"Sjusover"
+	}
+	"TF_SCOUT_KILL_FROM_BEHIND_Desc"
+	{
+		"no"	"Drep 50 fiender bakfra med Force-A-Nature."
+	}
+	"TF_SCOUT_CAPTURE_LAST_POINT_Title"
+	{
+		"no"	"Bytte side"
+	}
+	"TF_SCOUT_CAPTURE_LAST_POINT_Desc"
+	{
+		"no"	"Erobre det siste punktet på et CP-kart."
+	}
+	"TF_SCOUT_CAPTURE_THREE_POINTS_Title"
+	{
+		"no"	"Trippelspill"
+	}
+	"TF_SCOUT_CAPTURE_THREE_POINTS_Desc"
+	{
+		"no"	"Erobre tre erobringspunkt på rad i ett liv."
+	}
+	"TF_SCOUT_FAST_CAP_Title"
+	{
+		"no"	"Hurtigangrep"
+	}
+	"TF_SCOUT_FAST_CAP_Desc"
+	{
+		"no"	"Begynn å ta over et erobringspunkt i samme sekund som det blir tilgjengelig."
+	}
+	"TF_SCOUT_START_AND_FINISH_CAP_Title"
+	{
+		"no"	"Dekk på bordet"
+	}
+	"TF_SCOUT_START_AND_FINISH_CAP_Desc"
+	{
+		"no"	"Start 10-poengserobringer som alle lykkes."
+	}
+	"TF_SCOUT_BLOCK_CAPS_Title"
+	{
+		"no"	"Tett forsvar"
+	}
+	"TF_SCOUT_BLOCK_CAPS_Desc"
+	{
+		"no"	"Blokker 50-poengserobringer."
+	}
+	"TF_SCOUT_CARRIER_KILL_CARRIER_Title"
+	{
+		"no"	"Lek med de store gutta"
+	}
+	"TF_SCOUT_CARRIER_KILL_CARRIER_Desc"
+	{
+		"no"	"Drep en motstander som har etterretningen din mens du holder etterretningen hans."
+	}
+	"TF_SCOUT_CAP_FLAG_WITHOUT_ATTACKING_Title"
+	{
+		"no"	"Tomme trusler"
+	}
+	"TF_SCOUT_CAP_FLAG_WITHOUT_ATTACKING_Desc"
+	{
+		"no"	"Stjel og erobre fiendens etterretning uten å løsne et eneste skudd."
+	}
+	"TF_SCOUT_LONG_DISTANCE_RUNNER_Title"
+	{
+		"no"	"Ut på tur"
+	}
+	"TF_SCOUT_LONG_DISTANCE_RUNNER_Desc"
+	{
+		"no"	"Løp 25 kilometer."
+	}
+	"TF_SCOUT_TAUNT_KILL_Title"
+	{
+		"no"	"Ut av banen"
+	}
+	"TF_SCOUT_TAUNT_KILL_Desc"
+	{
+		"no"	"Slå en fiende 25 meter."
+	}
+	"TF_SNIPER_JARATE_DOMINATED_Title"
+	{
+		"no"	"Brukt og kastet"
+	}
+	"TF_SNIPER_JARATE_DOMINATED_Desc"
+	{
+		"no"	"Kast krukker på en fiende du dominerer."
+	}
+	"TF_SNIPER_FREEZECAM_HAT_Title"
+	{
+		"no"	"Vær høflig"
+	}
+	"TF_SNIPER_FREEZECAM_HAT_Desc"
+	{
+		"no"	"Gi fienden et fryst bilde av deg mens du tar av deg hatten."
+	}
+	"TF_SNIPER_RIFLE_NO_MISSING_Title"
+	{
+		"no"	"Vær effektiv"
+	}
+	"TF_SNIPER_RIFLE_NO_MISSING_Desc"
+	{
+		"no"	"Drep tre fiender med snikskytterriflen uten å bomme."
+	}
+	"TF_SNIPER_CAPTURE_FLAG_Title"
+	{
+		"no"	"Ha en plan"
+	}
+	"TF_SNIPER_CAPTURE_FLAG_Desc"
+	{
+		"no"	"Fang flagget i CTF."
+	}
+	"TF_SNIPER_KILL_GRIND_Title"
+	{
+		"no"	"Drep alle du møter"
+	}
+	"TF_SNIPER_KILL_GRIND_Desc"
+	{
+		"no"	"Drep 1000 fiender."
+	}
+	"TF_SNIPER_KILL_WEAPONS_Title"
+	{
+		"no"	"Trippeloffer"
+	}
+	"TF_SNIPER_KILL_WEAPONS_Desc"
+	{
+		"no"	"Drep med tre ulike våpen i én enkelt runde."
+	}
+	"TF_SNIPER_HEADSHOT_SNIPERS_Title"
+	{
+		"no"	"Nedtelling"
+	}
+	"TF_SNIPER_HEADSHOT_SNIPERS_Desc"
+	{
+		"no"	"Skyt ti fiendtlige Snipere i hodet."
+	}
+	"TF_SNIPER_DESTROY_SENTRYGUNS_Title"
+	{
+		"no"	"Ekstrasensorisk"
+	}
+	"TF_SNIPER_DESTROY_SENTRYGUNS_Desc"
+	{
+		"no"	"Ødelegg tre sensorvåpen laget av en Engineer."
+	}
+	"TF_SNIPER_KILL_INVIS_SPY_Title"
+	{
+		"no"	"Blinkskudd"
+	}
+	"TF_SNIPER_KILL_INVIS_SPY_Desc"
+	{
+		"no"	"Drep en fullstendig usynlig Spy med ett skudd."
+	}
+	"TF_SNIPER_KILL_MIDAIR_SCOUT_Title"
+	{
+		"no"	"Dødsfall"
+	}
+	"TF_SNIPER_KILL_MIDAIR_SCOUT_Desc"
+	{
+		"no"	"Drep en Scout midt i luften med snikskytterriflen eller Huntsman-buen."
+	}
+	"TF_SNIPER_FREEZECAM_WAVE_Title"
+	{
+		"no"	"Vink farvel"
+	}
+	"TF_SNIPER_FREEZECAM_WAVE_Desc"
+	{
+		"no"	"Gi en fiende et fryst bilde av deg mens du vinker til ham."
+	}
+	"TF_SNIPER_DOMINATE_SNIPER_Title"
+	{
+		"no"	"Australske regler"
+	}
+	"TF_SNIPER_DOMINATE_SNIPER_Desc"
+	{
+		"no"	"Dominer en fiendtlig Spy."
+	}
+	"TF_SNIPER_KILL_SPIES_MELEE_Title"
+	{
+		"no"	"Kok snoken"
+	}
+	"TF_SNIPER_KILL_SPIES_MELEE_Desc"
+	{
+		"no"	"Drep ti Spyer med kukri."
+	}
+	"TF_SNIPER_HEADSHOT_DEMOMAN_Title"
+	{
+		"no"	"Demonstrasjon"
+	}
+	"TF_SNIPER_HEADSHOT_DEMOMAN_Desc"
+	{
+		"no"	"Skyt en fiendtlig Demoman i hodet."
+	}
+	"TF_SNIPER_KILL_RJER_Title"
+	{
+		"no"	"Hoppestopp"
+	}
+	"TF_SNIPER_KILL_RJER_Desc"
+	{
+		"no"	"Drep en fiende som foretar rakett- eller granathopp midt i luften, med snikskytterriflen eller Huntsman-buen."
+	}
+	"TF_SNIPER_KILL_OBJECTIVES_Title"
+	{
+		"no"	"Jeg er ikke skytegal, pappa"
+	}
+	"TF_SNIPER_KILL_OBJECTIVES_Desc"
+	{
+		"no"	"Drep tre fiender mens de oppnår et mål, i løpet av ett liv."
+	}
+	"TF_SNIPER_KILL_UNSCOPED_Title"
+	{
+		"no"	"Stol på instinktene"
+	}
+	"TF_SNIPER_KILL_UNSCOPED_Desc"
+	{
+		"no"	"Drep fem fiender med snikskytterriflen uten å bruke siktet."
+	}
+	"TF_SNIPER_KILL_CHARGED_MEDIC_Title"
+	{
+		"no"	"Superamputering"
+	}
+	"TF_SNIPER_KILL_CHARGED_MEDIC_Desc"
+	{
+		"no"	"Drep en Medic som er klar til å bruke en superlading."
+	}
+	"TF_SNIPER_GET_BACKSTABBED_Title"
+	{
+		"no"	"Trøstepremie"
+	}
+	"TF_SNIPER_GET_BACKSTABBED_Desc"
+	{
+		"no"	"Bli ryggdolket 50 ganger."
+	}
+	"TF_SNIPER_KILL_AT_ROUNDSTART_Title"
+	{
+		"no"	"Fienden i sikte"
+	}
+	"TF_SNIPER_KILL_AT_ROUNDSTART_Desc"
+	{
+		"no"	"Drep en fiende i løpet av de første sekundene i en runde."
+	}
+	"TF_SNIPER_HEADSHOT_POST_INVULN_Title"
+	{
+		"no"	"Siste skudd"
+	}
+	"TF_SNIPER_HEADSHOT_POST_INVULN_Desc"
+	{
+		"no"	"Skyt en fiende i hodet i det øyeblikket han ikke lenger er usynlig."
+	}
+	"TF_SNIPER_TOP_SCOREBOARD_GRIND_Title"
+	{
+		"no"	"Stig i gradene"
+	}
+	"TF_SNIPER_TOP_SCOREBOARD_GRIND_Desc"
+	{
+		"no"	"Vær på toppen av poengoversikten ti ganger på lag med seks eller færre spillere."
+	}
+	"TF_SNIPER_KILL_FAILED_SPY_Title"
+	{
+		"no"	"Sjokkterapi"
+	}
+	"TF_SNIPER_KILL_FAILED_SPY_Desc"
+	{
+		"no"	"Drep en Spy som ble hindret i å ryggdolke deg på grunn av Razorback-skjoldet ditt."
+	}
+	"TF_SNIPER_JARATE_GROUP_Title"
+	{
+		"no"	"Krukkeregn"
+	}
+	"TF_SNIPER_JARATE_GROUP_Desc"
+	{
+		"no"	"Treff fire fiender med krukker i ett kast."
+	}
+	"TF_SNIPER_JARATE_MEDIC_PAIR_Title"
+	{
+		"no"	"Sur nedbør"
+	}
+	"TF_SNIPER_JARATE_MEDIC_PAIR_Desc"
+	{
+		"no"	"Kast krukker på en fiende og Medicen som helbreder ham."
+	}
+	"TF_SNIPER_JARATE_REVEAL_SPY_Title"
+	{
+		"no"	"Krukkete overgang"
+	}
+	"TF_SNIPER_JARATE_REVEAL_SPY_Desc"
+	{
+		"no"	"Kast krukker for å avsløre en usynlig Spy."
+	}
+	"TF_SNIPER_JARATE_EXTINGUISH_Title"
+	{
+		"no"	"Vennskap gull verdt"
+	}
+	"TF_SNIPER_JARATE_EXTINGUISH_Desc"
+	{
+		"no"	"Slukk flammene på en brennende lagkamerat med en krukke."
+	}
+	"TF_SNIPER_BOW_PIN_HEAVY_Title"
+	{
+		"no"	"William Tell-overdose"
+	}
+	"TF_SNIPER_BOW_PIN_HEAVY_Desc"
+	{
+		"no"	"Spidd en fiendtlig Heavy fast til veggen gjennom hodet."
+	}
+	"TF_SNIPER_BOW_KILL_MEDIC_PAIR_Title"
+	{
+		"no"	"Piller og bue"
+	}
+	"TF_SNIPER_BOW_KILL_MEDIC_PAIR_Desc"
+	{
+		"no"	"Drep et Heavy- og Medic-par med en bue."
+	}
+	"TF_SNIPER_BOW_KILL_FLAGCARRIER_Title"
+	{
+		"no"	"Robbe Hood"
+	}
+	"TF_SNIPER_BOW_KILL_FLAGCARRIER_Desc"
+	{
+		"no"	"Skyt ned en fiende som bærer på etterretning, med én pil."
+	}
+	"TF_SNIPER_BOW_PINCUSHION_Title"
+	{
+		"no"	"Nålepute"
+	}
+	"TF_SNIPER_BOW_PINCUSHION_Desc"
+	{
+		"no"	"Treff en fiende med tre piler uten å drepe dem."
+	}
+	"TF_SNIPER_JARATE_ASSISTS_Title"
+	{
+		"no"	"Medvirkende årsak"
+	}
+	"TF_SNIPER_JARATE_ASSISTS_Desc"
+	{
+		"no"	"Få fem medvirkninger med krukker i løpet av én runde."
+	}
+	"TF_SNIPER_JARATE_KILL_MELEE_Title"
+	{
+		"no"	"Krukkukri"
+	}
+	"TF_SNIPER_JARATE_KILL_MELEE_Desc"
+	{
+		"no"	"Kast en krukke på og drep deretter tre fiender med en kukri."
+	}
+	"TF_SNIPER_TAUNT_KILL_Title"
+	{
+		"no"	"Gå av skaftet"
+	}
+	"TF_SNIPER_TAUNT_KILL_Desc"
+	{
+		"no"	"Stikk ned en fiende med en pil."
+	}
+	"TF_SNIPER_BOW_KILL_WHILEDEAD_Title"
+	{
+		"no"	"Dødelig nøyaktighet"
+	}
+	"TF_SNIPER_BOW_KILL_WHILEDEAD_Desc"
+	{
+		"no"	"Drep en fiende med en pil mens du er død."
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS1_Title"
+	{
+		"no"	"Sniper-milepæl 1"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS1_Desc"
+	{
+		"no"	"Oppnå 5 av prestasjonene i Sniper-pakken."
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS2_Title"
+	{
+		"no"	"Sniper-milepæl 2"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS2_Desc"
+	{
+		"no"	"Oppnå 11 av prestasjonene i Sniper-pakken."
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS3_Title"
+	{
+		"no"	"Sniper-milepæl 3"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS3_Desc"
+	{
+		"no"	"Oppnå 17 av prestasjonene i Sniper-pakken."
+	}
+	"TF_SPY_BACKSTAB_SNIPERS_Title"
+	{
+		"no"	"Tre kniver i hjertet"
+	}
+	"TF_SPY_BACKSTAB_SNIPERS_Desc"
+	{
+		"no"	"Dolk tre Snipere i ryggen i løpet av ett liv."
+	}
+	"TF_SPY_FREEZECAM_FLICK_Title"
+	{
+		"no"	"Kun for dine øyne"
+	}
+	"TF_SPY_FREEZECAM_FLICK_Desc"
+	{
+		"no"	"Gi en fiende et fryst bilde av deg mens du knipser en sigarett på liket hans."
+	}
+	"TF_SPY_BACKSTAB_DISGUISED_SPY_Title"
+	{
+		"no"	"Dobbelagent"
+	}
+	"TF_SPY_BACKSTAB_DISGUISED_SPY_Desc"
+	{
+		"no"	"Dolk en forkledd Spy i ryggen."
+	}
+	"TF_SPY_BACKSTAB_DISGUISE_TARGET_Title"
+	{
+		"no"	"Identitestyveri"
+	}
+	"TF_SPY_BACKSTAB_DISGUISE_TARGET_Desc"
+	{
+		"no"	"Dolk fienden som du er forkledd som, i ryggen."
+	}
+	"TF_SPY_BACKSTAB_MEDIC_HEALING_YOU_Title"
+	{
+		"no"	"Forresten, jeg er en Spy"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_HEALING_YOU_Desc"
+	{
+		"no"	"Dolk en Medic som har helbredet deg i løpet av de siste fem sekundene, i ryggen."
+	}
+	"TF_SPY_BACKSTAB_ENGY_SAP_BUILDING_Title"
+	{
+		"no"	"Mannen med den ødelagte pistol"
+	}
+	"TF_SPY_BACKSTAB_ENGY_SAP_BUILDING_Desc"
+	{
+		"no"	"Dolk en Engineer i ryggen, og plasser deretter en Sapper på tre av bygningene hans innen ti sekunder."
+	}
+	"TF_SPY_SAP_BUILDING_BACKSTAB_ENGY_Title"
+	{
+		"no"	"Snipp sapp snute"
+	}
+	"TF_SPY_SAP_BUILDING_BACKSTAB_ENGY_Desc"
+	{
+		"no"	"Plasser en Sapper på en av fiendens bygninger, og dolk deretter Engineeren som bygde den, i løpet av fem sekunder."
+	}
+	"TF_SPY_BACKSTAB_MEDIC_PAIR_Title"
+	{
+		"no"	"To fluer i ett stikk"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_PAIR_Desc"
+	{
+		"no"	"Dolk både en fiende og Medicen som helbreder ham, med ti sekunders mellomrom."
+	}
+	"TF_SPY_BACKSTAB_FRIENDS_Title"
+	{
+		"no"	"Nære venner"
+	}
+	"TF_SPY_BACKSTAB_FRIENDS_Desc"
+	{
+		"no"	"Dolk vennene dine i Steam Community ti ganger."
+	}
+	"TF_SPY_DOMINATE_SNIPER_Title"
+	{
+		"no"	"The Melbourne Supremacy"
+	}
+	"TF_SPY_DOMINATE_SNIPER_Desc"
+	{
+		"no"	"Dominer en Sniper."
+	}
+	"TF_SPY_BUMP_CLOAKED_SPY_Title"
+	{
+		"no"	"Spioner som oss"
+	}
+	"TF_SPY_BUMP_CLOAKED_SPY_Desc"
+	{
+		"no"	"Dult borti en fiendtlig Spy som er usynlig, mens du selv er usynlig."
+	}
+	"TF_SPY_KILL_SPY_WITH_KNIFE_Title"
+	{
+		"no"	"Et godt snitt"
+	}
+	"TF_SPY_KILL_SPY_WITH_KNIFE_Desc"
+	{
+		"no"	"Drep en Spy som er bevæpnet med skytevåpen, med kniv."
+	}
+	"TF_SPY_SURVIVE_BURNING_Title"
+	{
+		"no"	"Brannfare"
+	}
+	"TF_SPY_SURVIVE_BURNING_Desc"
+	{
+		"no"	"Overlev i 30 sekunder etter at noen har satt fyr på deg mens du er usynlig."
+	}
+	"TF_SPY_BREAK_SHIELD_KILL_SNIPER_Title"
+	{
+		"no"	"Dødelige variasjoner"
+	}
+	"TF_SPY_BREAK_SHIELD_KILL_SNIPER_Desc"
+	{
+		"no"	"Drep en Sniper etter at du har ødelagt Razorback-skjoldet hans."
+	}
+	"TF_SPY_KILL_WORKING_ENGY_Title"
+	{
+		"no"	"Uferdig arbeid"
+	}
+	"TF_SPY_KILL_WORKING_ENGY_Desc"
+	{
+		"no"	"Drep en Engineer som bygger et sensorvåpen."
+	}
+	"TF_SPY_MEDIC_HEALING_KILL_ENEMY_Title"
+	{
+		"no"	"Helseforsikringssvindel"
+	}
+	"TF_SPY_MEDIC_HEALING_KILL_ENEMY_Desc"
+	{
+		"no"	"Drep en fiende mens du blir helbredet av en fiendtlig Medic."
+	}
+	"TF_SPY_KILL_CP_DEFENDERS_Title"
+	{
+		"no"	"Punktum finale"
+	}
+	"TF_SPY_KILL_CP_DEFENDERS_Desc"
+	{
+		"no"	"Drep 15 fiender som står på et kontrollpunkt de eier."
+	}
+	"TF_SPY_BACKSTAB_DOMINATING_ENEMY_Title"
+	{
+		"no"	"Verdifullt mål"
+	}
+	"TF_SPY_BACKSTAB_DOMINATING_ENEMY_Desc"
+	{
+		"no"	"Dolk en fiende som dominerer tre eller flere av lagkameratene dine, i ryggen."
+	}
+	"TF_SPY_REVENGE_WITH_BACKSTAB_Title"
+	{
+		"no"	"Kom inn fra kulden"
+	}
+	"TF_SPY_REVENGE_WITH_BACKSTAB_Desc"
+	{
+		"no"	"Ta hevndrap ved å dolke noen i ryggen."
+	}
+	"TF_SPY_KNIFE_KILL_WHILE_JARATED_Title"
+	{
+		"no"	"Våte arbeidsforhold"
+	}
+	"TF_SPY_KNIFE_KILL_WHILE_JARATED_Desc"
+	{
+		"no"	"Stikk ned og drep en fiende etter at noen har truffet deg med en krukke."
+	}
+	"TF_SPY_BACKSTAB_QUICK_KILLS_Title"
+	{
+		"no"	"Alle gode knivdrap er tre"
+	}
+	"TF_SPY_BACKSTAB_QUICK_KILLS_Desc"
+	{
+		"no"	"Dolk tre fiender i ryggen i løpet av ti sekunder."
+	}
+	"TF_SPY_BACKSTAB_GRIND_Title"
+	{
+		"no"	"Mesterspion"
+	}
+	"TF_SPY_BACKSTAB_GRIND_Desc"
+	{
+		"no"	"Dolk 1000 fiender i ryggen."
+	}
+	"TF_SPY_SAPPER_GRIND_Title"
+	{
+		"no"	"SuperSapper"
+	}
+	"TF_SPY_SAPPER_GRIND_Desc"
+	{
+		"no"	"Ødelegg 1000 Engineer-bygninger med Sappere."
+	}
+	"TF_SPY_SAPPER_TEAMWORK_Title"
+	{
+		"no"	"Samarbeid"
+	}
+	"TF_SPY_SAPPER_TEAMWORK_Desc"
+	{
+		"no"	"Plasser en sapper på et fiendtlig sensorvåpen i løpet av tre sekunder etter at en lagkamerat har plassert en sapper på et annet sensorvåpen."
+	}
+	"TF_SPY_BACKSTAB_MEDIC_CHARGED_Title"
+	{
+		"no"	"Dr. Nooooo"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_CHARGED_Desc"
+	{
+		"no"	"Dolk en Medic som er klar til å bruke en superlading, i ryggen."
+	}
+	"TF_SPY_BACKSTAB_CAPPING_ENEMIES_Title"
+	{
+		"no"	"Er vi trygge nå?"
+	}
+	"TF_SPY_BACKSTAB_CAPPING_ENEMIES_Desc"
+	{
+		"no"	"Dolk 50 fiender som fanger kontrollpunkter, i ryggen."
+	}
+	"TF_SPY_BACKSTAB_ENEMY_SWITCH_PYRO_Title"
+	{
+		"no"	"Stikkflammer"
+	}
+	"TF_SPY_BACKSTAB_ENEMY_SWITCH_PYRO_Desc"
+	{
+		"no"	"En fiende du dolker i ryggen, kommer tilbake som Pyro før han blir gjenopplivet."
+	}
+	"TF_SPY_AMBASSADOR_GRIND_Title"
+	{
+		"no"	"Diplomati"
+	}
+	"TF_SPY_AMBASSADOR_GRIND_Desc"
+	{
+		"no"	"Drep 50 fiender med Ambassador."
+	}
+	"TF_SPY_AMBASSADOR_SNIPER_GRIND_Title"
+	{
+		"no"	"Hoderulling"
+	}
+	"TF_SPY_AMBASSADOR_SNIPER_GRIND_Desc"
+	{
+		"no"	"Skyt 20 Snipere i hodet med Ambassador."
+	}
+	"TF_SPY_FEIGN_DEATH_KILL_Title"
+	{
+		"no"	"Hemmelig agent"
+	}
+	"TF_SPY_FEIGN_DEATH_KILL_Desc"
+	{
+		"no"	"Drep en fiende som gjorde deg skinndød i løpet av de siste 20 sekundene."
+	}
+	"TF_SPY_AMBASSADOR_SCOUT_GRIND_Title"
+	{
+		"no"	"Hvem er sjefen?"
+	}
+	"TF_SPY_AMBASSADOR_SCOUT_GRIND_Desc"
+	{
+		"no"	"Skyt tre Scouter i hodet med Ambassador."
+	}
+	"TF_SPY_CAMP_POSITION_Title"
+	{
+		"no"	"Dypt i dekning"
+	}
+	"TF_SPY_CAMP_POSITION_Desc"
+	{
+		"no"	"Drep samme fiende tre ganger i ett liv når du bruker Cloak and Dagger."
+	}
+	"TF_SPY_ACHIEVE_PROGRESS1_Title"
+	{
+		"no"	"Spy-milepæl 1"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS1_Desc"
+	{
+		"no"	"Oppnå 5 av prestasjonene i Spy-pakken."
+	}
+	"TF_SPY_ACHIEVE_PROGRESS2_Title"
+	{
+		"no"	"Spy-milepæl 2"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS2_Desc"
+	{
+		"no"	"Oppnå 11 av prestasjonene i Spy-pakken."
+	}
+	"TF_SPY_ACHIEVE_PROGRESS3_Title"
+	{
+		"no"	"Spy-milepæl 3"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS3_Desc"
+	{
+		"no"	"Oppnå 17 av prestasjonene i Spy-pakken."
+	}
+	"TF_HALLOWEEN_COLLECT_PUMPKINS_Title"
+	{
+		"no"	"Sukkertøy fra de døde"
+	}
+	"TF_HALLOWEEN_COLLECT_PUMPKINS_Desc"
+	{
+		"no"	"Samle 20 Halloween-gresskar fra døde spillere for å låse opp en hatt."
+	}
+	"TF_HALLOWEEN_DOMINATE_FOR_HAT_Title"
+	{
+		"no"	"Fang forferdelig flosshatt"
+	}
+	"TF_HALLOWEEN_DOMINATE_FOR_HAT_Desc"
+	{
+		"no"	"Dominer en spiller som har på seg den grusomme flosshatten, for å få en selv."
+	}
+	"TF_HALLOWEEN_KILL_SCARED_PLAYER_Title"
+	{
+		"no"	"Vettskremt"
+	}
+	"TF_HALLOWEEN_KILL_SCARED_PLAYER_Desc"
+	{
+		"no"	"Drep en spiller som er skremt av spøkelset som hjemsøker KOTH-avlingen."
+	}
+	"TF_HALLOWEEN_PUMPKIN_KILL_Title"
+	{
+		"no"	"Gresskarangrep"
+	}
+	"TF_HALLOWEEN_PUMPKIN_KILL_Desc"
+	{
+		"no"	"Forårsak fem spilleres død ved å sprenge bomber i nærliggende gresskar."
+	}
+	"TF_HALLOWEEN_DISGUISED_SPY_KILL_Title"
+	{
+		"no"	"Kostymekonkurranse"
+	}
+	"TF_HALLOWEEN_DISGUISED_SPY_KILL_Desc"
+	{
+		"no"	"Drep en Spy forkledd som en i din klasse."
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS1_Title"
+	{
+		"no"	"Soldier-milepæl 1"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS1_Desc"
+	{
+		"no"	"Oppnå 5 av prestasjonene i Soldier-pakken."
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS2_Title"
+	{
+		"no"	"Soldier-milepæl 2"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS2_Desc"
+	{
+		"no"	"Oppnå 11 av prestasjonene i Soldier-pakken."
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS3_Title"
+	{
+		"no"	"Soldier-milepæl 3"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS3_Desc"
+	{
+		"no"	"Oppnå 17 av prestasjonene i Soldier-pakken."
+	}
+	"TF_SOLDIER_KILL_GROUP_WITH_CROCKET_Title"
+	{
+		"no"	"Tri-splatteral skade"
+	}
+	"TF_SOLDIER_KILL_GROUP_WITH_CROCKET_Desc"
+	{
+		"no"	"Drep tre fiender med én enkelt kritisk rakett."
+	}
+	"TF_SOLDIER_KILL_TWO_DURING_ROCKET_JUMP_Title"
+	{
+		"no"	"Døden ovenfra"
+	}
+	"TF_SOLDIER_KILL_TWO_DURING_ROCKET_JUMP_Desc"
+	{
+		"no"	"Ta et raketthopp, og drep to fiender før du lander."
+	}
+	"TF_SOLDIER_THREE_DOMINATIONS_Title"
+	{
+		"no"	"Dominator"
+	}
+	"TF_SOLDIER_THREE_DOMINATIONS_Desc"
+	{
+		"no"	"Oppnå tre domineringer i løpet av ett liv."
+	}
+	"TF_SOLDIER_DEFEND_MEDIC_Title"
+	{
+		"no"	"Krigsforbrytelse og straff"
+	}
+	"TF_SOLDIER_DEFEND_MEDIC_Desc"
+	{
+		"no"	"Drep tre fiender som har skadet en Medic som helbreder deg, i løpet av ett liv."
+	}
+	"TF_SOLDIER_KILL_TAUNT_Title"
+	{
+		"no"	"Det regner nederlag"
+	}
+	"TF_SOLDIER_KILL_TAUNT_Desc"
+	{
+		"no"	"Bruk en granat til å sprenge en spiller i fillebiter."
+	}
+	"TF_SOLDIER_DESTROY_SENTRY_OUT_OF_RANGE_Title"
+	{
+		"no"	"Kanonene fra Navar0wned"
+	}
+	"TF_SOLDIER_DESTROY_SENTRY_OUT_OF_RANGE_Desc"
+	{
+		"no"	"Drep fem Engineer-sensorvåpen mens du står utenfor rekkevidden deres."
+	}
+	"TF_SOLDIER_KILL_SNIPER_WHILE_DEAD_Title"
+	{
+		"no"	"Terrorbalanse"
+	}
+	"TF_SOLDIER_KILL_SNIPER_WHILE_DEAD_Desc"
+	{
+		"no"	"Drep en fiendtlig Sniper med en rakett etter at han dreper deg."
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_TARGET_WHILE_AIRBORNE_Title"
+	{
+		"no"	"Seierens vinger"
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_TARGET_WHILE_AIRBORNE_Desc"
+	{
+		"no"	"Drep en fiendtlig Soldier mens dere begge er i luften."
+	}
+	"TF_SOLDIER_KILL_ENGY_Title"
+	{
+		"no"	"En gang Engineer ..."
+	}
+	"TF_SOLDIER_KILL_ENGY_Desc"
+	{
+		"no"	"Drep en Engineer idet han reparerer sensorvåpenet sitt mens det blir beskutt av fienden."
+	}
+	"TF_SOLDIER_NEMESIS_SHOVEL_KILL_Title"
+	{
+		"no"	"Skyttergravskrig"
+	}
+	"TF_SOLDIER_NEMESIS_SHOVEL_KILL_Desc"
+	{
+		"no"	"Drep din nemesis med en spade."
+	}
+	"TF_SOLDIER_DESTROY_STICKIES_Title"
+	{
+		"no"	"Bomberydderen"
+	}
+	"TF_SOLDIER_DESTROY_STICKIES_Desc"
+	{
+		"no"	"Ødelegg ti klisterbomber med haglen i løpet av ett liv."
+	}
+	"TF_SOLDIER_CROUCH_ROCKET_JUMP_Title"
+	{
+		"no"	"Ørneredet"
+	}
+	"TF_SOLDIER_CROUCH_ROCKET_JUMP_Desc"
+	{
+		"no"	"Raketthopp så høyt som mulig ved hjelp av hopp og sammenkrøking."
+	}
+	"TF_SOLDIER_BUFF_FRIENDS_Title"
+	{
+		"no"	"Flaggets brorskap"
+	}
+	"TF_SOLDIER_BUFF_FRIENDS_Desc"
+	{
+		"no"	"Bruk Økningsflagget til å styrke fem Steam-venner på én gang."
+	}
+	"TF_SOLDIER_KILL_TWENTY_FROM_ABOVE_Title"
+	{
+		"no"	"Ørneskriket"
+	}
+	"TF_SOLDIER_KILL_TWENTY_FROM_ABOVE_Desc"
+	{
+		"no"	"Drep 20 fiender ovenfra."
+	}
+	"TF_SOLDIER_SHOOT_MULT_CRITS_Title"
+	{
+		"no"	"Kritiske raketter er noe tull"
+	}
+	"TF_SOLDIER_SHOOT_MULT_CRITS_Desc"
+	{
+		"no"	"Skyt to ikke-forsterkede kritiske raketter etter hverandre."
+	}
+	"TF_SOLDIER_KILL_DEFENSELESS_Title"
+	{
+		"no"	"Geneve-overtredelsen"
+	}
+	"TF_SOLDIER_KILL_DEFENSELESS_Desc"
+	{
+		"no"	"Drep fem forsvarsløse spillere etter at en enkeltkamp er avsluttet."
+	}
+	"TF_SOLDIER_KILL_ON_FIRE_Title"
+	{
+		"no"	"I fyr og flamme"
+	}
+	"TF_SOLDIER_KILL_ON_FIRE_Desc"
+	{
+		"no"	"Drep 20 fiender mens du står i brann."
+	}
+	"TF_SOLDIER_KILL_FIVE_STUNNED_Title"
+	{
+		"no"	"Sov videre"
+	}
+	"TF_SOLDIER_KILL_FIVE_STUNNED_Desc"
+	{
+		"no"	"Drep fem spillere som er satt ut av spill."
+	}
+	"TF_SOLDIER_FREEZECAM_GIBS_Title"
+	{
+		"no"	"Blod, gørr og årer"
+	}
+	"TF_SOLDIER_FREEZECAM_GIBS_Desc"
+	{
+		"no"	"Gi fienden et fryst bilde av deg mens du håner ham over tre av kroppsdelene hans."
+	}
+	"TF_SOLDIER_KILL_SPY_KILLER_Title"
+	{
+		"no"	"Spiondomstolen"
+	}
+	"TF_SOLDIER_KILL_SPY_KILLER_Desc"
+	{
+		"no"	"Drep en Spy som akkurat har dolket en lagkamerat i ryggen."
+	}
+	"TF_SOLDIER_DEFEND_CAP_THIRTY_TIMES_Title"
+	{
+		"no"	"Hamburger Hill"
+	}
+	"TF_SOLDIER_DEFEND_CAP_THIRTY_TIMES_Desc"
+	{
+		"no"	"Forsvar et erobringspunkt 30 ganger."
+	}
+	"TF_SOLDIER_GIB_GRIND_Title"
+	{
+		"no"	"Revet i småbiter"
+	}
+	"TF_SOLDIER_GIB_GRIND_Desc"
+	{
+		"no"	"Spreng 1000 personer i fillebiter."
+	}
+	"TF_SOLDIER_RJ_EQUALIZER_KILL_Title"
+	{
+		"no"	"Pliktfølelse"
+	}
+	"TF_SOLDIER_RJ_EQUALIZER_KILL_Desc"
+	{
+		"no"	"Ta et raketthopp, og drep en fiende med Equalizeren før du lander."
+	}
+	"TF_SOLDIER_BUFF_TEAMMATES_Title"
+	{
+		"no"	"Styrkedråper"
+	}
+	"TF_SOLDIER_BUFF_TEAMMATES_Desc"
+	{
+		"no"	"Bruk økningsflagget til å styrke 15 lagkamerater i løpet av ett liv."
+	}
+	"TF_SOLDIER_KILL_DEMOMAN_GRIND_Title"
+	{
+		"no"	"Vekk med deg, fordømte skotte!"
+	}
+	"TF_SOLDIER_KILL_DEMOMAN_GRIND_Desc"
+	{
+		"no"	"Drep 500 fiendtlige Demomen"
+	}
+	"TF_SOLDIER_KILL_PYRO_Title"
+	{
+		"no"	"Hevn over brannstifteren"
+	}
+	"TF_SOLDIER_KILL_PYRO_Desc"
+	{
+		"no"	"Drep en Pyro som har kastet tilbake en av rakettene dine i løpet av de siste ti sekundene."
+	}
+	"TF_SOLDIER_EQUALIZER_STREAK_Title"
+	{
+		"no"	"Har ikke tid til å blø"
+	}
+	"TF_SOLDIER_EQUALIZER_STREAK_Desc"
+	{
+		"no"	"Drep tre spillere med Equalizeren i løpet av ett liv uten å bli helbredet."
+	}
+	"TF_SOLDIER_KILL_WITH_EQUALIZER_WHILE_HURT_Title"
+	{
+		"no"	"Nær døden-opplevelse"
+	}
+	"TF_SOLDIER_KILL_WITH_EQUALIZER_WHILE_HURT_Desc"
+	{
+		"no"	"Drep 20 fiender med Equalizeren mens du har mindre enn 25 i helse."
+	}
+	"TF_SOLDIER_BOUNCE_THEN_SHOTGUN_Title"
+	{
+		"no"	"Leirdueskyting"
+	}
+	"TF_SOLDIER_BOUNCE_THEN_SHOTGUN_Desc"
+	{
+		"no"	"Kast en motstander i været ved hjelp av en rakett, og drep ham deretter med haglen før han lander."
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_WITH_DIRECT_HIT_Title"
+	{
+		"no"	"Døden nedenfra"
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_WITH_DIRECT_HIT_Desc"
+	{
+		"no"	"Drep ti motstandere mens de er i luften, ved hjelp av våpenet Direct Hit."
+	}
+	"TF_SOLDIER_FREEZECAM_TAUNT_Title"
+	{
+		"no"	"Mer enn tusen ord"
+	}
+	"TF_SOLDIER_FREEZECAM_TAUNT_Desc"
+	{
+		"no"	"Gi fienden et fryst bilde av 21-skuddssalutten din."
+	}
+	"TF_SOLDIER_DUO_SOLDIER_KILLS_Title"
+	{
+		"no"	"Våpenbrødre"
+	}
+	"TF_SOLDIER_DUO_SOLDIER_KILLS_Desc"
+	{
+		"no"	"Drep ti fiender mens du hjelper eller får hjelp av en annen Soldier."
+	}
+	"TF_SOLDIER_MVP_Title"
+	{
+		"no"	"Æresmedaljer"
+	}
+	"TF_SOLDIER_MVP_Desc"
+	{
+		"no"	"Avslutt en runde som Mest Verdifulle Spiller ti ganger."
+	}
+	"TF_SOLDIER_RIDE_THE_CART_Title"
+	{
+		"no"	"Det store vognrittet"
+	}
+	"TF_SOLDIER_RIDE_THE_CART_Desc"
+	{
+		"no"	"Dytt vognen i 30 sekunder."
+	}
+	"TF_SOLDIER_ASSIST_MEDIC_UBER_Title"
+	{
+		"no"	"S*M*A*S*H"
+	}
+	"TF_SOLDIER_ASSIST_MEDIC_UBER_Desc"
+	{
+		"no"	"Hjelp en Medic med å sprenge fem fiender med én enkelt superlading."
+	}
+	"TF_DEMOMAN_KILL_SOLDIER_GRIND_Title"
+	{
+		"no"	"Kilter i kamp"
+	}
+	"TF_DEMOMAN_KILL_SOLDIER_GRIND_Desc"
+	{
+		"no"	"Drep 500 fiendtlige Soldiers"
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_WITH_MEDIC_Title"
+	{
+		"no"	"Tam O'Splinter"
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_WITH_MEDIC_Desc"
+	{
+		"no"	"Ødelegg fem av fiendens Engineer-bygninger i løpet av én enkelt superlading fra en Medic."
+	}
+	"TF_DEMOMAN_DECAPITATE_CLOAKED_SPY_Title"
+	{
+		"no"	"Atskilt fra kroppen"
+	}
+	"TF_DEMOMAN_DECAPITATE_CLOAKED_SPY_Desc"
+	{
+		"no"	"Kapp hodet av en skjult Spy."
+	}
+	"TF_DEMOMAN_KILL_X_WITH_DIRECTPIPE_Title"
+	{
+		"no"	"Levende skyts"
+	}
+	"TF_DEMOMAN_KILL_X_WITH_DIRECTPIPE_Desc"
+	{
+		"no"	"Drep 50 fiender med direktetreff fra granatutskyteren."
+	}
+	"TF_DEMOMAN_BOUNCE_AND_KILL_Title"
+	{
+		"no"	"Staurkast"
+	}
+	"TF_DEMOMAN_BOUNCE_AND_KILL_Desc"
+	{
+		"no"	"Kast en fiende i været, og drep ham før han lander."
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_Title"
+	{
+		"no"	"Hodeløst"
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_Desc"
+	{
+		"no"	"Kapp hodet av 50 fiendtlige spillere."
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_FAST_Title"
+	{
+		"no"	"Alle gode ting er fire"
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_FAST_Desc"
+	{
+		"no"	"Kapp hodet av fire spillere med kun ti sekunders mellomrom."
+	}
+	"TF_DEMOMAN_DUO_DEMOMAN_KILLS_Title"
+	{
+		"no"	"Godt kilt!"
+	}
+	"TF_DEMOMAN_DUO_DEMOMAN_KILLS_Desc"
+	{
+		"no"	"Drep ti fiender mens du hjelper eller får hjelp av en annen Demoman."
+	}
+	"TF_DEMOMAN_KILL_TWO_DURING_STICKYJUMP_Title"
+	{
+		"no"	"Dobbelt så klissete"
+	}
+	"TF_DEMOMAN_KILL_TWO_DURING_STICKYJUMP_Desc"
+	{
+		"no"	"Drep to personer i løpet av ett enkelt klisterhopp."
+	}
+	"TF_DEMOMAN_KILL_PLAYER_AFTER_TP_Title"
+	{
+		"no"	"Nå sitter du i klisteret"
+	}
+	"TF_DEMOMAN_KILL_PLAYER_AFTER_TP_Desc"
+	{
+		"no"	"Drep en fiendtlig spiller med klisterbomber innen fem sekunder etter at de har teleportert."
+	}
+	"TF_DEMOMAN_DOMINATE_THREE_ENGINEERS_Title"
+	{
+		"no"	"Tre ganger så tøff"
+	}
+	"TF_DEMOMAN_DOMINATE_THREE_ENGINEERS_Desc"
+	{
+		"no"	"Dominér tre Engineerer."
+	}
+	"TF_DEMOMAN_KILL_BUILDING_DIRECT_HIT_Title"
+	{
+		"no"	"Skyt i blinde"
+	}
+	"TF_DEMOMAN_KILL_BUILDING_DIRECT_HIT_Desc"
+	{
+		"no"	"Ødelegg en Engineer-bygning som du ikke kan se, med et direktetreff fra granatutskyteren."
+	}
+	"TF_DEMOMAN_MELEE_KILL_WHILE_STICKYJUMPING_Title"
+	{
+		"no"	"Høylandsleker"
+	}
+	"TF_DEMOMAN_MELEE_KILL_WHILE_STICKYJUMPING_Desc"
+	{
+		"no"	"Oppnå et nærkampdrap mens du klisterhopper."
+	}
+	"TF_DEMOMAN_KILL_ENGI_SENTRY_DISPENSER_Title"
+	{
+		"no"	"Skotskrutet terror"
+	}
+	"TF_DEMOMAN_KILL_ENGI_SENTRY_DISPENSER_Desc"
+	{
+		"no"	"Spreng en Engineer, sensorvåpenet og ladestasjonen hans med én enkelt klisterbombedetonasjon."
+	}
+	"TF_DEMOMAN_DECAPITATE_EQUALIZER_Title"
+	{
+		"no"	"Hodebry"
+	}
+	"TF_DEMOMAN_DECAPITATE_EQUALIZER_Desc"
+	{
+		"no"	"Kapp hodet av en fiendtlig Soldier som svinger Equalizeren."
+	}
+	"TF_DEMOMAN_DECAPITATE_NEMESIS_Title"
+	{
+		"no"	"Det kan bare finnes én"
+	}
+	"TF_DEMOMAN_DECAPITATE_NEMESIS_Desc"
+	{
+		"no"	"Kapp hodet av din nemesis."
+	}
+	"TF_DEMOMAN_DAMAGE_GRIND_Title"
+	{
+		"no"	"Tartan-spartaner"
+	}
+	"TF_DEMOMAN_DAMAGE_GRIND_Desc"
+	{
+		"no"	"Få 1 million punkter med total eksplosjonsskade."
+	}
+	"TF_DEMOMAN_KILL_X_CAPPING_ONEDET_Title"
+	{
+		"no"	"Skottesmell"
+	}
+	"TF_DEMOMAN_KILL_X_CAPPING_ONEDET_Desc"
+	{
+		"no"	"Drep tre fiender som tar over eller dytter en vogn, med en eneste klisterbombedetonasjon, tre separate ganger."
+	}
+	"TF_DEMOMAN_KILL_X_DEFENDING_Title"
+	{
+		"no"	"Brave-hardt"
+	}
+	"TF_DEMOMAN_KILL_X_DEFENDING_Desc"
+	{
+		"no"	"Drep 25 spillere som forsvarer et erobringspunkt eller en vogn."
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_GRIND_Title"
+	{
+		"no"	"Rivningsarbeid"
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_GRIND_Desc"
+	{
+		"no"	"Ødelegg 50 bygninger."
+	}
+	"TF_DEMOMAN_KILL_X_HEAVIES_FULLHP_ONEDET_Title"
+	{
+		"no"	"Klisterama"
+	}
+	"TF_DEMOMAN_KILL_X_HEAVIES_FULLHP_ONEDET_Desc"
+	{
+		"no"	"Drep fem Heavyer med full helse, med en eneste klisterbombedetonasjon."
+	}
+	"TF_DEMOMAN_KILL_X_SCOUTS_PYROS_Title"
+	{
+		"no"	"Glasg0wned"
+	}
+	"TF_DEMOMAN_KILL_X_SCOUTS_PYROS_Desc"
+	{
+		"no"	"Drep 25 Scouter og Pyroer med granatutskyteren."
+	}
+	"TF_DEMOMAN_TAUNT_KILL_Title"
+	{
+		"no"	"Skadefryd"
+	}
+	"TF_DEMOMAN_TAUNT_KILL_Desc"
+	{
+		"no"	"Triumfér over fiender du har slaktet ned med Eyelanderen."
+	}
+	"TF_DEMOMAN_CHARGE_KILL_Title"
+	{
+		"no"	"Skjoldet angriper"
+	}
+	"TF_DEMOMAN_CHARGE_KILL_Desc"
+	{
+		"no"	"Angrip og drep noen med slag fra Chargin' Targe-skjoldet."
+	}
+	"TF_DEMOMAN_CRIT_SWORD_KILL_Title"
+	{
+		"no"	"Bank meg opp, skotte"
+	}
+	"TF_DEMOMAN_CRIT_SWORD_KILL_Desc"
+	{
+		"no"	"Drep fem fiendtlige spillere med en kritisk svingning med Eyelanderen."
+	}
+	"TF_DEMOMAN_AIR_BURST_KILLS_Title"
+	{
+		"no"	"Flyvende klister"
+	}
+	"TF_DEMOMAN_AIR_BURST_KILLS_Desc"
+	{
+		"no"	"Drep 30 spillere med klisterbomber som sprenger i luften."
+	}
+	"TF_DEMOMAN_STICKYJUMP_CAP_Title"
+	{
+		"no"	"Ta luftveien"
+	}
+	"TF_DEMOMAN_STICKYJUMP_CAP_Desc"
+	{
+		"no"	"Klisterhopp til et erobringspunkt, og erobre det."
+	}
+	"TF_DEMOMAN_FREEZECAM_SMILE_Title"
+	{
+		"no"	"Blodig moro"
+	}
+	"TF_DEMOMAN_FREEZECAM_SMILE_Desc"
+	{
+		"no"	"Gi en fiendtlig spiller et fryst bilde av ditt smilende ansikt."
+	}
+	"TF_DEMOMAN_FREEZECAM_RUMP_Title"
+	{
+		"no"	"Det andre øyet"
+	}
+	"TF_DEMOMAN_FREEZECAM_RUMP_Desc"
+	{
+		"no"	"Gi en fiendtlig spiller et fryst bilde av at du rister på rumpa."
+	}
+	"TF_DEMOMAN_ENVIRONMENTAL_KILL_Title"
+	{
+		"no"	"Den kjente jeg"
+	}
+	"TF_DEMOMAN_ENVIRONMENTAL_KILL_Desc"
+	{
+		"no"	"Bruk klisterbombeutskyteren til å drepe en fiendtlig spiller via skade på omgivelsene."
+	}
+	"TF_DEMOMAN_DESTROY_X_STICKYBOMBS_Title"
+	{
+		"no"	"Et førsteklasses ran"
+	}
+	"TF_DEMOMAN_DESTROY_X_STICKYBOMBS_Desc"
+	{
+		"no"	"Ødelegg 100 av fiendens klisterbomber ved hjelp av Scottish Resistance."
+	}
+	"TF_DEMOMAN_STICKJUMP_DISTANCE_Title"
+	{
+		"no"	"Høylandskastet"
+	}
+	"TF_DEMOMAN_STICKJUMP_DISTANCE_Desc"
+	{
+		"no"	"Klisterhopp kjempelangt ..."
+	}
+	"TF_DEMOMAN_KILL3_WITH_DETONATION_Title"
+	{
+		"no"	"Pipesekker"
+	}
+	"TF_DEMOMAN_KILL3_WITH_DETONATION_Desc"
+	{
+		"no"	"Drep minst tre spillere med en eneste klisterbombedetonasjon."
+	}
+	"TF_DEMOMAN_KILLXSAPPINGSPIES_Title"
+	{
+		"no"	"Spynal Tap"
+	}
+	"TF_DEMOMAN_KILLXSAPPINGSPIES_Desc"
+	{
+		"no"	"Drep 20 spioner innen fem sekunder etter at de har plassert en Sapper på en alliert bygning."
+	}
+	"TF_DEMOMAN_KILL3_WITH_PIPE_SETUPS_Title"
+	{
+		"no"	"Klisterdunder"
+	}
+	"TF_DEMOMAN_KILL3_WITH_PIPE_SETUPS_Desc"
+	{
+		"no"	"Bruk Scottish Resistance til å drepe tre spillere i separate eksplosjoner uten å plassere nye klisterbomber."
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS1_Title"
+	{
+		"no"	"Demoman-milepæl 1"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS1_Desc"
+	{
+		"no"	"Oppnå 5 av prestasjonene i Demoman-pakken."
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS2_Title"
+	{
+		"no"	"Demoman-milepæl 2"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS2_Desc"
+	{
+		"no"	"Oppnå 11 av prestasjonene i Demoman-pakken."
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS3_Title"
+	{
+		"no"	"Demoman-milepæl 3"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS3_Desc"
+	{
+		"no"	"Oppnå 17 av prestasjonene i Demoman-pakken."
+	}
+	"TF_SPY_TAUNT_KILL_Title"
+	{
+		"no"	"Siste stikk"
+	}
+	"TF_SPY_TAUNT_KILL_Desc"
+	{
+		"no"	"Dolk en fiende mens du fekter."
+	}
+	"TF_SPY_FAST_CAP_Title"
+	{
+		"no"	"Fullstendig overtak"
+	}
+	"TF_SPY_FAST_CAP_Desc"
+	{
+		"no"	"Begynn å ta over et erobringspunkt i samme sekund som det blir tilgjengelig."
+	}
+}

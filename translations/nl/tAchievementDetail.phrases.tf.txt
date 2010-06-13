@@ -1,0 +1,2611 @@
+"Phrases"
+{
+	"TF_GET_TURRETKILLS_Title"
+	{
+		"nl"	"Sentry-schutter"
+	}
+	"TF_GET_TURRETKILLS_Desc"
+	{
+		"nl"	"Dood met één sentry 10 mensen met een sentrygun."
+	}
+	"TF_KILL_NEMESIS_Title"
+	{
+		"nl"	"Wraaknemer"
+	}
+	"TF_KILL_NEMESIS_Desc"
+	{
+		"nl"	"Dood 5 mensen uit wraak."
+	}
+	"TF_GET_CONSECUTIVEKILLS_NODEATHS_Title"
+	{
+		"nl"	"Moeilijk te doden"
+	}
+	"TF_GET_CONSECUTIVEKILLS_NODEATHS_Desc"
+	{
+		"nl"	"Dood vijf mensen achter elkaar zonder zelf dood te gaan."
+	}
+	"TF_GET_HEALED_BYENEMY_Title"
+	{
+		"nl"	"Meester der vermommingen"
+	}
+	"TF_GET_HEALED_BYENEMY_Desc"
+	{
+		"nl"	"Misleid een Medic van de tegenpartij zodat die je geneest."
+	}
+	"TF_GET_HEADSHOTS_Title"
+	{
+		"nl"	"Grijze massa"
+	}
+	"TF_GET_HEADSHOTS_Desc"
+	{
+		"nl"	"Schiet als Sniper 25 vijanden door het hoofd."
+	}
+	"TF_PLAY_GAME_FRIENDSONLY_Title"
+	{
+		"nl"	"Met zulke vrienden..."
+	}
+	"TF_PLAY_GAME_FRIENDSONLY_Desc"
+	{
+		"nl"	"Speel een spel met 7 of meer spelers uit je vriendenlijst"
+	}
+	"TF_WIN_MULTIPLEGAMES_Title"
+	{
+		"nl"	"Dynasty"
+	}
+	"TF_WIN_MULTIPLEGAMES_Desc"
+	{
+		"nl"	"Win 20 spellen."
+	}
+	"TF_GET_MULTIPLEKILLS_Title"
+	{
+		"nl"	"Hardcore"
+	}
+	"TF_GET_MULTIPLEKILLS_Desc"
+	{
+		"nl"	"Dood in totaal 1000 mensen."
+	}
+	"TF_WIN_2FORT_NOENEMYCAPS_Title"
+	{
+		"nl"	"Aanval op de krachtcentrale"
+	}
+	"TF_WIN_2FORT_NOENEMYCAPS_Desc"
+	{
+		"nl"	"Win 2Fort met een shut-out."
+	}
+	"TF_WIN_WELL_MINIMUMTIME_Title"
+	{
+		"nl"	"Snelle aanval"
+	}
+	"TF_WIN_WELL_MINIMUMTIME_Desc"
+	{
+		"nl"	"Win in 5 minuten of sneller."
+	}
+	"TF_WIN_HYDRO_NOENEMYCAPS_Title"
+	{
+		"nl"	"Meedogenloze aanval"
+	}
+	"TF_WIN_HYDRO_NOENEMYCAPS_Desc"
+	{
+		"nl"	"Win Hydro zonder een verovering  op te geven."
+	}
+	"TF_WIN_DUSTBOWL_NOENEMYCAPS_Title"
+	{
+		"nl"	"Ondoordringbare verdediging"
+	}
+	"TF_WIN_DUSTBOWL_NOENEMYCAPS_Desc"
+	{
+		"nl"	"Verdedig Dustbowl zonder een verovering op te geven."
+	}
+	"TF_WIN_GRAVELPIT_NOENEMYCAPS_Title"
+	{
+		"nl"	"Onmogelijke verdediging"
+	}
+	"TF_WIN_GRAVELPIT_NOENEMYCAPS_Desc"
+	{
+		"nl"	"Verdedig Gravel Pit zonder een verovering op te geven."
+	}
+	"TF_PLAY_GAME_EVERYCLASS_Title"
+	{
+		"nl"	"Beste van de klasse"
+	}
+	"TF_PLAY_GAME_EVERYCLASS_Desc"
+	{
+		"nl"	"Speel een volledige ronde in elke klasse."
+	}
+	"TF_PLAY_GAME_EVERYMAP_Title"
+	{
+		"nl"	"Wereldreiziger"
+	}
+	"TF_PLAY_GAME_EVERYMAP_Desc"
+	{
+		"nl"	"Speel een volledig spel op 2Fort, Dustbowl, Granary, Gravel Pit, Hydro en Well (CP)."
+	}
+	"TF_GET_HEALPOINTS_Title"
+	{
+		"nl"	"Teamarts"
+	}
+	"TF_GET_HEALPOINTS_Desc"
+	{
+		"nl"	"Scoor 25.000 gezondheidspunten als een Medic."
+	}
+	"TF_BURN_PLAYERSINMINIMUMTIME_Title"
+	{
+		"nl"	"Vlammenwerper"
+	}
+	"TF_BURN_PLAYERSINMINIMUMTIME_Desc"
+	{
+		"nl"	"Zet binnen 30 seconden vijf vijanden in de fik."
+	}
+	"TF_MEDIC_TOP_SCOREBOARD_Title"
+	{
+		"nl"	"Leven en laten leven"
+	}
+	"TF_MEDIC_TOP_SCOREBOARD_Desc"
+	{
+		"nl"	"Speel een volledige ronde zonder vijanden te doden, en behaal de hoogste score in een team van 6 of meer spelers."
+	}
+	"TF_MEDIC_HEAL_UNDER_FIRE_Title"
+	{
+		"nl"	"Vierdubbele bypass"
+	}
+	"TF_MEDIC_HEAL_UNDER_FIRE_Desc"
+	{
+		"nl"	"Genees een teamgenoot die door 4 vijanden tegelijkertijd onder vuur wordt genomen."
+	}
+	"TF_MEDIC_SIMUL_CHARGE_Title"
+	{
+		"nl"	"Collectieve zorg"
+	}
+	"TF_MEDIC_SIMUL_CHARGE_Desc"
+	{
+		"nl"	"Werk samen met 2 andere Medics om gelijktijdig 3 überladingen in te kunnen zetten."
+	}
+	"TF_MEDIC_SETUP_CHARGE_Title"
+	{
+		"nl"	"Vooronderzoek"
+	}
+	"TF_MEDIC_SETUP_CHARGE_Desc"
+	{
+		"nl"	"Zorg dat je een überlading klaar hebt voordat de instellingsfase is beëindigd."
+	}
+	"TF_MEDIC_RAPID_CHARGE_Title"
+	{
+		"nl"	"Traumaserie"
+	}
+	"TF_MEDIC_RAPID_CHARGE_Desc"
+	{
+		"nl"	"Zet binnen 5 minuten 3 überladingen in en help binnen deze periode 5 vijanden te doden."
+	}
+	"TF_MEDIC_COUNTER_CHARGE_Title"
+	{
+		"nl"	"Dubbelblind"
+	}
+	"TF_MEDIC_COUNTER_CHARGE_Desc"
+	{
+		"nl"	"Zet een überlading in binnen 8 seconden nadat een vijandelijke Medic in de buurt zijn überlading heeft ingezet."
+	}
+	"TF_MEDIC_SWITCH_TO_MEDIC_Title"
+	{
+		"nl"	"Doktertje spelen"
+	}
+	"TF_MEDIC_SWITCH_TO_MEDIC_Desc"
+	{
+		"nl"	"Wees in een team zonder Medics de eerste persoon die Medic wordt als een teamgenoot 'Medic!' roept. Vul vervolgens 500 gezondheidspunten aan."
+	}
+	"TF_MEDIC_SAVE_TEAMMATE_Title"
+	{
+		"nl"	"Triage"
+	}
+	"TF_MEDIC_SAVE_TEAMMATE_Desc"
+	{
+		"nl"	"Voorzie een teamgenoot van een überlading binnen één seconde voordat deze door een dodelijke explosie wordt getroffen."
+	}
+	"TF_MEDIC_CHARGE_BLOCKER_Title"
+	{
+		"nl"	"Voorkomen is beter dan genezen"
+	}
+	"TF_MEDIC_CHARGE_BLOCKER_Desc"
+	{
+		"nl"	"Verhinder met behulp van een teamgenoot die je van überladingen voorziet dat de vijand een controlepunt verovert."
+	}
+	"TF_MEDIC_ASSIST_MEDIC_Title"
+	{
+		"nl"	"Consultatie"
+	}
+	"TF_MEDIC_ASSIST_MEDIC_Desc"
+	{
+		"nl"	"Help een mede-Medic in één leven 5 vijanden te doden."
+	}
+	"TF_MEDIC_SYRINGE_SCOUTS_Title"
+	{
+		"nl"	"Doet dit pijn?"
+	}
+	"TF_MEDIC_SYRINGE_SCOUTS_Desc"
+	{
+		"nl"	"Dood 50 Scouts met je injectiepistool."
+	}
+	"TF_MEDIC_BONESAW_MEDICS_Title"
+	{
+		"nl"	"Bottenkraker"
+	}
+	"TF_MEDIC_BONESAW_MEDICS_Desc"
+	{
+		"nl"	"Dood 50 Medics met je bottenzaag."
+	}
+	"TF_MEDIC_ASSIST_HEAVY_LONG_Title"
+	{
+		"nl"	"Grote schoonmaak"
+	}
+	"TF_MEDIC_ASSIST_HEAVY_LONG_Desc"
+	{
+		"nl"	"Help een Heavy 20 vijanden te doden zonder dat één van jullie omkomt."
+	}
+	"TF_MEDIC_ASSIST_SCOUT_Title"
+	{
+		"nl"	"Hier komt het prikje"
+	}
+	"TF_MEDIC_ASSIST_SCOUT_Desc"
+	{
+		"nl"	"Help 3 vijanden te doden met een enkele überlading voor een Scout."
+	}
+	"TF_MEDIC_ASSIST_PYRO_Title"
+	{
+		"nl"	"Vuurdoop"
+	}
+	"TF_MEDIC_ASSIST_PYRO_Desc"
+	{
+		"nl"	"Help 5 vijanden te verbranden met een enkele überlading voor een Pyro."
+	}
+	"TF_MEDIC_ASSIST_HEAVY_Title"
+	{
+		"nl"	"4 halen 1 betalen"
+	}
+	"TF_MEDIC_ASSIST_HEAVY_Desc"
+	{
+		"nl"	"Help 2 vijanden knock-out te slaan met een enkele überlading voor een Heavy."
+	}
+	"TF_MEDIC_ASSIST_DEMOMAN_Title"
+	{
+		"nl"	"Medische doorbraak"
+	}
+	"TF_MEDIC_ASSIST_DEMOMAN_Desc"
+	{
+		"nl"	"Help 5 bouwsels van vijandelijke Engineers te vernielen met een enkele überlading voor een Demoman."
+	}
+	"TF_MEDIC_ASSIST_SOLDIER_Title"
+	{
+		"nl"	"5 tegen 5"
+	}
+	"TF_MEDIC_ASSIST_SOLDIER_Desc"
+	{
+		"nl"	"Help 5 vijanden op te blazen met een enkele überlading voor een Soldier."
+	}
+	"TF_MEDIC_HEAL_ENGINEER_Title"
+	{
+		"nl"	"On-site service"
+	}
+	"TF_MEDIC_HEAL_ENGINEER_Desc"
+	{
+		"nl"	"Genees een Engineer die zijn sentrygun repareert terwijl hij door vijanden wordt beschoten."
+	}
+	"TF_MEDIC_ASSIST_CAPTURER_Title"
+	{
+		"nl"	"Ubi concordia, ibi victoria"
+	}
+	"TF_MEDIC_ASSIST_CAPTURER_Desc"
+	{
+		"nl"	"Help in één leven 5 vijanden op een vijandelijk controlepunt te doden."
+	}
+	"TF_MEDIC_HEAL_CALLERS_Title"
+	{
+		"nl"	"Grote ronde"
+	}
+	"TF_MEDIC_HEAL_CALLERS_Desc"
+	{
+		"nl"	"Genees 200 teamgenoten die 'Medic!' roepen."
+	}
+	"TF_MEDIC_EXTINGUISH_TEAMMATES_Title"
+	{
+		"nl"	"Eerst water, de rest komt later"
+	}
+	"TF_MEDIC_EXTINGUISH_TEAMMATES_Desc"
+	{
+		"nl"	"Blus 100 brandende teamgenoten."
+	}
+	"TF_MEDIC_ASSIST_VS_NEMESES_Title"
+	{
+		"nl"	"Doctor Assisted Homicide"
+	}
+	"TF_MEDIC_ASSIST_VS_NEMESES_Desc"
+	{
+		"nl"	"Help 20 wraaknemers te doden."
+	}
+	"TF_MEDIC_KILL_WHILE_CHARGED_Title"
+	{
+		"nl"	"Placebo-effect"
+	}
+	"TF_MEDIC_KILL_WHILE_CHARGED_Desc"
+	{
+		"nl"	"Dood in één leven 5 vijanden terwijl je een überlading klaar hebt, maar die niet gebruikt."
+	}
+	"TF_MEDIC_BONESAW_NOMISSES_Title"
+	{
+		"nl"	"Afknijpen"
+	}
+	"TF_MEDIC_BONESAW_NOMISSES_Desc"
+	{
+		"nl"	"Bewerk 5 keer op rij vijanden met je bottenzaag zonder dood te gaan of te missen."
+	}
+	"TF_MEDIC_HEAL_LARGE_Title"
+	{
+		"nl"	"Coassistent"
+	}
+	"TF_MEDIC_HEAL_LARGE_Desc"
+	{
+		"nl"	"Verzamel in één leven 7000 gezondheidspunten."
+	}
+	"TF_MEDIC_HEAL_HUGE_Title"
+	{
+		"nl"	"Specialist"
+	}
+	"TF_MEDIC_HEAL_HUGE_Desc"
+	{
+		"nl"	"Verzamel in één leven 10.000 gezondheidspunten."
+	}
+	"TF_MEDIC_HEAL_GRIND_Title"
+	{
+		"nl"	"Meester geneesheer"
+	}
+	"TF_MEDIC_HEAL_GRIND_Desc"
+	{
+		"nl"	"Verzamel in totaal 1 miljoen gezondheidspunten."
+	}
+	"TF_MEDIC_KILL_HEALED_SPY_Title"
+	{
+		"nl"	"Hypokritiek"
+	}
+	"TF_MEDIC_KILL_HEALED_SPY_Desc"
+	{
+		"nl"	"Dood een vijandelijke Spy die je zelf hebt genezen."
+	}
+	"TF_MEDIC_SAVE_FALLING_TEAMMATE_Title"
+	{
+		"nl"	"Medische ingreep"
+	}
+	"TF_MEDIC_SAVE_FALLING_TEAMMATE_Desc"
+	{
+		"nl"	"Voorkom dat een vallende teamgenoot te pletter valt."
+	}
+	"TF_MEDIC_CHARGE_JUGGLE_Title"
+	{
+		"nl"	"Second opinion"
+	}
+	"TF_MEDIC_CHARGE_JUGGLE_Desc"
+	{
+		"nl"	"Voorzie 2 teamgenoten tegelijkertijd van een überlading."
+	}
+	"TF_MEDIC_FREEZECAM_RAGDOLL_Title"
+	{
+		"nl"	"Autopsierapport"
+	}
+	"TF_MEDIC_FREEZECAM_RAGDOLL_Desc"
+	{
+		"nl"	"Laat een vijand een freezecam-afbeelding zien waarop jij de lappenpop van de vijand bespot."
+	}
+	"TF_MEDIC_BONESAW_SPY_CALLERS_Title"
+	{
+		"nl"	"Hallo, ik ben dokter."
+	}
+	"TF_MEDIC_BONESAW_SPY_CALLERS_Desc"
+	{
+		"nl"	"Dood met je bottenzaag 5 Spy's die om een Medic verzoeken."
+	}
+	"TF_MEDIC_CHARGE_FRIENDS_Title"
+	{
+		"nl"	"Kruisbestuiving"
+	}
+	"TF_MEDIC_CHARGE_FRIENDS_Desc"
+	{
+		"nl"	"Voorzie tien van je vrienden uit de Steam Community van een überlading."
+	}
+	"TF_MEDIC_INVITE_JOIN_CHARGE_Title"
+	{
+		"nl"	"Huisbezoek"
+	}
+	"TF_MEDIC_INVITE_JOIN_CHARGE_Desc"
+	{
+		"nl"	"Doe mee aan een spel van een van je vrienden en voorzie hem van een überlading."
+	}
+	"TF_MEDIC_HEAL_ACHIEVER_Title"
+	{
+		"nl"	"Persoonlijke zorg"
+	}
+	"TF_MEDIC_HEAL_ACHIEVER_Desc"
+	{
+		"nl"	"Genees een teamgenoot terwijl deze een prestatie behaalt."
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS1_Title"
+	{
+		"nl"	"Medic mijlpaal 1"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS1_Desc"
+	{
+		"nl"	"Behaal 10 prestaties in het Medic pack."
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS2_Title"
+	{
+		"nl"	"Medic mijlpaal 2"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS2_Desc"
+	{
+		"nl"	"Behaal 16 prestaties in het Medic pack."
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS3_Title"
+	{
+		"nl"	"Medic mijlpaal 3"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS3_Desc"
+	{
+		"nl"	"Behaal 22 prestaties in het Medic pack."
+	}
+	"TF_PYRO_KILL_MULTIWEAPONS_Title"
+	{
+		"nl"	"Gecombineerd vuur"
+	}
+	"TF_PYRO_KILL_MULTIWEAPONS_Desc"
+	{
+		"nl"	"Geef 20 spelers die je in brand hebt gezet een genadeschot met je shotgun."
+	}
+	"TF_PYRO_SIMULBURN_SCOUTS_Title"
+	{
+		"nl"	"Grillworstjes"
+	}
+	"TF_PYRO_SIMULBURN_SCOUTS_Desc"
+	{
+		"nl"	"Neem tegelijkertijd 2 vijandelijke Scouts onder vuur."
+	}
+	"TF_PYRO_FORCE_WATERJUMP_Title"
+	{
+		"nl"	"Gedoopt in vuur"
+	}
+	"TF_PYRO_FORCE_WATERJUMP_Desc"
+	{
+		"nl"	"Dwing 10 brandende vijanden in het water te springen."
+	}
+	"TF_PYRO_KILL_POSTDEATH_Title"
+	{
+		"nl"	"Vuren en vergeten"
+	}
+	"TF_PYRO_KILL_POSTDEATH_Desc"
+	{
+		"nl"	"Dood 15 spelers terwijl je zelf dood bent."
+	}
+	"TF_PYRO_KILL_SPIES_Title"
+	{
+		"nl"	"Een muur van vuur"
+	}
+	"TF_PYRO_KILL_SPIES_Desc"
+	{
+		"nl"	"Dood 5 Spy's die met een sapper een van je gebouwen proberen te vernielen."
+	}
+	"TF_PYRO_KILL_CARRIERS_Title"
+	{
+		"nl"	"Heet van de pers"
+	}
+	"TF_PYRO_KILL_CARRIERS_Desc"
+	{
+		"nl"	"Dood 5 vijanden die met jouw inlichtingen rondlopen."
+	}
+	"TF_PYRO_REVEAL_SPIES_Title"
+	{
+		"nl"	"Spontane ontbranding"
+	}
+	"TF_PYRO_REVEAL_SPIES_Desc"
+	{
+		"nl"	"Steek 10 verborgen Spy's in de brand."
+	}
+	"TF_PYRO_CAMP_TELEPORTERS_Title"
+	{
+		"nl"	"Een beetje aangebrand"
+	}
+	"TF_PYRO_CAMP_TELEPORTERS_Desc"
+	{
+		"nl"	"Steek 10 vijanden in de brand die net een teleporter hebben gebruikt."
+	}
+	"TF_PYRO_CAMP_POSITION_Title"
+	{
+		"nl"	"Kampvuur"
+	}
+	"TF_PYRO_CAMP_POSITION_Desc"
+	{
+		"nl"	"Dood in hetzelfde gebied 3 vijanden achter elkaar."
+	}
+	"TF_PYRO_KILL_AXE_SMALL_Title"
+	{
+		"nl"	"Gehaktdag"
+	}
+	"TF_PYRO_KILL_AXE_SMALL_Desc"
+	{
+		"nl"	"Dood in één leven 3 personen met je bijl."
+	}
+	"TF_PYRO_KILL_AXE_LARGE_Title"
+	{
+		"nl"	"Blij dat ik snij"
+	}
+	"TF_PYRO_KILL_AXE_LARGE_Desc"
+	{
+		"nl"	"Dood in één leven 6 personen met je bijl."
+	}
+	"TF_PYRO_KILL_FROM_BEHIND_Title"
+	{
+		"nl"	"Vuur aan de schenen"
+	}
+	"TF_PYRO_KILL_FROM_BEHIND_Desc"
+	{
+		"nl"	"Dood met je vlammenwerper 50 vijanden die met hun rug naar je toe staan."
+	}
+	"TF_PYRO_BURN_SPIES_AS_YOU_Title"
+	{
+		"nl"	"Het fikt en het gilt..."
+	}
+	"TF_PYRO_BURN_SPIES_AS_YOU_Desc"
+	{
+		"nl"	"Steek 10 vermomde Spy's in de brand."
+	}
+	"TF_PYRO_BURN_SNIPERS_ZOOMED_Title"
+	{
+		"nl"	"Vuur in het vizier"
+	}
+	"TF_PYRO_BURN_SNIPERS_ZOOMED_Desc"
+	{
+		"nl"	"Steek 10 Snipers in de brand terwijl ze inzoomen."
+	}
+	"TF_PYRO_BURN_MEDICS_CHARGED_Title"
+	{
+		"nl"	"Help, de dokter verbrandt"
+	}
+	"TF_PYRO_BURN_MEDICS_CHARGED_Desc"
+	{
+		"nl"	"Steek 3 Medics in de brand die op het punt staan een überlading in te zetten."
+	}
+	"TF_PYRO_REFLECT_PROJECTILES_Title"
+	{
+		"nl"	"Op hete kolen"
+	}
+	"TF_PYRO_REFLECT_PROJECTILES_Desc"
+	{
+		"nl"	"Kaats 100 projectielen terug naar de vijand met een stoot gecomprimeerde lucht."
+	}
+	"TF_PYRO_KILL_HEAVIES_Title"
+	{
+		"nl"	"Ik maak er gehakt van."
+	}
+	"TF_PYRO_KILL_HEAVIES_Desc"
+	{
+		"nl"	"Dood 50 Heavy's met je vlammenwerper."
+	}
+	"TF_PYRO_KILL_UNDERWATER_Title"
+	{
+		"nl"	"Plan B"
+	}
+	"TF_PYRO_KILL_UNDERWATER_Desc"
+	{
+		"nl"	"Dood 10 vijanden terwijl jullie allemaal onder water zijn."
+	}
+	"TF_PYRO_KILL_UBERCHARGE_Title"
+	{
+		"nl"	"Pyrotechniek"
+	}
+	"TF_PYRO_KILL_UBERCHARGE_Desc"
+	{
+		"nl"	"Dood 3 vijanden met een enkele überlading."
+	}
+	"TF_PYRO_DESTROY_BUILDINGS_Title"
+	{
+		"nl"	"Pyromaantje"
+	}
+	"TF_PYRO_DESTROY_BUILDINGS_Desc"
+	{
+		"nl"	"Vernietig 50 bouwsels van vijandelijke Engineers."
+	}
+	"TF_PYRO_DEFEND_POINTS_Title"
+	{
+		"nl"	"Tactisch toasten"
+	}
+	"TF_PYRO_DEFEND_POINTS_Desc"
+	{
+		"nl"	"Steek 50 vijanden in de brand die bezig zijn een van je controleposten te veroveren."
+	}
+	"TF_PYRO_KILL_GRIND_Title"
+	{
+		"nl"	"Vuurvreter"
+	}
+	"TF_PYRO_KILL_GRIND_Desc"
+	{
+		"nl"	"Dood 500 vijanden."
+	}
+	"TF_PYRO_DAMAGE_GRIND_Title"
+	{
+		"nl"	"Vagevuur"
+	}
+	"TF_PYRO_DAMAGE_GRIND_Desc"
+	{
+		"nl"	"Behaal 1 miljoen punten aan totale vuurschade."
+	}
+	"TF_PYRO_BURN_MEDICPAIR_Title"
+	{
+		"nl"	"Stoken in een goede vriendschap"
+	}
+	"TF_PYRO_BURN_MEDICPAIR_Desc"
+	{
+		"nl"	"Steek een vijand in de brand en verbrand de Medic die hem komt genezen."
+	}
+	"TF_PYRO_KILL_TAUNT_Title"
+	{
+		"nl"	"Gloeiende #%&$!!!"
+	}
+	"TF_PYRO_KILL_TAUNT_Desc"
+	{
+		"nl"	"Dood een vijand met een bespotting."
+	}
+	"TF_PYRO_KILL_TEAMWORK_Title"
+	{
+		"nl"	"Tweedegraads verbranding"
+	}
+	"TF_PYRO_KILL_TEAMWORK_Desc"
+	{
+		"nl"	"Dood een vijand die door een andere Pyro in brand is gestoken."
+	}
+	"TF_PYRO_BURN_SPY_TAUNT_Title"
+	{
+		"nl"	"Heb je een vuurtje voor me?"
+	}
+	"TF_PYRO_BURN_SPY_TAUNT_Desc"
+	{
+		"nl"	"Steek een vijandelijke Spy in de brand terwijl hij een sigaret opsteekt."
+	}
+	"TF_PYRO_DOMINATE_LEAVESVR_Title"
+	{
+		"nl"	"Brand meester"
+	}
+	"TF_PYRO_DOMINATE_LEAVESVR_Desc"
+	{
+		"nl"	"Zorg ervoor dat een overheerste speler de server verlaat."
+	}
+	"TF_PYRO_REFLECT_CROCKET_KILL_Title"
+	{
+		"nl"	"Hete adem"
+	}
+	"TF_PYRO_REFLECT_CROCKET_KILL_Desc"
+	{
+		"nl"	"Dood een Soldier met een voltreffer van een teruggekaatste raket."
+	}
+	"TF_PYRO_KILL_TAUNTERS_Title"
+	{
+		"nl"	"Wacht maar totdat ik je in m'n fik krijg!"
+	}
+	"TF_PYRO_KILL_TAUNTERS_Desc"
+	{
+		"nl"	"Dood 3 vijanden terwijl ze je bespotten."
+	}
+	"TF_PYRO_DOUBLE_KO_Title"
+	{
+		"nl"	"Samensmelten"
+	}
+	"TF_PYRO_DOUBLE_KO_Desc"
+	{
+		"nl"	"Dood een vijand in dezelfde seconde waarin hij jou doodt."
+	}
+	"TF_PYRO_BURN_RJ_SOLDIER_Title"
+	{
+		"nl"	"Vuurvliegje"
+	}
+	"TF_PYRO_BURN_RJ_SOLDIER_Desc"
+	{
+		"nl"	"Dood een Soldier terwijl hij een raketsprong maakt."
+	}
+	"TF_PYRO_FREEZECAM_TAUNTS_Title"
+	{
+		"nl"	"De boel opstoken"
+	}
+	"TF_PYRO_FREEZECAM_TAUNTS_Desc"
+	{
+		"nl"	"Laat vijanden freezecam-afbeeldingen zien van al je bespottingen."
+	}
+	"TF_PYRO_KILL_GRIND_LARGE_Title"
+	{
+		"nl"	"Vuurgevaarlijk"
+	}
+	"TF_PYRO_KILL_GRIND_LARGE_Desc"
+	{
+		"nl"	"Dood 1000 vijanden."
+	}
+	"TF_PYRO_IGNITE_FLAREGUN_Title"
+	{
+		"nl"	"Het lichtende voorbeeld"
+	}
+	"TF_PYRO_IGNITE_FLAREGUN_Desc"
+	{
+		"nl"	"Dood 100 vijanden met het lichtpistool."
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS1_Title"
+	{
+		"nl"	"Pyro mijlpaal 1"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS1_Desc"
+	{
+		"nl"	"Behaal 10 prestaties in het Pyro pack."
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS2_Title"
+	{
+		"nl"	"Pyro mijlpaal 2"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS2_Desc"
+	{
+		"nl"	"Behaal 16 prestaties in het Pyro pack."
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS3_Title"
+	{
+		"nl"	"Pyro mijlpaal 3"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS3_Desc"
+	{
+		"nl"	"Behaal 22 prestaties in het Pyro pack."
+	}
+	"TF_HEAVY_DAMAGE_TAKEN_Title"
+	{
+		"nl"	"IJzeren Gordijn"
+	}
+	"TF_HEAVY_DAMAGE_TAKEN_Desc"
+	{
+		"nl"	"Incasseer in één leven 1000 punten aan schade."
+	}
+	"TF_HEAVY_DEFEND_MEDIC_Title"
+	{
+		"nl"	"Partijloyaliteit"
+	}
+	"TF_HEAVY_DEFEND_MEDIC_Desc"
+	{
+		"nl"	"Dood 50 vijanden binnen 3 seconden nadat zij je Medic hebben aanvallen."
+	}
+	"TF_HEAVY_ASSIST_MEDIC_LARGE_Title"
+	{
+		"nl"	"Verdeling van arbeid"
+	}
+	"TF_HEAVY_ASSIST_MEDIC_LARGE_Desc"
+	{
+		"nl"	"Dood 20 vijanden met hulp van een Medic en zorg ervoor dat jullie beiden in leven blijven."
+	}
+	"TF_HEAVY_EARN_MEDIC_DOMINATION_Title"
+	{
+		"nl"	"Oktoberrevolutie"
+	}
+	"TF_HEAVY_EARN_MEDIC_DOMINATION_Desc"
+	{
+		"nl"	"Verdien een overheersing voor een Medic die jou geneest."
+	}
+	"TF_HEAVY_KILL_TAUNT_Title"
+	{
+		"nl"	"Schijnproces"
+	}
+	"TF_HEAVY_KILL_TAUNT_Desc"
+	{
+		"nl"	"Dood een vijand met een bespotting."
+	}
+	"TF_HEAVY_KILL_FLAG_CARRIERS_Title"
+	{
+		"nl"	"Misdaad en Straf"
+	}
+	"TF_HEAVY_KILL_FLAG_CARRIERS_Desc"
+	{
+		"nl"	"Dood 10 vijanden die met jouw inlichtingen rondlopen."
+	}
+	"TF_HEAVY_KILL_MEDIC_PAIR_Title"
+	{
+		"nl"	"Klassenstrijd"
+	}
+	"TF_HEAVY_KILL_MEDIC_PAIR_Desc"
+	{
+		"nl"	"Werk samen met een bevriende Medic en dood een vijandelijk Heavy & Medic-paar."
+	}
+	"TF_HEAVY_BLOCK_INVULN_HEAVY_Title"
+	{
+		"nl"	"Sovjet-blok"
+	}
+	"TF_HEAVY_BLOCK_INVULN_HEAVY_Desc"
+	{
+		"nl"	"Voorkom dat een onkwetsbare vijandelijke Heavy zich verplaatst terwijl je zelf onkwetsbaar en in de verdediging bent."
+	}
+	"TF_HEAVY_BLOCK_CART_Title"
+	{
+		"nl"	"Niet die karski"
+	}
+	"TF_HEAVY_BLOCK_CART_Desc"
+	{
+		"nl"	"Voorkom 25 keer dat de vijand de kar verplaatst."
+	}
+	"TF_HEAVY_RECEIVE_UBER_GRIND_Title"
+	{
+		"nl"	"Opperste Sovjet"
+	}
+	"TF_HEAVY_RECEIVE_UBER_GRIND_Desc"
+	{
+		"nl"	"Krijg 50 keer een überlading."
+	}
+	"TF_HEAVY_STAND_NEAR_DISPENSER_Title"
+	{
+		"nl"	"Fabrieksarbeider"
+	}
+	"TF_HEAVY_STAND_NEAR_DISPENSER_Desc"
+	{
+		"nl"	"Dood 20 vijanden terwijl je je gezondheid herstelt met een dispenser."
+	}
+	"TF_HEAVY_ASSIST_HEAVY_GRIND_Title"
+	{
+		"nl"	"Sovjet-Unie"
+	}
+	"TF_HEAVY_ASSIST_HEAVY_GRIND_Desc"
+	{
+		"nl"	"Dood 25 vijanden terwijl je een Heavy helpt of wordt geholpen door een Heavy."
+	}
+	"TF_HEAVY_CLEAR_STICKYBOMBS_Title"
+	{
+		"nl"	"Eigendom van productiemiddelen"
+	}
+	"TF_HEAVY_CLEAR_STICKYBOMBS_Desc"
+	{
+		"nl"	"Verwijder 20 kleefbommen door de Demomannen die ze hebben geplaatst te doden."
+	}
+	"TF_HEAVY_KILL_UNDERWATER_Title"
+	{
+		"nl"	"Gekke Ivan"
+	}
+	"TF_HEAVY_KILL_UNDERWATER_Desc"
+	{
+		"nl"	"Dood 100 vijanden terwijl jij en je slachtoffer onder water zijn."
+	}
+	"TF_HEAVY_TAKE_MULTI_DAMAGE_Title"
+	{
+		"nl"	"Raspoetin"
+	}
+	"TF_HEAVY_TAKE_MULTI_DAMAGE_Desc"
+	{
+		"nl"	"Word in één leven beschoten, verbrand, afgetuigd en geraakt door explosieven."
+	}
+	"TF_HEAVY_KILL_DOMINATED_Title"
+	{
+		"nl"	"Klap op de vuurpijl"
+	}
+	"TF_HEAVY_KILL_DOMINATED_Desc"
+	{
+		"nl"	"Dood 20 van de spelers die door jou worden overheerst."
+	}
+	"TF_HEAVY_SURVIVE_CROCKET_Title"
+	{
+		"nl"	"Raketten blokkeren"
+	}
+	"TF_HEAVY_SURVIVE_CROCKET_Desc"
+	{
+		"nl"	"Overleef een directe voltreffer van een raket."
+	}
+	"TF_HEAVY_ASSIST_GRIND_Title"
+	{
+		"nl"	"Collectivisatie"
+	}
+	"TF_HEAVY_ASSIST_GRIND_Desc"
+	{
+		"nl"	"Behaal een score van 1000 assists."
+	}
+	"TF_HEAVY_UNCOVER_SPIES_Title"
+	{
+		"nl"	"Spionistisch materialisme"
+	}
+	"TF_HEAVY_UNCOVER_SPIES_Desc"
+	{
+		"nl"	"Dood of help 10 vermomde Spy's te doden."
+	}
+	"TF_HEAVY_KILL_WHILE_SPUNUP_Title"
+	{
+		"nl"	"Permanente revolutie"
+	}
+	"TF_HEAVY_KILL_WHILE_SPUNUP_Desc"
+	{
+		"nl"	"Dood 5 vijanden zonder dat je je minigun laat stoppen met draaien."
+	}
+	"TF_HEAVY_FIRE_LOTS_Title"
+	{
+		"nl"	"Zware industrie"
+	}
+	"TF_HEAVY_FIRE_LOTS_Desc"
+	{
+		"nl"	"Vuur in één leven $ 200.000 aan minigunkogels af."
+	}
+	"TF_HEAVY_KILL_CRIT_PUNCH_Title"
+	{
+		"nl"	"Communistische klappen"
+	}
+	"TF_HEAVY_KILL_CRIT_PUNCH_Desc"
+	{
+		"nl"	"Dood een vijand met een dodelijke vuistslag."
+	}
+	"TF_HEAVY_HEAL_MEDIKITS_Title"
+	{
+		"nl"	"Herverdeling van gezondheid"
+	}
+	"TF_HEAVY_HEAL_MEDIKITS_Desc"
+	{
+		"nl"	"Herstel in één leven 1000 schadepunten met medikits."
+	}
+	"TF_HEAVY_KILL_SHOTGUN_Title"
+	{
+		"nl"	"Zuinig aan"
+	}
+	"TF_HEAVY_KILL_SHOTGUN_Desc"
+	{
+		"nl"	"Dood een vijand met je shotgun terwijl je geen munitie meer hebt voor je minigun."
+	}
+	"TF_HEAVY_FIRST_TO_CAP_Title"
+	{
+		"nl"	"Frontfeestje"
+	}
+	"TF_HEAVY_FIRST_TO_CAP_Desc"
+	{
+		"nl"	"Zorg dat je de eerste van je team bent die in een ronde een controlepost verovert."
+	}
+	"TF_HEAVY_PAYLOAD_CAP_GRIND_Title"
+	{
+		"nl"	"Poesjkin-kar"
+	}
+	"TF_HEAVY_PAYLOAD_CAP_GRIND_Desc"
+	{
+		"nl"	"Behaal 50 veroveringen op springladingkaarten."
+	}
+	"TF_HEAVY_KILL_MIDAIR_MINIGUN_Title"
+	{
+		"nl"	"Scherpschutter"
+	}
+	"TF_HEAVY_KILL_MIDAIR_MINIGUN_Desc"
+	{
+		"nl"	"Dood vanuit de lucht 10 vijanden met je minigun."
+	}
+	"TF_HEAVY_DEFEND_CONTROL_POINT_Title"
+	{
+		"nl"	"Strafkamp"
+	}
+	"TF_HEAVY_DEFEND_CONTROL_POINT_Desc"
+	{
+		"nl"	"Dood 25 vijanden terwijl je op een controlepost staat die in jouw bezit is."
+	}
+	"TF_HEAVY_KILL_CAPPING_ENEMIES_Title"
+	{
+		"nl"	"Zuivering"
+	}
+	"TF_HEAVY_KILL_CAPPING_ENEMIES_Desc"
+	{
+		"nl"	"Dood 15 vijanden die bezig zijn een van jouw controleposten te veroveren."
+	}
+	"TF_HEAVY_REVENGE_ASSIST_Title"
+	{
+		"nl"	"De helpende hand"
+	}
+	"TF_HEAVY_REVENGE_ASSIST_Desc"
+	{
+		"nl"	"Help 5 teamgenoten wraak te nemen op hun wraaknemers."
+	}
+	"TF_HEAVY_TELEPORT_FAST_KILL_Title"
+	{
+		"nl"	"5-secondenplan"
+	}
+	"TF_HEAVY_TELEPORT_FAST_KILL_Desc"
+	{
+		"nl"	"Dood een vijand binnen 5 seconden nadat je een teleporter hebt verlaten."
+	}
+	"TF_HEAVY_FREEZECAM_TAUNT_Title"
+	{
+		"nl"	"Fotostrojka"
+	}
+	"TF_HEAVY_FREEZECAM_TAUNT_Desc"
+	{
+		"nl"	"Laat een vijand een freezecam-afbeelding zien waarop je de vijand bespot terwijl je onkwetsbaar bent."
+	}
+	"TF_HEAVY_EAT_SANDWICHES_Title"
+	{
+		"nl"	"Consumptiedrang"
+	}
+	"TF_HEAVY_EAT_SANDWICHES_Desc"
+	{
+		"nl"	"Eet 100 sandviches."
+	}
+	"TF_HEAVY_KILL_SCOUTS_Title"
+	{
+		"nl"	"Handen af van mijn sandvich"
+	}
+	"TF_HEAVY_KILL_SCOUTS_Desc"
+	{
+		"nl"	"Dood 50 Scouts met behulp van Natascha."
+	}
+	"TF_HEAVY_KILL_HEAVIES_GLOVES_Title"
+	{
+		"nl"	"Borsjt-boksen"
+	}
+	"TF_HEAVY_KILL_HEAVIES_GLOVES_Desc"
+	{
+		"nl"	"Dood 10 Heavy's met De KGB."
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS1_Title"
+	{
+		"nl"	"Heavy mijlpaal 1"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS1_Desc"
+	{
+		"nl"	"Behaal 10 prestaties in het Heavy pack."
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS2_Title"
+	{
+		"nl"	"Heavy mijlpaal 2"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS2_Desc"
+	{
+		"nl"	"Behaal 16 prestaties in het Heavy pack."
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS3_Title"
+	{
+		"nl"	"Heavy mijlpaal 3"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS3_Desc"
+	{
+		"nl"	"Behaal 22 prestaties in het Heavy pack."
+	}
+	"TF_SCOUT_FIRST_BLOOD_Title"
+	{
+		"nl"	"First Blood"
+	}
+	"TF_SCOUT_FIRST_BLOOD_Desc"
+	{
+		"nl"	"Dood als eerste iemand tijdens een Arena-match."
+	}
+	"TF_SCOUT_FIRST_BLOOD_KILL_Title"
+	{
+		"nl"	"First Blood, deel 2"
+	}
+	"TF_SCOUT_FIRST_BLOOD_KILL_Desc"
+	{
+		"nl"	"Dood 5 vijanden tijdens de First Blood crit buff."
+	}
+	"TF_SCOUT_WELL_EARLY_KILL_Title"
+	{
+		"nl"	"Snelle dood"
+	}
+	"TF_SCOUT_WELL_EARLY_KILL_Desc"
+	{
+		"nl"	"Dood een speler in de Well voordat de ronde begint."
+	}
+	"TF_SCOUT_LIFETIME_KILLS_Title"
+	{
+		"nl"	"Een jaar om nooit te vergeten"
+	}
+	"TF_SCOUT_LIFETIME_KILLS_Desc"
+	{
+		"nl"	"Dood 2004 vijanden."
+	}
+	"TF_SCOUT_IRON_MAN_KILLS_Title"
+	{
+		"nl"	"De cyclus"
+	}
+	"TF_SCOUT_IRON_MAN_KILLS_Desc"
+	{
+		"nl"	"Dood in één leven een vijand terwijl je op de grond, in de lucht en in het water bent."
+	}
+	"TF_SCOUT_DESTROY_TELEPORTERS_Title"
+	{
+		"nl"	"Poortje toe"
+	}
+	"TF_SCOUT_DESTROY_TELEPORTERS_Desc"
+	{
+		"nl"	"Vernietig 3 teleporter-ingangen."
+	}
+	"TF_SCOUT_DESTROY_BUILDINGS_BEING_BUILT_Title"
+	{
+		"nl"	"Slopen die hap"
+	}
+	"TF_SCOUT_DESTROY_BUILDINGS_BEING_BUILT_Desc"
+	{
+		"nl"	"Vernietig 3 vijandelijke bouwsels die nog in aanbouw zijn."
+	}
+	"TF_SCOUT_DESTROY_SENTRY_WITH_PISTOL_Title"
+	{
+		"nl"	"Wie het kleine niet eert..."
+	}
+	"TF_SCOUT_DESTROY_SENTRY_WITH_PISTOL_Desc"
+	{
+		"nl"	"Vernietig een actieve sentrygun met je pistool."
+	}
+	"TF_SCOUT_DOUBLE_JUMPS_Title"
+	{
+		"nl"	"Springerig type"
+	}
+	"TF_SCOUT_DOUBLE_JUMPS_Desc"
+	{
+		"nl"	"Voer 1000 dubbelsprongen uit."
+	}
+	"TF_SCOUT_ASSIST_MEDIC_Title"
+	{
+		"nl"	"Doden onder invloed"
+	}
+	"TF_SCOUT_ASSIST_MEDIC_Desc"
+	{
+		"nl"	"Dood 3 vijanden terwijl je nog onder invloed van een überlading bent."
+	}
+	"TF_SCOUT_STEAL_SANDWICH_Title"
+	{
+		"nl"	"De kaas van het brood"
+	}
+	"TF_SCOUT_STEAL_SANDWICH_Desc"
+	{
+		"nl"	"Dood een vijandelijke Heavy en pak zijn Sandvich."
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS1_Title"
+	{
+		"nl"	"Scout mijlpaal 1"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS1_Desc"
+	{
+		"nl"	"Behaal 10 prestaties in het Scout pack."
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS2_Title"
+	{
+		"nl"	"Scout mijlpaal 2"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS2_Desc"
+	{
+		"nl"	"Behaal 16 prestaties in het Scout pack."
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS3_Title"
+	{
+		"nl"	"Scout mijlpaal 3"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS3_Desc"
+	{
+		"nl"	"Behaal 22 prestaties in het Scout pack."
+	}
+	"TF_SCOUT_KILL_CHARGED_MEDICS_Title"
+	{
+		"nl"	"Doktertje doden"
+	}
+	"TF_SCOUT_KILL_CHARGED_MEDICS_Desc"
+	{
+		"nl"	"Dood een Medic die op het punt staan een überlading in te zetten."
+	}
+	"TF_SCOUT_SURVIVE_DAMAGE_Title"
+	{
+		"nl"	"Superman"
+	}
+	"TF_SCOUT_SURVIVE_DAMAGE_Desc"
+	{
+		"nl"	"Overleef 500 schadepunten in één leven."
+	}
+	"TF_SCOUT_DOUBLEJUMP_KILL_Title"
+	{
+		"nl"	"Rauw op je dak"
+	}
+	"TF_SCOUT_DOUBLEJUMP_KILL_Desc"
+	{
+		"nl"	"Dood 20 spelers terwijl je dubbelspringt."
+	}
+	"TF_SCOUT_FLAG_CAP_GRIND_Title"
+	{
+		"nl"	"Herhalingsoefening"
+	}
+	"TF_SCOUT_FLAG_CAP_GRIND_Desc"
+	{
+		"nl"	"Verover 25 keer de vijandelijke inlichtingen."
+	}
+	"TF_SCOUT_THREE_FLAGCAPS_Title"
+	{
+		"nl"	"Stelen, stelen en... nog eens stelen"
+	}
+	"TF_SCOUT_THREE_FLAGCAPS_Desc"
+	{
+		"nl"	"Verover in één CTF-ronde 3 keer de vijandelijke inlichtingen."
+	}
+	"TF_SCOUT_DODGE_DAMAGE_Title"
+	{
+		"nl"	"De kunst van het ontwijken"
+	}
+	"TF_SCOUT_DODGE_DAMAGE_Desc"
+	{
+		"nl"	"Ontwijk in één leven 1000 schadepunten door Bonk! te drinken. Atomic Punch."
+	}
+	"TF_SCOUT_KNOCK_INTO_TRAIN_Title"
+	{
+		"nl"	"Omgevingsramp"
+	}
+	"TF_SCOUT_KNOCK_INTO_TRAIN_Desc"
+	{
+		"nl"	"Dood je hele omgeving of laat die zelfmoord plegen met de knockback van de Force-A-Nature."
+	}
+	"TF_SCOUT_KILL_STUNNED_Title"
+	{
+		"nl"	"Gevoelloos"
+	}
+	"TF_SCOUT_KILL_STUNNED_Desc"
+	{
+		"nl"	"Dood 50 vijanden terwijl ze verdoofd zijn."
+	}
+	"TF_SCOUT_STUN_INTO_TRAIN_Title"
+	{
+		"nl"	"Vuil spel"
+	}
+	"TF_SCOUT_STUN_INTO_TRAIN_Desc"
+	{
+		"nl"	"Veroorzaak een omgevingsdood door een vijand te verdoven."
+	}
+	"TF_SCOUT_STUN_UBER_ENEMIES_Title"
+	{
+		"nl"	"Prikje voor de pijn"
+	}
+	"TF_SCOUT_STUN_UBER_ENEMIES_Desc"
+	{
+		"nl"	"Verdoof 3 Medics die op het punt staan een überlading in te zetten."
+	}
+	"TF_SCOUT_STUN_CAPPING_ENEMIES_Title"
+	{
+		"nl"	"Halt!"
+	}
+	"TF_SCOUT_STUN_CAPPING_ENEMIES_Desc"
+	{
+		"nl"	"Verdoof 50 vijanden terwijl ze een controlepost innemen of de kar duwen."
+	}
+	"TF_SCOUT_MAX_STUNS_Title"
+	{
+		"nl"	"Uitstel is geen afstel"
+	}
+	"TF_SCOUT_MAX_STUNS_Desc"
+	{
+		"nl"	"Verdoof een vijand voor de langst mogelijke tijdsduur door hem te raken met een langeafstandsbal."
+	}
+	"TF_SCOUT_STUN_SCOUT_WITH_THEIR_BALL_Title"
+	{
+		"nl"	"Koekje van eigen deeg"
+	}
+	"TF_SCOUT_STUN_SCOUT_WITH_THEIR_BALL_Desc"
+	{
+		"nl"	"Verdoof een Scout met zijn eigen bal."
+	}
+	"TF_SCOUT_KILL_IN_DODGE_COOLDOWN_Title"
+	{
+		"nl"	"Slakkenmepper"
+	}
+	"TF_SCOUT_KILL_IN_DODGE_COOLDOWN_Desc"
+	{
+		"nl"	"Dood een Scout terwijl hij nog in vertraagde toestand verkeert na het ontwijken."
+	}
+	"TF_SCOUT_KILL_FROM_BEHIND_Title"
+	{
+		"nl"	"In slaap sussen"
+	}
+	"TF_SCOUT_KILL_FROM_BEHIND_Desc"
+	{
+		"nl"	"Dood 50 vijanden van achteren met de Force-A-Nature."
+	}
+	"TF_SCOUT_CAPTURE_LAST_POINT_Title"
+	{
+		"nl"	"Hekkensluiter"
+	}
+	"TF_SCOUT_CAPTURE_LAST_POINT_Desc"
+	{
+		"nl"	"Verover de laatste post op de kaart met controleposten."
+	}
+	"TF_SCOUT_CAPTURE_THREE_POINTS_Title"
+	{
+		"nl"	"Drie-in-één"
+	}
+	"TF_SCOUT_CAPTURE_THREE_POINTS_Desc"
+	{
+		"nl"	"Verover achter elkaar drie veroveringsposten in één leven."
+	}
+	"TF_SCOUT_FAST_CAP_Title"
+	{
+		"nl"	"Huisje pikken"
+	}
+	"TF_SCOUT_FAST_CAP_Desc"
+	{
+		"nl"	"Begin met de verovering van een post binnen een seconde nadat deze beschikbaar is geworden."
+	}
+	"TF_SCOUT_START_AND_FINISH_CAP_Title"
+	{
+		"nl"	"Geen half werk"
+	}
+	"TF_SCOUT_START_AND_FINISH_CAP_Desc"
+	{
+		"nl"	"Start 10 veroveringen van controleposten en voltooi ze allemaal."
+	}
+	"TF_SCOUT_BLOCK_CAPS_Title"
+	{
+		"nl"	"Steek er een stokje voor"
+	}
+	"TF_SCOUT_BLOCK_CAPS_Desc"
+	{
+		"nl"	"Blokkeer 50 veroveringen van controleposten."
+	}
+	"TF_SCOUT_CARRIER_KILL_CARRIER_Title"
+	{
+		"nl"	"Gegevensuitwisseling"
+	}
+	"TF_SCOUT_CARRIER_KILL_CARRIER_Desc"
+	{
+		"nl"	"Dood een vijand die jouw inlichtingen heeft, terwijl jij zelf de inlichtingen van de vijand hebt."
+	}
+	"TF_SCOUT_CAP_FLAG_WITHOUT_ATTACKING_Title"
+	{
+		"nl"	"Vinger van de trekker"
+	}
+	"TF_SCOUT_CAP_FLAG_WITHOUT_ATTACKING_Desc"
+	{
+		"nl"	"Steel en verover de vijandelijk inlichtingen zonder te schieten."
+	}
+	"TF_SCOUT_LONG_DISTANCE_RUNNER_Title"
+	{
+		"nl"	"Kampioensrace"
+	}
+	"TF_SCOUT_LONG_DISTANCE_RUNNER_Desc"
+	{
+		"nl"	"Ren 25 kilometer."
+	}
+	"TF_SCOUT_TAUNT_KILL_Title"
+	{
+		"nl"	"Megameppen"
+	}
+	"TF_SCOUT_TAUNT_KILL_Desc"
+	{
+		"nl"	"Sla een vijand 25 meter ver."
+	}
+	"TF_SNIPER_JARATE_DOMINATED_Title"
+	{
+		"nl"	"De wraak is nat"
+	}
+	"TF_SNIPER_JARATE_DOMINATED_Desc"
+	{
+		"nl"	"Laat een vijand die door jou wordt overheerst je beste jaratekunsten zien."
+	}
+	"TF_SNIPER_FREEZECAM_HAT_Title"
+	{
+		"nl"	"Etiquette"
+	}
+	"TF_SNIPER_FREEZECAM_HAT_Desc"
+	{
+		"nl"	"Laat je vijand een freezecam-afbeelding zien waarop jij je hoed afneemt."
+	}
+	"TF_SNIPER_RIFLE_NO_MISSING_Title"
+	{
+		"nl"	"Drie op een rij"
+	}
+	"TF_SNIPER_RIFLE_NO_MISSING_Desc"
+	{
+		"nl"	"Dood 3 mensen met een snipergeweer zonder een schot te missen."
+	}
+	"TF_SNIPER_CAPTURE_FLAG_Title"
+	{
+		"nl"	"Doelbewust op pad"
+	}
+	"TF_SNIPER_CAPTURE_FLAG_Desc"
+	{
+		"nl"	"Verover de vlag in CTF."
+	}
+	"TF_SNIPER_KILL_GRIND_Title"
+	{
+		"nl"	"Dood iedereen die op je pad komt"
+	}
+	"TF_SNIPER_KILL_GRIND_Desc"
+	{
+		"nl"	"Dood 1000 vijanden."
+	}
+	"TF_SNIPER_KILL_WEAPONS_Title"
+	{
+		"nl"	"Driemaal is scheepsrecht"
+	}
+	"TF_SNIPER_KILL_WEAPONS_Desc"
+	{
+		"nl"	"Dood in één ronde vijanden met 3 verschillende wapens."
+	}
+	"TF_SNIPER_HEADSHOT_SNIPERS_Title"
+	{
+		"nl"	"Op de kop"
+	}
+	"TF_SNIPER_HEADSHOT_SNIPERS_Desc"
+	{
+		"nl"	"Schiet 10 vijandelijke Snipers door het hoofd."
+	}
+	"TF_SNIPER_DESTROY_SENTRYGUNS_Title"
+	{
+		"nl"	"Gede-sentry-liseerd"
+	}
+	"TF_SNIPER_DESTROY_SENTRYGUNS_Desc"
+	{
+		"nl"	"Vernietig 3 sentryguns van Engineers."
+	}
+	"TF_SNIPER_KILL_INVIS_SPY_Title"
+	{
+		"nl"	"Onzichtbaar schot"
+	}
+	"TF_SNIPER_KILL_INVIS_SPY_Desc"
+	{
+		"nl"	"Dood een volledig onzichtbare Spy met één schot."
+	}
+	"TF_SNIPER_KILL_MIDAIR_SCOUT_Title"
+	{
+		"nl"	"Uit de lucht"
+	}
+	"TF_SNIPER_KILL_MIDAIR_SCOUT_Desc"
+	{
+		"nl"	"Dood een Scout in de lucht met je snipergeweer of de Huntsman."
+	}
+	"TF_SNIPER_FREEZECAM_WAVE_Title"
+	{
+		"nl"	"De laatste groet"
+	}
+	"TF_SNIPER_FREEZECAM_WAVE_Desc"
+	{
+		"nl"	"Laat je vijand een freezecam-afbeelding zien waarop jij naar hen zwaait."
+	}
+	"TF_SNIPER_DOMINATE_SNIPER_Title"
+	{
+		"nl"	"Australische regels"
+	}
+	"TF_SNIPER_DOMINATE_SNIPER_Desc"
+	{
+		"nl"	"Overheers een vijandelijke Sniper."
+	}
+	"TF_SNIPER_KILL_SPIES_MELEE_Title"
+	{
+		"nl"	"Steek hem erin"
+	}
+	"TF_SNIPER_KILL_SPIES_MELEE_Desc"
+	{
+		"nl"	"Dood 10 Spy's met je Kukri-mes."
+	}
+	"TF_SNIPER_HEADSHOT_DEMOMAN_Title"
+	{
+		"nl"	"Schot in de roos"
+	}
+	"TF_SNIPER_HEADSHOT_DEMOMAN_Desc"
+	{
+		"nl"	"Schiet een vijandelijke Demoman door het hoofd."
+	}
+	"TF_SNIPER_KILL_RJER_Title"
+	{
+		"nl"	"Spring maar sukkel"
+	}
+	"TF_SNIPER_KILL_RJER_Desc"
+	{
+		"nl"	"Dood een vijand tijdens een raket- of granaatsprong in de lucht met je snipergeweer of de Huntsman."
+	}
+	"TF_SNIPER_KILL_OBJECTIVES_Title"
+	{
+		"nl"	"Doel gemist"
+	}
+	"TF_SNIPER_KILL_OBJECTIVES_Desc"
+	{
+		"nl"	"Dood in één leven 3 vijanden die bezig zijn een doel te bereiken."
+	}
+	"TF_SNIPER_KILL_UNSCOPED_Title"
+	{
+		"nl"	"Op je gevoel af"
+	}
+	"TF_SNIPER_KILL_UNSCOPED_Desc"
+	{
+		"nl"	"Dood 5 mensen met je snipergeweer zonder het vizier te gebruiken."
+	}
+	"TF_SNIPER_KILL_CHARGED_MEDIC_Title"
+	{
+		"nl"	"Überectomie"
+	}
+	"TF_SNIPER_KILL_CHARGED_MEDIC_Desc"
+	{
+		"nl"	"Dood een Medic die op het punt staan een überlading in te zetten."
+	}
+	"TF_SNIPER_GET_BACKSTABBED_Title"
+	{
+		"nl"	"Troostprijs"
+	}
+	"TF_SNIPER_GET_BACKSTABBED_Desc"
+	{
+		"nl"	"Laat je 50 keer in de rug steken."
+	}
+	"TF_SNIPER_KILL_AT_ROUNDSTART_Title"
+	{
+		"nl"	"Vijand aan de poort"
+	}
+	"TF_SNIPER_KILL_AT_ROUNDSTART_Desc"
+	{
+		"nl"	"Dood een tegenstander in de eerste seconde van een ronde."
+	}
+	"TF_SNIPER_HEADSHOT_POST_INVULN_Title"
+	{
+		"nl"	"Afscheidsschot"
+	}
+	"TF_SNIPER_HEADSHOT_POST_INVULN_Desc"
+	{
+		"nl"	"Schiet een tegenstander door het hoofd op het moment dat zijn onkwetsbaarheid is verlopen."
+	}
+	"TF_SNIPER_TOP_SCOREBOARD_GRIND_Title"
+	{
+		"nl"	"Glanzende carrière"
+	}
+	"TF_SNIPER_TOP_SCOREBOARD_GRIND_Desc"
+	{
+		"nl"	"Haal 10 keer de hoogste score in teams van 6 of meer spelers."
+	}
+	"TF_SNIPER_KILL_FAILED_SPY_Title"
+	{
+		"nl"	"Shockbehandeling"
+	}
+	"TF_SNIPER_KILL_FAILED_SPY_Desc"
+	{
+		"nl"	"Dood een spion waarvan de ruggesteek werd geblokkeerd door je rugschild."
+	}
+	"TF_SNIPER_JARATE_GROUP_Title"
+	{
+		"nl"	"Bommetje"
+	}
+	"TF_SNIPER_JARATE_GROUP_Desc"
+	{
+		"nl"	"Jarate 4 tegenstanders met één worp."
+	}
+	"TF_SNIPER_JARATE_MEDIC_PAIR_Title"
+	{
+		"nl"	"Regenachtige parade"
+	}
+	"TF_SNIPER_JARATE_MEDIC_PAIR_Desc"
+	{
+		"nl"	"Jarate een vijand en de Medic die hem komt genezen."
+	}
+	"TF_SNIPER_JARATE_REVEAL_SPY_Title"
+	{
+		"nl"	"Dekseltje eraf"
+	}
+	"TF_SNIPER_JARATE_REVEAL_SPY_Desc"
+	{
+		"nl"	"Gebruik jarate om een vermomde Spy uit zijn vermomming te toveren."
+	}
+	"TF_SNIPER_JARATE_EXTINGUISH_Title"
+	{
+		"nl"	"Vriendschap is goud"
+	}
+	"TF_SNIPER_JARATE_EXTINGUISH_Desc"
+	{
+		"nl"	"Blus een brandende teamgenoot met jarate."
+	}
+	"TF_SNIPER_BOW_PIN_HEAVY_Title"
+	{
+		"nl"	"William Tell Overkill"
+	}
+	"TF_SNIPER_BOW_PIN_HEAVY_Desc"
+	{
+		"nl"	"Spijker een vijandelijke Heavy met zijn hoofd aan de muur."
+	}
+	"TF_SNIPER_BOW_KILL_MEDIC_PAIR_Title"
+	{
+		"nl"	"Pijn en boog"
+	}
+	"TF_SNIPER_BOW_KILL_MEDIC_PAIR_Desc"
+	{
+		"nl"	"Dood een koppel van Heavy en Medic met de boog."
+	}
+	"TF_SNIPER_BOW_KILL_FLAGCARRIER_Title"
+	{
+		"nl"	"Robbin’ Hood"
+	}
+	"TF_SNIPER_BOW_KILL_FLAGCARRIER_Desc"
+	{
+		"nl"	"Dood een vijand die met jouw inlichtingen rondloopt met één pijl."
+	}
+	"TF_SNIPER_BOW_PINCUSHION_Title"
+	{
+		"nl"	"Driedubbele treffer"
+	}
+	"TF_SNIPER_BOW_PINCUSHION_Desc"
+	{
+		"nl"	"Raak een vijand met 3 pijlen zonder hem te doden."
+	}
+	"TF_SNIPER_JARATE_ASSISTS_Title"
+	{
+		"nl"	"Topassistent"
+	}
+	"TF_SNIPER_JARATE_ASSISTS_Desc"
+	{
+		"nl"	"Scoor 5 assists met jarate in één ronde."
+	}
+	"TF_SNIPER_JARATE_KILL_MELEE_Title"
+	{
+		"nl"	"Jarateklap"
+	}
+	"TF_SNIPER_JARATE_KILL_MELEE_Desc"
+	{
+		"nl"	"Jarate 3 vijanden en dood ze met je Kukri-mes."
+	}
+	"TF_SNIPER_TAUNT_KILL_Title"
+	{
+		"nl"	"Te grazen genomen"
+	}
+	"TF_SNIPER_TAUNT_KILL_Desc"
+	{
+		"nl"	"Steek een vijand met een pijl."
+	}
+	"TF_SNIPER_BOW_KILL_WHILEDEAD_Title"
+	{
+		"nl"	"Dooddoener"
+	}
+	"TF_SNIPER_BOW_KILL_WHILEDEAD_Desc"
+	{
+		"nl"	"Dood een vijand met een pijl terwijl je dood bent."
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS1_Title"
+	{
+		"nl"	"Sniper-mijlpaal 1"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS1_Desc"
+	{
+		"nl"	"Behaal 5 prestaties in het Sniper pack."
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS2_Title"
+	{
+		"nl"	"Sniper-mijlpaal 2"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS2_Desc"
+	{
+		"nl"	"Behaal 11 prestaties in het Sniper pack."
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS3_Title"
+	{
+		"nl"	"Sniper-mijlpaal 3"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS3_Desc"
+	{
+		"nl"	"Behaal 17 prestaties in het Sniper pack."
+	}
+	"TF_SPY_BACKSTAB_SNIPERS_Title"
+	{
+		"nl"	"Drie keer door"
+	}
+	"TF_SPY_BACKSTAB_SNIPERS_Desc"
+	{
+		"nl"	"Steek 3 Snipers in de rug in één leven."
+	}
+	"TF_SPY_FREEZECAM_FLICK_Title"
+	{
+		"nl"	"Prachtig schouwspel"
+	}
+	"TF_SPY_FREEZECAM_FLICK_Desc"
+	{
+		"nl"	"Laat je vijand een freezecam-afbeelding zien waarop jij een sigaret op zijn lijk schiet."
+	}
+	"TF_SPY_BACKSTAB_DISGUISED_SPY_Title"
+	{
+		"nl"	"Spionage in het kwadraat"
+	}
+	"TF_SPY_BACKSTAB_DISGUISED_SPY_Desc"
+	{
+		"nl"	"Steek een vermomde Spy in de rug."
+	}
+	"TF_SPY_BACKSTAB_DISGUISE_TARGET_Title"
+	{
+		"nl"	"Identiteitsdief"
+	}
+	"TF_SPY_BACKSTAB_DISGUISE_TARGET_Desc"
+	{
+		"nl"	"Steek de vijand als wie jij je momenteel hebt vermomd in de rug."
+	}
+	"TF_SPY_BACKSTAB_MEDIC_HEALING_YOU_Title"
+	{
+		"nl"	"Hallo, ik ben een Spy"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_HEALING_YOU_Desc"
+	{
+		"nl"	"Steek een Medic in de rug die jou in de afgelopen 5 seconden heeft genezen."
+	}
+	"TF_SPY_BACKSTAB_ENGY_SAP_BUILDING_Title"
+	{
+		"nl"	"De man met de kapotte wapens"
+	}
+	"TF_SPY_BACKSTAB_ENGY_SAP_BUILDING_Desc"
+	{
+		"nl"	"Steek een Engineer in de rug en vernietig binnen 10 seconden 3 van zijn bouwsels."
+	}
+	"TF_SPY_SAP_BUILDING_BACKSTAB_ENGY_Title"
+	{
+		"nl"	"Vernietigingscampagne"
+	}
+	"TF_SPY_SAP_BUILDING_BACKSTAB_ENGY_Desc"
+	{
+		"nl"	"Vernietig het bouwsel van een vijand en steek binnen 5 seconden de Engineer neer die het heeft gemaakt."
+	}
+	"TF_SPY_BACKSTAB_MEDIC_PAIR_Title"
+	{
+		"nl"	"Schuif eens op!"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_PAIR_Desc"
+	{
+		"nl"	"Steek een vijand en de Medic die hem komt genezen binnen 10 seconden na elkaar in de rug."
+	}
+	"TF_SPY_BACKSTAB_FRIENDS_Title"
+	{
+		"nl"	"Agent Provocateur"
+	}
+	"TF_SPY_BACKSTAB_FRIENDS_Desc"
+	{
+		"nl"	"Steek je vrienden uit de Steam Community 10 keer."
+	}
+	"TF_SPY_DOMINATE_SNIPER_Title"
+	{
+		"nl"	"Melbourne superieur"
+	}
+	"TF_SPY_DOMINATE_SNIPER_Desc"
+	{
+		"nl"	"Overheers een Sniper."
+	}
+	"TF_SPY_BUMP_CLOAKED_SPY_Title"
+	{
+		"nl"	"Spionnenonderonsje"
+	}
+	"TF_SPY_BUMP_CLOAKED_SPY_Desc"
+	{
+		"nl"	"Vermom jezelf en loop tegen een vijandelijke vermomde Spy op."
+	}
+	"TF_SPY_KILL_SPY_WITH_KNIFE_Title"
+	{
+		"nl"	"Superscherp"
+	}
+	"TF_SPY_KILL_SPY_WITH_KNIFE_Desc"
+	{
+		"nl"	"Dood een geweerzwaaiende Spy met je mes."
+	}
+	"TF_SPY_SURVIVE_BURNING_Title"
+	{
+		"nl"	"Brandgevaar"
+	}
+	"TF_SPY_SURVIVE_BURNING_Desc"
+	{
+		"nl"	"Overleef 30 seconden nadat je met vermomming en al in brand bent gestoken."
+	}
+	"TF_SPY_BREAK_SHIELD_KILL_SNIPER_Title"
+	{
+		"nl"	"Dood maar dan anders"
+	}
+	"TF_SPY_BREAK_SHIELD_KILL_SNIPER_Desc"
+	{
+		"nl"	"Dood een Sniper nadat je ruggesteek zijn rugschild heeft gebroken."
+	}
+	"TF_SPY_KILL_WORKING_ENGY_Title"
+	{
+		"nl"	"Bouw stilgelegd"
+	}
+	"TF_SPY_KILL_WORKING_ENGY_Desc"
+	{
+		"nl"	"Dood een Engineer die een sentrygun aan het maken is."
+	}
+	"TF_SPY_MEDIC_HEALING_KILL_ENEMY_Title"
+	{
+		"nl"	"Verzekeringsfraude"
+	}
+	"TF_SPY_MEDIC_HEALING_KILL_ENEMY_Desc"
+	{
+		"nl"	"Dood een vijand terwijl je door een vijandelijke Medic wordt genezen."
+	}
+	"TF_SPY_KILL_CP_DEFENDERS_Title"
+	{
+		"nl"	"Puntenkraker"
+	}
+	"TF_SPY_KILL_CP_DEFENDERS_Desc"
+	{
+		"nl"	"Dood 15 vijanden die op hun eigen controlepost staan."
+	}
+	"TF_SPY_BACKSTAB_DOMINATING_ENEMY_Title"
+	{
+		"nl"	"Doel met de grote D"
+	}
+	"TF_SPY_BACKSTAB_DOMINATING_ENEMY_Desc"
+	{
+		"nl"	"Steek een vijand in de rug die 3 of meer van je teamgenoten overheerst."
+	}
+	"TF_SPY_REVENGE_WITH_BACKSTAB_Title"
+	{
+		"nl"	"Zo zoet..."
+	}
+	"TF_SPY_REVENGE_WITH_BACKSTAB_Desc"
+	{
+		"nl"	"Dood iemand uit wraak met een ruggesteek."
+	}
+	"TF_SPY_KNIFE_KILL_WHILE_JARATED_Title"
+	{
+		"nl"	"Natte vingerwerk"
+	}
+	"TF_SPY_KNIFE_KILL_WHILE_JARATED_Desc"
+	{
+		"nl"	"Steek een vijand dood nadat hij is bestookt met jarate."
+	}
+	"TF_SPY_BACKSTAB_QUICK_KILLS_Title"
+	{
+		"nl"	"De klok tikt"
+	}
+	"TF_SPY_BACKSTAB_QUICK_KILLS_Desc"
+	{
+		"nl"	"Steek binnen 10 seconden 3 vijanden in de rug."
+	}
+	"TF_SPY_BACKSTAB_GRIND_Title"
+	{
+		"nl"	"Spymaster"
+	}
+	"TF_SPY_BACKSTAB_GRIND_Desc"
+	{
+		"nl"	"Steek 1000 vijanden in de rug."
+	}
+	"TF_SPY_SAPPER_GRIND_Title"
+	{
+		"nl"	"Sapkoning"
+	}
+	"TF_SPY_SAPPER_GRIND_Desc"
+	{
+		"nl"	"Vernietig 1000 bouwsels van Engineers met sappers."
+	}
+	"TF_SPY_SAPPER_TEAMWORK_Title"
+	{
+		"nl"	"Gezamenlijke operatie"
+	}
+	"TF_SPY_SAPPER_TEAMWORK_Desc"
+	{
+		"nl"	"Vernietig een sentrygun van de vijand binnen 3 seconden nadat een teamgenoot een andere heeft vernietigd."
+	}
+	"TF_SPY_BACKSTAB_MEDIC_CHARGED_Title"
+	{
+		"nl"	"Dr. Nooooo"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_CHARGED_Desc"
+	{
+		"nl"	"Steek een Medic in de rug die op het punt staan een überlading in te zetten."
+	}
+	"TF_SPY_BACKSTAB_CAPPING_ENEMIES_Title"
+	{
+		"nl"	"Is het veilig?"
+	}
+	"TF_SPY_BACKSTAB_CAPPING_ENEMIES_Desc"
+	{
+		"nl"	"Steek 50 vijanden in de rug die bezig zijn controleposten te veroveren."
+	}
+	"TF_SPY_BACKSTAB_ENEMY_SWITCH_PYRO_Title"
+	{
+		"nl"	"Mes en vuur"
+	}
+	"TF_SPY_BACKSTAB_ENEMY_SWITCH_PYRO_Desc"
+	{
+		"nl"	"Steek een vijand in de rug die vervolgens als Pyro terugkomt voordat hij respawnt."
+	}
+	"TF_SPY_AMBASSADOR_GRIND_Title"
+	{
+		"nl"	"Diplomatie"
+	}
+	"TF_SPY_AMBASSADOR_GRIND_Desc"
+	{
+		"nl"	"Dood 50 vijanden met de Ambassador."
+	}
+	"TF_SPY_AMBASSADOR_SNIPER_GRIND_Title"
+	{
+		"nl"	"Schedelregen"
+	}
+	"TF_SPY_AMBASSADOR_SNIPER_GRIND_Desc"
+	{
+		"nl"	"Schiet 20 Snipers in het hoofd met de Ambassador."
+	}
+	"TF_SPY_FEIGN_DEATH_KILL_Title"
+	{
+		"nl"	"Het is maar schijn"
+	}
+	"TF_SPY_FEIGN_DEATH_KILL_Desc"
+	{
+		"nl"	"Dood een vijand die er in de laatste 20 seconden voor heeft gezorgd dat je nepdood was."
+	}
+	"TF_SPY_AMBASSADOR_SCOUT_GRIND_Title"
+	{
+		"nl"	"En wie is er nu de baas?"
+	}
+	"TF_SPY_AMBASSADOR_SCOUT_GRIND_Desc"
+	{
+		"nl"	"Schiet 3 Scouts door het hoofd met de Ambassador."
+	}
+	"TF_SPY_CAMP_POSITION_Title"
+	{
+		"nl"	"Diep undercover"
+	}
+	"TF_SPY_CAMP_POSITION_Desc"
+	{
+		"nl"	"Gebruik de vermomming en dolk om in één leven dezelfde vijand drie keer en in hetzelfde gebied te doden."
+	}
+	"TF_SPY_ACHIEVE_PROGRESS1_Title"
+	{
+		"nl"	"Spy-mijlpaal 1"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS1_Desc"
+	{
+		"nl"	"Behaal 5 prestaties in het Spy pack."
+	}
+	"TF_SPY_ACHIEVE_PROGRESS2_Title"
+	{
+		"nl"	"Spy-mijlpaal 2"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS2_Desc"
+	{
+		"nl"	"Behaal 11 prestaties in het Spy pack."
+	}
+	"TF_SPY_ACHIEVE_PROGRESS3_Title"
+	{
+		"nl"	"Spy-mijlpaal 3"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS3_Desc"
+	{
+		"nl"	"Behaal 17 prestaties in het Spy pack."
+	}
+	"TF_HALLOWEEN_COLLECT_PUMPKINS_Title"
+	{
+		"nl"	"Snoeppatholoog"
+	}
+	"TF_HALLOWEEN_COLLECT_PUMPKINS_Desc"
+	{
+		"nl"	"Verzamel 20 Halloween-pompoenen bij dode spelers om een hoofddeksel vrij te spelen."
+	}
+	"TF_HALLOWEEN_DOMINATE_FOR_HAT_Title"
+	{
+		"nl"	"Grijp de gruwelijke gibus"
+	}
+	"TF_HALLOWEEN_DOMINATE_FOR_HAT_Desc"
+	{
+		"nl"	"Overheers een speler die de gruwelijke gibus draagt om je eigen gibus te verdienen."
+	}
+	"TF_HALLOWEEN_KILL_SCARED_PLAYER_Title"
+	{
+		"nl"	"Verstijfd van angst"
+	}
+	"TF_HALLOWEEN_KILL_SCARED_PLAYER_Desc"
+	{
+		"nl"	"Dood een speler die verstijfd is van angst door het spook uit KOTH Harvest."
+	}
+	"TF_HALLOWEEN_PUMPKIN_KILL_Title"
+	{
+		"nl"	"Pompoenlantaarnaanval"
+	}
+	"TF_HALLOWEEN_PUMPKIN_KILL_Desc"
+	{
+		"nl"	"Dood 5 spelers door pompoenbommen bij hen in de buurt te laten ontploffen."
+	}
+	"TF_HALLOWEEN_DISGUISED_SPY_KILL_Title"
+	{
+		"nl"	"Verkleedpartijtje"
+	}
+	"TF_HALLOWEEN_DISGUISED_SPY_KILL_Desc"
+	{
+		"nl"	"Dood een Spy die vermomd is als iemand van jouw huidige klasse."
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS1_Title"
+	{
+		"nl"	"Soldier-mijlpaal 1"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS1_Desc"
+	{
+		"nl"	"Behaal 5 prestaties in het Soldier pack."
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS2_Title"
+	{
+		"nl"	"Soldier-mijlpaal 2"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS2_Desc"
+	{
+		"nl"	"Behaal 11 prestaties in het Soldier pack."
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS3_Title"
+	{
+		"nl"	"Soldier-mijlpaal 3"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS3_Desc"
+	{
+		"nl"	"Behaal 17 prestaties in het Soldier pack."
+	}
+	"TF_SOLDIER_KILL_GROUP_WITH_CROCKET_Title"
+	{
+		"nl"	"Driedubbele schade"
+	}
+	"TF_SOLDIER_KILL_GROUP_WITH_CROCKET_Desc"
+	{
+		"nl"	"Dood 3 vijanden met één voltreffer van een raket."
+	}
+	"TF_SOLDIER_KILL_TWO_DURING_ROCKET_JUMP_Title"
+	{
+		"nl"	"Dood van boven"
+	}
+	"TF_SOLDIER_KILL_TWO_DURING_ROCKET_JUMP_Desc"
+	{
+		"nl"	"Maak een raketsprong en dood 2 vijanden voordat je neerkomt."
+	}
+	"TF_SOLDIER_THREE_DOMINATIONS_Title"
+	{
+		"nl"	"Overheerser"
+	}
+	"TF_SOLDIER_THREE_DOMINATIONS_Desc"
+	{
+		"nl"	"Behaal 3 overheersingen in één leven."
+	}
+	"TF_SOLDIER_DEFEND_MEDIC_Title"
+	{
+		"nl"	"Misdaad en straf"
+	}
+	"TF_SOLDIER_DEFEND_MEDIC_Desc"
+	{
+		"nl"	"Dood in één leven 3 vijanden die een Medic hebben verwond die jou aan het genezen is."
+	}
+	"TF_SOLDIER_KILL_TAUNT_Title"
+	{
+		"nl"	"Vleugje nederlaag"
+	}
+	"TF_SOLDIER_KILL_TAUNT_Desc"
+	{
+		"nl"	"Gebruik een granaat om een speler te doden met een bespotting."
+	}
+	"TF_SOLDIER_DESTROY_SENTRY_OUT_OF_RANGE_Title"
+	{
+		"nl"	"Kanongekletter"
+	}
+	"TF_SOLDIER_DESTROY_SENTRY_OUT_OF_RANGE_Desc"
+	{
+		"nl"	"Vernietig 5 sentry's van Engineers terwijl je buiten hun bereik staat."
+	}
+	"TF_SOLDIER_KILL_SNIPER_WHILE_DEAD_Title"
+	{
+		"nl"	"Volledige vernietiging verzekerd"
+	}
+	"TF_SOLDIER_KILL_SNIPER_WHILE_DEAD_Desc"
+	{
+		"nl"	"Dood een vijandelijke Sniper met een raket nadat hij jou gedood heeft."
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_TARGET_WHILE_AIRBORNE_Title"
+	{
+		"nl"	"Vleugels der overwinning"
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_TARGET_WHILE_AIRBORNE_Desc"
+	{
+		"nl"	"Dood een vijandelijke Soldier terwijl jij en je doelwit zich in de lucht bevinden."
+	}
+	"TF_SOLDIER_KILL_ENGY_Title"
+	{
+		"nl"	"Engineer, maar niet lang meer"
+	}
+	"TF_SOLDIER_KILL_ENGY_Desc"
+	{
+		"nl"	"Dood een Engineer die zijn sentrygun repareert terwijl hij door vijanden wordt beschoten."
+	}
+	"TF_SOLDIER_NEMESIS_SHOVEL_KILL_Title"
+	{
+		"nl"	"Loopgravenoorlog"
+	}
+	"TF_SOLDIER_NEMESIS_SHOVEL_KILL_Desc"
+	{
+		"nl"	"Dood je wraaknemer met een spade."
+	}
+	"TF_SOLDIER_DESTROY_STICKIES_Title"
+	{
+		"nl"	"Bommenopruimer"
+	}
+	"TF_SOLDIER_DESTROY_STICKIES_Desc"
+	{
+		"nl"	"Vernietig 10 kleefbommen met de shotgun in één leven."
+	}
+	"TF_SOLDIER_CROUCH_ROCKET_JUMP_Title"
+	{
+		"nl"	"Op eenzame hoogte"
+	}
+	"TF_SOLDIER_CROUCH_ROCKET_JUMP_Desc"
+	{
+		"nl"	"Bereik de hoogst mogelijke raketsprong door te hurken en te springen."
+	}
+	"TF_SOLDIER_BUFF_FRIENDS_Title"
+	{
+		"nl"	"Broederbanner"
+	}
+	"TF_SOLDIER_BUFF_FRIENDS_Desc"
+	{
+		"nl"	"Genees 5 Steamvrienden tegelijkertijd met de Buffbanner."
+	}
+	"TF_SOLDIER_KILL_TWENTY_FROM_ABOVE_Title"
+	{
+		"nl"	"Adelaar des doods"
+	}
+	"TF_SOLDIER_KILL_TWENTY_FROM_ABOVE_Desc"
+	{
+		"nl"	"Dood 20 vijanden van bovenaf."
+	}
+	"TF_SOLDIER_SHOOT_MULT_CRITS_Title"
+	{
+		"nl"	"Twee op een rij"
+	}
+	"TF_SOLDIER_SHOOT_MULT_CRITS_Desc"
+	{
+		"nl"	"Vuur twee niet-gebooste kritieke raketten achter elkaar af."
+	}
+	"TF_SOLDIER_KILL_DEFENSELESS_Title"
+	{
+		"nl"	"Geneefse contraventie"
+	}
+	"TF_SOLDIER_KILL_DEFENSELESS_Desc"
+	{
+		"nl"	"Dood 5 weerloze spelers nadat een ronde is geëindigd."
+	}
+	"TF_SOLDIER_KILL_ON_FIRE_Title"
+	{
+		"nl"	"Vlammenvreter"
+	}
+	"TF_SOLDIER_KILL_ON_FIRE_Desc"
+	{
+		"nl"	"Dood 20 vijanden terwijl je in brand staat."
+	}
+	"TF_SOLDIER_KILL_FIVE_STUNNED_Title"
+	{
+		"nl"	"Doofpotaffaire"
+	}
+	"TF_SOLDIER_KILL_FIVE_STUNNED_Desc"
+	{
+		"nl"	"Dood 5 verdoofde spelers."
+	}
+	"TF_SOLDIER_FREEZECAM_GIBS_Title"
+	{
+		"nl"	"Ingewandenwalhalla"
+	}
+	"TF_SOLDIER_FREEZECAM_GIBS_Desc"
+	{
+		"nl"	"Laat de vijand een freezecam-afbeelding zien waarop jij drie lichaamsdelen bespot."
+	}
+	"TF_SOLDIER_KILL_SPY_KILLER_Title"
+	{
+		"nl"	"Achterbaks"
+	}
+	"TF_SOLDIER_KILL_SPY_KILLER_Desc"
+	{
+		"nl"	"Dood een Spy die zojuist een teamgenoot in de rug heeft gestoken."
+	}
+	"TF_SOLDIER_DEFEND_CAP_THIRTY_TIMES_Title"
+	{
+		"nl"	"Herhalingsoefening"
+	}
+	"TF_SOLDIER_DEFEND_CAP_THIRTY_TIMES_Desc"
+	{
+		"nl"	"Verdedig 30 keer een veroveringspost."
+	}
+	"TF_SOLDIER_GIB_GRIND_Title"
+	{
+		"nl"	"Fragmentatiefeestje"
+	}
+	"TF_SOLDIER_GIB_GRIND_Desc"
+	{
+		"nl"	"Dood 1000 mensen met een bespotting."
+	}
+	"TF_SOLDIER_RJ_EQUALIZER_KILL_Title"
+	{
+		"nl"	"Lichte voetjes"
+	}
+	"TF_SOLDIER_RJ_EQUALIZER_KILL_Desc"
+	{
+		"nl"	"Dood tijdens een raketsprong een vijand met de Equalizer voordat je neerkomt."
+	}
+	"TF_SOLDIER_BUFF_TEAMMATES_Title"
+	{
+		"nl"	"De Boostie Boys"
+	}
+	"TF_SOLDIER_BUFF_TEAMMATES_Desc"
+	{
+		"nl"	"Genees 15 teamgenoten met de Buffbanner in één leven."
+	}
+	"TF_SOLDIER_KILL_DEMOMAN_GRIND_Title"
+	{
+		"nl"	"Dood de Demomannen"
+	}
+	"TF_SOLDIER_KILL_DEMOMAN_GRIND_Desc"
+	{
+		"nl"	"Dood 500 vijandelijke Demomannen."
+	}
+	"TF_SOLDIER_KILL_PYRO_Title"
+	{
+		"nl"	"Pyromanie"
+	}
+	"TF_SOLDIER_KILL_PYRO_Desc"
+	{
+		"nl"	"Dood een Pyro die in de laatste tien seconden één van je raketten uit de lucht heeft gehaald."
+	}
+	"TF_SOLDIER_EQUALIZER_STREAK_Title"
+	{
+		"nl"	"Geen tijd om te bloeden"
+	}
+	"TF_SOLDIER_EQUALIZER_STREAK_Desc"
+	{
+		"nl"	"Dood in één leven 3 spelers met de Equalizer zonder genezen te worden."
+	}
+	"TF_SOLDIER_KILL_WITH_EQUALIZER_WHILE_HURT_Title"
+	{
+		"nl"	"Bijna-doodervaring"
+	}
+	"TF_SOLDIER_KILL_WITH_EQUALIZER_WHILE_HURT_Desc"
+	{
+		"nl"	"Dood 20 vijanden met je Equalizer terwijl je minder dan 25 gezondheidspunten hebt."
+	}
+	"TF_SOLDIER_BOUNCE_THEN_SHOTGUN_Title"
+	{
+		"nl"	"Raketgebonden"
+	}
+	"TF_SOLDIER_BOUNCE_THEN_SHOTGUN_Desc"
+	{
+		"nl"	"Stuiter een tegenstander de lucht in met een raket en dood hem met de shotgun voordat hij neerkomt."
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_WITH_DIRECT_HIT_Title"
+	{
+		"nl"	"Dood van onderen"
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_WITH_DIRECT_HIT_Desc"
+	{
+		"nl"	"Dood 10 tegenstanders die in de lucht zijn met een directe voltreffer."
+	}
+	"TF_SOLDIER_FREEZECAM_TAUNT_Title"
+	{
+		"nl"	"Beelden spreken voor zich"
+	}
+	"TF_SOLDIER_FREEZECAM_TAUNT_Desc"
+	{
+		"nl"	"Laat je vijand een freezecam-afbeelding zien waarop je saluutschoten afvuurt."
+	}
+	"TF_SOLDIER_DUO_SOLDIER_KILLS_Title"
+	{
+		"nl"	"Samen staan we sterk"
+	}
+	"TF_SOLDIER_DUO_SOLDIER_KILLS_Desc"
+	{
+		"nl"	"Dood 10 vijanden terwijl een Soldier je helpt of jij een andere Soldier helpt."
+	}
+	"TF_SOLDIER_MVP_Title"
+	{
+		"nl"	"Eremedaille"
+	}
+	"TF_SOLDIER_MVP_Desc"
+	{
+		"nl"	"Voltooi 10 rondes als beste speler."
+	}
+	"TF_SOLDIER_RIDE_THE_CART_Title"
+	{
+		"nl"	"Rumoerige rit"
+	}
+	"TF_SOLDIER_RIDE_THE_CART_Desc"
+	{
+		"nl"	"Maak een ritje van 30 seconden op de wagen."
+	}
+	"TF_SOLDIER_ASSIST_MEDIC_UBER_Title"
+	{
+		"nl"	"S*M*A*S*H"
+	}
+	"TF_SOLDIER_ASSIST_MEDIC_UBER_Desc"
+	{
+		"nl"	"Help een Medic 5 vijanden op te blazen met één enkele überlading."
+	}
+	"TF_DEMOMAN_KILL_SOLDIER_GRIND_Title"
+	{
+		"nl"	"Kilt in Actie"
+	}
+	"TF_DEMOMAN_KILL_SOLDIER_GRIND_Desc"
+	{
+		"nl"	"Dood 500 vijandelijke Soldiers."
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_WITH_MEDIC_Title"
+	{
+		"nl"	"Deconstructivisme"
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_WITH_MEDIC_Desc"
+	{
+		"nl"	"Vernietig 5 bouwsels van vijandelijke Engineers tijdens één enkele überlading van een Medic."
+	}
+	"TF_DEMOMAN_DECAPITATE_CLOAKED_SPY_Title"
+	{
+		"nl"	"McHakblok"
+	}
+	"TF_DEMOMAN_DECAPITATE_CLOAKED_SPY_Desc"
+	{
+		"nl"	"Onthoofd een vermomde Spy."
+	}
+	"TF_DEMOMAN_KILL_X_WITH_DIRECTPIPE_Title"
+	{
+		"nl"	"MacDood"
+	}
+	"TF_DEMOMAN_KILL_X_WITH_DIRECTPIPE_Desc"
+	{
+		"nl"	"Dood 50 vijanden met voltreffers van de granaatwerper."
+	}
+	"TF_DEMOMAN_BOUNCE_AND_KILL_Title"
+	{
+		"nl"	"Luchtworp"
+	}
+	"TF_DEMOMAN_BOUNCE_AND_KILL_Desc"
+	{
+		"nl"	"Stuiter een vijand de lucht in en dood hem voordat hij neerkomt."
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_Title"
+	{
+		"nl"	"Brainspotting"
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_Desc"
+	{
+		"nl"	"Onthoofd 50 vijandelijke spelers."
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_FAST_Title"
+	{
+		"nl"	"Left 4 Heads"
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_FAST_Desc"
+	{
+		"nl"	"Onthoofd 4 spelers met maximaal 10 seconden tussen elke onthoofding."
+	}
+	"TF_DEMOMAN_DUO_DEMOMAN_KILLS_Title"
+	{
+		"nl"	"Ruiterlijk gespeeld!"
+	}
+	"TF_DEMOMAN_DUO_DEMOMAN_KILLS_Desc"
+	{
+		"nl"	"Dood 10 vijanden terwijl een Demoman je helpt of jij een andere Demoman helpt."
+	}
+	"TF_DEMOMAN_KILL_TWO_DURING_STICKYJUMP_Title"
+	{
+		"nl"	"Dubbele Scotch"
+	}
+	"TF_DEMOMAN_KILL_TWO_DURING_STICKYJUMP_Desc"
+	{
+		"nl"	"Dood 2 mensen met één kleefbomsprong."
+	}
+	"TF_DEMOMAN_KILL_PLAYER_AFTER_TP_Title"
+	{
+		"nl"	"Bommenwerper van Loch Ness"
+	}
+	"TF_DEMOMAN_KILL_PLAYER_AFTER_TP_Desc"
+	{
+		"nl"	"Dood een vijandelijke speler met kleefbommen binnen 5 seconden nadat hij is geteleporteerd."
+	}
+	"TF_DEMOMAN_DOMINATE_THREE_ENGINEERS_Title"
+	{
+		"nl"	"Driedubbele Scotch"
+	}
+	"TF_DEMOMAN_DOMINATE_THREE_ENGINEERS_Desc"
+	{
+		"nl"	"Overheers 3 Engineers."
+	}
+	"TF_DEMOMAN_KILL_BUILDING_DIRECT_HIT_Title"
+	{
+		"nl"	"Blind vuur"
+	}
+	"TF_DEMOMAN_KILL_BUILDING_DIRECT_HIT_Desc"
+	{
+		"nl"	"Vernietig met een voltreffer van je granaatwerper een bouwsel van een Engineer dat je niet kunt zien."
+	}
+	"TF_DEMOMAN_MELEE_KILL_WHILE_STICKYJUMPING_Title"
+	{
+		"nl"	"Een Schot in de roos"
+	}
+	"TF_DEMOMAN_MELEE_KILL_WHILE_STICKYJUMPING_Desc"
+	{
+		"nl"	"Dood een vijand met je slagwapen tijdens een kleefbomsprong."
+	}
+	"TF_DEMOMAN_KILL_ENGI_SENTRY_DISPENSER_Title"
+	{
+		"nl"	"Drieledige destructie"
+	}
+	"TF_DEMOMAN_KILL_ENGI_SENTRY_DISPENSER_Desc"
+	{
+		"nl"	"Blaas met één kleefbom een Engineer, zijn sentrygun en zijn dispenser op."
+	}
+	"TF_DEMOMAN_DECAPITATE_EQUALIZER_Title"
+	{
+		"nl"	"Kip zonder kop"
+	}
+	"TF_DEMOMAN_DECAPITATE_EQUALIZER_Desc"
+	{
+		"nl"	"Onthoofd een vijandelijke Soldier die met de Equalizer rondloopt."
+	}
+	"TF_DEMOMAN_DECAPITATE_NEMESIS_Title"
+	{
+		"nl"	"Er kan er maar één zijn"
+	}
+	"TF_DEMOMAN_DECAPITATE_NEMESIS_Desc"
+	{
+		"nl"	"Onthoofd je wraaknemer."
+	}
+	"TF_DEMOMAN_DAMAGE_GRIND_Title"
+	{
+		"nl"	"Vernielzucht"
+	}
+	"TF_DEMOMAN_DAMAGE_GRIND_Desc"
+	{
+		"nl"	"Behaal 1 miljoen punten aan totale ontploffingsschade."
+	}
+	"TF_DEMOMAN_KILL_X_CAPPING_ONEDET_Title"
+	{
+		"nl"	"Drie keer is scheepsrecht"
+	}
+	"TF_DEMOMAN_KILL_X_CAPPING_ONEDET_Desc"
+	{
+		"nl"	"Dood drie afzonderlijke keren met één enkele kleefbomexplosie 3 vijanden terwijl die bezig zijn met een verovering of een wagen voortduwen."
+	}
+	"TF_DEMOMAN_KILL_X_DEFENDING_Title"
+	{
+		"nl"	"Dode verdediger"
+	}
+	"TF_DEMOMAN_KILL_X_DEFENDING_Desc"
+	{
+		"nl"	"Dood 25 spelers die een controlepost of een kar verdedigen."
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_GRIND_Title"
+	{
+		"nl"	"Puinzooi"
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_GRIND_Desc"
+	{
+		"nl"	"Vernietig 50 gebouwen."
+	}
+	"TF_DEMOMAN_KILL_X_HEAVIES_FULLHP_ONEDET_Title"
+	{
+		"nl"	"Daar kleeft bloed aan"
+	}
+	"TF_DEMOMAN_KILL_X_HEAVIES_FULLHP_ONEDET_Desc"
+	{
+		"nl"	"Dood met één enkele kleefbomexplosie 5 Heavy's die volledige gezondheid hebben."
+	}
+	"TF_DEMOMAN_KILL_X_SCOUTS_PYROS_Title"
+	{
+		"nl"	"Granaatgeweld"
+	}
+	"TF_DEMOMAN_KILL_X_SCOUTS_PYROS_Desc"
+	{
+		"nl"	"Dood 25 Scouts en Pyro's met de granaatwerper."
+	}
+	"TF_DEMOMAN_TAUNT_KILL_Title"
+	{
+		"nl"	"Geen halve maatregelen"
+	}
+	"TF_DEMOMAN_TAUNT_KILL_Desc"
+	{
+		"nl"	"Slacht je vijanden af met de Eyelander."
+	}
+	"TF_DEMOMAN_CHARGE_KILL_Title"
+	{
+		"nl"	"Een appeltje schillen"
+	}
+	"TF_DEMOMAN_CHARGE_KILL_Desc"
+	{
+		"nl"	"Val aan en dood iemand met een dreun van je schild."
+	}
+	"TF_DEMOMAN_CRIT_SWORD_KILL_Title"
+	{
+		"nl"	"Een venijnig sneetje"
+	}
+	"TF_DEMOMAN_CRIT_SWORD_KILL_Desc"
+	{
+		"nl"	"Dood 5 vijandelijke spelers met een voltreffer van je Eyelander."
+	}
+	"TF_DEMOMAN_AIR_BURST_KILLS_Title"
+	{
+		"nl"	"Er hangt iets kleverigs in de lucht"
+	}
+	"TF_DEMOMAN_AIR_BURST_KILLS_Desc"
+	{
+		"nl"	"Dood 30 spelers met kleefbommen die in de lucht ontploffen."
+	}
+	"TF_DEMOMAN_STICKYJUMP_CAP_Title"
+	{
+		"nl"	"Spring naar de verovering"
+	}
+	"TF_DEMOMAN_STICKYJUMP_CAP_Desc"
+	{
+		"nl"	"Spring met een kleefbomsprong op een post en verover deze."
+	}
+	"TF_DEMOMAN_FREEZECAM_SMILE_Title"
+	{
+		"nl"	"Recht in het gezicht"
+	}
+	"TF_DEMOMAN_FREEZECAM_SMILE_Desc"
+	{
+		"nl"	"Laat een vijand een freezecam-afbeelding zien van je lachende gezicht."
+	}
+	"TF_DEMOMAN_FREEZECAM_RUMP_Title"
+	{
+		"nl"	"Een bruin oogje"
+	}
+	"TF_DEMOMAN_FREEZECAM_RUMP_Desc"
+	{
+		"nl"	"Laat een vijand een freezecam-afbeelding zien waarop jij met je achterste schudt."
+	}
+	"TF_DEMOMAN_ENVIRONMENTAL_KILL_Title"
+	{
+		"nl"	"Plakkerige bedoening"
+	}
+	"TF_DEMOMAN_ENVIRONMENTAL_KILL_Desc"
+	{
+		"nl"	"Gebruik de kleefbommenwerper om een vijandelijke speler via omgevingsschade te doden."
+	}
+	"TF_DEMOMAN_DESTROY_X_STICKYBOMBS_Title"
+	{
+		"nl"	"Geen geplak"
+	}
+	"TF_DEMOMAN_DESTROY_X_STICKYBOMBS_Desc"
+	{
+		"nl"	"Vernietig 100 vijandelijke kleefbommen met de Scottish Resistance."
+	}
+	"TF_DEMOMAN_STICKJUMP_DISTANCE_Title"
+	{
+		"nl"	"Highland Fling"
+	}
+	"TF_DEMOMAN_STICKJUMP_DISTANCE_Desc"
+	{
+		"nl"	"Maak een hele verre kleefbomsprong..."
+	}
+	"TF_DEMOMAN_KILL3_WITH_DETONATION_Title"
+	{
+		"nl"	"Doedelpijp"
+	}
+	"TF_DEMOMAN_KILL3_WITH_DETONATION_Desc"
+	{
+		"nl"	"Dood minimaal drie spelers met één enkele kleefbomexplosie."
+	}
+	"TF_DEMOMAN_KILLXSAPPINGSPIES_Title"
+	{
+		"nl"	"Spybotage"
+	}
+	"TF_DEMOMAN_KILLXSAPPINGSPIES_Desc"
+	{
+		"nl"	"Dood 20 Spy's binnen 5 seconden nadat ze een van je gebouwen hebben gesaboteerd."
+	}
+	"TF_DEMOMAN_KILL3_WITH_PIPE_SETUPS_Title"
+	{
+		"nl"	"Kleffe bende"
+	}
+	"TF_DEMOMAN_KILL3_WITH_PIPE_SETUPS_Desc"
+	{
+		"nl"	"Dood met behulp van de Scottish Resistance drie spelers in aparte explosies zonder nieuwe kleefbommen te plaatsen."
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS1_Title"
+	{
+		"nl"	"Demoman-mijlpaal 1"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS1_Desc"
+	{
+		"nl"	"Behaal 5 prestaties in het Demoman pack."
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS2_Title"
+	{
+		"nl"	"Demoman-mijlpaal 2"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS2_Desc"
+	{
+		"nl"	"Behaal 11 prestaties in het Demoman pack."
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS3_Title"
+	{
+		"nl"	"Demoman-mijlpaal 3"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS3_Desc"
+	{
+		"nl"	"Behaal 17 prestaties in het Demoman pack."
+	}
+	"TF_SPY_TAUNT_KILL_Title"
+	{
+		"nl"	"Een gaatje hier en daar"
+	}
+	"TF_SPY_TAUNT_KILL_Desc"
+	{
+		"nl"	"Steek een vijand tijdens een portje schermen."
+	}
+	"TF_SPY_FAST_CAP_Title"
+	{
+		"nl"	"Per expresse"
+	}
+	"TF_SPY_FAST_CAP_Desc"
+	{
+		"nl"	"Begin met de verovering van een post binnen een seconde nadat deze beschikbaar is geworden."
+	}
+}

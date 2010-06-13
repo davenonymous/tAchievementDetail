@@ -1,0 +1,2611 @@
+"Phrases"
+{
+	"TF_GET_TURRETKILLS_Title"
+	{
+		"da"	"Robotskytte"
+	}
+	"TF_GET_TURRETKILLS_Desc"
+	{
+		"da"	"Akkumuler 10 robotgevær-drab med et enkelt robotgevær."
+	}
+	"TF_KILL_NEMESIS_Title"
+	{
+		"da"	"Nemesis"
+	}
+	"TF_KILL_NEMESIS_Desc"
+	{
+		"da"	"Opnå fem hævndrab."
+	}
+	"TF_GET_CONSECUTIVEKILLS_NODEATHS_Title"
+	{
+		"da"	"Vanskelig at dræbe"
+	}
+	"TF_GET_CONSECUTIVEKILLS_NODEATHS_Desc"
+	{
+		"da"	"Opnå fem drab på række uden at dø."
+	}
+	"TF_GET_HEALED_BYENEMY_Title"
+	{
+		"da"	"Forklædningens mester"
+	}
+	"TF_GET_HEALED_BYENEMY_Desc"
+	{
+		"da"	"Snyd en fjendtlig Medic til at helbrede dig."
+	}
+	"TF_GET_HEADSHOTS_Title"
+	{
+		"da"	"De små grå"
+	}
+	"TF_GET_HEADSHOTS_Desc"
+	{
+		"da"	"Opnå 25 hovedskud som skarpskytte."
+	}
+	"TF_PLAY_GAME_FRIENDSONLY_Title"
+	{
+		"da"	"Med den slags venner..."
+	}
+	"TF_PLAY_GAME_FRIENDSONLY_Desc"
+	{
+		"da"	"Deltag i et spil med 7 eller flere spillere fra din venneliste."
+	}
+	"TF_WIN_MULTIPLEGAMES_Title"
+	{
+		"da"	"Dynasti"
+	}
+	"TF_WIN_MULTIPLEGAMES_Desc"
+	{
+		"da"	"Vind 20 spil."
+	}
+	"TF_GET_MULTIPLEKILLS_Title"
+	{
+		"da"	"Hardcore"
+	}
+	"TF_GET_MULTIPLEKILLS_Desc"
+	{
+		"da"	"Opnå 1000 drab i alt."
+	}
+	"TF_WIN_2FORT_NOENEMYCAPS_Title"
+	{
+		"da"	"Kraftværksforsvar"
+	}
+	"TF_WIN_2FORT_NOENEMYCAPS_Desc"
+	{
+		"da"	"Vind 2Fort med en skudduel."
+	}
+	"TF_WIN_WELL_MINIMUMTIME_Title"
+	{
+		"da"	"Lynoffensiv"
+	}
+	"TF_WIN_WELL_MINIMUMTIME_Desc"
+	{
+		"da"	"Vind Well på 5 minutter eller hurtigere."
+	}
+	"TF_WIN_HYDRO_NOENEMYCAPS_Title"
+	{
+		"da"	"Ubønhørlig offensiv"
+	}
+	"TF_WIN_HYDRO_NOENEMYCAPS_Desc"
+	{
+		"da"	"Vind Hydro uden at opgive en erobring."
+	}
+	"TF_WIN_DUSTBOWL_NOENEMYCAPS_Title"
+	{
+		"da"	"Uigennemtrængeligt forsvar"
+	}
+	"TF_WIN_DUSTBOWL_NOENEMYCAPS_Desc"
+	{
+		"da"	"Forsvar Dustbowl med succes uden at opgive en erobring."
+	}
+	"TF_WIN_GRAVELPIT_NOENEMYCAPS_Title"
+	{
+		"da"	"Umuligt forsvar"
+	}
+	"TF_WIN_GRAVELPIT_NOENEMYCAPS_Desc"
+	{
+		"da"	"Forsvar Gravel Pit med succes uden at opgive en erobring."
+	}
+	"TF_PLAY_GAME_EVERYCLASS_Title"
+	{
+		"da"	"Klassens bedste"
+	}
+	"TF_PLAY_GAME_EVERYCLASS_Desc"
+	{
+		"da"	"Spil en komplet runde i hver klasse."
+	}
+	"TF_PLAY_GAME_EVERYMAP_Title"
+	{
+		"da"	"Verdensrejsende"
+	}
+	"TF_PLAY_GAME_EVERYMAP_Desc"
+	{
+		"da"	"Spil et komplet spil på 2Fort, Dustbowl, Granary, Gravel Pit, Hydro og Well (CP)."
+	}
+	"TF_GET_HEALPOINTS_Title"
+	{
+		"da"	"Holdlæge"
+	}
+	"TF_GET_HEALPOINTS_Desc"
+	{
+		"da"	"Opsaml 25000 helbredelsespoint som Medic."
+	}
+	"TF_BURN_PLAYERSINMINIMUMTIME_Title"
+	{
+		"da"	"Flammekaster"
+	}
+	"TF_BURN_PLAYERSINMINIMUMTIME_Desc"
+	{
+		"da"	"Sæt ild på fem fjender på 30 sekunder."
+	}
+	"TF_MEDIC_TOP_SCOREBOARD_Title"
+	{
+		"da"	"Forvold ikke skade i starten"
+	}
+	"TF_MEDIC_TOP_SCOREBOARD_Desc"
+	{
+		"da"	"Spil en hel runde uden at slå nogen fjender ihjel, og scor flest points på et hold med 6 eller flere spillere."
+	}
+	"TF_MEDIC_HEAL_UNDER_FIRE_Title"
+	{
+		"da"	"Firdobbelt omledning"
+	}
+	"TF_MEDIC_HEAL_UNDER_FIRE_Desc"
+	{
+		"da"	"Helbred en holdkammerat, der er under beskydning af 4 fjender på én gang."
+	}
+	"TF_MEDIC_SIMUL_CHARGE_Title"
+	{
+		"da"	"Gruppehelbred"
+	}
+	"TF_MEDIC_SIMUL_CHARGE_Desc"
+	{
+		"da"	"Arbejd med 2 andre Medics for at bruge 3 ÜberCharges på samme tid."
+	}
+	"TF_MEDIC_SETUP_CHARGE_Title"
+	{
+		"da"	"Operativ forberedelse"
+	}
+	"TF_MEDIC_SETUP_CHARGE_Desc"
+	{
+		"da"	"Hav en ÜberCharge klar, inden opsætningsfasen afslutter."
+	}
+	"TF_MEDIC_RAPID_CHARGE_Title"
+	{
+		"da"	"\"Trauma Queen\""
+	}
+	"TF_MEDIC_RAPID_CHARGE_Desc"
+	{
+		"da"	"Brug 3 ÜberCharges på under 5 minutter, og hjælp til med 5 drab i det pågældende tidsrum."
+	}
+	"TF_MEDIC_COUNTER_CHARGE_Title"
+	{
+		"da"	"Dobbelt blændeprøve"
+	}
+	"TF_MEDIC_COUNTER_CHARGE_Desc"
+	{
+		"da"	"Brug en ÜberCharge mindre end 8 sekunder efter, at en Medic-fjende i nærheden har brugt sin."
+	}
+	"TF_MEDIC_SWITCH_TO_MEDIC_Title"
+	{
+		"da"	"Leg doktor"
+	}
+	"TF_MEDIC_SWITCH_TO_MEDIC_Desc"
+	{
+		"da"	"I et hold uden Medics skal du være den første, der skifter til Medic, efter at en holdkammerat har råbt \"Medic!\", og helbrede 500 helbredspoint."
+	}
+	"TF_MEDIC_SAVE_TEAMMATE_Title"
+	{
+		"da"	"Visitation"
+	}
+	"TF_MEDIC_SAVE_TEAMMATE_Desc"
+	{
+		"da"	"Brug en ÜberCharge på en holdkammerat mindre end et sekund, inden at vedkommende bliver ramt af en alvorlig eksplosion."
+	}
+	"TF_MEDIC_CHARGE_BLOCKER_Title"
+	{
+		"da"	"Forebyggende medicin"
+	}
+	"TF_MEDIC_CHARGE_BLOCKER_Desc"
+	{
+		"da"	"Bloker, så fjenden ikke kan indtage et kontrolpunkt med en ÜberCharged holdkammerat."
+	}
+	"TF_MEDIC_ASSIST_MEDIC_Title"
+	{
+		"da"	"Konsultation"
+	}
+	"TF_MEDIC_ASSIST_MEDIC_Desc"
+	{
+		"da"	"Hjælp en Medic-kollega med at dræbe 5 fjender i et enkelt liv."
+	}
+	"TF_MEDIC_SYRINGE_SCOUTS_Title"
+	{
+		"da"	"Gør det ondt, når jeg gør dette?"
+	}
+	"TF_MEDIC_SYRINGE_SCOUTS_Desc"
+	{
+		"da"	"Dræb 50 spejdere med din kanylepistol."
+	}
+	"TF_MEDIC_BONESAW_MEDICS_Title"
+	{
+		"da"	"Peer-gennemlæsning"
+	}
+	"TF_MEDIC_BONESAW_MEDICS_Desc"
+	{
+		"da"	"Dræb 50 Medics med din knoglesav."
+	}
+	"TF_MEDIC_ASSIST_HEAVY_LONG_Title"
+	{
+		"da"	"\"Big Pharma\""
+	}
+	"TF_MEDIC_ASSIST_HEAVY_LONG_Desc"
+	{
+		"da"	"Hjælp en Heavy med at dræbe 20 fjender, hvor ingen af jer dør."
+	}
+	"TF_MEDIC_ASSIST_SCOUT_Title"
+	{
+		"da"	"Du vil mærke et lille stik"
+	}
+	"TF_MEDIC_ASSIST_SCOUT_Desc"
+	{
+		"da"	"Hjælp med at dræbe 3 fjender med en enkelt ÜberCharge på en spejder."
+	}
+	"TF_MEDIC_ASSIST_PYRO_Title"
+	{
+		"da"	"Autoklave"
+	}
+	"TF_MEDIC_ASSIST_PYRO_Desc"
+	{
+		"da"	"Hjælp med at dræbe 5 fjender med en enkelt ÜberCharge på en Pyro."
+	}
+	"TF_MEDIC_ASSIST_HEAVY_Title"
+	{
+		"da"	"Stump kvæstelse"
+	}
+	"TF_MEDIC_ASSIST_HEAVY_Desc"
+	{
+		"da"	"Hjælp med at slå 2 fjender ud med en enkelt ÜberCharge på en Heavy."
+	}
+	"TF_MEDIC_ASSIST_DEMOMAN_Title"
+	{
+		"da"	"Medicinsk gennembrud"
+	}
+	"TF_MEDIC_ASSIST_DEMOMAN_Desc"
+	{
+		"da"	"Hjælp med at dræbe 5 fjendtlige Engineer-bygninger med en enkelt ÜberCharge på en Demoman."
+	}
+	"TF_MEDIC_ASSIST_SOLDIER_Title"
+	{
+		"da"	"Hjælp til sprængning"
+	}
+	"TF_MEDIC_ASSIST_SOLDIER_Desc"
+	{
+		"da"	"Hjælp med at sprænge 5 fjender i luften med en enkelt ÜberCharge på en soldat."
+	}
+	"TF_MEDIC_HEAL_ENGINEER_Title"
+	{
+		"da"	"Jordmoderkrise"
+	}
+	"TF_MEDIC_HEAL_ENGINEER_Desc"
+	{
+		"da"	"Helbred en Engineer, mens han reparerer sit robotgevær, når det er under fjendtlig beskydning."
+	}
+	"TF_MEDIC_ASSIST_CAPTURER_Title"
+	{
+		"da"	"Ubi concordia, ibi victoria"
+	}
+	"TF_MEDIC_ASSIST_CAPTURER_Desc"
+	{
+		"da"	"Hjælp med at dræbe 5 fjender på en fjendtlig kontrolpost, i et enkelt liv."
+	}
+	"TF_MEDIC_HEAL_CALLERS_Title"
+	{
+		"da"	"Store runder"
+	}
+	"TF_MEDIC_HEAL_CALLERS_Desc"
+	{
+		"da"	"Helbred 200 holdkammerater, efter at de har råbt \"Medic!\"."
+	}
+	"TF_MEDIC_EXTINGUISH_TEAMMATES_Title"
+	{
+		"da"	"Helvedes medicin"
+	}
+	"TF_MEDIC_EXTINGUISH_TEAMMATES_Desc"
+	{
+		"da"	"Sluk 100 brændende holdkammerater."
+	}
+	"TF_MEDIC_ASSIST_VS_NEMESES_Title"
+	{
+		"da"	"Lægestøttet mord"
+	}
+	"TF_MEDIC_ASSIST_VS_NEMESES_Desc"
+	{
+		"da"	"Hjælp med at dræbe 20 nemesiser."
+	}
+	"TF_MEDIC_KILL_WHILE_CHARGED_Title"
+	{
+		"da"	"Placebovirkning"
+	}
+	"TF_MEDIC_KILL_WHILE_CHARGED_Desc"
+	{
+		"da"	"Dræb 5 fjender i et enkelt liv, mens du har din ÜberCharge parat, men ikke i brug."
+	}
+	"TF_MEDIC_BONESAW_NOMISSES_Title"
+	{
+		"da"	"Knoglesavere"
+	}
+	"TF_MEDIC_BONESAW_NOMISSES_Desc"
+	{
+		"da"	"Ram fjender med din knoglesav 5 gange i træk uden at dø eller ramme forbi."
+	}
+	"TF_MEDIC_HEAL_LARGE_Title"
+	{
+		"da"	"Reservelæge"
+	}
+	"TF_MEDIC_HEAL_LARGE_Desc"
+	{
+		"da"	"Akkumuler 7.000 helbredspoint i et enkelt liv."
+	}
+	"TF_MEDIC_HEAL_HUGE_Title"
+	{
+		"da"	"Specialist"
+	}
+	"TF_MEDIC_HEAL_HUGE_Desc"
+	{
+		"da"	"Akkumuler 10.000 helbredspoint i et enkelt liv."
+	}
+	"TF_MEDIC_HEAL_GRIND_Title"
+	{
+		"da"	"Militærleder"
+	}
+	"TF_MEDIC_HEAL_GRIND_Desc"
+	{
+		"da"	"Akkumuler en million helbredspoint."
+	}
+	"TF_MEDIC_KILL_HEALED_SPY_Title"
+	{
+		"da"	"Hyklerisk løfte"
+	}
+	"TF_MEDIC_KILL_HEALED_SPY_Desc"
+	{
+		"da"	"Dræb en fjendtlig spion, som du har behandlet."
+	}
+	"TF_MEDIC_SAVE_FALLING_TEAMMATE_Title"
+	{
+		"da"	"Lægelig indgriben"
+	}
+	"TF_MEDIC_SAVE_FALLING_TEAMMATE_Desc"
+	{
+		"da"	"Red en faldende holdkammerat fra at dø, når han rammer jorden."
+	}
+	"TF_MEDIC_CHARGE_JUGGLE_Title"
+	{
+		"da"	"Anden mening"
+	}
+	"TF_MEDIC_CHARGE_JUGGLE_Desc"
+	{
+		"da"	"ÜberCharge 2 holdkammerater med det samme."
+	}
+	"TF_MEDIC_FREEZECAM_RAGDOLL_Title"
+	{
+		"da"	"Obduktionsrapport"
+	}
+	"TF_MEDIC_FREEZECAM_RAGDOLL_Desc"
+	{
+		"da"	"Giv en fjende et still-billede af dig, mens du håner vedkommendes kludedukke."
+	}
+	"TF_MEDIC_BONESAW_SPY_CALLERS_Title"
+	{
+		"da"	"FYI: Jeg er Medic"
+	}
+	"TF_MEDIC_BONESAW_SPY_CALLERS_Desc"
+	{
+		"da"	"Brug din knoglesav til at dræbe 5 fjendtlige spioner, der har råbt \"Medic!\"."
+	}
+	"TF_MEDIC_CHARGE_FRIENDS_Title"
+	{
+		"da"	"Familiepraksis"
+	}
+	"TF_MEDIC_CHARGE_FRIENDS_Desc"
+	{
+		"da"	"ÜberCharge ti af dine Steam-fællesskabsvenner."
+	}
+	"TF_MEDIC_INVITE_JOIN_CHARGE_Title"
+	{
+		"da"	"Husbesøg"
+	}
+	"TF_MEDIC_INVITE_JOIN_CHARGE_Desc"
+	{
+		"da"	"Vær med i et spil, som en af dine venner er med i, og brug derefter en ÜberCharge på ham."
+	}
+	"TF_MEDIC_HEAL_ACHIEVER_Title"
+	{
+		"da"	"Sengemanerer"
+	}
+	"TF_MEDIC_HEAL_ACHIEVER_Desc"
+	{
+		"da"	"Vær i gang med at helbrede en holdkammerat, mens han selv opnår en præstation."
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS1_Title"
+	{
+		"da"	"Medic-milepæl 1"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS1_Desc"
+	{
+		"da"	"Opnå 10 af præstationerne i Medic-pakken."
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS2_Title"
+	{
+		"da"	"Medic-milepæl 2"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS2_Desc"
+	{
+		"da"	"Opnå 16 af præstationerne i Medic-pakken."
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS3_Title"
+	{
+		"da"	"Medic-milepæl 3"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS3_Desc"
+	{
+		"da"	"Opnå 22 af præstationerne i Medic-pakken."
+	}
+	"TF_PYRO_KILL_MULTIWEAPONS_Title"
+	{
+		"da"	"Kombineret geværild"
+	}
+	"TF_PYRO_KILL_MULTIWEAPONS_Desc"
+	{
+		"da"	"Brug dit haglgevær til at gøre det af med 20 spillere, du har antændt."
+	}
+	"TF_PYRO_SIMULBURN_SCOUTS_Title"
+	{
+		"da"	"Snobrød"
+	}
+	"TF_PYRO_SIMULBURN_SCOUTS_Desc"
+	{
+		"da"	"Sørg for, at der er ild i 2 af fjendens Scouts på samme tid."
+	}
+	"TF_PYRO_FORCE_WATERJUMP_Title"
+	{
+		"da"	"Ilddåb"
+	}
+	"TF_PYRO_FORCE_WATERJUMP_Desc"
+	{
+		"da"	"Tving 10 brændende fjender til at hoppe i vandet."
+	}
+	"TF_PYRO_KILL_POSTDEATH_Title"
+	{
+		"da"	"Helvedesild"
+	}
+	"TF_PYRO_KILL_POSTDEATH_Desc"
+	{
+		"da"	"Dræb 15 spillere, mens du er død."
+	}
+	"TF_PYRO_KILL_SPIES_Title"
+	{
+		"da"	"Firewall"
+	}
+	"TF_PYRO_KILL_SPIES_Desc"
+	{
+		"da"	"Antænd 5 Spies, der har en mine på en venligsindet bygning."
+	}
+	"TF_PYRO_KILL_CARRIERS_Title"
+	{
+		"da"	"Bogbrænding"
+	}
+	"TF_PYRO_KILL_CARRIERS_Desc"
+	{
+		"da"	"Antænd 5 fjender, der bærer rundt på dine efterretninger."
+	}
+	"TF_PYRO_REVEAL_SPIES_Title"
+	{
+		"da"	"Spontan selvantændelse"
+	}
+	"TF_PYRO_REVEAL_SPIES_Desc"
+	{
+		"da"	"Antænd 10 skjulte Spies."
+	}
+	"TF_PYRO_CAMP_TELEPORTERS_Title"
+	{
+		"da"	"Løbeild"
+	}
+	"TF_PYRO_CAMP_TELEPORTERS_Desc"
+	{
+		"da"	"Antænd 10 fjender, der for nylig har anvendt en teleport."
+	}
+	"TF_PYRO_CAMP_POSITION_Title"
+	{
+		"da"	"Lejrbål"
+	}
+	"TF_PYRO_CAMP_POSITION_Desc"
+	{
+		"da"	"Dræb 3 fjender i træk i samme område."
+	}
+	"TF_PYRO_KILL_AXE_SMALL_Title"
+	{
+		"da"	"Skovhugger"
+	}
+	"TF_PYRO_KILL_AXE_SMALL_Desc"
+	{
+		"da"	"Dræb 3 fjender med din økse i ét liv."
+	}
+	"TF_PYRO_KILL_AXE_LARGE_Title"
+	{
+		"da"	"Skovrydder"
+	}
+	"TF_PYRO_KILL_AXE_LARGE_Desc"
+	{
+		"da"	"Dræb 6 fjender med din økse i ét liv."
+	}
+	"TF_PYRO_KILL_FROM_BEHIND_Title"
+	{
+		"da"	"Ild i røven"
+	}
+	"TF_PYRO_KILL_FROM_BEHIND_Desc"
+	{
+		"da"	"Dræb 50 fjender bagfra med din flammekaster."
+	}
+	"TF_PYRO_BURN_SPIES_AS_YOU_Title"
+	{
+		"da"	"Flammeblik"
+	}
+	"TF_PYRO_BURN_SPIES_AS_YOU_Desc"
+	{
+		"da"	"Antænd 10 forklædte Spies."
+	}
+	"TF_PYRO_BURN_SNIPERS_ZOOMED_Title"
+	{
+		"da"	"Brandvagt"
+	}
+	"TF_PYRO_BURN_SNIPERS_ZOOMED_Desc"
+	{
+		"da"	"Antænd 10 Snipers, mens de har zoomet ind."
+	}
+	"TF_PYRO_BURN_MEDICS_CHARGED_Title"
+	{
+		"da"	"Brandsårsafdeling"
+	}
+	"TF_PYRO_BURN_MEDICS_CHARGED_Desc"
+	{
+		"da"	"Antænd 3 Medics, der er klar til at anvende en ÜberCharge."
+	}
+	"TF_PYRO_REFLECT_PROJECTILES_Title"
+	{
+		"da"	"Varm kartoffel"
+	}
+	"TF_PYRO_REFLECT_PROJECTILES_Desc"
+	{
+		"da"	"Reflektér 100 projektiler med trykluft."
+	}
+	"TF_PYRO_KILL_HEAVIES_Title"
+	{
+		"da"	"Grillmad"
+	}
+	"TF_PYRO_KILL_HEAVIES_Desc"
+	{
+		"da"	"Dræb 50 Heavies med din flammekaster."
+	}
+	"TF_PYRO_KILL_UNDERWATER_Title"
+	{
+		"da"	"Plan B"
+	}
+	"TF_PYRO_KILL_UNDERWATER_Desc"
+	{
+		"da"	"Dræb 10 fjender, mens I er under vandet."
+	}
+	"TF_PYRO_KILL_UBERCHARGE_Title"
+	{
+		"da"	"Festfyrværkeri"
+	}
+	"TF_PYRO_KILL_UBERCHARGE_Desc"
+	{
+		"da"	"Dræb 3 fjender i en enkelt ÜberCharge."
+	}
+	"TF_PYRO_DESTROY_BUILDINGS_Title"
+	{
+		"da"	"Brandstifter"
+	}
+	"TF_PYRO_DESTROY_BUILDINGS_Desc"
+	{
+		"da"	"Ødelæg 50 Engineer-konstruktioner."
+	}
+	"TF_PYRO_DEFEND_POINTS_Title"
+	{
+		"da"	"Kontrolleret brand"
+	}
+	"TF_PYRO_DEFEND_POINTS_Desc"
+	{
+		"da"	"Antænd 50 fjender, der erobrer et af dine kontrolpunkter."
+	}
+	"TF_PYRO_KILL_GRIND_Title"
+	{
+		"da"	"Brandmand"
+	}
+	"TF_PYRO_KILL_GRIND_Desc"
+	{
+		"da"	"Dræb 500 fjender."
+	}
+	"TF_PYRO_DAMAGE_GRIND_Title"
+	{
+		"da"	"Pyroman"
+	}
+	"TF_PYRO_DAMAGE_GRIND_Desc"
+	{
+		"da"	"Gør skade for i alt 1 million point med flammekasteren."
+	}
+	"TF_PYRO_BURN_MEDICPAIR_Title"
+	{
+		"da"	"Humørspreder"
+	}
+	"TF_PYRO_BURN_MEDICPAIR_Desc"
+	{
+		"da"	"Antænd en fjende og den Medic, der helbreder ham."
+	}
+	"TF_PYRO_KILL_TAUNT_Title"
+	{
+		"da"	"OMGWTFBBQ"
+	}
+	"TF_PYRO_KILL_TAUNT_Desc"
+	{
+		"da"	"Dræb en fjende, mens du håner ham."
+	}
+	"TF_PYRO_KILL_TEAMWORK_Title"
+	{
+		"da"	"Andengradsforbrænding"
+	}
+	"TF_PYRO_KILL_TEAMWORK_Desc"
+	{
+		"da"	"Dræb en brændende fjende, som blev antændt af en anden Pyro."
+	}
+	"TF_PYRO_BURN_SPY_TAUNT_Title"
+	{
+		"da"	"Har du ild?"
+	}
+	"TF_PYRO_BURN_SPY_TAUNT_Desc"
+	{
+		"da"	"Antænd en fjendtlig Spy, mens han asker sin smøg."
+	}
+	"TF_PYRO_DOMINATE_LEAVESVR_Title"
+	{
+		"da"	"Aufwebersehen"
+	}
+	"TF_PYRO_DOMINATE_LEAVESVR_Desc"
+	{
+		"da"	"Få en domineret spiller til at forlade serveren."
+	}
+	"TF_PYRO_REFLECT_CROCKET_KILL_Title"
+	{
+		"da"	"Hotshot"
+	}
+	"TF_PYRO_REFLECT_CROCKET_KILL_Desc"
+	{
+		"da"	"Dræb en Soldier med en reflekteret raket."
+	}
+	"TF_PYRO_KILL_TAUNTERS_Title"
+	{
+		"da"	"Flammernes hævn"
+	}
+	"TF_PYRO_KILL_TAUNTERS_Desc"
+	{
+		"da"	"Dræb 3 fjender, mens de håner."
+	}
+	"TF_PYRO_DOUBLE_KO_Title"
+	{
+		"da"	"Dødt løb"
+	}
+	"TF_PYRO_DOUBLE_KO_Desc"
+	{
+		"da"	"Dræb en fjende i samme sekund, som han dræber dig."
+	}
+	"TF_PYRO_BURN_RJ_SOLDIER_Title"
+	{
+		"da"	"Stikflamme"
+	}
+	"TF_PYRO_BURN_RJ_SOLDIER_Desc"
+	{
+		"da"	"Antænd en raket-hoppende Soldier, mens han er i luften."
+	}
+	"TF_PYRO_FREEZECAM_TAUNTS_Title"
+	{
+		"da"	"Svedig kameraføring"
+	}
+	"TF_PYRO_FREEZECAM_TAUNTS_Desc"
+	{
+		"da"	"Send fjenderne still-billeder alle de gange, hvor du håner dem."
+	}
+	"TF_PYRO_KILL_GRIND_LARGE_Title"
+	{
+		"da"	"Brandchef"
+	}
+	"TF_PYRO_KILL_GRIND_LARGE_Desc"
+	{
+		"da"	"Dræb 1000 fjender."
+	}
+	"TF_PYRO_IGNITE_FLAREGUN_Title"
+	{
+		"da"	"Opmærksomhedssøgende"
+	}
+	"TF_PYRO_IGNITE_FLAREGUN_Desc"
+	{
+		"da"	"Antænd 100 fjender med signalpistolen."
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS1_Title"
+	{
+		"da"	"Pyro-milepæl 1"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS1_Desc"
+	{
+		"da"	"Opnå 10 af præstationerne i Pyro-pakken."
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS2_Title"
+	{
+		"da"	"Pyro-milepæl 2"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS2_Desc"
+	{
+		"da"	"Opnå 16 af præstationerne i Pyro-pakken."
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS3_Title"
+	{
+		"da"	"Pyro-milepæl 3"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS3_Desc"
+	{
+		"da"	"Opnå 22 af præstationerne i Pyro-pakken."
+	}
+	"TF_HEAVY_DAMAGE_TAKEN_Title"
+	{
+		"da"	"Jerntæppe"
+	}
+	"TF_HEAVY_DAMAGE_TAKEN_Desc"
+	{
+		"da"	"Tag 1000 point skade i samme liv."
+	}
+	"TF_HEAVY_DEFEND_MEDIC_Title"
+	{
+		"da"	"Partiloyalitet"
+	}
+	"TF_HEAVY_DEFEND_MEDIC_Desc"
+	{
+		"da"	"Dræb 50 fjender mindre end 3 sekunder efter, at de angriber din Medic."
+	}
+	"TF_HEAVY_ASSIST_MEDIC_LARGE_Title"
+	{
+		"da"	"Arbejdsfordeling"
+	}
+	"TF_HEAVY_ASSIST_MEDIC_LARGE_Desc"
+	{
+		"da"	"Dræb 20 fjender med hjælp fra en Medic, uden at nogen af jer dør."
+	}
+	"TF_HEAVY_EARN_MEDIC_DOMINATION_Title"
+	{
+		"da"	"Røde oktoberfest"
+	}
+	"TF_HEAVY_EARN_MEDIC_DOMINATION_Desc"
+	{
+		"da"	"Vind en dominans til en Medic, der helbreder dig."
+	}
+	"TF_HEAVY_KILL_TAUNT_Title"
+	{
+		"da"	"Justitsmord"
+	}
+	"TF_HEAVY_KILL_TAUNT_Desc"
+	{
+		"da"	"Dræb en fjende, mens du håner ham."
+	}
+	"TF_HEAVY_KILL_FLAG_CARRIERS_Title"
+	{
+		"da"	"Forbrydelse og straf"
+	}
+	"TF_HEAVY_KILL_FLAG_CARRIERS_Desc"
+	{
+		"da"	"Dræb 10 fjender, der bærer rundt på dine efterretninger."
+	}
+	"TF_HEAVY_KILL_MEDIC_PAIR_Title"
+	{
+		"da"	"Klassekamp"
+	}
+	"TF_HEAVY_KILL_MEDIC_PAIR_Desc"
+	{
+		"da"	"Dræb et fjendtligt Heavy/Medic-par sammen med en venlig Medic."
+	}
+	"TF_HEAVY_BLOCK_INVULN_HEAVY_Title"
+	{
+		"da"	"Sovjetblok-ering"
+	}
+	"TF_HEAVY_BLOCK_INVULN_HEAVY_Desc"
+	{
+		"da"	"Bloker en usårlig, fjendtlig Heavy, mens du selv er usårlig og forsvarer, så han ikke kan bevæge sig."
+	}
+	"TF_HEAVY_BLOCK_CART_Title"
+	{
+		"da"	"Stalingrad"
+	}
+	"TF_HEAVY_BLOCK_CART_Desc"
+	{
+		"da"	"Bloker 25 gange, så fjenden ikke kan flytte last-vognen."
+	}
+	"TF_HEAVY_RECEIVE_UBER_GRIND_Title"
+	{
+		"da"	"Øverste Sovjet"
+	}
+	"TF_HEAVY_RECEIVE_UBER_GRIND_Desc"
+	{
+		"da"	"Bliv ÜberCharged 50 gange."
+	}
+	"TF_HEAVY_STAND_NEAR_DISPENSER_Title"
+	{
+		"da"	"Fabriksarbejder"
+	}
+	"TF_HEAVY_STAND_NEAR_DISPENSER_Desc"
+	{
+		"da"	"Dræb 20 fjender, mens du lades op af en automat."
+	}
+	"TF_HEAVY_ASSIST_HEAVY_GRIND_Title"
+	{
+		"da"	"Sovjet-union"
+	}
+	"TF_HEAVY_ASSIST_HEAVY_GRIND_Desc"
+	{
+		"da"	"Dræb 25 fjender, mens du enten hjælper eller bliver hjulpet af en anden Heavy."
+	}
+	"TF_HEAVY_CLEAR_STICKYBOMBS_Title"
+	{
+		"da"	"Kontroller produktionsmidlerne"
+	}
+	"TF_HEAVY_CLEAR_STICKYBOMBS_Desc"
+	{
+		"da"	"Fjern 20 klæbebomber ved at dræbe de Demomen, der producerede dem."
+	}
+	"TF_HEAVY_KILL_UNDERWATER_Title"
+	{
+		"da"	"Krazy Ivan"
+	}
+	"TF_HEAVY_KILL_UNDERWATER_Desc"
+	{
+		"da"	"Dræb 100 fjender, mens både du og dine ofre er under vandet."
+	}
+	"TF_HEAVY_TAKE_MULTI_DAMAGE_Title"
+	{
+		"da"	"Rasputin"
+	}
+	"TF_HEAVY_TAKE_MULTI_DAMAGE_Desc"
+	{
+		"da"	"Bliv skadet af skud, ild, stumpe våben og eksplosioner i samme liv."
+	}
+	"TF_HEAVY_KILL_DOMINATED_Title"
+	{
+		"da"	"Sovjetisk dominans"
+	}
+	"TF_HEAVY_KILL_DOMINATED_Desc"
+	{
+		"da"	"Dræb 20 fjender, mens du dominerer dem."
+	}
+	"TF_HEAVY_SURVIVE_CROCKET_Title"
+	{
+		"da"	"Missilskjold"
+	}
+	"TF_HEAVY_SURVIVE_CROCKET_Desc"
+	{
+		"da"	"Overlev en fuldtræffer fra en kritisk raket."
+	}
+	"TF_HEAVY_ASSIST_GRIND_Title"
+	{
+		"da"	"Kollektivisering"
+	}
+	"TF_HEAVY_ASSIST_GRIND_Desc"
+	{
+		"da"	"Hjælp til ved 1000 drab."
+	}
+	"TF_HEAVY_UNCOVER_SPIES_Title"
+	{
+		"da"	"Fjender af folket"
+	}
+	"TF_HEAVY_UNCOVER_SPIES_Desc"
+	{
+		"da"	"Dræb eller hjælp til med at dræbe 10 skjulte Spies."
+	}
+	"TF_HEAVY_KILL_WHILE_SPUNUP_Title"
+	{
+		"da"	"Mach-xistisk effektivitet"
+	}
+	"TF_HEAVY_KILL_WHILE_SPUNUP_Desc"
+	{
+		"da"	"Dræb 5 fjender, mens tromlen på dit våben roterer med konstant hastighed."
+	}
+	"TF_HEAVY_FIRE_LOTS_Title"
+	{
+		"da"	"Sværindustri"
+	}
+	"TF_HEAVY_FIRE_LOTS_Desc"
+	{
+		"da"	"Affyr for $200.000 skud med minikanonen i samme liv."
+	}
+	"TF_HEAVY_KILL_CRIT_PUNCH_Title"
+	{
+		"da"	"Kommunistisk manifest"
+	}
+	"TF_HEAVY_KILL_CRIT_PUNCH_Desc"
+	{
+		"da"	"Dræb en fjende med et kritisk slag."
+	}
+	"TF_HEAVY_HEAL_MEDIKITS_Title"
+	{
+		"da"	"Omfordeling af helbred"
+	}
+	"TF_HEAVY_HEAL_MEDIKITS_Desc"
+	{
+		"da"	"Helbred 1000 skadespoint med førstehjælpssæt i samme liv."
+	}
+	"TF_HEAVY_KILL_SHOTGUN_Title"
+	{
+		"da"	"Rationering"
+	}
+	"TF_HEAVY_KILL_SHOTGUN_Desc"
+	{
+		"da"	"Dræb en fjende med dit haglgevær, mens du er løbet tør for ammunition til minikanonen."
+	}
+	"TF_HEAVY_FIRST_TO_CAP_Title"
+	{
+		"da"	"Fortrop"
+	}
+	"TF_HEAVY_FIRST_TO_CAP_Desc"
+	{
+		"da"	"Vær den første på dit hold, der begynder på at erobre et kontrolpunkt i en runde."
+	}
+	"TF_HEAVY_PAYLOAD_CAP_GRIND_Title"
+	{
+		"da"	"Peter den Store"
+	}
+	"TF_HEAVY_PAYLOAD_CAP_GRIND_Desc"
+	{
+		"da"	"Opnå 50 erobringer på last-kort."
+	}
+	"TF_HEAVY_KILL_MIDAIR_MINIGUN_Title"
+	{
+		"da"	"Engels-mager"
+	}
+	"TF_HEAVY_KILL_MIDAIR_MINIGUN_Desc"
+	{
+		"da"	"Dræb 10 fjender i luften med minikanonen."
+	}
+	"TF_HEAVY_DEFEND_CONTROL_POINT_Title"
+	{
+		"da"	"Gorky Park-eret"
+	}
+	"TF_HEAVY_DEFEND_CONTROL_POINT_Desc"
+	{
+		"da"	"Dræb 25 fjender, mens du står på et kontrolpunkt, du ejer."
+	}
+	"TF_HEAVY_KILL_CAPPING_ENEMIES_Title"
+	{
+		"da"	"Udrensning"
+	}
+	"TF_HEAVY_KILL_CAPPING_ENEMIES_Desc"
+	{
+		"da"	"Dræb 15 fjender, der er ved at erobre et kontrolpunkt, du ejer."
+	}
+	"TF_HEAVY_REVENGE_ASSIST_Title"
+	{
+		"da"	"Rød front"
+	}
+	"TF_HEAVY_REVENGE_ASSIST_Desc"
+	{
+		"da"	"Hjælp 5 holdkammerater med at få hævn over deres nemesis."
+	}
+	"TF_HEAVY_TELEPORT_FAST_KILL_Title"
+	{
+		"da"	"Femsekundersplan"
+	}
+	"TF_HEAVY_TELEPORT_FAST_KILL_Desc"
+	{
+		"da"	"Dræb en fjende i de første 5 sekunder efter, at du er trådt ud af en teleport."
+	}
+	"TF_HEAVY_FREEZECAM_TAUNT_Title"
+	{
+		"da"	"Fotostroika"
+	}
+	"TF_HEAVY_FREEZECAM_TAUNT_Desc"
+	{
+		"da"	"Giv en fjende et still-billede af dig, der håner, mens du er usårlig."
+	}
+	"TF_HEAVY_EAT_SANDWICHES_Title"
+	{
+		"da"	"Ædegilde"
+	}
+	"TF_HEAVY_EAT_SANDWICHES_Desc"
+	{
+		"da"	"Spis 100 sandvicher."
+	}
+	"TF_HEAVY_KILL_SCOUTS_Title"
+	{
+		"da"	"Ikke røre sandvich"
+	}
+	"TF_HEAVY_KILL_SCOUTS_Desc"
+	{
+		"da"	"Dræb 50 Scouts med Natascha."
+	}
+	"TF_HEAVY_KILL_HEAVIES_GLOVES_Title"
+	{
+		"da"	"Det røde bælte"
+	}
+	"TF_HEAVY_KILL_HEAVIES_GLOVES_Desc"
+	{
+		"da"	"Dræb 10 Heavies med KGB'en"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS1_Title"
+	{
+		"da"	"Heavy-milepæl 1"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS1_Desc"
+	{
+		"da"	"Opnå 10 af præstationerne i Heavy-pakken."
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS2_Title"
+	{
+		"da"	"Heavy-milepæl 2"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS2_Desc"
+	{
+		"da"	"Opnå 16 af præstationerne i Heavy-pakken."
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS3_Title"
+	{
+		"da"	"Heavy-milepæl 3"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS3_Desc"
+	{
+		"da"	"Opnå 22 af præstationerne i Heavy-pakken."
+	}
+	"TF_SCOUT_FIRST_BLOOD_Title"
+	{
+		"da"	"First Blood"
+	}
+	"TF_SCOUT_FIRST_BLOOD_Desc"
+	{
+		"da"	"Vær den første til at dræbe en fjende i en Arena-match."
+	}
+	"TF_SCOUT_FIRST_BLOOD_KILL_Title"
+	{
+		"da"	"First Blood, Part 2"
+	}
+	"TF_SCOUT_FIRST_BLOOD_KILL_Desc"
+	{
+		"da"	"Dræb 5 fjender med First Blood crit-boost."
+	}
+	"TF_SCOUT_WELL_EARLY_KILL_Title"
+	{
+		"da"	"Hurtig fangst"
+	}
+	"TF_SCOUT_WELL_EARLY_KILL_Desc"
+	{
+		"da"	"Dræb en spiller på Well, inden runden begynder."
+	}
+	"TF_SCOUT_LIFETIME_KILLS_Title"
+	{
+		"da"	"Et mindeværdigt år"
+	}
+	"TF_SCOUT_LIFETIME_KILLS_Desc"
+	{
+		"da"	"Opnå 2004 drab."
+	}
+	"TF_SCOUT_IRON_MAN_KILLS_Title"
+	{
+		"da"	"Livets cyklus"
+	}
+	"TF_SCOUT_IRON_MAN_KILLS_Desc"
+	{
+		"da"	"Dræb en fjende mens du er på jorden, i luften eller i vandet i samme liv."
+	}
+	"TF_SCOUT_DESTROY_TELEPORTERS_Title"
+	{
+		"da"	"Lukkevagt"
+	}
+	"TF_SCOUT_DESTROY_TELEPORTERS_Desc"
+	{
+		"da"	"Destruer 3 indgange til teleporte."
+	}
+	"TF_SCOUT_DESTROY_BUILDINGS_BEING_BUILT_Title"
+	{
+		"da"	"Hvis du bygger den..."
+	}
+	"TF_SCOUT_DESTROY_BUILDINGS_BEING_BUILT_Desc"
+	{
+		"da"	"Destruer 3 af fjendens bygninger, mens de stadigvæk er ved at blive bygget."
+	}
+	"TF_SCOUT_DESTROY_SENTRY_WITH_PISTOL_Title"
+	{
+		"da"	"Skyd dem ned"
+	}
+	"TF_SCOUT_DESTROY_SENTRY_WITH_PISTOL_Desc"
+	{
+		"da"	"Destruer et aktivt robotgevær med din pistol."
+	}
+	"TF_SCOUT_DOUBLE_JUMPS_Title"
+	{
+		"da"	"Op og hop"
+	}
+	"TF_SCOUT_DOUBLE_JUMPS_Desc"
+	{
+		"da"	"Udfør 1000 dobbelthop."
+	}
+	"TF_SCOUT_ASSIST_MEDIC_Title"
+	{
+		"da"	"Overdosis"
+	}
+	"TF_SCOUT_ASSIST_MEDIC_Desc"
+	{
+		"da"	"Dræb 3 fjender, mens de er påvirket af en Medic's ÜberCharge."
+	}
+	"TF_SCOUT_STEAL_SANDWICH_Title"
+	{
+		"da"	"Dodgers 1, Giants 0"
+	}
+	"TF_SCOUT_STEAL_SANDWICH_Desc"
+	{
+		"da"	"Dræb en Heavy, og snup hans sandvich."
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS1_Title"
+	{
+		"da"	"Scout-milepæl 1"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS1_Desc"
+	{
+		"da"	"Opnå 10 af præstationerne i Scout-pakken."
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS2_Title"
+	{
+		"da"	"Scout-milepæl 2"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS2_Desc"
+	{
+		"da"	"Opnå 16 af præstationerne i Scout-pakken."
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS3_Title"
+	{
+		"da"	"Scout-milepæl 3"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS3_Desc"
+	{
+		"da"	"Opnå 22 af præstationerne i Scout-pakken."
+	}
+	"TF_SCOUT_KILL_CHARGED_MEDICS_Title"
+	{
+		"da"	"Et æble om dagen..."
+	}
+	"TF_SCOUT_KILL_CHARGED_MEDICS_Desc"
+	{
+		"da"	"Dræb en Medic, der er klar til at anvende en ÜberCharge."
+	}
+	"TF_SCOUT_SURVIVE_DAMAGE_Title"
+	{
+		"da"	"Batman"
+	}
+	"TF_SCOUT_SURVIVE_DAMAGE_Desc"
+	{
+		"da"	"Overlev 500 skadespoint i samme liv."
+	}
+	"TF_SCOUT_DOUBLEJUMP_KILL_Title"
+	{
+		"da"	"Hop og skyd"
+	}
+	"TF_SCOUT_DOUBLEJUMP_KILL_Desc"
+	{
+		"da"	"Dræb 20 spillere, mens du dobbelthopper."
+	}
+	"TF_SCOUT_FLAG_CAP_GRIND_Title"
+	{
+		"da"	"Rundt og rundt"
+	}
+	"TF_SCOUT_FLAG_CAP_GRIND_Desc"
+	{
+		"da"	"Erobr fjendens efterretninger 25 gange."
+	}
+	"TF_SCOUT_THREE_FLAGCAPS_Title"
+	{
+		"da"	"Alle gode gange 3"
+	}
+	"TF_SCOUT_THREE_FLAGCAPS_Desc"
+	{
+		"da"	"Erobr fjendens efterretninger 3 gange på et enkelt Erobr flaget-kort."
+	}
+	"TF_SCOUT_DODGE_DAMAGE_Title"
+	{
+		"da"	"Undvigemanøvrer"
+	}
+	"TF_SCOUT_DODGE_DAMAGE_Desc"
+	{
+		"da"	"Undvig 1000 skadespoint i samme liv vha. din Bonk! Atom-cocktail."
+	}
+	"TF_SCOUT_KNOCK_INTO_TRAIN_Title"
+	{
+		"da"	"Fald ned"
+	}
+	"TF_SCOUT_KNOCK_INTO_TRAIN_Desc"
+	{
+		"da"	"Få en fjende til at falde i døden vha. Naturkraftens tilbageslag."
+	}
+	"TF_SCOUT_KILL_STUNNED_Title"
+	{
+		"da"	"Angrebszone"
+	}
+	"TF_SCOUT_KILL_STUNNED_Desc"
+	{
+		"da"	"Dræb 50 fjender, mens de er lammet."
+	}
+	"TF_SCOUT_STUN_INTO_TRAIN_Title"
+	{
+		"da"	"Fjendtligt område"
+	}
+	"TF_SCOUT_STUN_INTO_TRAIN_Desc"
+	{
+		"da"	"Få en fjende til at falde i døden ved at lamme ham."
+	}
+	"TF_SCOUT_STUN_UBER_ENEMIES_Title"
+	{
+		"da"	"From som et lam"
+	}
+	"TF_SCOUT_STUN_UBER_ENEMIES_Desc"
+	{
+		"da"	"Lam 3 Medics, der er klar til at anvende en ÜberCharge."
+	}
+	"TF_SCOUT_STUN_CAPPING_ENEMIES_Title"
+	{
+		"da"	"Hård bold"
+	}
+	"TF_SCOUT_STUN_CAPPING_ENEMIES_Desc"
+	{
+		"da"	"Lam 50 fjender, mens de er ved at erobre et punkt eller skubber vognen."
+	}
+	"TF_SCOUT_MAX_STUNS_Title"
+	{
+		"da"	"Langskud"
+	}
+	"TF_SCOUT_MAX_STUNS_Desc"
+	{
+		"da"	"Lam en fjende længst muligt ved at ramme ham med et langskud."
+	}
+	"TF_SCOUT_STUN_SCOUT_WITH_THEIR_BALL_Title"
+	{
+		"da"	"Slå bolden tilbage"
+	}
+	"TF_SCOUT_STUN_SCOUT_WITH_THEIR_BALL_Desc"
+	{
+		"da"	"Lam en Scout med hans egen bold."
+	}
+	"TF_SCOUT_KILL_IN_DODGE_COOLDOWN_Title"
+	{
+		"da"	"Pensioner løberen"
+	}
+	"TF_SCOUT_KILL_IN_DODGE_COOLDOWN_Desc"
+	{
+		"da"	"Dræb en Scout, mens han er fanget af undvigemanøvrernes slowmotioneffekt."
+	}
+	"TF_SCOUT_KILL_FROM_BEHIND_Title"
+	{
+		"da"	"Bagholdsangreb"
+	}
+	"TF_SCOUT_KILL_FROM_BEHIND_Desc"
+	{
+		"da"	"Dræb 50 fjender bagfra med Naturkraften."
+	}
+	"TF_SCOUT_CAPTURE_LAST_POINT_Title"
+	{
+		"da"	"Det sidste stik"
+	}
+	"TF_SCOUT_CAPTURE_LAST_POINT_Desc"
+	{
+		"da"	"Erobr det sidste point på et kontrolpunkt-kort."
+	}
+	"TF_SCOUT_CAPTURE_THREE_POINTS_Title"
+	{
+		"da"	"3 på stribe"
+	}
+	"TF_SCOUT_CAPTURE_THREE_POINTS_Desc"
+	{
+		"da"	"Erobr tre erobringspunkter på stribe i et enkelt liv."
+	}
+	"TF_SCOUT_FAST_CAP_Title"
+	{
+		"da"	"Vaks ved havelågen"
+	}
+	"TF_SCOUT_FAST_CAP_Desc"
+	{
+		"da"	"Begynd at indtage et erobringspunkt i samme sekund, som det bliver tilgængeligt."
+	}
+	"TF_SCOUT_START_AND_FINISH_CAP_Title"
+	{
+		"da"	"Dæk bordet"
+	}
+	"TF_SCOUT_START_AND_FINISH_CAP_Desc"
+	{
+		"da"	"Indled 10 succesrige forsøg på at indtage et punkt."
+	}
+	"TF_SCOUT_BLOCK_CAPS_Title"
+	{
+		"da"	"Stå i vejen"
+	}
+	"TF_SCOUT_BLOCK_CAPS_Desc"
+	{
+		"da"	"Blokér 50 forsøg på at indtage et punkt."
+	}
+	"TF_SCOUT_CARRIER_KILL_CARRIER_Title"
+	{
+		"da"	"Forsmået plageånd"
+	}
+	"TF_SCOUT_CARRIER_KILL_CARRIER_Desc"
+	{
+		"da"	"Dræb en af fjendens spillere, der har jeres efterretninger, mens du selv har deres."
+	}
+	"TF_SCOUT_CAP_FLAG_WITHOUT_ATTACKING_Title"
+	{
+		"da"	"Ingen træffere"
+	}
+	"TF_SCOUT_CAP_FLAG_WITHOUT_ATTACKING_Desc"
+	{
+		"da"	"Stjæl og erobr fjendens efterretninger uden at affyre et eneste skud."
+	}
+	"TF_SCOUT_LONG_DISTANCE_RUNNER_Title"
+	{
+		"da"	"Løb for pokalen"
+	}
+	"TF_SCOUT_LONG_DISTANCE_RUNNER_Desc"
+	{
+		"da"	"Løb 25 kilometer."
+	}
+	"TF_SCOUT_TAUNT_KILL_Title"
+	{
+		"da"	"Ud af banen"
+	}
+	"TF_SCOUT_TAUNT_KILL_Desc"
+	{
+		"da"	"Slå en fjende 25 meter."
+	}
+	"TF_SNIPER_JARATE_DOMINATED_Title"
+	{
+		"da"	"Mishandlet"
+	}
+	"TF_SNIPER_JARATE_DOMINATED_Desc"
+	{
+		"da"	"Brug Jarate på en fjende, du dominerer."
+	}
+	"TF_SNIPER_FREEZECAM_HAT_Title"
+	{
+		"da"	"Vær høflig"
+	}
+	"TF_SNIPER_FREEZECAM_HAT_Desc"
+	{
+		"da"	"Giv en fjende et still-billede af dig selv, mens du letter på hatten."
+	}
+	"TF_SNIPER_RIFLE_NO_MISSING_Title"
+	{
+		"da"	"Vær effektiv"
+	}
+	"TF_SNIPER_RIFLE_NO_MISSING_Desc"
+	{
+		"da"	"Opnå 3 drab med snigskytteriflen uden at misse."
+	}
+	"TF_SNIPER_CAPTURE_FLAG_Title"
+	{
+		"da"	"Hav en plan"
+	}
+	"TF_SNIPER_CAPTURE_FLAG_Desc"
+	{
+		"da"	"Erobr flaget i CTF."
+	}
+	"TF_SNIPER_KILL_GRIND_Title"
+	{
+		"da"	"Dræb enhver, du møder"
+	}
+	"TF_SNIPER_KILL_GRIND_Desc"
+	{
+		"da"	"Dræb 1000 fjender."
+	}
+	"TF_SNIPER_KILL_WEAPONS_Title"
+	{
+		"da"	"Tredobbelt bytte"
+	}
+	"TF_SNIPER_KILL_WEAPONS_Desc"
+	{
+		"da"	"Dræb med tre forskellige våben i en enkelt runde."
+	}
+	"TF_SNIPER_HEADSHOT_SNIPERS_Title"
+	{
+		"da"	"Selvdestruktionssekvens"
+	}
+	"TF_SNIPER_HEADSHOT_SNIPERS_Desc"
+	{
+		"da"	"Dræb 10 fjendtlige Snipere med hovedskud."
+	}
+	"TF_SNIPER_DESTROY_SENTRYGUNS_Title"
+	{
+		"da"	"Robotgevær-værn"
+	}
+	"TF_SNIPER_DESTROY_SENTRYGUNS_Desc"
+	{
+		"da"	"Tilintetgør 3 Engineer-robotgeværer."
+	}
+	"TF_SNIPER_KILL_INVIS_SPY_Title"
+	{
+		"da"	"Et skud i tågen"
+	}
+	"TF_SNIPER_KILL_INVIS_SPY_Desc"
+	{
+		"da"	"Dræb en fuldstændigt usynlig spion med en enkelt træffer."
+	}
+	"TF_SNIPER_KILL_MIDAIR_SCOUT_Title"
+	{
+		"da"	"Død som en sild"
+	}
+	"TF_SNIPER_KILL_MIDAIR_SCOUT_Desc"
+	{
+		"da"	"Dræb en spejder i luften med din snigskytteriffel eller med bue og pil."
+	}
+	"TF_SNIPER_FREEZECAM_WAVE_Title"
+	{
+		"da"	"Og vinke"
+	}
+	"TF_SNIPER_FREEZECAM_WAVE_Desc"
+	{
+		"da"	"Giv en fjende et still-billede af dig selv, mens du vinker til vedkommende."
+	}
+	"TF_SNIPER_DOMINATE_SNIPER_Title"
+	{
+		"da"	"Reglerne er - ingen regler"
+	}
+	"TF_SNIPER_DOMINATE_SNIPER_Desc"
+	{
+		"da"	"Dominer en fjendtlig Sniper."
+	}
+	"TF_SNIPER_KILL_SPIES_MELEE_Title"
+	{
+		"da"	"Hedt for spioner"
+	}
+	"TF_SNIPER_KILL_SPIES_MELEE_Desc"
+	{
+		"da"	"Dræb 10 spioner med din Kukri."
+	}
+	"TF_SNIPER_HEADSHOT_DEMOMAN_Title"
+	{
+		"da"	"Øje for detaljer"
+	}
+	"TF_SNIPER_HEADSHOT_DEMOMAN_Desc"
+	{
+		"da"	"Dræb en fjendtlig Demoman med et hovedskud."
+	}
+	"TF_SNIPER_KILL_RJER_Title"
+	{
+		"da"	"Hopper-mobber"
+	}
+	"TF_SNIPER_KILL_RJER_Desc"
+	{
+		"da"	"Dræb en raket- eller granathoppende fjende i luften med din snigskytteriffel eller med bue og pil."
+	}
+	"TF_SNIPER_KILL_OBJECTIVES_Title"
+	{
+		"da"	"Ikke bare en vanvittig våbentosse, far"
+	}
+	"TF_SNIPER_KILL_OBJECTIVES_Desc"
+	{
+		"da"	"I et enkelt liv skal du dræbe 3 fjender, mens de udfører en opgave."
+	}
+	"TF_SNIPER_KILL_UNSCOPED_Title"
+	{
+		"da"	"Forlad dig på dine følelser"
+	}
+	"TF_SNIPER_KILL_UNSCOPED_Desc"
+	{
+		"da"	"Opnå 5 drab med snigskytteriflen uden dit kikkertsigte."
+	}
+	"TF_SNIPER_KILL_CHARGED_MEDIC_Title"
+	{
+		"da"	"Überektomi"
+	}
+	"TF_SNIPER_KILL_CHARGED_MEDIC_Desc"
+	{
+		"da"	"Dræb en Medic, der er klar til at anvende en ÜberCharge."
+	}
+	"TF_SNIPER_GET_BACKSTABBED_Title"
+	{
+		"da"	"Trøstpræmie"
+	}
+	"TF_SNIPER_GET_BACKSTABBED_Desc"
+	{
+		"da"	"Bliv stukket i ryggen 50 gange."
+	}
+	"TF_SNIPER_KILL_AT_ROUNDSTART_Title"
+	{
+		"da"	"Fjenden for døren"
+	}
+	"TF_SNIPER_KILL_AT_ROUNDSTART_Desc"
+	{
+		"da"	"Dræb en modstander inden for en rundes første sekund."
+	}
+	"TF_SNIPER_HEADSHOT_POST_INVULN_Title"
+	{
+		"da"	"Afskedssalut"
+	}
+	"TF_SNIPER_HEADSHOT_POST_INVULN_Desc"
+	{
+		"da"	"Skyd en fjende i hovedet i det øjeblik, hvor hans usårlighed ophører."
+	}
+	"TF_SNIPER_TOP_SCOREBOARD_GRIND_Title"
+	{
+		"da"	"Min strålende karriere"
+	}
+	"TF_SNIPER_TOP_SCOREBOARD_GRIND_Desc"
+	{
+		"da"	"Kom øverst på pointtavlen 10 gange på teams med 6 spillere eller flere."
+	}
+	"TF_SNIPER_KILL_FAILED_SPY_Title"
+	{
+		"da"	"Chokbehandling"
+	}
+	"TF_SNIPER_KILL_FAILED_SPY_Desc"
+	{
+		"da"	"Dræb en spion, hvis rygstikkerforsøg er blevet blokeret af dit razorback-skjold."
+	}
+	"TF_SNIPER_JARATE_GROUP_Title"
+	{
+		"da"	"Tæppebombning"
+	}
+	"TF_SNIPER_JARATE_GROUP_Desc"
+	{
+		"da"	"Benyt Jarate på 4 fjendtlige spillere i ét kast."
+	}
+	"TF_SNIPER_JARATE_MEDIC_PAIR_Title"
+	{
+		"da"	"Tis på deres sukkermad"
+	}
+	"TF_SNIPER_JARATE_MEDIC_PAIR_Desc"
+	{
+		"da"	"Benyt Jarate på en fjende og den Medic, der helbreder ham."
+	}
+	"TF_SNIPER_JARATE_REVEAL_SPY_Title"
+	{
+		"da"	"Rystende omskiftning"
+	}
+	"TF_SNIPER_JARATE_REVEAL_SPY_Desc"
+	{
+		"da"	"Benyt Jarate til at afsløre en skjult spion."
+	}
+	"TF_SNIPER_JARATE_EXTINGUISH_Title"
+	{
+		"da"	"Venskab er guld værd"
+	}
+	"TF_SNIPER_JARATE_EXTINGUISH_Desc"
+	{
+		"da"	"Sluk en brændende team-kammerat med din Jarate."
+	}
+	"TF_SNIPER_BOW_PIN_HEAVY_Title"
+	{
+		"da"	"Vilhelm Tell-overdrevet"
+	}
+	"TF_SNIPER_BOW_PIN_HEAVY_Desc"
+	{
+		"da"	"Hæft en fjendtlig Heavy fast på væggen i hans hoved."
+	}
+	"TF_SNIPER_BOW_KILL_MEDIC_PAIR_Title"
+	{
+		"da"	"Pilen viser vej"
+	}
+	"TF_SNIPER_BOW_KILL_MEDIC_PAIR_Desc"
+	{
+		"da"	"Dræb et Heavy & Medic-par med buen."
+	}
+	"TF_SNIPER_BOW_KILL_FLAGCARRIER_Title"
+	{
+		"da"	"Røvere og soldater"
+	}
+	"TF_SNIPER_BOW_KILL_FLAGCARRIER_Desc"
+	{
+		"da"	"Nedlæg en efterretningsbærer med en enkelt pil."
+	}
+	"TF_SNIPER_BOW_PINCUSHION_Title"
+	{
+		"da"	"Nålepude"
+	}
+	"TF_SNIPER_BOW_PINCUSHION_Desc"
+	{
+		"da"	"Ram en fjende med 3 pile uden at slå ham ihjel."
+	}
+	"TF_SNIPER_JARATE_ASSISTS_Title"
+	{
+		"da"	"Førsteassistent"
+	}
+	"TF_SNIPER_JARATE_ASSISTS_Desc"
+	{
+		"da"	"Opnå 5 assisterede drab med Jarate i en enkelt runde."
+	}
+	"TF_SNIPER_JARATE_KILL_MELEE_Title"
+	{
+		"da"	"Jarate-hug"
+	}
+	"TF_SNIPER_JARATE_KILL_MELEE_Desc"
+	{
+		"da"	"Brug Jarate, og dræb derefter 3 fjender med din Kukri."
+	}
+	"TF_SNIPER_TAUNT_KILL_Title"
+	{
+		"da"	"Sagen sat på spidsen"
+	}
+	"TF_SNIPER_TAUNT_KILL_Desc"
+	{
+		"da"	"Stik en fjende med en pil."
+	}
+	"TF_SNIPER_BOW_KILL_WHILEDEAD_Title"
+	{
+		"da"	"Dødsikker"
+	}
+	"TF_SNIPER_BOW_KILL_WHILEDEAD_Desc"
+	{
+		"da"	"Dræb en fjende med en pil, mens du er død."
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS1_Title"
+	{
+		"da"	"Sniper-milepæl 1"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS1_Desc"
+	{
+		"da"	"Opnå 5 af præstationerne i Sniper-pakken."
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS2_Title"
+	{
+		"da"	"Sniper-milepæl 2"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS2_Desc"
+	{
+		"da"	"Opnå 11 af præstationerne i Sniper-pakken."
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS3_Title"
+	{
+		"da"	"Sniper-milepæl 3"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS3_Desc"
+	{
+		"da"	"Opnå 17 af præstationerne i Sniper-pakken."
+	}
+	"TF_SPY_BACKSTAB_SNIPERS_Title"
+	{
+		"da"	"Snydt – igen"
+	}
+	"TF_SPY_BACKSTAB_SNIPERS_Desc"
+	{
+		"da"	"Stik 3 Snipere i ryggen i et enkelt liv."
+	}
+	"TF_SPY_FREEZECAM_FLICK_Title"
+	{
+		"da"	"Strengt fortroligt"
+	}
+	"TF_SPY_FREEZECAM_FLICK_Desc"
+	{
+		"da"	"Giv en fjende et still-billede af dig, der knipser en cigaret ned på vedkommendes lig."
+	}
+	"TF_SPY_BACKSTAB_DISGUISED_SPY_Title"
+	{
+		"da"	"Kontraspionage"
+	}
+	"TF_SPY_BACKSTAB_DISGUISED_SPY_Desc"
+	{
+		"da"	"Stik en forklædt spion i ryggen."
+	}
+	"TF_SPY_BACKSTAB_DISGUISE_TARGET_Title"
+	{
+		"da"	"Identitetstyveri"
+	}
+	"TF_SPY_BACKSTAB_DISGUISE_TARGET_Desc"
+	{
+		"da"	"Stik den fjende, du i øjeblikket er forklædt som, i ryggen."
+	}
+	"TF_SPY_BACKSTAB_MEDIC_HEALING_YOU_Title"
+	{
+		"da"	"Jeg er spion, at du ved det"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_HEALING_YOU_Desc"
+	{
+		"da"	"Stik en Medic i ryggen, som har helbredt dig inden for de seneste 5 sekunder."
+	}
+	"TF_SPY_BACKSTAB_ENGY_SAP_BUILDING_Title"
+	{
+		"da"	"Manden med de defekte pistoler"
+	}
+	"TF_SPY_BACKSTAB_ENGY_SAP_BUILDING_Desc"
+	{
+		"da"	"Stik en Engineer i ryggen, og minér 3 af hans bygninger i løbet af 10 sekunder."
+	}
+	"TF_SPY_SAP_BUILDING_BACKSTAB_ENGY_Title"
+	{
+		"da"	"Minesnyder"
+	}
+	"TF_SPY_SAP_BUILDING_BACKSTAB_ENGY_Desc"
+	{
+		"da"	"Minér en fjendtlig bygning, og stik derefter den Engineer, der har bygget den, i ryggen inden for 5 sekunder."
+	}
+	"TF_SPY_BACKSTAB_MEDIC_PAIR_Title"
+	{
+		"da"	"Må jeg lige skære igennem?"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_PAIR_Desc"
+	{
+		"da"	"Stik en fjende og den Medic, der helbreder ham, i ryggen inden for 10 sekunder."
+	}
+	"TF_SPY_BACKSTAB_FRIENDS_Title"
+	{
+		"da"	"Urostifter"
+	}
+	"TF_SPY_BACKSTAB_FRIENDS_Desc"
+	{
+		"da"	"Stik dine Steam-fælleskabsvenner i ryggen 10 gange."
+	}
+	"TF_SPY_DOMINATE_SNIPER_Title"
+	{
+		"da"	"Melbourne-sammensværgelsen"
+	}
+	"TF_SPY_DOMINATE_SNIPER_Desc"
+	{
+		"da"	"Dominer en Sniper."
+	}
+	"TF_SPY_BUMP_CLOAKED_SPY_Title"
+	{
+		"da"	"Spioner som os"
+	}
+	"TF_SPY_BUMP_CLOAKED_SPY_Desc"
+	{
+		"da"	"Stød ind i en fjendtlig skjult Spy, mens du selv er skjult."
+	}
+	"TF_SPY_KILL_SPY_WITH_KNIFE_Title"
+	{
+		"da"	"Over gennem\"snittet\""
+	}
+	"TF_SPY_KILL_SPY_WITH_KNIFE_Desc"
+	{
+		"da"	"Dræb en skydevåbenbevæbnet Spy med din kniv."
+	}
+	"TF_SPY_SURVIVE_BURNING_Title"
+	{
+		"da"	"Afbrændingsvarsel"
+	}
+	"TF_SPY_SURVIVE_BURNING_Desc"
+	{
+		"da"	"Overlev 30 sekunder efter at være blevet antændt, mens du er skjult."
+	}
+	"TF_SPY_BREAK_SHIELD_KILL_SNIPER_Title"
+	{
+		"da"	"Alternativ måde at dø på"
+	}
+	"TF_SPY_BREAK_SHIELD_KILL_SNIPER_Desc"
+	{
+		"da"	"Dræb en Sniper, efter at dit stik i ryggen ødelægger hans razorback-skjold."
+	}
+	"TF_SPY_KILL_WORKING_ENGY_Title"
+	{
+		"da"	"Ingen ro til arbejdet"
+	}
+	"TF_SPY_KILL_WORKING_ENGY_Desc"
+	{
+		"da"	"Dræb en Engineer, mens han arbejder på et robotgevær."
+	}
+	"TF_SPY_MEDIC_HEALING_KILL_ENEMY_Title"
+	{
+		"da"	"Forsikringssvindel"
+	}
+	"TF_SPY_MEDIC_HEALING_KILL_ENEMY_Desc"
+	{
+		"da"	"Dræb en fjende, mens du bliver helbredt af en fjendtlig Medic."
+	}
+	"TF_SPY_KILL_CP_DEFENDERS_Title"
+	{
+		"da"	"Træfpunkt"
+	}
+	"TF_SPY_KILL_CP_DEFENDERS_Desc"
+	{
+		"da"	"Dræb 15 fjender, der står på et kontrolpunkt, som de ejer."
+	}
+	"TF_SPY_BACKSTAB_DOMINATING_ENEMY_Title"
+	{
+		"da"	"Vigtigt mål"
+	}
+	"TF_SPY_BACKSTAB_DOMINATING_ENEMY_Desc"
+	{
+		"da"	"Stik en fjende i ryggen, som dominerer 3 eller flere af dine team-kammerater."
+	}
+	"TF_SPY_REVENGE_WITH_BACKSTAB_Title"
+	{
+		"da"	"Ind fra kulden"
+	}
+	"TF_SPY_REVENGE_WITH_BACKSTAB_Desc"
+	{
+		"da"	"Opnå et hævn-drab ved at stikke i ryggen."
+	}
+	"TF_SPY_KNIFE_KILL_WHILE_JARATED_Title"
+	{
+		"da"	"Vådt"
+	}
+	"TF_SPY_KNIFE_KILL_WHILE_JARATED_Desc"
+	{
+		"da"	"Stik en fjende ihjel under påvirkning af Jarate."
+	}
+	"TF_SPY_BACKSTAB_QUICK_KILLS_Title"
+	{
+		"da"	"Du stikker kun tre gange"
+	}
+	"TF_SPY_BACKSTAB_QUICK_KILLS_Desc"
+	{
+		"da"	"Stik 3 fjender i ryggen inden for 10 sekunder."
+	}
+	"TF_SPY_BACKSTAB_GRIND_Title"
+	{
+		"da"	"Mesterspion"
+	}
+	"TF_SPY_BACKSTAB_GRIND_Desc"
+	{
+		"da"	"Stik 1000 fjender i ryggen."
+	}
+	"TF_SPY_SAPPER_GRIND_Title"
+	{
+		"da"	"Gode miner til slet spil"
+	}
+	"TF_SPY_SAPPER_GRIND_Desc"
+	{
+		"da"	"Tilintetgør 1000 Engineer-bygninger med miner."
+	}
+	"TF_SPY_SAPPER_TEAMWORK_Title"
+	{
+		"da"	"Fælles operation"
+	}
+	"TF_SPY_SAPPER_TEAMWORK_Desc"
+	{
+		"da"	"Placer en mine på et fjendtligt robotgevær inden for 3 sekunder, efter at en team-kammerat har mineret et andet."
+	}
+	"TF_SPY_BACKSTAB_MEDIC_CHARGED_Title"
+	{
+		"da"	"Dr. Nooooo"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_CHARGED_Desc"
+	{
+		"da"	"Stik en Medic i ryggen, mens vedkommende er klar til at anvende en ÜberCharge."
+	}
+	"TF_SPY_BACKSTAB_CAPPING_ENEMIES_Title"
+	{
+		"da"	"Er det sikkert?"
+	}
+	"TF_SPY_BACKSTAB_CAPPING_ENEMIES_Desc"
+	{
+		"da"	"Stik 50 fjender i ryggen, mens de er ved at erobre kontrolpunkter."
+	}
+	"TF_SPY_BACKSTAB_ENEMY_SWITCH_PYRO_Title"
+	{
+		"da"	"Skær og brænd"
+	}
+	"TF_SPY_BACKSTAB_ENEMY_SWITCH_PYRO_Desc"
+	{
+		"da"	"Stik en fjende i ryggen, som skifter til Pyro, inden han genindsættes."
+	}
+	"TF_SPY_AMBASSADOR_GRIND_Title"
+	{
+		"da"	"Diplomati"
+	}
+	"TF_SPY_AMBASSADOR_GRIND_Desc"
+	{
+		"da"	"Dræb 50 fjender med Ambassador-revolveren."
+	}
+	"TF_SPY_AMBASSADOR_SNIPER_GRIND_Title"
+	{
+		"da"	"En på skallen"
+	}
+	"TF_SPY_AMBASSADOR_SNIPER_GRIND_Desc"
+	{
+		"da"	"Skyd 20 Snipere i hovedet med Ambassador-revolveren."
+	}
+	"TF_SPY_FEIGN_DEATH_KILL_Title"
+	{
+		"da"	"Sovende agent"
+	}
+	"TF_SPY_FEIGN_DEATH_KILL_Desc"
+	{
+		"da"	"Dræb en fjende, der har forårsaget, at du spiller død, inden for de sidste 20 sekunder."
+	}
+	"TF_SPY_AMBASSADOR_SCOUT_GRIND_Title"
+	{
+		"da"	"Hvem er det, der bestemmer?"
+	}
+	"TF_SPY_AMBASSADOR_SCOUT_GRIND_Desc"
+	{
+		"da"	"Skyd 3 Scouts i hovedet med Ambassador-revolveren."
+	}
+	"TF_SPY_CAMP_POSITION_Title"
+	{
+		"da"	"Dybt under jorden"
+	}
+	"TF_SPY_CAMP_POSITION_Desc"
+	{
+		"da"	"Dræb den samme fjende 3 gange, mens du bruger Cloak and Dagger-spionuret – alt sammen i samme område og i et enkelt liv."
+	}
+	"TF_SPY_ACHIEVE_PROGRESS1_Title"
+	{
+		"da"	"Spy-milepæl 1"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS1_Desc"
+	{
+		"da"	"Opnå 5 af præstationerne i Spy-pakken."
+	}
+	"TF_SPY_ACHIEVE_PROGRESS2_Title"
+	{
+		"da"	"Spy-milepæl 2"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS2_Desc"
+	{
+		"da"	"Opnå 11 af præstationerne i Spy-pakken."
+	}
+	"TF_SPY_ACHIEVE_PROGRESS3_Title"
+	{
+		"da"	"Spy-milepæl 3"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS3_Desc"
+	{
+		"da"	"Opnå 17 af præstationerne i Spy-pakken."
+	}
+	"TF_HALLOWEEN_COLLECT_PUMPKINS_Title"
+	{
+		"da"	"Ligrøver"
+	}
+	"TF_HALLOWEEN_COLLECT_PUMPKINS_Desc"
+	{
+		"da"	"Saml 20 halloween-græskar fra døde spillere for at låse op for en hat."
+	}
+	"TF_HALLOWEEN_DOMINATE_FOR_HAT_Title"
+	{
+		"da"	"Hattemager"
+	}
+	"TF_HALLOWEEN_DOMINATE_FOR_HAT_Desc"
+	{
+		"da"	"Dominer en spiller, der bærer en høj spøgelseshat, for at gøre dig fortjent til din egen."
+	}
+	"TF_HALLOWEEN_KILL_SCARED_PLAYER_Title"
+	{
+		"da"	"Dødbange"
+	}
+	"TF_HALLOWEEN_KILL_SCARED_PLAYER_Desc"
+	{
+		"da"	"Dræb en spiller, som er blevet skræmt af det spøgelse, der hjemsøger KOTH Harvest."
+	}
+	"TF_HALLOWEEN_PUMPKIN_KILL_Title"
+	{
+		"da"	"Lygtemand"
+	}
+	"TF_HALLOWEEN_PUMPKIN_KILL_Desc"
+	{
+		"da"	"Forårsag 5 spilleres død ved at få græskarbomber i nærheden af dem til at eksplodere."
+	}
+	"TF_HALLOWEEN_DISGUISED_SPY_KILL_Title"
+	{
+		"da"	"Kostumekonkurrence"
+	}
+	"TF_HALLOWEEN_DISGUISED_SPY_KILL_Desc"
+	{
+		"da"	"Dræb en Spy, der er forklædt som din nuværende klasse."
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS1_Title"
+	{
+		"da"	"Soldier-milepæl 1"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS1_Desc"
+	{
+		"da"	"Opnå 5 af præstationerne i Soldier-pakken."
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS2_Title"
+	{
+		"da"	"Soldier-milepæl 2"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS2_Desc"
+	{
+		"da"	"Opnå 11 af præstationerne i Soldier-pakken."
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS3_Title"
+	{
+		"da"	"Soldier-milepæl 3"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS3_Desc"
+	{
+		"da"	"Opnå 17 af præstationerne i Soldier-pakken."
+	}
+	"TF_SOLDIER_KILL_GROUP_WITH_CROCKET_Title"
+	{
+		"da"	"Tredobbelt skade"
+	}
+	"TF_SOLDIER_KILL_GROUP_WITH_CROCKET_Desc"
+	{
+		"da"	"Dræb 3 fjender med en enkelt kritisk raket."
+	}
+	"TF_SOLDIER_KILL_TWO_DURING_ROCKET_JUMP_Title"
+	{
+		"da"	"Døden fra oven"
+	}
+	"TF_SOLDIER_KILL_TWO_DURING_ROCKET_JUMP_Desc"
+	{
+		"da"	"Udfør et rakethop, og dræb 2 fjender, inden du lander."
+	}
+	"TF_SOLDIER_THREE_DOMINATIONS_Title"
+	{
+		"da"	"Hersker"
+	}
+	"TF_SOLDIER_THREE_DOMINATIONS_Desc"
+	{
+		"da"	"Dominer 3 fjender i et enkelt liv."
+	}
+	"TF_SOLDIER_DEFEND_MEDIC_Title"
+	{
+		"da"	"Krigsforbrydelse og straf"
+	}
+	"TF_SOLDIER_DEFEND_MEDIC_Desc"
+	{
+		"da"	"Dræb 3 fjender, som har skadet en Medic, der er ved at helbrede dig, i et enkelt liv."
+	}
+	"TF_SOLDIER_KILL_TAUNT_Title"
+	{
+		"da"	"Nederlagsnedbør"
+	}
+	"TF_SOLDIER_KILL_TAUNT_Desc"
+	{
+		"da"	"Spræng en spiller i luften med en granat."
+	}
+	"TF_SOLDIER_DESTROY_SENTRY_OUT_OF_RANGE_Title"
+	{
+		"da"	"Navar0wns kanoner"
+	}
+	"TF_SOLDIER_DESTROY_SENTRY_OUT_OF_RANGE_Desc"
+	{
+		"da"	"Dræb 5 Engineers, der holder vagt, mens du er uden for deres rækkevidde."
+	}
+	"TF_SOLDIER_KILL_SNIPER_WHILE_DEAD_Title"
+	{
+		"da"	"Gensidig udslettelse"
+	}
+	"TF_SOLDIER_KILL_SNIPER_WHILE_DEAD_Desc"
+	{
+		"da"	"Dræb en fjendtlig snigskytte med en raket, efter at han har dræbt dig."
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_TARGET_WHILE_AIRBORNE_Title"
+	{
+		"da"	"Englevinger"
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_TARGET_WHILE_AIRBORNE_Desc"
+	{
+		"da"	"Dræb en fjendtlig Soldier, mens I begge to er luftbårne."
+	}
+	"TF_SOLDIER_KILL_ENGY_Title"
+	{
+		"da"	"Enkeltbillet til evigheden"
+	}
+	"TF_SOLDIER_KILL_ENGY_Desc"
+	{
+		"da"	"Dræb en Engineer, mens han reparerer sit robotgevær, når det er under fjendtlig beskydning."
+	}
+	"TF_SOLDIER_NEMESIS_SHOVEL_KILL_Title"
+	{
+		"da"	"Skyttegravskrig"
+	}
+	"TF_SOLDIER_NEMESIS_SHOVEL_KILL_Desc"
+	{
+		"da"	"Dræb din nemesis med en skovl."
+	}
+	"TF_SOLDIER_DESTROY_STICKIES_Title"
+	{
+		"da"	"Bomberydder"
+	}
+	"TF_SOLDIER_DESTROY_STICKIES_Desc"
+	{
+		"da"	"Ødelæg 10 klæbebomber med haglgeværet i et enkelt liv."
+	}
+	"TF_SOLDIER_CROUCH_ROCKET_JUMP_Title"
+	{
+		"da"	"Ørneflugt"
+	}
+	"TF_SOLDIER_CROUCH_ROCKET_JUMP_Desc"
+	{
+		"da"	"Opnå det højest mulige rakethop ved at hoppe og sætte dig på hug."
+	}
+	"TF_SOLDIER_BUFF_FRIENDS_Title"
+	{
+		"da"	"Høj moral"
+	}
+	"TF_SOLDIER_BUFF_FRIENDS_Desc"
+	{
+		"da"	"Boost 5 Steam-venner på én gang med booster-banneret."
+	}
+	"TF_SOLDIER_KILL_TWENTY_FROM_ABOVE_Title"
+	{
+		"da"	"Ørnekrig"
+	}
+	"TF_SOLDIER_KILL_TWENTY_FROM_ABOVE_Desc"
+	{
+		"da"	"Dræb 20 fjender fra oven."
+	}
+	"TF_SOLDIER_SHOOT_MULT_CRITS_Title"
+	{
+		"da"	"Kritiske raketter er noget lort"
+	}
+	"TF_SOLDIER_SHOOT_MULT_CRITS_Desc"
+	{
+		"da"	"Skyd to ikke-boostede kritiske raketter i træk."
+	}
+	"TF_SOLDIER_KILL_DEFENSELESS_Title"
+	{
+		"da"	"Rend mig i Geneve-konventionen"
+	}
+	"TF_SOLDIER_KILL_DEFENSELESS_Desc"
+	{
+		"da"	"Dræb 5 forsvarsløse spillere, efter at en enkelt match er ovre."
+	}
+	"TF_SOLDIER_KILL_ON_FIRE_Title"
+	{
+		"da"	"Brandfarlig"
+	}
+	"TF_SOLDIER_KILL_ON_FIRE_Desc"
+	{
+		"da"	"Dræb 20 fjender, mens der er ild i dig."
+	}
+	"TF_SOLDIER_KILL_FIVE_STUNNED_Title"
+	{
+		"da"	"Den evige hvile"
+	}
+	"TF_SOLDIER_KILL_FIVE_STUNNED_Desc"
+	{
+		"da"	"Dræb 5 lammede spillere."
+	}
+	"TF_SOLDIER_FREEZECAM_GIBS_Title"
+	{
+		"da"	"Så kan du lære det!"
+	}
+	"TF_SOLDIER_FREEZECAM_GIBS_Desc"
+	{
+		"da"	"Giv en fjende et still-billede af dig selv, mens du står bøjet over 3 af hans kropsdele og håner ham."
+	}
+	"TF_SOLDIER_KILL_SPY_KILLER_Title"
+	{
+		"da"	"Lynjustits"
+	}
+	"TF_SOLDIER_KILL_SPY_KILLER_Desc"
+	{
+		"da"	"Dræb en Spy, som lige har stukket en holdkammerat i ryggen."
+	}
+	"TF_SOLDIER_DEFEND_CAP_THIRTY_TIMES_Title"
+	{
+		"da"	"Hamburger Hill"
+	}
+	"TF_SOLDIER_DEFEND_CAP_THIRTY_TIMES_Desc"
+	{
+		"da"	"Forsvar et erobringspunkt 30 gange."
+	}
+	"TF_SOLDIER_GIB_GRIND_Title"
+	{
+		"da"	"Dynamit-Harry"
+	}
+	"TF_SOLDIER_GIB_GRIND_Desc"
+	{
+		"da"	"Spræng 1000 mennesker i luften."
+	}
+	"TF_SOLDIER_RJ_EQUALIZER_KILL_Title"
+	{
+		"da"	"Blodig landing"
+	}
+	"TF_SOLDIER_RJ_EQUALIZER_KILL_Desc"
+	{
+		"da"	"Foretag et rakethop, og dræb en fjende med Equalizeren, inden du lander."
+	}
+	"TF_SOLDIER_BUFF_TEAMMATES_Title"
+	{
+		"da"	"Våbenbrødre"
+	}
+	"TF_SOLDIER_BUFF_TEAMMATES_Desc"
+	{
+		"da"	"Boost 15 holdkammerater med booster-banneret i et enkelt liv."
+	}
+	"TF_SOLDIER_KILL_DEMOMAN_GRIND_Title"
+	{
+		"da"	"Død over Skotland!"
+	}
+	"TF_SOLDIER_KILL_DEMOMAN_GRIND_Desc"
+	{
+		"da"	"Dræb 500 fjendtlige Demomen"
+	}
+	"TF_SOLDIER_KILL_PYRO_Title"
+	{
+		"da"	"Eksplosionsnægter"
+	}
+	"TF_SOLDIER_KILL_PYRO_Desc"
+	{
+		"da"	"Dræb en Pyro, som har ristet én af dine raketter inden for de seneste 10 sekunder."
+	}
+	"TF_SOLDIER_EQUALIZER_STREAK_Title"
+	{
+		"da"	"Ingen tid til at bløde"
+	}
+	"TF_SOLDIER_EQUALIZER_STREAK_Desc"
+	{
+		"da"	"Dræb 3 spillere med Equalizeren i et enkelt liv uden at blive helbredt."
+	}
+	"TF_SOLDIER_KILL_WITH_EQUALIZER_WHILE_HURT_Title"
+	{
+		"da"	"Nærdødsoplevelse"
+	}
+	"TF_SOLDIER_KILL_WITH_EQUALIZER_WHILE_HURT_Desc"
+	{
+		"da"	"Dræb 20 fjender med Equalizeren, mens du har under 25 livspoint."
+	}
+	"TF_SOLDIER_BOUNCE_THEN_SHOTGUN_Title"
+	{
+		"da"	"Hvem lyder geværerne for"
+	}
+	"TF_SOLDIER_BOUNCE_THEN_SHOTGUN_Desc"
+	{
+		"da"	"Send en modstander op i luften med en raket, og dræb ham med haglgeværet, inden han lander."
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_WITH_DIRECT_HIT_Title"
+	{
+		"da"	"Døden fra neden"
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_WITH_DIRECT_HIT_Desc"
+	{
+		"da"	"Dræb 10 luftbårne fjender med fuldtræfferen."
+	}
+	"TF_SOLDIER_FREEZECAM_TAUNT_Title"
+	{
+		"da"	"Mere end 1000 ord"
+	}
+	"TF_SOLDIER_FREEZECAM_TAUNT_Desc"
+	{
+		"da"	"Giv fjenden et stillbillede af din geværsalut."
+	}
+	"TF_SOLDIER_DUO_SOLDIER_KILLS_Title"
+	{
+		"da"	"Som brødre vi dræbe"
+	}
+	"TF_SOLDIER_DUO_SOLDIER_KILLS_Desc"
+	{
+		"da"	"Dræb 10 fjender, mens du hjælper eller får hjælp af en anden Soldier."
+	}
+	"TF_SOLDIER_MVP_Title"
+	{
+		"da"	"Æresmedaljer"
+	}
+	"TF_SOLDIER_MVP_Desc"
+	{
+		"da"	"Gennemfør en runde som bedste spiller 10 gange."
+	}
+	"TF_SOLDIER_RIDE_THE_CART_Title"
+	{
+		"da"	"Livsfarlig kørsel"
+	}
+	"TF_SOLDIER_RIDE_THE_CART_Desc"
+	{
+		"da"	"Kør rundt i vognen i 30 sekunder."
+	}
+	"TF_SOLDIER_ASSIST_MEDIC_UBER_Title"
+	{
+		"da"	"S*M*A*S*H"
+	}
+	"TF_SOLDIER_ASSIST_MEDIC_UBER_Desc"
+	{
+		"da"	"Hjælp en Medic med at sprænge 5 fjender i luften i løbet af en enkelt ÜberCharge."
+	}
+	"TF_DEMOMAN_KILL_SOLDIER_GRIND_Title"
+	{
+		"da"	"Faldet for fædrelandet"
+	}
+	"TF_DEMOMAN_KILL_SOLDIER_GRIND_Desc"
+	{
+		"da"	"Dræb 500 fjendtlige Soldiers"
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_WITH_MEDIC_Title"
+	{
+		"da"	"Nedrivningsekspert"
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_WITH_MEDIC_Desc"
+	{
+		"da"	"Tilintetgør 5 fjendtlige Engineer-bygninger i løbet af en enkelt ÜberCharge fra en Medic."
+	}
+	"TF_DEMOMAN_DECAPITATE_CLOAKED_SPY_Title"
+	{
+		"da"	"Agent 007 afkortes"
+	}
+	"TF_DEMOMAN_DECAPITATE_CLOAKED_SPY_Desc"
+	{
+		"da"	"Hug hovedet af en skjult Spy."
+	}
+	"TF_DEMOMAN_KILL_X_WITH_DIRECTPIPE_Title"
+	{
+		"da"	"Stumper og stykker"
+	}
+	"TF_DEMOMAN_KILL_X_WITH_DIRECTPIPE_Desc"
+	{
+		"da"	"Dræb 50 fjender med fuldtræffere fra granatkasteren."
+	}
+	"TF_DEMOMAN_BOUNCE_AND_KILL_Title"
+	{
+		"da"	"Pælekast"
+	}
+	"TF_DEMOMAN_BOUNCE_AND_KILL_Desc"
+	{
+		"da"	"Send en fjende op i luften og dræb ham, inden han lander."
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_Title"
+	{
+		"da"	"Hovedjagt"
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_Desc"
+	{
+		"da"	"Hug hovedet af 50 fjendtlige spillere."
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_FAST_Title"
+	{
+		"da"	"Fore!"
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_FAST_Desc"
+	{
+		"da"	"Hug hovedet af 4 spillere med kun 10 sekunder mellem hvert drab."
+	}
+	"TF_DEMOMAN_DUO_DEMOMAN_KILLS_Title"
+	{
+		"da"	"Den skotske duo"
+	}
+	"TF_DEMOMAN_DUO_DEMOMAN_KILLS_Desc"
+	{
+		"da"	"Dræb 10 fjender, mens du hjælper eller får hjælp af en anden Demoman."
+	}
+	"TF_DEMOMAN_KILL_TWO_DURING_STICKYJUMP_Title"
+	{
+		"da"	"Dobbelt op"
+	}
+	"TF_DEMOMAN_KILL_TWO_DURING_STICKYJUMP_Desc"
+	{
+		"da"	"Dræb 2 spillere i løbet af et enkelt klæbebombehop."
+	}
+	"TF_DEMOMAN_KILL_PLAYER_AFTER_TP_Title"
+	{
+		"da"	"En klæbrig velkomst"
+	}
+	"TF_DEMOMAN_KILL_PLAYER_AFTER_TP_Desc"
+	{
+		"da"	"Dræb en fjendtlig spiller med klæbebomber mindre end 5 sekunder efter, at denne har teleporteret sig."
+	}
+	"TF_DEMOMAN_DOMINATE_THREE_ENGINEERS_Title"
+	{
+		"da"	"De tre små svæklinge"
+	}
+	"TF_DEMOMAN_DOMINATE_THREE_ENGINEERS_Desc"
+	{
+		"da"	"Dominer 3 Engineers."
+	}
+	"TF_DEMOMAN_KILL_BUILDING_DIRECT_HIT_Title"
+	{
+		"da"	"Skud i blinde"
+	}
+	"TF_DEMOMAN_KILL_BUILDING_DIRECT_HIT_Desc"
+	{
+		"da"	"Tilintetgør en Engineer-bygning, som du ikke kan se, med en fuldtræffer fra granatkasteren."
+	}
+	"TF_DEMOMAN_MELEE_KILL_WHILE_STICKYJUMPING_Title"
+	{
+		"da"	"Den skotske dans"
+	}
+	"TF_DEMOMAN_MELEE_KILL_WHILE_STICKYJUMPING_Desc"
+	{
+		"da"	"Opnå et nærkampsdrab under et klæbebombehop."
+	}
+	"TF_DEMOMAN_KILL_ENGI_SENTRY_DISPENSER_Title"
+	{
+		"da"	"Argyles trick"
+	}
+	"TF_DEMOMAN_KILL_ENGI_SENTRY_DISPENSER_Desc"
+	{
+		"da"	"Spræng en Engineer, hans robotgevær og hans automat i luften med en enkelt klæbebombe-detonation."
+	}
+	"TF_DEMOMAN_DECAPITATE_EQUALIZER_Title"
+	{
+		"da"	"Nærkampslektion"
+	}
+	"TF_DEMOMAN_DECAPITATE_EQUALIZER_Desc"
+	{
+		"da"	"Hug hovedet af en fjendtlig Soldier, som har Equalizeren fremme."
+	}
+	"TF_DEMOMAN_DECAPITATE_NEMESIS_Title"
+	{
+		"da"	"Der kun kun være én"
+	}
+	"TF_DEMOMAN_DECAPITATE_NEMESIS_Desc"
+	{
+		"da"	"Hug hovedet af din nemesis."
+	}
+	"TF_DEMOMAN_DAMAGE_GRIND_Title"
+	{
+		"da"	"Kiltklædt énmandshær"
+	}
+	"TF_DEMOMAN_DAMAGE_GRIND_Desc"
+	{
+		"da"	"Gør eksplosionsskade for i alt 1 million point."
+	}
+	"TF_DEMOMAN_KILL_X_CAPPING_ONEDET_Title"
+	{
+		"da"	"Rejs hjem til England!"
+	}
+	"TF_DEMOMAN_KILL_X_CAPPING_ONEDET_Desc"
+	{
+		"da"	"Dræb 3 fjender, der indtager eller skubber en vogn, med en enkelt klæbebombe-detonation 3 separate gange."
+	}
+	"TF_DEMOMAN_KILL_X_DEFENDING_Title"
+	{
+		"da"	"Frem over heden"
+	}
+	"TF_DEMOMAN_KILL_X_DEFENDING_Desc"
+	{
+		"da"	"Dræb 25 spillere, der forsvarer et erobringspunkt eller en vogn."
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_GRIND_Title"
+	{
+		"da"	"Død over England!"
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_GRIND_Desc"
+	{
+		"da"	"Tilintetgør 50 bygninger."
+	}
+	"TF_DEMOMAN_KILL_X_HEAVIES_FULLHP_ONEDET_Title"
+	{
+		"da"	"Kædereaktion"
+	}
+	"TF_DEMOMAN_KILL_X_HEAVIES_FULLHP_ONEDET_Desc"
+	{
+		"da"	"Dræb 5 Heavies ved fuldt helbred med en enkelt klæbebombe-detonation."
+	}
+	"TF_DEMOMAN_KILL_X_SCOUTS_PYROS_Title"
+	{
+		"da"	"Glasg0wned"
+	}
+	"TF_DEMOMAN_KILL_X_SCOUTS_PYROS_Desc"
+	{
+		"da"	"Dræb 25 Scouts og Pyros med granatkasteren."
+	}
+	"TF_DEMOMAN_TAUNT_KILL_Title"
+	{
+		"da"	"Skotske prygl"
+	}
+	"TF_DEMOMAN_TAUNT_KILL_Desc"
+	{
+		"da"	"Hån dine fjender til døde med Eyelanderen."
+	}
+	"TF_DEMOMAN_CHARGE_KILL_Title"
+	{
+		"da"	"Skjoldesmæk"
+	}
+	"TF_DEMOMAN_CHARGE_KILL_Desc"
+	{
+		"da"	"Dræb en spiller ved at løbe ind i ham med dit skjold."
+	}
+	"TF_DEMOMAN_CRIT_SWORD_KILL_Title"
+	{
+		"da"	"Beat Me Up, Scotty"
+	}
+	"TF_DEMOMAN_CRIT_SWORD_KILL_Desc"
+	{
+		"da"	"Dræb 5 fjendtlige spillere med et kritisk hug fra Eyelanderen."
+	}
+	"TF_DEMOMAN_AIR_BURST_KILLS_Title"
+	{
+		"da"	"Der er noget klæbrigt i luften"
+	}
+	"TF_DEMOMAN_AIR_BURST_KILLS_Desc"
+	{
+		"da"	"Dræb 30 spillere med klæbebomber, der eksploderer i luften."
+	}
+	"TF_DEMOMAN_STICKYJUMP_CAP_Title"
+	{
+		"da"	"Luftvejen"
+	}
+	"TF_DEMOMAN_STICKYJUMP_CAP_Desc"
+	{
+		"da"	"Udfør et klæbebombehop for at nå hen på et erobringspunkt, og overtag det."
+	}
+	"TF_DEMOMAN_FREEZECAM_SMILE_Title"
+	{
+		"da"	"Dødsjovt"
+	}
+	"TF_DEMOMAN_FREEZECAM_SMILE_Desc"
+	{
+		"da"	"Giv en fjendtlig spiller et stillbillede af dit eget smilende ansigt."
+	}
+	"TF_DEMOMAN_FREEZECAM_RUMP_Title"
+	{
+		"da"	"Når enden er god"
+	}
+	"TF_DEMOMAN_FREEZECAM_RUMP_Desc"
+	{
+		"da"	"Giv en fjendtlig spiller et stillbillede af dig selv, mens du ryster popoen."
+	}
+	"TF_DEMOMAN_ENVIRONMENTAL_KILL_Title"
+	{
+		"da"	"Ekstremsport"
+	}
+	"TF_DEMOMAN_ENVIRONMENTAL_KILL_Desc"
+	{
+		"da"	"Brug klæbebombekasteren til at dræbe en fjendtlig spiller med skade fra omgivelserne."
+	}
+	"TF_DEMOMAN_DESTROY_X_STICKYBOMBS_Title"
+	{
+		"da"	"Klanopgør"
+	}
+	"TF_DEMOMAN_DESTROY_X_STICKYBOMBS_Desc"
+	{
+		"da"	"Ødelæg 100 fjendtlige klæbebomber med Scottish Resistance."
+	}
+	"TF_DEMOMAN_STICKJUMP_DISTANCE_Title"
+	{
+		"da"	"Syvmilehop"
+	}
+	"TF_DEMOMAN_STICKJUMP_DISTANCE_Desc"
+	{
+		"da"	"Nå rigtig langt med klæbebombehop..."
+	}
+	"TF_DEMOMAN_KILL3_WITH_DETONATION_Title"
+	{
+		"da"	"Højlandsmusik"
+	}
+	"TF_DEMOMAN_KILL3_WITH_DETONATION_Desc"
+	{
+		"da"	"Dræb mindst 3 spillere med en enkelt klæbebombe-detonation."
+	}
+	"TF_DEMOMAN_KILLXSAPPINGSPIES_Title"
+	{
+		"da"	"Vendetta"
+	}
+	"TF_DEMOMAN_KILLXSAPPINGSPIES_Desc"
+	{
+		"da"	"Dræb 20 Spies mindre end 5 sekunder efter, at de har mineret en venligsindet bygning."
+	}
+	"TF_DEMOMAN_KILL3_WITH_PIPE_SETUPS_Title"
+	{
+		"da"	"Klæbehjerne"
+	}
+	"TF_DEMOMAN_KILL3_WITH_PIPE_SETUPS_Desc"
+	{
+		"da"	"Brug Scottish Resistance til at dræbe 3 spillere i separate eksplosioner uden at placere nye klæbebomber."
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS1_Title"
+	{
+		"da"	"Demoman-milepæl 1"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS1_Desc"
+	{
+		"da"	"Opnå 5 af præstationerne i Demoman-pakken."
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS2_Title"
+	{
+		"da"	"Demoman-milepæl 2"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS2_Desc"
+	{
+		"da"	"Opnå 11 af præstationerne i Demoman-pakken."
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS3_Title"
+	{
+		"da"	"Demoman-milepæl 3"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS3_Desc"
+	{
+		"da"	"Opnå 17 af præstationerne i Demoman-pakken."
+	}
+	"TF_SPY_TAUNT_KILL_Title"
+	{
+		"da"	"Manden fra S.T.I.K.S.Å.R."
+	}
+	"TF_SPY_TAUNT_KILL_Desc"
+	{
+		"da"	"Stik en fjende under fægtning."
+	}
+	"TF_SPY_FAST_CAP_Title"
+	{
+		"da"	"På Hendes Majestæts hemmelige sted"
+	}
+	"TF_SPY_FAST_CAP_Desc"
+	{
+		"da"	"Begynd at indtage et erobringspunkt i samme sekund, som det bliver tilgængeligt."
+	}
+}
