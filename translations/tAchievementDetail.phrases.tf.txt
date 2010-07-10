@@ -238,7 +238,7 @@
 	}
 	"TF_MEDIC_ASSIST_HEAVY_LONG_Desc"
 	{
-		"en"	"Assist a Heavy in killing 20 enemies, where neither of you die."
+		"en"	"Assist a Heavy in killing 10 enemies, where neither of you die."
 	}
 	"TF_MEDIC_ASSIST_SCOUT_Title"
 	{
@@ -294,7 +294,7 @@
 	}
 	"TF_MEDIC_ASSIST_CAPTURER_Desc"
 	{
-		"en"	"Assist in killing 5 enemies on an enemy control point, in a single life."
+		"en"	"Assist in killing 3 enemies on an enemy control point, in a single life."
 	}
 	"TF_MEDIC_HEAL_CALLERS_Title"
 	{
@@ -774,7 +774,7 @@
 	}
 	"TF_HEAVY_ASSIST_MEDIC_LARGE_Desc"
 	{
-		"en"	"Kill 20 enemies with a Medic assisting you, where neither of you die."
+		"en"	"Kill 10 enemies with a Medic assisting you, where neither of you die."
 	}
 	"TF_HEAVY_EARN_MEDIC_DOMINATION_Title"
 	{
@@ -1278,7 +1278,7 @@
 	}
 	"TF_SCOUT_KILL_IN_DODGE_COOLDOWN_Desc"
 	{
-		"en"	"Kill a Scout while they are snared by the post-dodge slowdown effect."
+		"en"	"Kill a Scout while they are under the effect of Crit-a-Cola."
 	}
 	"TF_SCOUT_KILL_FROM_BEHIND_Title"
 	{
@@ -2270,7 +2270,7 @@
 	}
 	"TF_SOLDIER_MVP_Desc"
 	{
-		"en"	"Finish a round as an MVP 10 times."
+		"en"	"Finish a round as an MVP on a team of 6 or more players 10 times."
 	}
 	"TF_SOLDIER_RIDE_THE_CART_Title"
 	{
@@ -2382,7 +2382,7 @@
 	}
 	"TF_DEMOMAN_KILL_BUILDING_DIRECT_HIT_Desc"
 	{
-		"en"	"Kill an Engineer building that you can't see with a direct hit from your Grenade Launcher."
+		"en"	"Destroy an Engineer building that you can't see with a direct hit from your Grenade Launcher."
 	}
 	"TF_DEMOMAN_MELEE_KILL_WHILE_STICKYJUMPING_Title"
 	{
@@ -2607,5 +2607,309 @@
 	"TF_SPY_FAST_CAP_Desc"
 	{
 		"en"	"Start capping a capture point within a second of it becoming available."
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS1_Title"
+	{
+		"en"	"Engineer Milestone 1"
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS1_Desc"
+	{
+		"en"	"Achieve 5 of the achievements in the Engineer pack."
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS2_Title"
+	{
+		"en"	"Engineer Milestone 2"
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS2_Desc"
+	{
+		"en"	"Achieve 11 of the achievements in the Engineer pack."
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS3_Title"
+	{
+		"en"	"Engineer Milestone 3"
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS3_Desc"
+	{
+		"en"	"Achieve 17 of the achievements in the Engineer pack."
+	}
+	"TF_ENGINEER_TELEPORT_GRIND_Title"
+	{
+		"en"	"Battle Rustler"
+	}
+	"TF_ENGINEER_TELEPORT_GRIND_Desc"
+	{
+		"en"	"Teleport 100 team members into battle."
+	}
+	"TF_ENGINEER_DISPENSER_EXTINGUISH_Title"
+	{
+		"en"	"The Extinguished Gentleman"
+	}
+	"TF_ENGINEER_DISPENSER_EXTINGUISH_Desc"
+	{
+		"en"	"Have dispensers you built extinguish 20 burning players."
+	}
+	"TF_ENGINEER_REVENGE_CRIT_SENTRY_KILLER_Title"
+	{
+		"en"	"Revengineering"
+	}
+	"TF_ENGINEER_REVENGE_CRIT_SENTRY_KILLER_Desc"
+	{
+		"en"	"Use a revenge crit to kill the enemy player that destroyed your sentry gun."
+	}
+	"TF_ENGINEER_MANUAL_CLOAKED_SPY_KILL_Title"
+	{
+		"en"	"Search Engine"
+	}
+	"TF_ENGINEER_MANUAL_CLOAKED_SPY_KILL_Desc"
+	{
+		"en"	"Kill 3 cloaked Spies with a sentry gun under control of your Wrangler."
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_KILLS_BEYOND_RANGE_Title"
+	{
+		"en"	"Pownd on the Range"
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_KILLS_BEYOND_RANGE_Desc"
+	{
+		"en"	"Kill 10 enemies outside the normal sentry gun range using the Wrangler."
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_ABSORB_DMG_Title"
+	{
+		"en"	"Building Block"
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_ABSORB_DMG_Desc"
+	{
+		"en"	"Have a sentry shielded by the Wrangler absorb 500 damage without being destroyed."
+	}
+	"TF_ENGINEER_REVENGE_CRIT_LIFE_Title"
+	{
+		"en"	"Unforgiven"
+	}
+	"TF_ENGINEER_REVENGE_CRIT_LIFE_Desc"
+	{
+		"en"	"Kill 3 enemies with revenge crits without dying."
+	}
+	"TF_ENGINEER_KILL_SPY_TWO_SAPPERS_Title"
+	{
+		"en"	"Quick Draw"
+	}
+	"TF_ENGINEER_KILL_SPY_TWO_SAPPERS_Desc"
+	{
+		"en"	"Kill a spy and two sappers within 10 seconds."
+	}
+	"TF_ENGINEER_KILL_DISGUISED_SPY_Title"
+	{
+		"en"	"The Wrench Connection"
+	}
+	"TF_ENGINEER_KILL_DISGUISED_SPY_Desc"
+	{
+		"en"	"Kill a disguised spy with your Wrench."
+	}
+	"TF_ENGINEER_UPGRADE_BUILDINGS_Title"
+	{
+		"en"	"Silent Pardner"
+	}
+	"TF_ENGINEER_UPGRADE_BUILDINGS_Desc"
+	{
+		"en"	"Upgrade 50 buildings built by other team members."
+	}
+	"TF_ENGINEER_DESTROY_SAPPERS_Title"
+	{
+		"en"	"Fistful of Sappers"
+	}
+	"TF_ENGINEER_DESTROY_SAPPERS_Desc"
+	{
+		"en"	"Destroy 25 sappers on buildings built by other team members."
+	}
+	"TF_ENGINEER_REPAIR_SENTRY_W_MEDIC_Title"
+	{
+		"en"	"Doc, Stock, and Barrel"
+	}
+	"TF_ENGINEER_REPAIR_SENTRY_W_MEDIC_Desc"
+	{
+		"en"	"Repair a sentry gun under fire while being healed by a Medic."
+	}
+	"TF_ENGINEER_SENTRY_KILL_LIFETIME_GRIND_Title"
+	{
+		"en"	"Best Little Slaughterhouse in Texas"
+	}
+	"TF_ENGINEER_SENTRY_KILL_LIFETIME_GRIND_Desc"
+	{
+		"en"	"Rack up 5000 kills with your sentry guns."
+	}
+	"TF_ENGINEER_SENTRY_AVENGES_YOU_Title"
+	{
+		"en"	"Frontier Justice"
+	}
+	"TF_ENGINEER_SENTRY_AVENGES_YOU_Desc"
+	{
+		"en"	"Have your sentry kill the enemy that just killed you within 10 seconds."
+	}
+	"TF_ENGINEER_FREEZECAM_TAUNT_Title"
+	{
+		"en"	"Six-String Stinger"
+	}
+	"TF_ENGINEER_FREEZECAM_TAUNT_Desc"
+	{
+		"en"	"Provide an enemy player with a freeze cam of your guitar playing skills."
+	}
+	"TF_ENGINEER_FREEZECAM_SENTRY_Title"
+	{
+		"en"	"Uncivil Engineer"
+	}
+	"TF_ENGINEER_FREEZECAM_SENTRY_Desc"
+	{
+		"en"	"Provide an enemy player with a freeze cam of you and the sentry that just killed them."
+	}
+	"TF_ENGINEER_SHOTGUN_KILL_PREV_SENTRY_TARGET_Title"
+	{
+		"en"	"Texas Two-Step"
+	}
+	"TF_ENGINEER_SHOTGUN_KILL_PREV_SENTRY_TARGET_Desc"
+	{
+		"en"	"Use your shotgun to finish off an enemy recently damaged by your sentry gun."
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GROUP_Title"
+	{
+		"en"	"Doc Holiday"
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GROUP_Desc"
+	{
+		"en"	"Have a dispenser heal 3 teammates at the same time."
+	}
+	"TF_ENGINEER_SENTRY_KILL_CAPS_Title"
+	{
+		"en"	"No Man's Land"
+	}
+	"TF_ENGINEER_SENTRY_KILL_CAPS_Desc"
+	{
+		"en"	"Use a sentry gun to kill 25 enemy players that are capturing a point."
+	}
+	"TF_ENGINEER_KILL_FLAG_CARRIERS_Title"
+	{
+		"en"	"Trade Secrets"
+	}
+	"TF_ENGINEER_KILL_FLAG_CARRIERS_Desc"
+	{
+		"en"	"Kill 20 players carrying the intelligence."
+	}
+	"TF_ENGINEER_WASTE_METAL_GRIND_Title"
+	{
+		"en"	"Death Metal"
+	}
+	"TF_ENGINEER_WASTE_METAL_GRIND_Desc"
+	{
+		"en"	"Pick up 10,000 waste metal from pieces of destroyed buildings."
+	}
+	"TF_ENGINEER_HELP_BUILD_STRUCTURE_Title"
+	{
+		"en"	"Land Grab"
+	}
+	"TF_ENGINEER_HELP_BUILD_STRUCTURE_Desc"
+	{
+		"en"	"Help a teammate construct a building."
+	}
+	"TF_ENGINEER_REMOVE_SAPPER_LONG_DIST_Title"
+	{
+		"en"	"Get Along!"
+	}
+	"TF_ENGINEER_REMOVE_SAPPER_LONG_DIST_Desc"
+	{
+		"en"	"Manage to get to and then remove a sapper placed on your building while you were several meters away."
+	}
+	"TF_ENGINEER_DESTROY_STICKIES_Title"
+	{
+		"en"	"How the Pests Was Gunned"
+	}
+	"TF_ENGINEER_DESTROY_STICKIES_Desc"
+	{
+		"en"	"Destroy 50 enemy stickybombs lying in range of friendly buildings."
+	}
+	"TF_ENGINEER_TAUNT_KILL_Title"
+	{
+		"en"	"Honky Tonk Man"
+	}
+	"TF_ENGINEER_TAUNT_KILL_Desc"
+	{
+		"en"	"Smash an enemy player's head in with your guitar."
+	}
+	"TF_ENGINEER_KILL_SNIPERS_SENTRY_Title"
+	{
+		"en"	"Breaking Morant"
+	}
+	"TF_ENGINEER_KILL_SNIPERS_SENTRY_Desc"
+	{
+		"en"	"Kill 10 Snipers with a sentry gun under control of your Wrangler."
+	}
+	"TF_ENGINEER_HELP_MANUAL_SENTRY_Title"
+	{
+		"en"	"Rio Grind"
+	}
+	"TF_ENGINEER_HELP_MANUAL_SENTRY_Desc"
+	{
+		"en"	"Perform 50 repairs and/or reloads on a Sentry gun being Wrangled by another Engineer."
+	}
+	"TF_ENGINEER_KILL_SENTRY_WITH_SENTRY_Title"
+	{
+		"en"	"Patent Protection"
+	}
+	"TF_ENGINEER_KILL_SENTRY_WITH_SENTRY_Desc"
+	{
+		"en"	"Destroy an enemy Engineer's sentry gun with a sentry under control of your Wrangler."
+	}
+	"TF_ENGINEER_MOVE_SENTRY_GET_KILL_Title"
+	{
+		"en"	"If You Build It, They Will Die"
+	}
+	"TF_ENGINEER_MOVE_SENTRY_GET_KILL_Desc"
+	{
+		"en"	"Haul a level 3 sentry gun into a position where it achieves a kill shortly after being redeployed."
+	}
+	"TF_ENGINEER_BUILDING_CARRY_Title"
+	{
+		"en"	"Texas Ranger"
+	}
+	"TF_ENGINEER_BUILDING_CARRY_Desc"
+	{
+		"en"	"Haul buildings 1 km over your career."
+	}
+	"TF_ENGINEER_KILL_ASSIST_Title"
+	{
+		"en"	"Deputized"
+	}
+	"TF_ENGINEER_KILL_ASSIST_Desc"
+	{
+		"en"	"Get 10 assists with another Engineer where a sentry gun was involved in the kill."
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GRIND_Title"
+	{
+		"en"	"Drugstore Cowboy"
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GRIND_Desc"
+	{
+		"en"	"Have dispensers you created dispense a combined amount of 100,000 health over your career."
+	}
+	"TF_ENGINEER_REPAIR_TEAM_GRIND_Title"
+	{
+		"en"	"Circle the Wagons"
+	}
+	"TF_ENGINEER_REPAIR_TEAM_GRIND_Desc"
+	{
+		"en"	"Repair 50,000 damage to friendly buildings constructed by other players."
+	}
+	"TF_ENGINEER_TANK_DAMAGE_Title"
+	{
+		"en"	"Built to Last"
+	}
+	"TF_ENGINEER_TANK_DAMAGE_Desc"
+	{
+		"en"	"Help a single building tank over 2000 damage without being destroyed."
+	}
+	"TF_ENGINEER_HEAVY_ASSIST_Title"
+	{
+		"en"	"(Not So) Lonely Are the Brave"
+	}
+	"TF_ENGINEER_HEAVY_ASSIST_Desc"
+	{
+		"en"	"Keep a Heavy healed with your dispenser while he gains 5 kills."
 	}
 }
