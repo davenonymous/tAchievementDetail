@@ -37,7 +37,7 @@ public Plugin:myinfo =
 
 public OnPluginStart()
 {
-	CreateConVar("sm_tachievementdetail_version", PLUGIN_VERSION, "Plugin version.", FCVAR_PLUGIN|FCVAR_REPLICATED|FCVAR_NOTIFY);
+	CreateConVar("sm_tachievementdetail_version", PLUGIN_VERSION, "Plugin version.", FCVAR_PLUGIN|FCVAR_SPONLY|FCVAR_REPLICATED|FCVAR_NOTIFY|FCVAR_DONTRECORD);
 
 	g_hCvarEnabled = CreateConVar("sm_tachievementdetail_enabled", "1", "Enable tAchievementDetail", FCVAR_PLUGIN, true, 0.0, true, 1.0);
 	g_hCvarDisplay = CreateConVar("sm_tachievementdetail_bc_detail", "0", "Auto broadcast details: 0 - off, 1 - Chat, 2 - Hint", FCVAR_PLUGIN, true, 0.0, true, 2.0);
@@ -49,7 +49,7 @@ public OnPluginStart()
 
 	HookEvent("achievement_earned", Event_Achievement);
 
-	RegConsoleCmd("sm_setlast", Command_SetLastAchievement);
+	//RegConsoleCmd("sm_setlast", Command_SetLastAchievement);
 
 	RegConsoleCmd("sm_explain", Command_DetailLastAchievement);
 	RegConsoleCmd("say", Cmd_BlockTriggers);
