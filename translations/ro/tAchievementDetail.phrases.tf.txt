@@ -1,0 +1,2915 @@
+﻿"Phrases"
+{
+	"TF_GET_TURRETKILLS_Title"
+	{
+		"ro"	"Maestrul Santinelelor"
+	}
+	"TF_GET_TURRETKILLS_Desc"
+	{
+		"ro"	"Omoară 10 adversari cu acelaşi sentry "
+	}
+	"TF_KILL_NEMESIS_Title"
+	{
+		"ro"	"Rival"
+	}
+	"TF_KILL_NEMESIS_Desc"
+	{
+		"ro"	"Ia-ţi de 5 ori revanşa."
+	}
+	"TF_GET_CONSECUTIVEKILLS_NODEATHS_Title"
+	{
+		"ro"	"Greu de Ucis"
+	}
+	"TF_GET_CONSECUTIVEKILLS_NODEATHS_Desc"
+	{
+		"ro"	"Omoară 5 adversari la rând, fără a muri."
+	}
+	"TF_GET_HEALED_BYENEMY_Title"
+	{
+		"ro"	"Maestrul Deghizărilor"
+	}
+	"TF_GET_HEALED_BYENEMY_Desc"
+	{
+		"ro"	"Păcăleşte un Medic advers să te vindece."
+	}
+	"TF_GET_HEADSHOTS_Title"
+	{
+		"ro"	"Materie Cenuşie"
+	}
+	"TF_GET_HEADSHOTS_Desc"
+	{
+		"ro"	"Omoară 25 de adversari cu lovituri la cap, ca Sniper."
+	}
+	"TF_PLAY_GAME_FRIENDSONLY_Title"
+	{
+		"ro"	"Cu Prieteni Ca Aceştia..."
+	}
+	"TF_PLAY_GAME_FRIENDSONLY_Desc"
+	{
+		"ro"	"Joacă un meci cu 7 sau mai mulţi prieteni din Lista ta de Prieteni."
+	}
+	"TF_WIN_MULTIPLEGAMES_Title"
+	{
+		"ro"	"Dinastie"
+	}
+	"TF_WIN_MULTIPLEGAMES_Desc"
+	{
+		"ro"	"Câştigă 20 de jocuri."
+	}
+	"TF_GET_MULTIPLEKILLS_Title"
+	{
+		"ro"	"Hardcore"
+	}
+	"TF_GET_MULTIPLEKILLS_Desc"
+	{
+		"ro"	"Omoară 1000 adversari."
+	}
+	"TF_WIN_2FORT_NOENEMYCAPS_Title"
+	{
+		"ro"	"Ofensivă Imbatabilă"
+	}
+	"TF_WIN_2FORT_NOENEMYCAPS_Desc"
+	{
+		"ro"	"Câştigă 2Fort fără să captureze inamicul inteligenţa."
+	}
+	"TF_WIN_WELL_MINIMUMTIME_Title"
+	{
+		"ro"	"Ofensivă Fulger"
+	}
+	"TF_WIN_WELL_MINIMUMTIME_Desc"
+	{
+		"ro"	"Câştigă Well în 5 minute sau mai puţîn."
+	}
+	"TF_WIN_HYDRO_NOENEMYCAPS_Title"
+	{
+		"ro"	"Ofensivă Neincetată"
+	}
+	"TF_WIN_HYDRO_NOENEMYCAPS_Desc"
+	{
+		"ro"	"Câştigă Hydro fără să pierzi vreun Punct de Control."
+	}
+	"TF_WIN_DUSTBOWL_NOENEMYCAPS_Title"
+	{
+		"ro"	"Defensivă Impenetrabilă"
+	}
+	"TF_WIN_DUSTBOWL_NOENEMYCAPS_Desc"
+	{
+		"ro"	"Apără Dustbowl fără să pierzi vreun Punct de Control."
+	}
+	"TF_WIN_GRAVELPIT_NOENEMYCAPS_Title"
+	{
+		"ro"	"Defensivă Imposibilă"
+	}
+	"TF_WIN_GRAVELPIT_NOENEMYCAPS_Desc"
+	{
+		"ro"	"Apără Dustbowl fără să pierzi vreun Punct de Control."
+	}
+	"TF_PLAY_GAME_EVERYCLASS_Title"
+	{
+		"ro"	"Şeful Claselor"
+	}
+	"TF_PLAY_GAME_EVERYCLASS_Desc"
+	{
+		"ro"	"Joacă o rundă completă cu fiecare clasă."
+	}
+	"TF_PLAY_GAME_EVERYMAP_Title"
+	{
+		"ro"	"Călător prin Lume"
+	}
+	"TF_PLAY_GAME_EVERYMAP_Desc"
+	{
+		"ro"	"Joacă un meci complet pe 2Fort, Dustbowl, Granary, Gravel Pit, Hydro, şi Well (CP)."
+	}
+	"TF_GET_HEALPOINTS_Title"
+	{
+		"ro"	"Medic de Echipă"
+	}
+	"TF_GET_HEALPOINTS_Desc"
+	{
+		"ro"	"Acumulează 25000 de puncte de vindecare ca Medic."
+	}
+	"TF_BURN_PLAYERSINMINIMUMTIME_Title"
+	{
+		"ro"	"Aruncător de Flăcări"
+	}
+	"TF_BURN_PLAYERSINMINIMUMTIME_Desc"
+	{
+		"ro"	"Aprinde 5 adversari în 30 de secunde, ca Pyro."
+	}
+	"TF_MEDIC_TOP_SCOREBOARD_Title"
+	{
+		"ro"	"Întai să nu Răneşti"
+	}
+	"TF_MEDIC_TOP_SCOREBOARD_Desc"
+	{
+		"ro"	"Joacă o rundă completă fără să omori vreun adversar şi termină pe primul loc într-o echipă cu 6 sau mai mulţi jucători."
+	}
+	"TF_MEDIC_HEAL_UNDER_FIRE_Title"
+	{
+		"ro"	"Bypass Quadruplu"
+	}
+	"TF_MEDIC_HEAL_UNDER_FIRE_Desc"
+	{
+		"ro"	"Vindecă un coechipier care arde şi în acelaşi timp se află sub focul a patru adversari."
+	}
+	"TF_MEDIC_SIMUL_CHARGE_Title"
+	{
+		"ro"	"Sănătate în Grup"
+	}
+	"TF_MEDIC_SIMUL_CHARGE_Desc"
+	{
+		"ro"	"Cooperează cu alţi 2 Medici şi activaţi simultan 3 ÜberÎncărcături."
+	}
+	"TF_MEDIC_SETUP_CHARGE_Title"
+	{
+		"ro"	"Pregatire Chirurgicală"
+	}
+	"TF_MEDIC_SETUP_CHARGE_Desc"
+	{
+		"ro"	"Pregăteşte o ÜberCharge înainte ca timpul de pregătire să expire."
+	}
+	"TF_MEDIC_RAPID_CHARGE_Title"
+	{
+		"ro"	"Regina Traumelor"
+	}
+	"TF_MEDIC_RAPID_CHARGE_Desc"
+	{
+		"ro"	"Activează 3 ÜberÎncărcături în mai puţîn de 5 minute şi asistă la 5 omoruri în acel timp."
+	}
+	"TF_MEDIC_COUNTER_CHARGE_Title"
+	{
+		"ro"	"Dublă Concidenţă Medicală"
+	}
+	"TF_MEDIC_COUNTER_CHARGE_Desc"
+	{
+		"ro"	"Activează un ÜberCharge în cel mult 8 secunde de la activarea uneia de catre un Medic advers."
+	}
+	"TF_MEDIC_SWITCH_TO_MEDIC_Title"
+	{
+		"ro"	"Joacă Medic"
+	}
+	"TF_MEDIC_SWITCH_TO_MEDIC_Desc"
+	{
+		"ro"	"Într-o echipă fără Medici, fi prima persoana care se face Medic după ce un coechipier a strigat Medic, iar apoi obţine 500 de puncte de vindecare."
+	}
+	"TF_MEDIC_SAVE_TEAMMATE_Title"
+	{
+		"ro"	"Acordarea Primului Ajutor"
+	}
+	"TF_MEDIC_SAVE_TEAMMATE_Desc"
+	{
+		"ro"	"Activează un ÜberCharge în cel mult o secundă de când acesta a suferit o lovitură explozivă criticală."
+	}
+	"TF_MEDIC_CHARGE_BLOCKER_Title"
+	{
+		"ro"	"Medicament Preventiv"
+	}
+	"TF_MEDIC_CHARGE_BLOCKER_Desc"
+	{
+		"ro"	"Blochează adversarul în procesul de capturare a unui Punct de Control prin activarea unei ÜberÎncărcături pe un coechipier."
+	}
+	"TF_MEDIC_ASSIST_MEDIC_Title"
+	{
+		"ro"	"Consultaţie"
+	}
+	"TF_MEDIC_ASSIST_MEDIC_Desc"
+	{
+		"ro"	"Asistă un coleg Medic în omorârea a 5 adversari într-o singură viaţă."
+	}
+	"TF_MEDIC_SYRINGE_SCOUTS_Title"
+	{
+		"ro"	"Doare când fac asta?"
+	}
+	"TF_MEDIC_SYRINGE_SCOUTS_Desc"
+	{
+		"ro"	"Omoară 50 de Scouti folosind Blutsauger-ul."
+	}
+	"TF_MEDIC_BONESAW_MEDICS_Title"
+	{
+		"ro"	"Revizia Personalului"
+	}
+	"TF_MEDIC_BONESAW_MEDICS_Desc"
+	{
+		"ro"	"Omoară 50 de Medici folosind Fierastrăul."
+	}
+	"TF_MEDIC_ASSIST_HEAVY_LONG_Title"
+	{
+		"ro"	"Marea Farmacie"
+	}
+	"TF_MEDIC_ASSIST_HEAVY_LONG_Desc"
+	{
+		"ro"	"Asistă un Heavy în omorârea a 20 de adversari, fără ca vreunul dintre voi să moară."
+	}
+	"TF_MEDIC_ASSIST_SCOUT_Title"
+	{
+		"ro"	"Vei simţi o mică înţepătură!"
+	}
+	"TF_MEDIC_ASSIST_SCOUT_Desc"
+	{
+		"ro"	"Asistă în omorârea a 3 adversari activând un singur ÜberCharge pe un Scout."
+	}
+	"TF_MEDIC_ASSIST_PYRO_Title"
+	{
+		"ro"	"Încinerare"
+	}
+	"TF_MEDIC_ASSIST_PYRO_Desc"
+	{
+		"ro"	"Asistă în arderea a 5 adversari folosind un singur ÜberCharge pe un Pyro."
+	}
+	"TF_MEDIC_ASSIST_HEAVY_Title"
+	{
+		"ro"	"Traumă Brutală"
+	}
+	"TF_MEDIC_ASSIST_HEAVY_Desc"
+	{
+		"ro"	"Asistă în lovirea cu pumnul a 2 adversari folosind un singur ÜberCharge pe un Heavy."
+	}
+	"TF_MEDIC_ASSIST_DEMOMAN_Title"
+	{
+		"ro"	"Avansare Medicală"
+	}
+	"TF_MEDIC_ASSIST_DEMOMAN_Desc"
+	{
+		"ro"	"Asistă în distrugerea a 5 clădiri ale unui Engineer adversar folosind un singur ÜberCharge pe un Demoman."
+	}
+	"TF_MEDIC_ASSIST_SOLDIER_Title"
+	{
+		"ro"	"Asistare în Explozii"
+	}
+	"TF_MEDIC_ASSIST_SOLDIER_Desc"
+	{
+		"ro"	"Asistă în a exploda 5 adversari folosind un singur ÜberCharge pe un Soldier."
+	}
+	"TF_MEDIC_HEAL_ENGINEER_Title"
+	{
+		"ro"	"Midwife Crisis"
+	}
+	"TF_MEDIC_HEAL_ENGINEER_Desc"
+	{
+		"ro"	"Vindecă un Engineer când îşi repară Santinela care este atacată."
+	}
+	"TF_MEDIC_ASSIST_CAPTURER_Title"
+	{
+		"ro"	"Ubi concordia, ibi victoria"
+	}
+	"TF_MEDIC_ASSIST_CAPTURER_Desc"
+	{
+		"ro"	"Asistă în omorârea a 5 adversari pe Punctul de Control advers, într-o singură viaţă."
+	}
+	"TF_MEDIC_HEAL_CALLERS_Title"
+	{
+		"ro"	"Onorează-ţi Turele"
+	}
+	"TF_MEDIC_HEAL_CALLERS_Desc"
+	{
+		"ro"	"Vindecă 200 de coechipieri după ce au strigat Medic!."
+	}
+	"TF_MEDIC_EXTINGUISH_TEAMMATES_Title"
+	{
+		"ro"	"Medicină Infernală"
+	}
+	"TF_MEDIC_EXTINGUISH_TEAMMATES_Desc"
+	{
+		"ro"	"Stinge 100 de coechipieri în flăcări."
+	}
+	"TF_MEDIC_ASSIST_VS_NEMESES_Title"
+	{
+		"ro"	"Omucidere Asistată de Medic"
+	}
+	"TF_MEDIC_ASSIST_VS_NEMESES_Desc"
+	{
+		"ro"	"Asistă în omorârea a 20 de adversari care te domină."
+	}
+	"TF_MEDIC_KILL_WHILE_CHARGED_Title"
+	{
+		"ro"	"Efectul Placebo"
+	}
+	"TF_MEDIC_KILL_WHILE_CHARGED_Desc"
+	{
+		"ro"	"Omoară 5 adversari într-o singură viaţă, în timp ce ai un ÜberCharge pregătit, dar neactivat."
+	}
+	"TF_MEDIC_BONESAW_NOMISSES_Title"
+	{
+		"ro"	"Taie-Oase"
+	}
+	"TF_MEDIC_BONESAW_NOMISSES_Desc"
+	{
+		"ro"	"Loveşte adversari cu Fierăstraul de 5 ori la rând, fără să ratezi sau să mori."
+	}
+	"TF_MEDIC_HEAL_LARGE_Title"
+	{
+		"ro"	"Intern"
+	}
+	"TF_MEDIC_HEAL_LARGE_Desc"
+	{
+		"ro"	"Acumulează 7000 de puncte de vindecare într-o singură viaţă."
+	}
+	"TF_MEDIC_HEAL_HUGE_Title"
+	{
+		"ro"	"Specialist"
+	}
+	"TF_MEDIC_HEAL_HUGE_Desc"
+	{
+		"ro"	"Acumulează 10000 de puncte de vindecare într-o singură viaţă."
+	}
+	"TF_MEDIC_HEAL_GRIND_Title"
+	{
+		"ro"	"Medic Şef"
+	}
+	"TF_MEDIC_HEAL_GRIND_Desc"
+	{
+		"ro"	"Acumulează 1 milion de puncte de vindecare în total."
+	}
+	"TF_MEDIC_KILL_HEALED_SPY_Title"
+	{
+		"ro"	"Jurământul Ipocratic"
+	}
+	"TF_MEDIC_KILL_HEALED_SPY_Desc"
+	{
+		"ro"	"Omoară un Spy advers pe căre l-ai vindecat."
+	}
+	"TF_MEDIC_SAVE_FALLING_TEAMMATE_Title"
+	{
+		"ro"	"Intervenţie Medicală"
+	}
+	"TF_MEDIC_SAVE_FALLING_TEAMMATE_Desc"
+	{
+		"ro"	"Salvează un coechipier care se află în cădere de la moarte."
+	}
+	"TF_MEDIC_CHARGE_JUGGLE_Title"
+	{
+		"ro"	"O a Doua Opinie"
+	}
+	"TF_MEDIC_CHARGE_JUGGLE_Desc"
+	{
+		"ro"	"Activează ÜberCharge pe 2 coechipieri în acelaşi timp."
+	}
+	"TF_MEDIC_FREEZECAM_RAGDOLL_Title"
+	{
+		"ro"	"Raportul Autopsiei"
+	}
+	"TF_MEDIC_FREEZECAM_RAGDOLL_Desc"
+	{
+		"ro"	"Adversarul trebuie să te vadă batjocorând-ul."
+	}
+	"TF_MEDIC_BONESAW_SPY_CALLERS_Title"
+	{
+		"ro"	"Ca să ştii, eu sunt un Medic"
+	}
+	"TF_MEDIC_BONESAW_SPY_CALLERS_Desc"
+	{
+		"ro"	"Folosind fierastrăul de oase, omoară 5 Spyi care au strigat Medic!."
+	}
+	"TF_MEDIC_CHARGE_FRIENDS_Title"
+	{
+		"ro"	"Practica in Familie"
+	}
+	"TF_MEDIC_CHARGE_FRIENDS_Desc"
+	{
+		"ro"	"Activează ÜberCharge pe 10 prieteni din Comunitatea Steam."
+	}
+	"TF_MEDIC_INVITE_JOIN_CHARGE_Title"
+	{
+		"ro"	"Sună Acasă"
+	}
+	"TF_MEDIC_INVITE_JOIN_CHARGE_Desc"
+	{
+		"ro"	"Alătură-te unui joc în care este şi unul dintre prietenii tăi şi activează un ÜberCharge pe el."
+	}
+	"TF_MEDIC_HEAL_ACHIEVER_Title"
+	{
+		"ro"	"Manierat Acasă"
+	}
+	"TF_MEDIC_HEAL_ACHIEVER_Desc"
+	{
+		"ro"	"Vindecă un coechipier în timp ce acesta obţine o realizare."
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS1_Title"
+	{
+		"ro"	"Grad 1 Medic"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS1_Desc"
+	{
+		"ro"	"Obţine 10 realizări din pachetul Medic-ului."
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS2_Title"
+	{
+		"ro"	"Grad 2 Medic"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS2_Desc"
+	{
+		"ro"	"Obține 16 realizări din pachetul Medic-ului."
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS3_Title"
+	{
+		"ro"	"Grad 3 Medic"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS3_Desc"
+	{
+		"ro"	"Obţine 22 realizări din pachetul Medic-ului."
+	}
+	"TF_PYRO_KILL_MULTIWEAPONS_Title"
+	{
+		"ro"	"Foc Combinat"
+	}
+	"TF_PYRO_KILL_MULTIWEAPONS_Desc"
+	{
+		"ro"	"Folosind puşca, omoară 20 de adversari pe care i-ai aprins."
+	}
+	"TF_PYRO_SIMULBURN_SCOUTS_Title"
+	{
+		"ro"	"Cârnaţi la Grătar"
+	}
+	"TF_PYRO_SIMULBURN_SCOUTS_Desc"
+	{
+		"ro"	"Aprinde 2 Scouti adverşi în acelaşi timp."
+	}
+	"TF_PYRO_FORCE_WATERJUMP_Title"
+	{
+		"ro"	"Botez prin Foc"
+	}
+	"TF_PYRO_FORCE_WATERJUMP_Desc"
+	{
+		"ro"	"Forţează 10 adversari în flăcari să sară în apă."
+	}
+	"TF_PYRO_KILL_POSTDEATH_Title"
+	{
+		"ro"	"Aprinde-i şi Uită-i"
+	}
+	"TF_PYRO_KILL_POSTDEATH_Desc"
+	{
+		"ro"	"Omoară 15 adversari în timp ce eşti mort."
+	}
+	"TF_PYRO_KILL_SPIES_Title"
+	{
+		"ro"	"Zid de Foc"
+	}
+	"TF_PYRO_KILL_SPIES_Desc"
+	{
+		"ro"	"Aprinde 5 Spyi care au pus Sabotoar-ul pe o clădire a unui coechiper."
+	}
+	"TF_PYRO_KILL_CARRIERS_Title"
+	{
+		"ro"	"Gatind Carţile"
+	}
+	"TF_PYRO_KILL_CARRIERS_Desc"
+	{
+		"ro"	"Aprinde 5 adversari ce cară Inteligenţa."
+	}
+	"TF_PYRO_REVEAL_SPIES_Title"
+	{
+		"ro"	"Combustie Spontană"
+	}
+	"TF_PYRO_REVEAL_SPIES_Desc"
+	{
+		"ro"	"Aprinde 10 Spyi invizibili."
+	}
+	"TF_PYRO_CAMP_TELEPORTERS_Title"
+	{
+		"ro"	"Deschizătoare de Drumuri"
+	}
+	"TF_PYRO_CAMP_TELEPORTERS_Desc"
+	{
+		"ro"	"Aprinde 10 adversari care au folosit recent Teleport-ul."
+	}
+	"TF_PYRO_CAMP_POSITION_Title"
+	{
+		"ro"	"Foc de Tabără"
+	}
+	"TF_PYRO_CAMP_POSITION_Desc"
+	{
+		"ro"	"Omoară 3 adversari pe rând, toţi fiind în aceeaşi zonă."
+	}
+	"TF_PYRO_KILL_AXE_SMALL_Title"
+	{
+		"ro"	"Taietor de Lemne"
+	}
+	"TF_PYRO_KILL_AXE_SMALL_Desc"
+	{
+		"ro"	"Omoară 3 adversari cu toporul într-o singură viaţa."
+	}
+	"TF_PYRO_KILL_AXE_LARGE_Title"
+	{
+		"ro"	"Clartăietor"
+	}
+	"TF_PYRO_KILL_AXE_LARGE_Desc"
+	{
+		"ro"	"Omoară 6 adversari cu toporul într-o singură viaţa."
+	}
+	"TF_PYRO_KILL_FROM_BEHIND_Title"
+	{
+		"ro"	"Fierbinte pe Tocurile Tale"
+	}
+	"TF_PYRO_KILL_FROM_BEHIND_Desc"
+	{
+		"ro"	"Omoară 50 de adversari cu Aruncătorul de Flăcări pe la spate."
+	}
+	"TF_PYRO_BURN_SPIES_AS_YOU_Title"
+	{
+		"ro"	"Eu Prăjesc"
+	}
+	"TF_PYRO_BURN_SPIES_AS_YOU_Desc"
+	{
+		"ro"	"Aprinde 10 Spyi deghizaţi."
+	}
+	"TF_PYRO_BURN_SNIPERS_ZOOMED_Title"
+	{
+		"ro"	"Veghează Focul"
+	}
+	"TF_PYRO_BURN_SNIPERS_ZOOMED_Desc"
+	{
+		"ro"	"Aprinde 10 lunetişti care privesc prin lunetă."
+	}
+	"TF_PYRO_BURN_MEDICS_CHARGED_Title"
+	{
+		"ro"	"Secţia de Arşi"
+	}
+	"TF_PYRO_BURN_MEDICS_CHARGED_Desc"
+	{
+		"ro"	"Aprinde 3 Medici care sunt pe cale să folosească un ÜberCharge."
+	}
+	"TF_PYRO_REFLECT_PROJECTILES_Title"
+	{
+		"ro"	"Cartoful Fierbinte"
+	}
+	"TF_PYRO_REFLECT_PROJECTILES_Desc"
+	{
+		"ro"	"Reflectă 100 de proiectile, folosind aerul comprimat."
+	}
+	"TF_PYRO_KILL_HEAVIES_Title"
+	{
+		"ro"	"Făcând Bacon"
+	}
+	"TF_PYRO_KILL_HEAVIES_Desc"
+	{
+		"ro"	"Omoară 10 Heavy cu Aruncătorul de Flăcări."
+	}
+	"TF_PYRO_KILL_UNDERWATER_Title"
+	{
+		"ro"	"Planul B"
+	}
+	"TF_PYRO_KILL_UNDERWATER_Desc"
+	{
+		"ro"	"Omoră 10 adversari în timp ce amândoi sunteţi sub apă."
+	}
+	"TF_PYRO_KILL_UBERCHARGE_Title"
+	{
+		"ro"	"Pyrotehnie"
+	}
+	"TF_PYRO_KILL_UBERCHARGE_Desc"
+	{
+		"ro"	"Omoară 3 adversari într-o singur ÜberCharge."
+	}
+	"TF_PYRO_DESTROY_BUILDINGS_Title"
+	{
+		"ro"	"Incendiator"
+	}
+	"TF_PYRO_DESTROY_BUILDINGS_Desc"
+	{
+		"ro"	"Distruge 50 de clădiri."
+	}
+	"TF_PYRO_DEFEND_POINTS_Title"
+	{
+		"ro"	"Ardere Controlată"
+	}
+	"TF_PYRO_DEFEND_POINTS_Desc"
+	{
+		"ro"	"Aprinde 50 de adversari care capturează unul dintre Punctele de Control ale tale."
+	}
+	"TF_PYRO_KILL_GRIND_Title"
+	{
+		"ro"	"Pompier"
+	}
+	"TF_PYRO_KILL_GRIND_Desc"
+	{
+		"ro"	"Omoară 500 de adversari."
+	}
+	"TF_PYRO_DAMAGE_GRIND_Title"
+	{
+		"ro"	"Magicianul Focului"
+	}
+	"TF_PYRO_DAMAGE_GRIND_Desc"
+	{
+		"ro"	"Adună 1 milion de puncte de daună."
+	}
+	"TF_PYRO_BURN_MEDICPAIR_Title"
+	{
+		"ro"	"Următoarea Surcea"
+	}
+	"TF_PYRO_BURN_MEDICPAIR_Desc"
+	{
+		"ro"	"Apinde un adversar şi medicul care îi dă viaţă."
+	}
+	"TF_PYRO_KILL_TAUNT_Title"
+	{
+		"ro"	"OMGWTFBBQ"
+	}
+	"TF_PYRO_KILL_TAUNT_Desc"
+	{
+		"ro"	"Omoară un adversar cu o batjocură."
+	}
+	"TF_PYRO_KILL_TEAMWORK_Title"
+	{
+		"ro"	"Arsură de Gradul Doi"
+	}
+	"TF_PYRO_KILL_TEAMWORK_Desc"
+	{
+		"ro"	"Omoară un adversar în flăcări, care a fost aprins de un alt Pyro."
+	}
+	"TF_PYRO_BURN_SPY_TAUNT_Title"
+	{
+		"ro"	"Ai un foc?"
+	}
+	"TF_PYRO_BURN_SPY_TAUNT_Desc"
+	{
+		"ro"	"Aprinde un Spy advers în timp ce îşi scoate o ţigară."
+	}
+	"TF_PYRO_DOMINATE_LEAVESVR_Title"
+	{
+		"ro"	"BarbeQueQ"
+	}
+	"TF_PYRO_DOMINATE_LEAVESVR_Desc"
+	{
+		"ro"	"Fă ca un jucător pe care îl domini să părăsească server-ul."
+	}
+	"TF_PYRO_REFLECT_CROCKET_KILL_Title"
+	{
+		"ro"	"Şmecher"
+	}
+	"TF_PYRO_REFLECT_CROCKET_KILL_Desc"
+	{
+		"ro"	"Omoară un Soldier cu o rachetă criticală reflectată."
+	}
+	"TF_PYRO_KILL_TAUNTERS_Title"
+	{
+		"ro"	"Dansând în Timpul Sacrificiului"
+	}
+	"TF_PYRO_KILL_TAUNTERS_Desc"
+	{
+		"ro"	"Omoară 3 adversari în timp ce fac o batjocura."
+	}
+	"TF_PYRO_DOUBLE_KO_Title"
+	{
+		"ro"	"Caldură Fatală"
+	}
+	"TF_PYRO_DOUBLE_KO_Desc"
+	{
+		"ro"	"Omoară un adversar în aceeaşi secundă în care el te omoară pe tine."
+	}
+	"TF_PYRO_BURN_RJ_SOLDIER_Title"
+	{
+		"ro"	"Lumină de Veghe"
+	}
+	"TF_PYRO_BURN_RJ_SOLDIER_Desc"
+	{
+		"ro"	"Aprinde un Soldier care a sărit cu racheta, în timp ce e în aer."
+	}
+	"TF_PYRO_FREEZECAM_TAUNTS_Title"
+	{
+		"ro"	"Arsură Îngheţată"
+	}
+	"TF_PYRO_FREEZECAM_TAUNTS_Desc"
+	{
+		"ro"	"Arata-i adversarului toate batjocurile tale."
+	}
+	"TF_PYRO_KILL_GRIND_LARGE_Title"
+	{
+		"ro"	"Pompier Şef"
+	}
+	"TF_PYRO_KILL_GRIND_LARGE_Desc"
+	{
+		"ro"	"Omoară 1000 de adversari."
+	}
+	"TF_PYRO_IGNITE_FLAREGUN_Title"
+	{
+		"ro"	"Atrage Atenţia"
+	}
+	"TF_PYRO_IGNITE_FLAREGUN_Desc"
+	{
+		"ro"	"Aprinde 100 de adversari cu Flare Gun."
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS1_Title"
+	{
+		"ro"	"Grad 1 Pyro"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS1_Desc"
+	{
+		"ro"	"Obţine 10 realizări din pachetul Pyro-ului."
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS2_Title"
+	{
+		"ro"	"Grad 2 Pyro"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS2_Desc"
+	{
+		"ro"	"Obţine 16 realizări din pachetul Pyro-ului."
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS3_Title"
+	{
+		"ro"	"Grad 3 Pyro"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS3_Desc"
+	{
+		"ro"	"Obţine 22 realizări din pachetul Pyro-ului."
+	}
+	"TF_HEAVY_DAMAGE_TAKEN_Title"
+	{
+		"ro"	"Cortină de Oţel"
+	}
+	"TF_HEAVY_DAMAGE_TAKEN_Desc"
+	{
+		"ro"	"Suferă 1000 de puncte de daună într-o singură viaţă."
+	}
+	"TF_HEAVY_DEFEND_MEDIC_Title"
+	{
+		"ro"	"Loialitate intre Parteneri"
+	}
+	"TF_HEAVY_DEFEND_MEDIC_Desc"
+	{
+		"ro"	"Omoară 50 de adversari în cel mult 3 secunde de când ei îţi atacă Medicul."
+	}
+	"TF_HEAVY_ASSIST_MEDIC_LARGE_Title"
+	{
+		"ro"	"Divizia Muncii"
+	}
+	"TF_HEAVY_ASSIST_MEDIC_LARGE_Desc"
+	{
+		"ro"	"Omoară 20 de adversari cu un Medic care te asistă, fără să muriți."
+	}
+	"TF_HEAVY_EARN_MEDIC_DOMINATION_Title"
+	{
+		"ro"	"Oktoberfest Rosu"
+	}
+	"TF_HEAVY_EARN_MEDIC_DOMINATION_Desc"
+	{
+		"ro"	"Obţine o dominare pentru un Medic care te vindecă."
+	}
+	"TF_HEAVY_KILL_TAUNT_Title"
+	{
+		"ro"	"Arată Nepăsare"
+	}
+	"TF_HEAVY_KILL_TAUNT_Desc"
+	{
+		"ro"	"Omoară un adversar cu o batjocură."
+	}
+	"TF_HEAVY_KILL_FLAG_CARRIERS_Title"
+	{
+		"ro"	"Crimă şi Pedeapsă"
+	}
+	"TF_HEAVY_KILL_FLAG_CARRIERS_Desc"
+	{
+		"ro"	"Omoară 10 adversari care cară inteligenţa."
+	}
+	"TF_HEAVY_KILL_MEDIC_PAIR_Title"
+	{
+		"ro"	"Lupta Claselor"
+	}
+	"TF_HEAVY_KILL_MEDIC_PAIR_Desc"
+	{
+		"ro"	"Cooperează cu un Medic pentru a omorî o pereche Heavy-Medic adversă."
+	}
+	"TF_HEAVY_BLOCK_INVULN_HEAVY_Title"
+	{
+		"ro"	"Blocul Sovietic"
+	}
+	"TF_HEAVY_BLOCK_INVULN_HEAVY_Desc"
+	{
+		"ro"	"În timp ce eşti invulnerabil şi în defensivă, blochează mişcarea unui Heavy advers invulnerabil."
+	}
+	"TF_HEAVY_BLOCK_CART_Title"
+	{
+		"ro"	"Stalin Căruciorul"
+	}
+	"TF_HEAVY_BLOCK_CART_Desc"
+	{
+		"ro"	"Blochează echipa adversă în a mai deplasa căruciorul explozibil de 25 de ori."
+	}
+	"TF_HEAVY_RECEIVE_UBER_GRIND_Title"
+	{
+		"ro"	"Soviet Suprem"
+	}
+	"TF_HEAVY_RECEIVE_UBER_GRIND_Desc"
+	{
+		"ro"	"Fii ÜberÎncărcat de 50 de ori."
+	}
+	"TF_HEAVY_STAND_NEAR_DISPENSER_Title"
+	{
+		"ro"	"Muncitor în Fabrică"
+	}
+	"TF_HEAVY_STAND_NEAR_DISPENSER_Desc"
+	{
+		"ro"	"Omoară 20 de adversari în timp ce sunt langă o Distribuitoare."
+	}
+	"TF_HEAVY_ASSIST_HEAVY_GRIND_Title"
+	{
+		"ro"	"Uniunea Sovietică"
+	}
+	"TF_HEAVY_ASSIST_HEAVY_GRIND_Desc"
+	{
+		"ro"	"Omoară 25 de adversari unde fie asişti sau eşti asistat de un alt Heavy."
+	}
+	"TF_HEAVY_CLEAR_STICKYBOMBS_Title"
+	{
+		"ro"	"Propriile Mijloace de Producţie"
+	}
+	"TF_HEAVY_CLEAR_STICKYBOMBS_Desc"
+	{
+		"ro"	"Înlătură 20 de bombe lipicoase omorând Demoman-ul care le-a lansat."
+	}
+	"TF_HEAVY_KILL_UNDERWATER_Title"
+	{
+		"ro"	"Ivan cel Nebun"
+	}
+	"TF_HEAVY_KILL_UNDERWATER_Desc"
+	{
+		"ro"	"Omoară 100 de adversari în timp ce atât tu cât şi adversarul sunteţi sub apă."
+	}
+	"TF_HEAVY_TAKE_MULTI_DAMAGE_Title"
+	{
+		"ro"	"Rasputin"
+	}
+	"TF_HEAVY_TAKE_MULTI_DAMAGE_Desc"
+	{
+		"ro"	"Într-o singură viaţă, fii împuşcat, ars, lovit şi recepţionează pagube explozive."
+	}
+	"TF_HEAVY_KILL_DOMINATED_Title"
+	{
+		"ro"	"Glazura de pe Tort"
+	}
+	"TF_HEAVY_KILL_DOMINATED_Desc"
+	{
+		"ro"	"Omoară 20 de adversari pe care îi domini."
+	}
+	"TF_HEAVY_SURVIVE_CROCKET_Title"
+	{
+		"ro"	"Blocul Crachetei"
+	}
+	"TF_HEAVY_SURVIVE_CROCKET_Desc"
+	{
+		"ro"	"Supravieţuieşte unei lovituri directe cu o rachetă criticală."
+	}
+	"TF_HEAVY_ASSIST_GRIND_Title"
+	{
+		"ro"	"Colectivizare"
+	}
+	"TF_HEAVY_ASSIST_GRIND_Desc"
+	{
+		"ro"	"Asistă 1000 de coechipieri."
+	}
+	"TF_HEAVY_UNCOVER_SPIES_Title"
+	{
+		"ro"	"Materialism Spional"
+	}
+	"TF_HEAVY_UNCOVER_SPIES_Desc"
+	{
+		"ro"	"Omoară sau asistă în omorârea a 10 Spy invizibili."
+	}
+	"TF_HEAVY_KILL_WHILE_SPUNUP_Title"
+	{
+		"ro"	"Revoluţia Permanentă"
+	}
+	"TF_HEAVY_KILL_WHILE_SPUNUP_Desc"
+	{
+		"ro"	"Omoară 5 adversari fără să fii folosit MiniGun-ul."
+	}
+	"TF_HEAVY_FIRE_LOTS_Title"
+	{
+		"ro"	"Industria Grea"
+	}
+	"TF_HEAVY_FIRE_LOTS_Desc"
+	{
+		"ro"	"Într-o singură viaţă, trage cu MiniGun-ul până atingi cheltuieli de 200.000$."
+	}
+	"TF_HEAVY_KILL_CRIT_PUNCH_Title"
+	{
+		"ro"	"Communist Mani-Fisto"
+	}
+	"TF_HEAVY_KILL_CRIT_PUNCH_Desc"
+	{
+		"ro"	"Omoară un adversar cu un pumn critical."
+	}
+	"TF_HEAVY_HEAL_MEDIKITS_Title"
+	{
+		"ro"	"Redistributia Medicamentelor"
+	}
+	"TF_HEAVY_HEAL_MEDIKITS_Desc"
+	{
+		"ro"	"Vindecă-te cu pachetele de viaţă de 1000 de puncte de daună, într-o singură viaţă."
+	}
+	"TF_HEAVY_KILL_SHOTGUN_Title"
+	{
+		"ro"	"Raţionare"
+	}
+	"TF_HEAVY_KILL_SHOTGUN_Desc"
+	{
+		"ro"	"Omoară un adversar cu puşca în timp ce nu mai ai muniţie pentru Minigun."
+	}
+	"TF_HEAVY_FIRST_TO_CAP_Title"
+	{
+		"ro"	"Grup de Avangarda"
+	}
+	"TF_HEAVY_FIRST_TO_CAP_Desc"
+	{
+		"ro"	"Fii primul din echipa ta care capturează un Punct de Control."
+	}
+	"TF_HEAVY_PAYLOAD_CAP_GRIND_Title"
+	{
+		"ro"	"Împingând Kartul"
+	}
+	"TF_HEAVY_PAYLOAD_CAP_GRIND_Desc"
+	{
+		"ro"	"Obţine 50 de capturi pe hărţi de tip Payload."
+	}
+	"TF_HEAVY_KILL_MIDAIR_MINIGUN_Title"
+	{
+		"ro"	"Ţintă Fixă"
+	}
+	"TF_HEAVY_KILL_MIDAIR_MINIGUN_Desc"
+	{
+		"ro"	"Omoară 10 adversari în aer cu Minigun-ul."
+	}
+	"TF_HEAVY_DEFEND_CONTROL_POINT_Title"
+	{
+		"ro"	"Parcarea Batozei"
+	}
+	"TF_HEAVY_DEFEND_CONTROL_POINT_Desc"
+	{
+		"ro"	"Omoară 25 de adversari în timp ce stai pe un Punct de Control pe care îl deţii."
+	}
+	"TF_HEAVY_KILL_CAPPING_ENEMIES_Title"
+	{
+		"ro"	"Purgatoriu"
+	}
+	"TF_HEAVY_KILL_CAPPING_ENEMIES_Desc"
+	{
+		"ro"	"Omoară 15 adversari ce capturează un punct pe care îl deţii."
+	}
+	"TF_HEAVY_REVENGE_ASSIST_Title"
+	{
+		"ro"	"O Mână de Ajutor"
+	}
+	"TF_HEAVY_REVENGE_ASSIST_Desc"
+	{
+		"ro"	"Ajută 5 coechipieri să-şi ia revanşa."
+	}
+	"TF_HEAVY_TELEPORT_FAST_KILL_Title"
+	{
+		"ro"	"Plan în 5 secunde"
+	}
+	"TF_HEAVY_TELEPORT_FAST_KILL_Desc"
+	{
+		"ro"	"Omoară un adversar în 5 secunde după ce te-ai teleportat."
+	}
+	"TF_HEAVY_FREEZECAM_TAUNT_Title"
+	{
+		"ro"	"Fotostroika"
+	}
+	"TF_HEAVY_FREEZECAM_TAUNT_Desc"
+	{
+		"ro"	"Batjocura-ti adversarul când eşti invulnerabil în freezecam."
+	}
+	"TF_HEAVY_EAT_SANDWICHES_Title"
+	{
+		"ro"	"Konsumaţie Konspicioasă"
+	}
+	"TF_HEAVY_EAT_SANDWICHES_Desc"
+	{
+		"ro"	"Mănâncă 100 de sandvich-uri."
+	}
+	"TF_HEAVY_KILL_SCOUTS_Title"
+	{
+		"ro"	"Nu Atinge Sandvich"
+	}
+	"TF_HEAVY_KILL_SCOUTS_Desc"
+	{
+		"ro"	"Omoară 50 de Scouts folosind Natascha."
+	}
+	"TF_HEAVY_KILL_HEAVIES_GLOVES_Title"
+	{
+		"ro"	"Cureaua de Borş"
+	}
+	"TF_HEAVY_KILL_HEAVIES_GLOVES_Desc"
+	{
+		"ro"	"Omoară 10 Heavy cu K.G.B."
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS1_Title"
+	{
+		"ro"	"Grad 1 Heavy"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS1_Desc"
+	{
+		"ro"	"Obţine 10 realizări din pachetul Heavy-ului."
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS2_Title"
+	{
+		"ro"	"Grad 2 Heavy"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS2_Desc"
+	{
+		"ro"	"Obţine 16 realizări din pachetul Heavy-ului."
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS3_Title"
+	{
+		"ro"	"Grad 3 Heavy"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS3_Desc"
+	{
+		"ro"	"Obţine 22 realizări din pachetul Heavy-ului."
+	}
+	"TF_SCOUT_FIRST_BLOOD_Title"
+	{
+		"ro"	"Prima Ucidere"
+	}
+	"TF_SCOUT_FIRST_BLOOD_Desc"
+	{
+		"ro"	"Fii primul care omoară într-un meci de tip Arena."
+	}
+	"TF_SCOUT_FIRST_BLOOD_KILL_Title"
+	{
+		"ro"	"Prima Ucidere, Partea 2"
+	}
+	"TF_SCOUT_FIRST_BLOOD_KILL_Desc"
+	{
+		"ro"	"Omoară 5 adversari folosind criticalele First Blood."
+	}
+	"TF_SCOUT_WELL_EARLY_KILL_Title"
+	{
+		"ro"	"Cârlig Rapid"
+	}
+	"TF_SCOUT_WELL_EARLY_KILL_Desc"
+	{
+		"ro"	"Omoară un adversar pe Well înainte de a începe runda."
+	}
+	"TF_SCOUT_LIFETIME_KILLS_Title"
+	{
+		"ro"	"Un An de Reţinut"
+	}
+	"TF_SCOUT_LIFETIME_KILLS_Desc"
+	{
+		"ro"	"Omoară 2004 de adversari."
+	}
+	"TF_SCOUT_IRON_MAN_KILLS_Title"
+	{
+		"ro"	"Ciclul"
+	}
+	"TF_SCOUT_IRON_MAN_KILLS_Desc"
+	{
+		"ro"	"Într-o singură viaţă, omoară câte un adversar în timp ce eşti pe pământ, în aer şi în apă."
+	}
+	"TF_SCOUT_DESTROY_TELEPORTERS_Title"
+	{
+		"ro"	"Apropiere"
+	}
+	"TF_SCOUT_DESTROY_TELEPORTERS_Desc"
+	{
+		"ro"	"Distruge 3 intrări de teleportare."
+	}
+	"TF_SCOUT_DESTROY_BUILDINGS_BEING_BUILT_Title"
+	{
+		"ro"	"Dacă O Construieşti"
+	}
+	"TF_SCOUT_DESTROY_BUILDINGS_BEING_BUILT_Desc"
+	{
+		"ro"	"Distruge 3 clădiri care sunt încă în construcţie."
+	}
+	"TF_SCOUT_DESTROY_SENTRY_WITH_PISTOL_Title"
+	{
+		"ro"	"Armă Distrusă"
+	}
+	"TF_SCOUT_DESTROY_SENTRY_WITH_PISTOL_Desc"
+	{
+		"ro"	"Distruge o Santinelă activă folosind pistolul."
+	}
+	"TF_SCOUT_DOUBLE_JUMPS_Title"
+	{
+		"ro"	"Bâta Pregătită"
+	}
+	"TF_SCOUT_DOUBLE_JUMPS_Desc"
+	{
+		"ro"	"Execută 1000 de sărituri duble."
+	}
+	"TF_SCOUT_ASSIST_MEDIC_Title"
+	{
+		"ro"	"Vindecând Mingea"
+	}
+	"TF_SCOUT_ASSIST_MEDIC_Desc"
+	{
+		"ro"	"Omoară 3 adversari în timp ce eşti sub efectul unui ÜberCharge."
+	}
+	"TF_SCOUT_STEAL_SANDWICH_Title"
+	{
+		"ro"	"Slabii 1, Graşii 0"
+	}
+	"TF_SCOUT_STEAL_SANDWICH_Desc"
+	{
+		"ro"	"Omoară un Heavy şi fură-i Sandvich-ul."
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS1_Title"
+	{
+		"ro"	"Grad 1 Scout"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS1_Desc"
+	{
+		"ro"	"Obţine 10 realizări din pachetul Scoutului."
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS2_Title"
+	{
+		"ro"	"Grad 2 Scout"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS2_Desc"
+	{
+		"ro"	"Obţine 16 realizări din pachetul Scoutului."
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS3_Title"
+	{
+		"ro"	"Grad 3 Scout"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS3_Desc"
+	{
+		"ro"	"Obţine 22 realizări din pachetul Scoutului."
+	}
+	"TF_SCOUT_KILL_CHARGED_MEDICS_Title"
+	{
+		"ro"	"Lovind Medicul"
+	}
+	"TF_SCOUT_KILL_CHARGED_MEDICS_Desc"
+	{
+		"ro"	"Omoară un Medic care este pregătit de a activa ÜberCharge-ul."
+	}
+	"TF_SCOUT_SURVIVE_DAMAGE_Title"
+	{
+		"ro"	"Sunt Omul-Bâtă"
+	}
+	"TF_SCOUT_SURVIVE_DAMAGE_Desc"
+	{
+		"ro"	"Supravietuieşte unor pagube de 500 de puncte, într-o singură viaţă."
+	}
+	"TF_SCOUT_DOUBLEJUMP_KILL_Title"
+	{
+		"ro"	"Săritură din Pocnet"
+	}
+	"TF_SCOUT_DOUBLEJUMP_KILL_Desc"
+	{
+		"ro"	"Omoară 20 de adversari în timp ce sări dublu."
+	}
+	"TF_SCOUT_FLAG_CAP_GRIND_Title"
+	{
+		"ro"	"Excursionistul Rundei"
+	}
+	"TF_SCOUT_FLAG_CAP_GRIND_Desc"
+	{
+		"ro"	"Capturează inteligenţa adversă de 25 de ori."
+	}
+	"TF_SCOUT_THREE_FLAGCAPS_Title"
+	{
+		"ro"	"Triplu Furt"
+	}
+	"TF_SCOUT_THREE_FLAGCAPS_Desc"
+	{
+		"ro"	"Capturează inteligenţa adversă de 3 ori într-o singură rundă."
+	}
+	"TF_SCOUT_DODGE_DAMAGE_Title"
+	{
+		"ro"	"Şmecher Viclean"
+	}
+	"TF_SCOUT_DODGE_DAMAGE_Desc"
+	{
+		"ro"	"Recepţionează 1000 de puncte de daună într-o singură viaţă folosind Bonk! Atomic Punch."
+	}
+	"TF_SCOUT_KNOCK_INTO_TRAIN_Title"
+	{
+		"ro"	"Căzătură Clasică"
+	}
+	"TF_SCOUT_KNOCK_INTO_TRAIN_Desc"
+	{
+		"ro"	"Cauzează o moarte din cauza mediului sau un suicid folosind Force-A-Nature."
+	}
+	"TF_SCOUT_KILL_STUNNED_Title"
+	{
+		"ro"	"Zona Loviturii"
+	}
+	"TF_SCOUT_KILL_STUNNED_Desc"
+	{
+		"ro"	"Omoară 50 de adversari în timp ce sunt năuciţi."
+	}
+	"TF_SCOUT_STUN_INTO_TRAIN_Title"
+	{
+		"ro"	"Teritoriu Periculos"
+	}
+	"TF_SCOUT_STUN_INTO_TRAIN_Desc"
+	{
+		"ro"	"Cauzează o moarte din cauza mediului năucind un adversar."
+	}
+	"TF_SCOUT_STUN_UBER_ENEMIES_Title"
+	{
+		"ro"	"Marea Durere"
+	}
+	"TF_SCOUT_STUN_UBER_ENEMIES_Desc"
+	{
+		"ro"	"Năuceşte 2 Medic-i care se pregătesc să activeze ÜberCharge-ul."
+	}
+	"TF_SCOUT_STUN_CAPPING_ENEMIES_Title"
+	{
+		"ro"	"Trimis Înapoi"
+	}
+	"TF_SCOUT_STUN_CAPPING_ENEMIES_Desc"
+	{
+		"ro"	"Năuceşte 50 de adversari care capturează un Punct de Control sau împing căruciorul."
+	}
+	"TF_SCOUT_MAX_STUNS_Title"
+	{
+		"ro"	"Lovitură Spre Lună"
+	}
+	"TF_SCOUT_MAX_STUNS_Desc"
+	{
+		"ro"	"Năuceşte un adversar pentru o perioadă maximă, lovind-ul cu mingea de la distanţă mare."
+	}
+	"TF_SCOUT_STUN_SCOUT_WITH_THEIR_BALL_Title"
+	{
+		"ro"	"Bobilă"
+	}
+	"TF_SCOUT_STUN_SCOUT_WITH_THEIR_BALL_Desc"
+	{
+		"ro"	"Năuceşte un Scout advers cu propria-i minge."
+	}
+	"TF_SCOUT_KILL_IN_DODGE_COOLDOWN_Title"
+	{
+		"ro"	"Retrage Alergătorul"
+	}
+	"TF_SCOUT_KILL_IN_DODGE_COOLDOWN_Desc"
+	{
+		"ro"	"Omoară un Scout în timp ce este încetinit de efectul de după utilizarea Bonk! Atomic Punch."
+	}
+	"TF_SCOUT_KILL_FROM_BEHIND_Title"
+	{
+		"ro"	"Prins Dormind"
+	}
+	"TF_SCOUT_KILL_FROM_BEHIND_Desc"
+	{
+		"ro"	"Omoară 50 de adversari pe la spate cu Forţ-a-Naturii."
+	}
+	"TF_SCOUT_CAPTURE_LAST_POINT_Title"
+	{
+		"ro"	"Side Retired"
+	}
+	"TF_SCOUT_CAPTURE_LAST_POINT_Desc"
+	{
+		"ro"	"Capturează ultimul punct pe o harta de tip CP."
+	}
+	"TF_SCOUT_CAPTURE_THREE_POINTS_Title"
+	{
+		"ro"	"Joc Triplu"
+	}
+	"TF_SCOUT_CAPTURE_THREE_POINTS_Desc"
+	{
+		"ro"	"Capturează 3 Puncte de Control la rând, într-o singură viaţă."
+	}
+	"TF_SCOUT_FAST_CAP_Title"
+	{
+		"ro"	"Furând Casa"
+	}
+	"TF_SCOUT_FAST_CAP_Desc"
+	{
+		"ro"	"Începe să capturezi un punct din secunda în care a devenit disponibil."
+	}
+	"TF_SCOUT_START_AND_FINISH_CAP_Title"
+	{
+		"ro"	"Pregăteşte Masa"
+	}
+	"TF_SCOUT_START_AND_FINISH_CAP_Desc"
+	{
+		"ro"	"Iniţializează 10 capturi care, ulterior, reuşesc."
+	}
+	"TF_SCOUT_BLOCK_CAPS_Title"
+	{
+		"ro"	"Blochează Placa"
+	}
+	"TF_SCOUT_BLOCK_CAPS_Desc"
+	{
+		"ro"	"Blochează 50 de capturi de Punct de Control."
+	}
+	"TF_SCOUT_CARRIER_KILL_CARRIER_Title"
+	{
+		"ro"	"Asediere Inteligentă"
+	}
+	"TF_SCOUT_CARRIER_KILL_CARRIER_Desc"
+	{
+		"ro"	"Omoară un adversar care are inteligenţa echipei tale, în timp ce tu o cari pe a echipei adverse."
+	}
+	"TF_SCOUT_CAP_FLAG_WITHOUT_ATTACKING_Title"
+	{
+		"ro"	"Ne-Trăgător"
+	}
+	"TF_SCOUT_CAP_FLAG_WITHOUT_ATTACKING_Desc"
+	{
+		"ro"	"Fură iar apoi capturează inteligenţa adversă fără a trage vreun glonţ."
+	}
+	"TF_SCOUT_LONG_DISTANCE_RUNNER_Title"
+	{
+		"ro"	"Cursa pentru Fanion"
+	}
+	"TF_SCOUT_LONG_DISTANCE_RUNNER_Desc"
+	{
+		"ro"	"Aleargă 25 de kilometri."
+	}
+	"TF_SCOUT_TAUNT_KILL_Title"
+	{
+		"ro"	"Afară din Parc"
+	}
+	"TF_SCOUT_TAUNT_KILL_Desc"
+	{
+		"ro"	"Trimite un adversar la o distanţă de 25 de metri, folosind bâta."
+	}
+	"TF_SNIPER_JARATE_DOMINATED_Title"
+	{
+		"ro"	"Călarit Năzdrăvan, Retras ud leoarcă"
+	}
+	"TF_SNIPER_JARATE_DOMINATED_Desc"
+	{
+		"ro"	"Foloseşte Şuşu pe un inamic dominat."
+	}
+	"TF_SNIPER_FREEZECAM_HAT_Title"
+	{
+		"ro"	"Fii Politicos"
+	}
+	"TF_SNIPER_FREEZECAM_HAT_Desc"
+	{
+		"ro"	"Oferă unui inamic omorât ocazia a-ţi face o poza lăsând pălăria la piept."
+	}
+	"TF_SNIPER_RIFLE_NO_MISSING_Title"
+	{
+		"ro"	"Fii Eficient"
+	}
+	"TF_SNIPER_RIFLE_NO_MISSING_Desc"
+	{
+		"ro"	"Omoară 3 inamici folosind Puşca cu Lunetă fară să ratezi un foc."
+	}
+	"TF_SNIPER_CAPTURE_FLAG_Title"
+	{
+		"ro"	"Să ai un Plan"
+	}
+	"TF_SNIPER_CAPTURE_FLAG_Desc"
+	{
+		"ro"	"Capturează steagul în CTF."
+	}
+	"TF_SNIPER_KILL_GRIND_Title"
+	{
+		"ro"	"Omoară fiecare om întalnit"
+	}
+	"TF_SNIPER_KILL_GRIND_Desc"
+	{
+		"ro"	"Omoară 1000 de inamici."
+	}
+	"TF_SNIPER_KILL_WEAPONS_Title"
+	{
+		"ro"	"Pradă Triplă"
+	}
+	"TF_SNIPER_KILL_WEAPONS_Desc"
+	{
+		"ro"	"Într-o singură rundă, omoară pe cineva cu 3 arme diferite ."
+	}
+	"TF_SNIPER_HEADSHOT_SNIPERS_Title"
+	{
+		"ro"	"Secvenţă de Auto-distrugere"
+	}
+	"TF_SNIPER_HEADSHOT_SNIPERS_Desc"
+	{
+		"ro"	"Nimereşte în cap 10 Lunetişti inamici."
+	}
+	"TF_SNIPER_DESTROY_SENTRYGUNS_Title"
+	{
+		"ro"	"Dez-Santinel-izare"
+	}
+	"TF_SNIPER_DESTROY_SENTRYGUNS_Desc"
+	{
+		"ro"	"Distruge 3 santinele ale unui Engineer."
+	}
+	"TF_SNIPER_KILL_INVIS_SPY_Title"
+	{
+		"ro"	"Bătaie de Vânt"
+	}
+	"TF_SNIPER_KILL_INVIS_SPY_Desc"
+	{
+		"ro"	"Omoară un Spy complet invizibil dintr-o singură lovitură."
+	}
+	"TF_SNIPER_KILL_MIDAIR_SCOUT_Title"
+	{
+		"ro"	"Picat Mort"
+	}
+	"TF_SNIPER_KILL_MIDAIR_SCOUT_Desc"
+	{
+		"ro"	"Omoară un Scout ce se află în aer folosind Puşca cu Lunetă sau Vânătorul de Oameni."
+	}
+	"TF_SNIPER_FREEZECAM_WAVE_Title"
+	{
+		"ro"	"Ultimul Semn"
+	}
+	"TF_SNIPER_FREEZECAM_WAVE_Desc"
+	{
+		"ro"	"Oferă unui inamic mort ocazia de a face o poză în care îi faci cu mâna."
+	}
+	"TF_SNIPER_DOMINATE_SNIPER_Title"
+	{
+		"ro"	"Legile Australiei"
+	}
+	"TF_SNIPER_DOMINATE_SNIPER_Desc"
+	{
+		"ro"	"Domină un Sniper inamic."
+	}
+	"TF_SNIPER_KILL_SPIES_MELEE_Title"
+	{
+		"ro"	"Paleşte Iscoada"
+	}
+	"TF_SNIPER_KILL_SPIES_MELEE_Desc"
+	{
+		"ro"	"Omoară 10 Spy folosind arma Kukri."
+	}
+	"TF_SNIPER_HEADSHOT_DEMOMAN_Title"
+	{
+		"ro"	"Fix în Orbită"
+	}
+	"TF_SNIPER_HEADSHOT_DEMOMAN_Desc"
+	{
+		"ro"	"Nimereşte în cap un Demoman inamic."
+	}
+	"TF_SNIPER_KILL_RJER_Title"
+	{
+		"ro"	"Piedica Săritorului"
+	}
+	"TF_SNIPER_KILL_RJER_Desc"
+	{
+		"ro"	"Omoară un inamic ce a sărit cu o rachetă sau o grenadă în timp ce este în aer, folosind Puşca cu Lunetă sau Vânătorul de Oameni."
+	}
+	"TF_SNIPER_KILL_OBJECTIVES_Title"
+	{
+		"ro"	"Nu un Psihopat Înarmat, Tată"
+	}
+	"TF_SNIPER_KILL_OBJECTIVES_Desc"
+	{
+		"ro"	"Într-o singură viaţă, omoară 3 inamici în timp ce îndeplinesc un obiectiv."
+	}
+	"TF_SNIPER_KILL_UNSCOPED_Title"
+	{
+		"ro"	"Ai Încredere în Instinctul Tău"
+	}
+	"TF_SNIPER_KILL_UNSCOPED_Desc"
+	{
+		"ro"	"Omoară 5 inamici folosind Puşca cu Lunetă fără a ţinti cu Luneta."
+	}
+	"TF_SNIPER_KILL_CHARGED_MEDIC_Title"
+	{
+		"ro"	"Überectomie"
+	}
+	"TF_SNIPER_KILL_CHARGED_MEDIC_Desc"
+	{
+		"ro"	"Omoară un Medic ce este gata să folosească un ÜberCharge."
+	}
+	"TF_SNIPER_GET_BACKSTABBED_Title"
+	{
+		"ro"	"Premiu de Consolare"
+	}
+	"TF_SNIPER_GET_BACKSTABBED_Desc"
+	{
+		"ro"	"Primeşte 50 de cuţite în spate."
+	}
+	"TF_SNIPER_KILL_AT_ROUNDSTART_Title"
+	{
+		"ro"	"Inamicul la Poartă"
+	}
+	"TF_SNIPER_KILL_AT_ROUNDSTART_Desc"
+	{
+		"ro"	"Omoară un inamic în prima secundă a unei runde."
+	}
+	"TF_SNIPER_HEADSHOT_POST_INVULN_Title"
+	{
+		"ro"	"Lovitura de Adio"
+	}
+	"TF_SNIPER_HEADSHOT_POST_INVULN_Desc"
+	{
+		"ro"	"Nimereşte în cap un inamic în momentul în care îi expiră invulnerabiltiatea."
+	}
+	"TF_SNIPER_TOP_SCOREBOARD_GRIND_Title"
+	{
+		"ro"	"Cariera Mea Strălucită"
+	}
+	"TF_SNIPER_TOP_SCOREBOARD_GRIND_Desc"
+	{
+		"ro"	"Fii primul clasat de 10 ori într-o echipă de 6 sau mai mulţi jucători."
+	}
+	"TF_SNIPER_KILL_FAILED_SPY_Title"
+	{
+		"ro"	"Tratament Electrifiant"
+	}
+	"TF_SNIPER_KILL_FAILED_SPY_Desc"
+	{
+		"ro"	"Omoară un Spy al cărui încercare de înjunguia în sapte a fost blocată de Razorback."
+	}
+	"TF_SNIPER_JARATE_GROUP_Title"
+	{
+		"ro"	"Bombardare de Saturaţie"
+	}
+	"TF_SNIPER_JARATE_GROUP_Desc"
+	{
+		"ro"	"Nimereşte 4 inamici cu un singur borcan de Şuşu."
+	}
+	"TF_SNIPER_JARATE_MEDIC_PAIR_Title"
+	{
+		"ro"	"Plouă pe Parada Lor"
+	}
+	"TF_SNIPER_JARATE_MEDIC_PAIR_Desc"
+	{
+		"ro"	"Nimereşte cu Şuşu pe un inamic şi pe Medicul ce îl vindecă."
+	}
+	"TF_SNIPER_JARATE_REVEAL_SPY_Title"
+	{
+		"ro"	"Tranziţie Neplăcută"
+	}
+	"TF_SNIPER_JARATE_REVEAL_SPY_Desc"
+	{
+		"ro"	"Foloseşte Şuşu pentru a descoperi un Spy invizibil."
+	}
+	"TF_SNIPER_JARATE_EXTINGUISH_Title"
+	{
+		"ro"	"Prietenia este de Aur"
+	}
+	"TF_SNIPER_JARATE_EXTINGUISH_Desc"
+	{
+		"ro"	"Stinge un coechipier în flăcări folosind Şuşu."
+	}
+	"TF_SNIPER_BOW_PIN_HEAVY_Title"
+	{
+		"ro"	"Masacru în stil William Tell"
+	}
+	"TF_SNIPER_BOW_PIN_HEAVY_Desc"
+	{
+		"ro"	"Ţinteşte un Heavy inamic de un zid de capul său."
+	}
+	"TF_SNIPER_BOW_KILL_MEDIC_PAIR_Title"
+	{
+		"ro"	"Parteneri şi Săgeţi"
+	}
+	"TF_SNIPER_BOW_KILL_MEDIC_PAIR_Desc"
+	{
+		"ro"	"Omoară o pereche Heavy şi Medic folosind o singură săgeată."
+	}
+	"TF_SNIPER_BOW_KILL_FLAGCARRIER_Title"
+	{
+		"ro"	"Arcaş Pungaş"
+	}
+	"TF_SNIPER_BOW_KILL_FLAGCARRIER_Desc"
+	{
+		"ro"	"Doboară un purtător al servietei cu o singură săgeată."
+	}
+	"TF_SNIPER_BOW_PINCUSHION_Title"
+	{
+		"ro"	"Perniţă de ace"
+	}
+	"TF_SNIPER_BOW_PINCUSHION_Desc"
+	{
+		"ro"	"Nimereşte un oponent cu 3 săgeţi, fără a-l omorî."
+	}
+	"TF_SNIPER_JARATE_ASSISTS_Title"
+	{
+		"ro"	"Asistentul Numărul Unu"
+	}
+	"TF_SNIPER_JARATE_ASSISTS_Desc"
+	{
+		"ro"	"Înscrie 5 asistări folosind Şuşu într-o singură rundă."
+	}
+	"TF_SNIPER_JARATE_KILL_MELEE_Title"
+	{
+		"ro"	"Lovitura de Şuşu"
+	}
+	"TF_SNIPER_JARATE_KILL_MELEE_Desc"
+	{
+		"ro"	"Omoară cu un Kukri 3 inamici ce sunt sub influenţa borcanului de Şuşu."
+	}
+	"TF_SNIPER_TAUNT_KILL_Title"
+	{
+		"ro"	"Ţeapă"
+	}
+	"TF_SNIPER_TAUNT_KILL_Desc"
+	{
+		"ro"	"Înjungie un oponent cu o săgeată."
+	}
+	"TF_SNIPER_BOW_KILL_WHILEDEAD_Title"
+	{
+		"ro"	"Consideraţia Mortului"
+	}
+	"TF_SNIPER_BOW_KILL_WHILEDEAD_Desc"
+	{
+		"ro"	"Omoară un inamic folosind o săgeată atunci când eşti mort."
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS1_Title"
+	{
+		"ro"	"Grad 1 Sniper"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS1_Desc"
+	{
+		"ro"	"Obţine 5 realizări din pachetul Sniperului."
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS2_Title"
+	{
+		"ro"	"Grad 2 Sniper"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS2_Desc"
+	{
+		"ro"	"Obţine 11 realizări din pachetul Sniperului."
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS3_Title"
+	{
+		"ro"	"Grad 3 Sniper"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS3_Desc"
+	{
+		"ro"	"Obţine 17 realizări din pachetul Sniperului."
+	}
+	"TF_SPY_BACKSTAB_SNIPERS_Title"
+	{
+		"ro"	"Înşelătorie Triplă"
+	}
+	"TF_SPY_BACKSTAB_SNIPERS_Desc"
+	{
+		"ro"	"Înjunghie în spate 3 Lunetişti într-o singură viaÄî"
+	}
+	"TF_SPY_FREEZECAM_FLICK_Title"
+	{
+		"ro"	"Doar Pentru Ochii Tăi"
+	}
+	"TF_SPY_FREEZECAM_FLICK_Desc"
+	{
+		"ro"	"Oferă unui inamic ocazia de a face o poză aruncând o ţigară pe cadavrul său."
+	}
+	"TF_SPY_BACKSTAB_DISGUISED_SPY_Title"
+	{
+		"ro"	"Contra Spionaj"
+	}
+	"TF_SPY_BACKSTAB_DISGUISED_SPY_Desc"
+	{
+		"ro"	"Înjunghie în spate un Spy Deghizat."
+	}
+	"TF_SPY_BACKSTAB_DISGUISE_TARGET_Title"
+	{
+		"ro"	"Furt de Identitate"
+	}
+	"TF_SPY_BACKSTAB_DISGUISE_TARGET_Desc"
+	{
+		"ro"	"Înjunghie în spate inamicul în care eşti deghizat."
+	}
+	"TF_SPY_TAUNT_KILL_Title"
+	{
+		"ro"	"Omul de la Î.N.Ţ.E.P.Ă.T.U.R.Ă."
+	}
+	"TF_SPY_TAUNT_KILL_Desc"
+	{
+		"ro"	"Înjunghie un inamic în timp ce faci scrimă"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_HEALING_YOU_Title"
+	{
+		"ro"	"Ca să ştii, sunt un Spy"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_HEALING_YOU_Desc"
+	{
+		"ro"	"Înjunghie în spate un Medic ce te-a vindecat în ultimele 5 secunde."
+	}
+	"TF_SPY_BACKSTAB_ENGY_SAP_BUILDING_Title"
+	{
+		"ro"	"Omul cu Armele Stricate"
+	}
+	"TF_SPY_BACKSTAB_ENGY_SAP_BUILDING_Desc"
+	{
+		"ro"	"Înjunghie în spate un Engineer, apoi sabotează-i 3 din clădirile sale în 10 secunde."
+	}
+	"TF_SPY_SAP_BUILDING_BACKSTAB_ENGY_Title"
+	{
+		"ro"	"Sabocănilă"
+	}
+	"TF_SPY_SAP_BUILDING_BACKSTAB_ENGY_Desc"
+	{
+		"ro"	"Sabotează o clădire inamică, apoi înjunghie în spate Engineerul care a construit-o în 5 secunde."
+	}
+	"TF_SPY_BACKSTAB_MEDIC_PAIR_Title"
+	{
+		"ro"	"Pot Să Intervin?"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_PAIR_Desc"
+	{
+		"ro"	"Înjunghie în spate un inamic şi pe Medicul ce îl vindecă în maxim 10 secunde unul faţă de celălalt."
+	}
+	"TF_SPY_BACKSTAB_FRIENDS_Title"
+	{
+		"ro"	"Agent Provocator"
+	}
+	"TF_SPY_BACKSTAB_FRIENDS_Desc"
+	{
+		"ro"	"Înjunghie-ţi în spate prietenii din Comunitatea Steam de 10 ori."
+	}
+	"TF_SPY_DOMINATE_SNIPER_Title"
+	{
+		"ro"	"Supremaţia din Melbourne"
+	}
+	"TF_SPY_DOMINATE_SNIPER_Desc"
+	{
+		"ro"	"Domină un Sniper."
+	}
+	"TF_SPY_BUMP_CLOAKED_SPY_Title"
+	{
+		"ro"	"Spy Ca Noi"
+	}
+	"TF_SPY_BUMP_CLOAKED_SPY_Desc"
+	{
+		"ro"	"În timp ce eşti invizibil, împiedică-te de un Spy inamic invizibil."
+	}
+	"TF_SPY_KILL_SPY_WITH_KNIFE_Title"
+	{
+		"ro"	"Cu o Tăietură Mai Presus"
+	}
+	"TF_SPY_KILL_SPY_WITH_KNIFE_Desc"
+	{
+		"ro"	"Omoară un Spy ce are în mână un pistol folosind cuţitul tău."
+	}
+	"TF_SPY_SURVIVE_BURNING_Title"
+	{
+		"ro"	"Risc de Arsuri"
+	}
+	"TF_SPY_SURVIVE_BURNING_Desc"
+	{
+		"ro"	"Supravieţuieşte 30 de secunde după ce ai fost incendiat în timp ce erai invizibil."
+	}
+	"TF_SPY_BREAK_SHIELD_KILL_SNIPER_Title"
+	{
+		"ro"	"Mori Într-altă Zi"
+	}
+	"TF_SPY_BREAK_SHIELD_KILL_SNIPER_Desc"
+	{
+		"ro"	"Omoară un Sniper după ce înjunghierea ta îi sparge Razorback-ul."
+	}
+	"TF_SPY_KILL_WORKING_ENGY_Title"
+	{
+		"ro"	"Constructus Interruptus"
+	}
+	"TF_SPY_KILL_WORKING_ENGY_Desc"
+	{
+		"ro"	"Omoară un Engineer care lucrează la o santinelă."
+	}
+	"TF_SPY_FAST_CAP_Title"
+	{
+		"ro"	"Pe Suprafaţă Secretă a Majestăţii Sale"
+	}
+	"TF_SPY_FAST_CAP_Desc"
+	{
+		"ro"	"Începe să capturezi un punct din secunda în care devine disponibil."
+	}
+	"TF_SPY_MEDIC_HEALING_KILL_ENEMY_Title"
+	{
+		"ro"	"Fraudă de Asigurare"
+	}
+	"TF_SPY_MEDIC_HEALING_KILL_ENEMY_Desc"
+	{
+		"ro"	"Omoară un inamic în timp ce eşti vindecat de un Medic inamic."
+	}
+	"TF_SPY_KILL_CP_DEFENDERS_Title"
+	{
+		"ro"	"Spărgătorul Punctului"
+	}
+	"TF_SPY_KILL_CP_DEFENDERS_Desc"
+	{
+		"ro"	"Omoară 15 inamici care stău pe un punct de control controlat de ei."
+	}
+	"TF_SPY_BACKSTAB_DOMINATING_ENEMY_Title"
+	{
+		"ro"	"Ţintă de Valoare Mare"
+	}
+	"TF_SPY_BACKSTAB_DOMINATING_ENEMY_Desc"
+	{
+		"ro"	"Înjunghie în spate un inamic ce domină 3 sai mai mulţi din coechipierii tăi."
+	}
+	"TF_SPY_REVENGE_WITH_BACKSTAB_Title"
+	{
+		"ro"	"Intră din Frigul Ăla"
+	}
+	"TF_SPY_REVENGE_WITH_BACKSTAB_Desc"
+	{
+		"ro"	"Obţine o Răzbunare cu o înjungiere în spate."
+	}
+	"TF_SPY_KNIFE_KILL_WHILE_JARATED_Title"
+	{
+		"ro"	"Misiune Murdară"
+	}
+	"TF_SPY_KNIFE_KILL_WHILE_JARATED_Desc"
+	{
+		"ro"	"Înjunghie un inamic până ce moare în timp ce eşti sub influenţa unui borcan de Şuşu."
+	}
+	"TF_SPY_BACKSTAB_QUICK_KILLS_Title"
+	{
+		"ro"	"Şindeşti Numai de Trei Ori"
+	}
+	"TF_SPY_BACKSTAB_QUICK_KILLS_Desc"
+	{
+		"ro"	"Înjunghie în spate 3 inamici în 10 secunde."
+	}
+	"TF_SPY_BACKSTAB_GRIND_Title"
+	{
+		"ro"	"Maestru Spy"
+	}
+	"TF_SPY_BACKSTAB_GRIND_Desc"
+	{
+		"ro"	"Înjunghie în spate 1000 de inamici."
+	}
+	"TF_SPY_SAPPER_GRIND_Title"
+	{
+		"ro"	"Sabotor Desăvârşit"
+	}
+	"TF_SPY_SAPPER_GRIND_Desc"
+	{
+		"ro"	"Distruge 1000 de clădiri ale Engineerului cu dispozitive de sabotare."
+	}
+	"TF_SPY_SAPPER_TEAMWORK_Title"
+	{
+		"ro"	"Operaţiune în Comun"
+	}
+	"TF_SPY_SAPPER_TEAMWORK_Desc"
+	{
+		"ro"	"Sabotează o santinelă inamică în maxim 3 secunde după ce un coechipier face acelaşi lucru."
+	}
+	"TF_SPY_BACKSTAB_MEDIC_CHARGED_Title"
+	{
+		"ro"	"Dr. Nuuuuu"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_CHARGED_Desc"
+	{
+		"ro"	"Înjunghie în spate un Medic ce este gata să îşi activeze ÜberCharge-ul."
+	}
+	"TF_SPY_BACKSTAB_CAPPING_ENEMIES_Title"
+	{
+		"ro"	"E Sigur?"
+	}
+	"TF_SPY_BACKSTAB_CAPPING_ENEMIES_Desc"
+	{
+		"ro"	"Înjunghie în spate 50 de inamici ce încearcă să captureze un Punct de Control."
+	}
+	"TF_SPY_BACKSTAB_ENEMY_SWITCH_PYRO_Title"
+	{
+		"ro"	"Taie şi Arde"
+	}
+	"TF_SPY_BACKSTAB_ENEMY_SWITCH_PYRO_Desc"
+	{
+		"ro"	"Înjunghie un inamic, ce apoi devine Pyro după ce revine."
+	}
+	"TF_SPY_AMBASSADOR_GRIND_Title"
+	{
+		"ro"	"Diplomaţie"
+	}
+	"TF_SPY_AMBASSADOR_GRIND_Desc"
+	{
+		"ro"	"Omoară 50 de inamici cu Ambasadorul."
+	}
+	"TF_SPY_AMBASSADOR_SNIPER_GRIND_Title"
+	{
+		"ro"	"Fofârlica-n Scăfârlie"
+	}
+	"TF_SPY_AMBASSADOR_SNIPER_GRIND_Desc"
+	{
+		"ro"	"Loveşte în cap 20 de Lunetişti cu Ambasadorul."
+	}
+	"TF_SPY_FEIGN_DEATH_KILL_Title"
+	{
+		"ro"	"Agent Latent"
+	}
+	"TF_SPY_FEIGN_DEATH_KILL_Desc"
+	{
+		"ro"	"Omoară un inamic ce ţi-a declanşat moartea falsă în ultimele 20 de secunde."
+	}
+	"TF_SPY_AMBASSADOR_SCOUT_GRIND_Title"
+	{
+		"ro"	"Cine Ţi-e Tăticul?"
+	}
+	"TF_SPY_AMBASSADOR_SCOUT_GRIND_Desc"
+	{
+		"ro"	"Loveşte în cap 3 Scouti cu Ambasadorul."
+	}
+	"TF_SPY_CAMP_POSITION_Title"
+	{
+		"ro"	"Adânc Sub Acoperire"
+	}
+	"TF_SPY_CAMP_POSITION_Desc"
+	{
+		"ro"	"În timp ce foloseşti Pelerina şi Pumnalul, omoară acelaşi inamic de 3 ori, de fiecare dată în aceeaşi zonă într-o singură viaţă."
+	}
+	"TF_SPY_ACHIEVE_PROGRESS1_Title"
+	{
+		"ro"	"Grad 1 Spy"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS1_Desc"
+	{
+		"ro"	"Obţine 5 realizări din pachetul Spy-ului."
+	}
+	"TF_SPY_ACHIEVE_PROGRESS2_Title"
+	{
+		"ro"	"Grad 2 Spy"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS2_Desc"
+	{
+		"ro"	"Obţine 11 realizări din pachetul Spy-ului."
+	}
+	"TF_SPY_ACHIEVE_PROGRESS3_Title"
+	{
+		"ro"	"Grad 3 Spy"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS3_Desc"
+	{
+		"ro"	"Obţine 17 realizări din pachetul Spy-ului."
+	}
+	"TF_HALLOWEEN_COLLECT_PUMPKINS_Title"
+	{
+		"ro"	"Colecţionar de Bomboane"
+	}
+	"TF_HALLOWEEN_COLLECT_PUMPKINS_Desc"
+	{
+		"ro"	"Colecţionează 20 de dovleci de Halloween de la jucătorii morţi pentru a debloca o pălărie."
+	}
+	"TF_HALLOWEEN_DOMINATE_FOR_HAT_Title"
+	{
+		"ro"	"Prinderea lui Ghastly Gibus"
+	}
+	"TF_HALLOWEEN_DOMINATE_FOR_HAT_Desc"
+	{
+		"ro"	"Domină un jucator care poarta Gibus ca să-l primesti pe-al tău."
+	}
+	"TF_HALLOWEEN_KILL_SCARED_PLAYER_Title"
+	{
+		"ro"	"Înţepenit de Speriat"
+	}
+	"TF_HALLOWEEN_KILL_SCARED_PLAYER_Desc"
+	{
+		"ro"	"Omoară un jucator speriat de fantoma din KOTH Harvest"
+	}
+	"TF_HALLOWEEN_PUMPKIN_KILL_Title"
+	{
+		"ro"	"Atac-o Lanternă"
+	}
+	"TF_HALLOWEEN_PUMPKIN_KILL_Desc"
+	{
+		"ro"	"Cauzează moartea a 5 persoane folosind bombele cu dovleci."
+	}
+	"TF_HALLOWEEN_DISGUISED_SPY_KILL_Title"
+	{
+		"ro"	"Concurs de costume"
+	}
+	"TF_HALLOWEEN_DISGUISED_SPY_KILL_Desc"
+	{
+		"ro"	"Omoară un Spy deghizat în propria ta clasă."
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS1_Title"
+	{
+		"ro"	"Grad 1 Soldier"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS1_Desc"
+	{
+		"ro"	"Obţine 5 realizări din pachetul Soldier-ului."
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS2_Title"
+	{
+		"ro"	"Grad 2 Soldier"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS2_Desc"
+	{
+		"ro"	"Obţine 11 realizări din pachetul Soldier-ului."
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS3_Title"
+	{
+		"ro"	"Grad 3 Soldier"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS3_Desc"
+	{
+		"ro"	"Obţine 17 realizări din pachetul Soldier-ului."
+	}
+	"TF_SOLDIER_KILL_GROUP_WITH_CROCKET_Title"
+	{
+		"ro"	"Daune Triple"
+	}
+	"TF_SOLDIER_KILL_GROUP_WITH_CROCKET_Desc"
+	{
+		"ro"	"Omoară 3 inamici cu o singură rachetă criticală."
+	}
+	"TF_SOLDIER_KILL_TWO_DURING_ROCKET_JUMP_Title"
+	{
+		"ro"	"Moarte din Cer"
+	}
+	"TF_SOLDIER_KILL_TWO_DURING_ROCKET_JUMP_Desc"
+	{
+		"ro"	"Făcând o saritura cu o rachetă, omoară 2 inamici înainte de a ateriza."
+	}
+	"TF_SOLDIER_THREE_DOMINATIONS_Title"
+	{
+		"ro"	"Dominator"
+	}
+	"TF_SOLDIER_THREE_DOMINATIONS_Desc"
+	{
+		"ro"	"Obţine 3 dominări într-o singură viaţă."
+	}
+	"TF_SOLDIER_DEFEND_MEDIC_Title"
+	{
+		"ro"	"Crima şi Pedeapsa Razboiului"
+	}
+	"TF_SOLDIER_DEFEND_MEDIC_Desc"
+	{
+		"ro"	"Într-o singură viaţă, omoară 3 inamici care au atacat medicul în timp ce te vindeca."
+	}
+	"TF_SOLDIER_KILL_TAUNT_Title"
+	{
+		"ro"	"Dovada Înfrângerii"
+	}
+	"TF_SOLDIER_KILL_TAUNT_Desc"
+	{
+		"ro"	"Foloseste o grenadă pentru a marunţi un jucător."
+	}
+	"TF_SOLDIER_DESTROY_SENTRY_OUT_OF_RANGE_Title"
+	{
+		"ro"	"Armele celui Neînfrant"
+	}
+	"TF_SOLDIER_DESTROY_SENTRY_OUT_OF_RANGE_Desc"
+	{
+		"ro"	"Omoară 5 santinele inamice în timp ce nu eşti în raza lor de acţiune."
+	}
+	"TF_SOLDIER_KILL_SNIPER_WHILE_DEAD_Title"
+	{
+		"ro"	"Distrugere Asigurată Mutual"
+	}
+	"TF_SOLDIER_KILL_SNIPER_WHILE_DEAD_Desc"
+	{
+		"ro"	"Omoară un Sniper inamic cu o rachetă după ce acestea deja te-a omorât."
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_TARGET_WHILE_AIRBORNE_Title"
+	{
+		"ro"	"Aripile Gloriei"
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_TARGET_WHILE_AIRBORNE_Desc"
+	{
+		"ro"	"Omoară un Soldier inamic în timp ce şi tu, şi el vă aflaţi în aer."
+	}
+	"TF_SOLDIER_KILL_ENGY_Title"
+	{
+		"ro"	"Engineer spre Eternitate"
+	}
+	"TF_SOLDIER_KILL_ENGY_Desc"
+	{
+		"ro"	"Omoară un Engineer în timp ce îşi repară santinela atacată de inamici."
+	}
+	"TF_SOLDIER_NEMESIS_SHOVEL_KILL_Title"
+	{
+		"ro"	"Războială în Tranşee"
+	}
+	"TF_SOLDIER_NEMESIS_SHOVEL_KILL_Desc"
+	{
+		"ro"	"Omoară-ţi rivalul cu lopata."
+	}
+	"TF_SOLDIER_DESTROY_STICKIES_Title"
+	{
+		"ro"	"Genistul"
+	}
+	"TF_SOLDIER_DESTROY_STICKIES_Desc"
+	{
+		"ro"	"Distruge 10 bombe lipicioase cu puşca într-o singură viaţă."
+	}
+	"TF_SOLDIER_CROUCH_ROCKET_JUMP_Title"
+	{
+		"ro"	"Unde doar Vulturii Îndraznesc"
+	}
+	"TF_SOLDIER_CROUCH_ROCKET_JUMP_Desc"
+	{
+		"ro"	"Obţine cea mai înalta săritură cu racheta folosind o săritură ghemuită."
+	}
+	"TF_SOLDIER_BUFF_FRIENDS_Title"
+	{
+		"ro"	"Steagul Fraţilor"
+	}
+	"TF_SOLDIER_BUFF_FRIENDS_Desc"
+	{
+		"ro"	"Oferă mini-crit-uri la 5 prieteni din comunitatea Steam folosind Steguleţul."
+	}
+	"TF_SOLDIER_KILL_TWENTY_FROM_ABOVE_Title"
+	{
+		"ro"	"Strigătul Vulturului"
+	}
+	"TF_SOLDIER_KILL_TWENTY_FROM_ABOVE_Desc"
+	{
+		"ro"	"Omoară 20 de inamici în timp ce eşti deasupra lor."
+	}
+	"TF_SOLDIER_SHOOT_MULT_CRITS_Title"
+	{
+		"ro"	"Crachetele sunt aşa de O.P."
+	}
+	"TF_SOLDIER_SHOOT_MULT_CRITS_Desc"
+	{
+		"ro"	"Trage două rachete criticale consecutive fără a folosi KritzKrieg-ul."
+	}
+	"TF_SOLDIER_KILL_DEFENSELESS_Title"
+	{
+		"ro"	"Contravenţia din Geneva"
+	}
+	"TF_SOLDIER_KILL_DEFENSELESS_Desc"
+	{
+		"ro"	"Omoară 5 inamici fără apărare la sfarşitul unei singure runde."
+	}
+	"TF_SOLDIER_KILL_ON_FIRE_Title"
+	{
+		"ro"	"Arzi pentru Totdeauna"
+	}
+	"TF_SOLDIER_KILL_ON_FIRE_Desc"
+	{
+		"ro"	"Omoară 20 de inamici în timp ce eşti curpins de flăcări."
+	}
+	"TF_SOLDIER_KILL_FIVE_STUNNED_Title"
+	{
+		"ro"	"Năuceala cea Lungă"
+	}
+	"TF_SOLDIER_KILL_FIVE_STUNNED_Desc"
+	{
+		"ro"	"Omoară 5 inamici năuciţi."
+	}
+	"TF_SOLDIER_FREEZECAM_GIBS_Title"
+	{
+		"ro"	"Gore-a! Gore-a! Gore-a!"
+	}
+	"TF_SOLDIER_FREEZECAM_GIBS_Desc"
+	{
+		"ro"	"Oferă inamicului o imagine cu tine batjocorindu-l deasupra a 3 parţi din corpul său."
+	}
+	"TF_SOLDIER_KILL_SPY_KILLER_Title"
+	{
+		"ro"	"Spyunalul de Crime de Război"
+	}
+	"TF_SOLDIER_KILL_SPY_KILLER_Desc"
+	{
+		"ro"	"Omoară un Spy care tocmai a înjunghiat un coechipier ."
+	}
+	"TF_SOLDIER_DEFEND_CAP_THIRTY_TIMES_Title"
+	{
+		"ro"	"Dealul Dălurel"
+	}
+	"TF_SOLDIER_DEFEND_CAP_THIRTY_TIMES_Desc"
+	{
+		"ro"	"Apără 30 de puncte de control."
+	}
+	"TF_SOLDIER_GIB_GRIND_Title"
+	{
+		"ro"	"Omoruri pentru Fondatori"
+	}
+	"TF_SOLDIER_GIB_GRIND_Desc"
+	{
+		"ro"	"Marunţeşte 1000 de persoane."
+	}
+	"TF_SOLDIER_RJ_EQUALIZER_KILL_Title"
+	{
+		"ro"	"Legat de Slujbă"
+	}
+	"TF_SOLDIER_RJ_EQUALIZER_KILL_Desc"
+	{
+		"ro"	"În timp ce faci o saritură cu racheta, omoară un inamic cu Egalizator-ul inainte de a ateriza."
+	}
+	"TF_SOLDIER_BUFF_TEAMMATES_Title"
+	{
+		"ro"	"Băieţii Boostie"
+	}
+	"TF_SOLDIER_BUFF_TEAMMATES_Desc"
+	{
+		"ro"	"Oferă mini-crit-uri la 15 coechipieri într-o singură viaţă folosind Steguleţul."
+	}
+	"TF_SOLDIER_KILL_DEMOMAN_GRIND_Title"
+	{
+		"ro"	"Afară, al naibii scoţian!"
+	}
+	"TF_SOLDIER_KILL_DEMOMAN_GRIND_Desc"
+	{
+		"ro"	"Omoară 500 de Demomani inamici"
+	}
+	"TF_SOLDIER_KILL_PYRO_Title"
+	{
+		"ro"	"Şiretul Suflător"
+	}
+	"TF_SOLDIER_KILL_PYRO_Desc"
+	{
+		"ro"	"Omoară un Pyro care ţi-a reflectat o rachetă în ultimele 10 secunde."
+	}
+	"TF_SOLDIER_EQUALIZER_STREAK_Title"
+	{
+		"ro"	"Nu am Timp să Sangerez"
+	}
+	"TF_SOLDIER_EQUALIZER_STREAK_Desc"
+	{
+		"ro"	"Omoară 3 jucatori cu Egalizator-ul într-o singură viaţă fără a fi vindecat."
+	}
+	"TF_SOLDIER_KILL_WITH_EQUALIZER_WHILE_HURT_Title"
+	{
+		"ro"	"Experienţă Aproape de Moarte"
+	}
+	"TF_SOLDIER_KILL_WITH_EQUALIZER_WHILE_HURT_Desc"
+	{
+		"ro"	"Omoară 20 de jucători cu Egalizator-ul în timp ce ai mai putin de 25 viaţă."
+	}
+	"TF_SOLDIER_BOUNCE_THEN_SHOTGUN_Title"
+	{
+		"ro"	"Pentru Cine pâdeşte Cartuşul"
+	}
+	"TF_SOLDIER_BOUNCE_THEN_SHOTGUN_Desc"
+	{
+		"ro"	"Aruncă un jucator în aer folosind o rachetă şi omoară-l cu puşca înainte ca acesta să aterizeze."
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_WITH_DIRECT_HIT_Title"
+	{
+		"ro"	"Moarte de Dedesubt"
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_WITH_DIRECT_HIT_Desc"
+	{
+		"ro"	"Omoară 10 jucatori care se afla în aer cu Lovitura Directă."
+	}
+	"TF_SOLDIER_FREEZECAM_TAUNT_Title"
+	{
+		"ro"	"Valorează o Mie de Cuvinte"
+	}
+	"TF_SOLDIER_FREEZECAM_TAUNT_Desc"
+	{
+		"ro"	"Oferă-i unui jucator advers o imagine cu tine batjocorindu-l cu onoruri militare ."
+	}
+	"TF_SOLDIER_DUO_SOLDIER_KILLS_Title"
+	{
+		"ro"	"Fraţi în Asistări"
+	}
+	"TF_SOLDIER_DUO_SOLDIER_KILLS_Desc"
+	{
+		"ro"	"Omoara 10 inamici asistand sau fiind asistat de un alt Soldier."
+	}
+	"TF_SOLDIER_MVP_Title"
+	{
+		"ro"	"Medalii de Onoare"
+	}
+	"TF_SOLDIER_MVP_Desc"
+	{
+		"ro"	"Termină ca jucator de top de 10 ori, intr-o echipa de 6 sau mai multi jucători."
+	}
+	"TF_SOLDIER_RIDE_THE_CART_Title"
+	{
+		"ro"	"Cavalcada lui Valkart"
+	}
+	"TF_SOLDIER_RIDE_THE_CART_Desc"
+	{
+		"ro"	"Împinge cartul pentru 30 de secunde fără oprire."
+	}
+	"TF_SOLDIER_ASSIST_MEDIC_UBER_Title"
+	{
+		"ro"	"D*I*S*T*R*U*G*E"
+	}
+	"TF_SOLDIER_ASSIST_MEDIC_UBER_Desc"
+	{
+		"ro"	"Asista un Medic in explodarea a 5 jucatori folosind un singur ÜberCharge."
+	}
+	"TF_DEMOMAN_KILL_SOLDIER_GRIND_Title"
+	{
+		"ro"	"Kilt în Acţiune"
+	}
+	"TF_DEMOMAN_KILL_SOLDIER_GRIND_Desc"
+	{
+		"ro"	"Omoară 500 de Soldieri inamici."
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_WITH_MEDIC_Title"
+	{
+		"ro"	"Tam O'Shatter"
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_WITH_MEDIC_Desc"
+	{
+		"ro"	"Distruge 5 construcţii inamice folosind un ÜberCharge de la un medic aliat."
+	}
+	"TF_DEMOMAN_DECAPITATE_CLOAKED_SPY_Title"
+	{
+		"ro"	"Shorn Connery"
+	}
+	"TF_DEMOMAN_DECAPITATE_CLOAKED_SPY_Desc"
+	{
+		"ro"	"Decapitează un Spy invizibil."
+	}
+	"TF_DEMOMAN_KILL_X_WITH_DIRECTPIPE_Title"
+	{
+		"ro"	"Lady Macdeth"
+	}
+	"TF_DEMOMAN_KILL_X_WITH_DIRECTPIPE_Desc"
+	{
+		"ro"	"Omoară 50 de inamici cu lovituri directe de la Lansatorul de Grenade."
+	}
+	"TF_DEMOMAN_BOUNCE_AND_KILL_Title"
+	{
+		"ro"	"Aruncarea Caber-ului"
+	}
+	"TF_DEMOMAN_BOUNCE_AND_KILL_Desc"
+	{
+		"ro"	"Aruncă un inamic în aer şi omoară-l înainte ca acesta să ajungă din nou pe pamant."
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_Title"
+	{
+		"ro"	"Brainspotting"
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_Desc"
+	{
+		"ro"	"Decapitează 50 de jucatori inamici."
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_FAST_Title"
+	{
+		"ro"	"Left 4 Capete"
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_FAST_Desc"
+	{
+		"ro"	"Decapitează 4 jucatori cu o diferenţa mai mica de 10 secunde între ucideri."
+	}
+	"TF_DEMOMAN_DUO_DEMOMAN_KILLS_Title"
+	{
+		"ro"	"Bine Jucat!"
+	}
+	"TF_DEMOMAN_DUO_DEMOMAN_KILLS_Desc"
+	{
+		"ro"	"Omoară 10 inamici asistând sau fiind asistat de un demoman aliat."
+	}
+	"TF_DEMOMAN_KILL_TWO_DURING_STICKYJUMP_Title"
+	{
+		"ro"	"Scotch Dublu Rănit"
+	}
+	"TF_DEMOMAN_KILL_TWO_DURING_STICKYJUMP_Desc"
+	{
+		"ro"	"Omoară doi jucatori cu o singură săritură cu bombe lipicioase."
+	}
+	"TF_DEMOMAN_KILL_PLAYER_AFTER_TP_Title"
+	{
+		"ro"	"Bombarderul din Loch Ness"
+	}
+	"TF_DEMOMAN_KILL_PLAYER_AFTER_TP_Desc"
+	{
+		"ro"	"Omoară un inamic cu bombe lipicioase în mai putin de 5 secunde dupa ce acesta s-a teleportat."
+	}
+	"TF_DEMOMAN_DOMINATE_THREE_ENGINEERS_Title"
+	{
+		"ro"	"De Trei ori un Flăcău"
+	}
+	"TF_DEMOMAN_DOMINATE_THREE_ENGINEERS_Desc"
+	{
+		"ro"	"Domină 3 Engineer."
+	}
+	"TF_DEMOMAN_KILL_BUILDING_DIRECT_HIT_Title"
+	{
+		"ro"	"Foc Orb"
+	}
+	"TF_DEMOMAN_KILL_BUILDING_DIRECT_HIT_Desc"
+	{
+		"ro"	"Distruge o construcţie a unui engineer pe care nu o poţi vedea, cu o lovitură directă de la Lansatorul de Grenade."
+	}
+	"TF_DEMOMAN_MELEE_KILL_WHILE_STICKYJUMPING_Title"
+	{
+		"ro"	"Jocul Scoţian"
+	}
+	"TF_DEMOMAN_MELEE_KILL_WHILE_STICKYJUMPING_Desc"
+	{
+		"ro"	"Omoară un inamic cu o armă de luptă corp la corp în timp ce faci o săritură cu bombe lipicioase."
+	}
+	"TF_DEMOMAN_KILL_ENGI_SENTRY_DISPENSER_Title"
+	{
+		"ro"	"Sap-ul de Argyle"
+	}
+	"TF_DEMOMAN_KILL_ENGI_SENTRY_DISPENSER_Desc"
+	{
+		"ro"	"Distruge un Engineer, Santinela şi Distribuitoarea acestuia cu o singură detonare a unor bombe lipicioase."
+	}
+	"TF_DEMOMAN_DECAPITATE_EQUALIZER_Title"
+	{
+		"ro"	"Slammy Slayvis Woundya"
+	}
+	"TF_DEMOMAN_DECAPITATE_EQUALIZER_Desc"
+	{
+		"ro"	"Decapitează un Soldier inamic care foloseşte Egalizatorul."
+	}
+	"TF_DEMOMAN_DECAPITATE_NEMESIS_Title"
+	{
+		"ro"	"Poate fi Numai Unul"
+	}
+	"TF_DEMOMAN_DECAPITATE_NEMESIS_Desc"
+	{
+		"ro"	"Decapitează-ţi rivalul."
+	}
+	"TF_DEMOMAN_DAMAGE_GRIND_Title"
+	{
+		"ro"	"Spartan Tartan"
+	}
+	"TF_DEMOMAN_DAMAGE_GRIND_Desc"
+	{
+		"ro"	"Acumulează un milion de daune explozive."
+	}
+	"TF_DEMOMAN_KILL_X_CAPPING_ONEDET_Title"
+	{
+		"ro"	"Pază la Scotch"
+	}
+	"TF_DEMOMAN_KILL_X_CAPPING_ONEDET_Desc"
+	{
+		"ro"	"Omoară 3 inamici care împing cart-ul cu o singură detonare de bombe lipicioase, de 3 ori."
+	}
+	"TF_DEMOMAN_KILL_X_DEFENDING_Title"
+	{
+		"ro"	"Rănire Neînfricată"
+	}
+	"TF_DEMOMAN_KILL_X_DEFENDING_Desc"
+	{
+		"ro"	"Omoară 25 de inamici care apără un punct de control sau încărcătura."
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_GRIND_Title"
+	{
+		"ro"	"Plânge Mai Moolt"
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_GRIND_Desc"
+	{
+		"ro"	"Distruge 50 de construcţii."
+	}
+	"TF_DEMOMAN_KILL_X_HEAVIES_FULLHP_ONEDET_Title"
+	{
+		"ro"	"Lipirea"
+	}
+	"TF_DEMOMAN_KILL_X_HEAVIES_FULLHP_ONEDET_Desc"
+	{
+		"ro"	"Omoară 5 Heavy care au viaţă maximă dintr-o singură detonare de bombe lipicioase."
+	}
+	"TF_DEMOMAN_KILL_X_SCOUTS_PYROS_Title"
+	{
+		"ro"	"Glasg0wned"
+	}
+	"TF_DEMOMAN_KILL_X_SCOUTS_PYROS_Desc"
+	{
+		"ro"	"Omoară 25 de Scouti şi Pyro cu Lansatorul de Grenade."
+	}
+	"TF_DEMOMAN_TAUNT_KILL_Title"
+	{
+		"ro"	"Lovire cu Scotch"
+	}
+	"TF_DEMOMAN_TAUNT_KILL_Desc"
+	{
+		"ro"	"Omoară un inamic folosind batjocura de la Ochiolander."
+	}
+	"TF_DEMOMAN_CHARGE_KILL_Title"
+	{
+		"ro"	"Şarjarea Scutului"
+	}
+	"TF_DEMOMAN_CHARGE_KILL_Desc"
+	{
+		"ro"	"Şarjează şi omoară un inamic izbindu-te de acesta."
+	}
+	"TF_DEMOMAN_CRIT_SWORD_KILL_Title"
+	{
+		"ro"	"Bate-mă, Scotty"
+	}
+	"TF_DEMOMAN_CRIT_SWORD_KILL_Desc"
+	{
+		"ro"	"Foloseşte o lovitură criticală pentru a omorî 5 inamici cu Ochiolander-ul."
+	}
+	"TF_DEMOMAN_AIR_BURST_KILLS_Title"
+	{
+		"ro"	"Ceva Lipicios Încoace Vine"
+	}
+	"TF_DEMOMAN_AIR_BURST_KILLS_Desc"
+	{
+		"ro"	"Omoară 30 de jucatori prin detonarea în aer a bombelor lipicioase."
+	}
+	"TF_DEMOMAN_STICKYJUMP_CAP_Title"
+	{
+		"ro"	"Drumul Înalt"
+	}
+	"TF_DEMOMAN_STICKYJUMP_CAP_Desc"
+	{
+		"ro"	"Foloseşte bombe lipicioase pentru a sări pe un punct şi capturează-l."
+	}
+	"TF_DEMOMAN_FREEZECAM_SMILE_Title"
+	{
+		"ro"	"Bloody Merry"
+	}
+	"TF_DEMOMAN_FREEZECAM_SMILE_Desc"
+	{
+		"ro"	"Oferă unui jucător inamic o imagine cu tine arătându-i faţa ta zambitoare."
+	}
+	"TF_DEMOMAN_FREEZECAM_RUMP_Title"
+	{
+		"ro"	"Al Doilea Ochi"
+	}
+	"TF_DEMOMAN_FREEZECAM_RUMP_Desc"
+	{
+		"ro"	"Oferă unui jucător inamic o imagine cu tine dând din dos."
+	}
+	"TF_DEMOMAN_ENVIRONMENTAL_KILL_Title"
+	{
+		"ro"	"Cel Ce a Celt-O"
+	}
+	"TF_DEMOMAN_ENVIRONMENTAL_KILL_Desc"
+	{
+		"ro"	"Foloseşte Lansatorul de bombe lipicioase pentru a omorî un inamic din cauza unei daune provocate de mediu."
+	}
+	"TF_DEMOMAN_DESTROY_X_STICKYBOMBS_Title"
+	{
+		"ro"	"Furat Roial"
+	}
+	"TF_DEMOMAN_DESTROY_X_STICKYBOMBS_Desc"
+	{
+		"ro"	"Distruge 100 de bombe lipicioase inamice folosind Rezistenţa Scoţiană."
+	}
+	"TF_DEMOMAN_STICKJUMP_DISTANCE_Title"
+	{
+		"ro"	"Săritura în Cer"
+	}
+	"TF_DEMOMAN_STICKJUMP_DISTANCE_Desc"
+	{
+		"ro"	"Sari cu bombe lipicioase o distanţă foarte lunga"
+	}
+	"TF_DEMOMAN_KILL3_WITH_DETONATION_Title"
+	{
+		"ro"	"Pipebagger"
+	}
+	"TF_DEMOMAN_KILL3_WITH_DETONATION_Desc"
+	{
+		"ro"	"Omoară cel putin 3 inamici cu o detonare de bombe lipicioase."
+	}
+	"TF_DEMOMAN_KILLXSAPPINGSPIES_Title"
+	{
+		"ro"	"Lovire Spională"
+	}
+	"TF_DEMOMAN_KILLXSAPPINGSPIES_Desc"
+	{
+		"ro"	"Omoară 20 de spy în mai puţin de 5 secunde după ce aceştia au sappat o contrucţie."
+	}
+	"TF_DEMOMAN_KILL3_WITH_PIPE_SETUPS_Title"
+	{
+		"ro"	"Bocănitură Lipicioasă"
+	}
+	"TF_DEMOMAN_KILL3_WITH_PIPE_SETUPS_Desc"
+	{
+		"ro"	"Folosind Rezistenţa Scoţiană, omoară 3 inamici cu 3 detonări diferite, în locuri separate fără a plasa noi bombe lipicioase"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS1_Title"
+	{
+		"ro"	"Grad 1 Demoman"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS1_Desc"
+	{
+		"ro"	"Obţine 5 realizări din pachetul Demoman-ului."
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS2_Title"
+	{
+		"ro"	"Grad 2 Demoman"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS2_Desc"
+	{
+		"ro"	"Obţine 11 realizări din pachetul Demoman-ului."
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS3_Title"
+	{
+		"ro"	"Grad 3 Demoman"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS3_Desc"
+	{
+		"ro"	"Obţine 17 realizări din pachetul Demoman-ului."
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS1_Title"
+	{
+		"ro"	"Grad 1 Engineer"
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS1_Desc"
+	{
+		"ro"	"Obţine 5 realizări din pachetul Engineer-ului."
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS2_Title"
+	{
+		"ro"	"Grad 2 Engineer"
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS2_Desc"
+	{
+		"ro"	"Obţine 11 realizări din pachetul Engineer-ului."
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS3_Title"
+	{
+		"ro"	"Grad 3 Engineer"
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS3_Desc"
+	{
+		"ro"	"Obţine 17 realizări din pachetul Engineer-ului."
+	}
+	"TF_ENGINEER_TELEPORT_GRIND_Title"
+	{
+		"ro"	"Hoţul războinic"
+	}
+	"TF_ENGINEER_TELEPORT_GRIND_Desc"
+	{
+		"ro"	"Teleportează 100 de coechipieri în mijlocul bătăliei."
+	}
+	"TF_ENGINEER_DISPENSER_EXTINGUISH_Title"
+	{
+		"ro"	"Domnul Stins"
+	}
+	"TF_ENGINEER_DISPENSER_EXTINGUISH_Desc"
+	{
+		"ro"	"Stinge 20 de coechipieri cu ajutorul distribuitoarelor construite de către tine."
+	}
+	"TF_ENGINEER_REVENGE_CRIT_SENTRY_KILLER_Title"
+	{
+		"ro"	"Răzbungineria"
+	}
+	"TF_ENGINEER_REVENGE_CRIT_SENTRY_KILLER_Desc"
+	{
+		"ro"	"Omoară jucătorul inamic care ţi-a distrus santinela, cu ajutorul unui critical de revanşă."
+	}
+	"TF_ENGINEER_MANUAL_CLOAKED_SPY_KILL_Title"
+	{
+		"ro"	"Motor de Căutare"
+	}
+	"TF_ENGINEER_MANUAL_CLOAKED_SPY_KILL_Desc"
+	{
+		"ro"	"Ucide 3 Spioni invizibili cu o Santinelă aflată sub comanda Controlorului tău."
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_KILLS_BEYOND_RANGE_Title"
+	{
+		"ro"	"Dominat la Distanţă"
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_KILLS_BEYOND_RANGE_Desc"
+	{
+		"ro"	"Omoară 10 inamici în afara razei normale de acţiune a Santinelei tale, folosind Controlorul."
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_ABSORB_DMG_Title"
+	{
+		"ro"	"Blocarea Construcţiei"
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_ABSORB_DMG_Desc"
+	{
+		"ro"	"Absoarbe cu Santinela ta protejată de scutul Controlorului 500 de daune, fără ca aceasta sa fie distrusă."
+	}
+	"TF_ENGINEER_REVENGE_CRIT_LIFE_Title"
+	{
+		"ro"	"De Neiertat"
+	}
+	"TF_ENGINEER_REVENGE_CRIT_LIFE_Desc"
+	{
+		"ro"	"Ucide 3 inamici cu criticale de revanşă, fără a muri."
+	}
+	"TF_ENGINEER_KILL_SPY_TWO_SAPPERS_Title"
+	{
+		"ro"	"Tragere Rapidă"
+	}
+	"TF_ENGINEER_KILL_SPY_TWO_SAPPERS_Desc"
+	{
+		"ro"	"Elimină un Spion şi două Sabotoare într-un interval de 10 secunde."
+	}
+	"TF_ENGINEER_KILL_DISGUISED_SPY_Title"
+	{
+		"ro"	"Conexiunea Cheiei Franceze"
+	}
+	"TF_ENGINEER_KILL_DISGUISED_SPY_Desc"
+	{
+		"ro"	"Omoară cu Cheia Franceză un Spion deghizat."
+	}
+	"TF_ENGINEER_UPGRADE_BUILDINGS_Title"
+	{
+		"ro"	"Partenerul Silenţios"
+	}
+	"TF_ENGINEER_UPGRADE_BUILDINGS_Desc"
+	{
+		"ro"	"Îmbunătăţeşte 50 de clădiri construite de către alţi coechipieri."
+	}
+	"TF_ENGINEER_DESTROY_SAPPERS_Title"
+	{
+		"ro"	"Un Pumn de Sabotoare"
+	}
+	"TF_ENGINEER_DESTROY_SAPPERS_Desc"
+	{
+		"ro"	"Distruge 25 de Sabotoare amplasate pe clădiri construite de către alţi coechipieri."
+	}
+	"TF_ENGINEER_REPAIR_SENTRY_W_MEDIC_Title"
+	{
+		"ro"	"Doctor, Depozit, şi Țeavă"
+	}
+	"TF_ENGINEER_REPAIR_SENTRY_W_MEDIC_Desc"
+	{
+		"ro"	"Repară o Santinelă sub foc inamic, în timp ce eşti vindecat de către un Medic."
+	}
+	"TF_ENGINEER_SENTRY_KILL_LIFETIME_GRIND_Title"
+	{
+		"ro"	"Cea Mai Bună Măcelărie din Texas"
+	}
+	"TF_ENGINEER_SENTRY_KILL_LIFETIME_GRIND_Desc"
+	{
+		"ro"	"Acumulează 5000 de ucideri cu Santinela ta."
+	}
+	"TF_ENGINEER_SENTRY_AVENGES_YOU_Title"
+	{
+		"ro"	"Justiţiarul Frontierei"
+	}
+	"TF_ENGINEER_SENTRY_AVENGES_YOU_Desc"
+	{
+		"ro"	"Omoară cu Santinela ta inamicul, într-un interval de 10 secunde, după ce acesta te-a ucis."
+	}
+	"TF_ENGINEER_FREEZECAM_TAUNT_Title"
+	{
+		"ro"	"Lovitura cu Şase Corzi"
+	}
+	"TF_ENGINEER_FREEZECAM_TAUNT_Desc"
+	{
+		"ro"	"Furnizează jucătorului inamic o fotografie cu abilitatea ta de a cânta la chitară."
+	}
+	"TF_ENGINEER_FREEZECAM_SENTRY_Title"
+	{
+		"ro"	"Inginerul Nepoliticos"
+	}
+	"TF_ENGINEER_FREEZECAM_SENTRY_Desc"
+	{
+		"ro"	"Furnizează jucătorului inamic o fotografie  cu tine şi Santinela care tocmai l-a ucis."
+	}
+	"TF_ENGINEER_SHOTGUN_KILL_PREV_SENTRY_TARGET_Title"
+	{
+		"ro"	"Pasodoble ca în Texas"
+	}
+	"TF_ENGINEER_SHOTGUN_KILL_PREV_SENTRY_TARGET_Desc"
+	{
+		"ro"	"Foloseşte Puşca pentru a elimina un inamic rănit recent de către Santinela ta."
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GROUP_Title"
+	{
+		"ro"	"Vacanţa Doctorului"
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GROUP_Desc"
+	{
+		"ro"	"Vindecă cu ajutorul distribuitoarei 3 coechipieri în acelaşi timp."
+	}
+	"TF_ENGINEER_SENTRY_KILL_CAPS_Title"
+	{
+		"ro"	"Tărâmul Nimănui"
+	}
+	"TF_ENGINEER_SENTRY_KILL_CAPS_Desc"
+	{
+		"ro"	"Foloseşte Santinela pentru a elimina 25 de inamici care capturează un punct."
+	}
+	"TF_ENGINEER_KILL_FLAG_CARRIERS_Title"
+	{
+		"ro"	"Secrete de Meserie"
+	}
+	"TF_ENGINEER_KILL_FLAG_CARRIERS_Desc"
+	{
+		"ro"	"Ucide 20 de jucători care poartă inteligenţa."
+	}
+	"TF_ENGINEER_WASTE_METAL_GRIND_Title"
+	{
+		"ro"	"Metalul Morţii"
+	}
+	"TF_ENGINEER_WASTE_METAL_GRIND_Desc"
+	{
+		"ro"	"Adună 10,000 de fier vechi din bucăţile clădirilor distruse."
+	}
+	"TF_ENGINEER_HELP_BUILD_STRUCTURE_Title"
+	{
+		"ro"	"Capturarea Terenului"
+	}
+	"TF_ENGINEER_HELP_BUILD_STRUCTURE_Desc"
+	{
+		"ro"	"Ajută un coechipier să îşi ridice clădirea."
+	}
+	"TF_ENGINEER_REMOVE_SAPPER_LONG_DIST_Title"
+	{
+		"ro"	"Grăbeşte-te!"
+	}
+	"TF_ENGINEER_REMOVE_SAPPER_LONG_DIST_Desc"
+	{
+		"ro"	"Reuşeşte să ajungi la construcţia ta şi apoi să înlături un Sabotor de pe aceasta, după ce iniţial te-ai aflat la câţiva metri distanţă."
+	}
+	"TF_ENGINEER_DESTROY_STICKIES_Title"
+	{
+		"ro"	"Cum au fost Împuşcaţi Dăunatorii"
+	}
+	"TF_ENGINEER_DESTROY_STICKIES_Desc"
+	{
+		"ro"	"Distruge 50 de bombe lipicioase inamice, care se află în raza unei clădiri a echipei tale."
+	}
+	"TF_ENGINEER_TAUNT_KILL_Title"
+	{
+		"ro"	"Omul Honky Tonk"
+	}
+	"TF_ENGINEER_TAUNT_KILL_Desc"
+	{
+		"ro"	"Zdrobeşte capul unui inamic cu chitara ta."
+	}
+	"TF_ENGINEER_KILL_SNIPERS_SENTRY_Title"
+	{
+		"ro"	"Spărgându-l pe Morant"
+	}
+	"TF_ENGINEER_KILL_SNIPERS_SENTRY_Desc"
+	{
+		"ro"	"Omoară 10 Sniperi cu o Santinelă aflată sub comanda Controlorului."
+	}
+	"TF_ENGINEER_HELP_MANUAL_SENTRY_Title"
+	{
+		"ro"	"Măcinarea Rio"
+	}
+	"TF_ENGINEER_HELP_MANUAL_SENTRY_Desc"
+	{
+		"ro"	"Execută 50 de reparaţii şi/sau reîncărcări pe o Santinelă aflată sub comanda Controlorului unui alt Inginer."
+	}
+	"TF_ENGINEER_KILL_SENTRY_WITH_SENTRY_Title"
+	{
+		"ro"	"Protejarea Brevetului"
+	}
+	"TF_ENGINEER_KILL_SENTRY_WITH_SENTRY_Desc"
+	{
+		"ro"	"Distruge Santinela unui Engineer inamic cu o Santinelă aflată sub comanda Controlorului tău."
+	}
+	"TF_ENGINEER_MOVE_SENTRY_GET_KILL_Title"
+	{
+		"ro"	"Dacă Ai Construit-o, Ei Vor Muri"
+	}
+	"TF_ENGINEER_MOVE_SENTRY_GET_KILL_Desc"
+	{
+		"ro"	"Cară o Santinelă de nivelul 3 şi amplaseaz-o într-o poziţie, unde să omoare pe cineva la scurt timp după ce a fost desfăşurată."
+	}
+	"TF_ENGINEER_BUILDING_CARRY_Title"
+	{
+		"ro"	"Copoi Texan"
+	}
+	"TF_ENGINEER_BUILDING_CARRY_Desc"
+	{
+		"ro"	"Cară clădiri 1 km de-a lungul carierei tale."
+	}
+	"TF_ENGINEER_KILL_ASSIST_Title"
+	{
+		"ro"	"Delegat"
+	}
+	"TF_ENGINEER_KILL_ASSIST_Desc"
+	{
+		"ro"	"Acumulează 10 asistări cu un alt Engineer, în care a fost implicată o Santinelă."
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GRIND_Title"
+	{
+		"ro"	"Văcar Farmacist"
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GRIND_Desc"
+	{
+		"ro"	"Acumulează cu distribuitoarele tale un total de 100,000 de puncte de viaţă de-a lungul carierei tale."
+	}
+	"TF_ENGINEER_REPAIR_TEAM_GRIND_Title"
+	{
+		"ro"	"Înconjoară Vagoanele"
+	}
+	"TF_ENGINEER_REPAIR_TEAM_GRIND_Desc"
+	{
+		"ro"	"Repară 50,000 de daune la clădiri ale echipei tale, construite de către alţi jucători."
+	}
+	"TF_ENGINEER_TANK_DAMAGE_Title"
+	{
+		"ro"	"Construit pentru a Dura"
+	}
+	"TF_ENGINEER_TANK_DAMAGE_Desc"
+	{
+		"ro"	"Ajută o singură cladire să încaseze peste 2000 de daune fără ca aceasta să fie distrusă."
+	}
+	"TF_ENGINEER_HEAVY_ASSIST_Title"
+	{
+		"ro"	"Curajoşii sunt (Nu Chiar) Singuratici"
+	}
+	"TF_ENGINEER_HEAVY_ASSIST_Desc"
+	{
+		"ro"	"Vindecă un Heavy cu distribuitoarea ta în timp ce el omoară 5 inamici."
+	}
+}

@@ -1,0 +1,2915 @@
+﻿"Phrases"
+{
+	"TF_GET_TURRETKILLS_Title"
+	{
+		"pl"	"Operator działka strażniczego"
+	}
+	"TF_GET_TURRETKILLS_Desc"
+	{
+		"pl"	"Zabij 10 nieprzyjaciół z jednego działka strażniczego."
+	}
+	"TF_KILL_NEMESIS_Title"
+	{
+		"pl"	"Nemezis"
+	}
+	"TF_KILL_NEMESIS_Desc"
+	{
+		"pl"	"Zabij pięciu nieprzyjaciół w odwecie."
+	}
+	"TF_GET_CONSECUTIVEKILLS_NODEATHS_Title"
+	{
+		"pl"	"Żywotny"
+	}
+	"TF_GET_CONSECUTIVEKILLS_NODEATHS_Desc"
+	{
+		"pl"	"Zabij 5 przeciwników pod rząd nie ginąc."
+	}
+	"TF_GET_HEALED_BYENEMY_Title"
+	{
+		"pl"	"Mistrz kamuflażu"
+	}
+	"TF_GET_HEALED_BYENEMY_Desc"
+	{
+		"pl"	"Podstępem skłoń Medyka przeciwnej drużyny do udzielenia tobie pomocy."
+	}
+	"TF_GET_HEADSHOTS_Title"
+	{
+		"pl"	"Szara masa"
+	}
+	"TF_GET_HEADSHOTS_Desc"
+	{
+		"pl"	"Oddaj 25 strzałów w głowę jako Snajper."
+	}
+	"TF_PLAY_GAME_FRIENDSONLY_Title"
+	{
+		"pl"	"Mając takich przyjaciół..."
+	}
+	"TF_PLAY_GAME_FRIENDSONLY_Desc"
+	{
+		"pl"	"Zagraj z 7 lub więcej osobami z listy swoich przyjaciół."
+	}
+	"TF_WIN_MULTIPLEGAMES_Title"
+	{
+		"pl"	"Dynastia"
+	}
+	"TF_WIN_MULTIPLEGAMES_Desc"
+	{
+		"pl"	"Zwycięż w 20 grach."
+	}
+	"TF_GET_MULTIPLEKILLS_Title"
+	{
+		"pl"	"Masakra"
+	}
+	"TF_GET_MULTIPLEKILLS_Desc"
+	{
+		"pl"	"Zabij łącznie 1000 nieprzyjaciół."
+	}
+	"TF_WIN_2FORT_NOENEMYCAPS_Title"
+	{
+		"pl"	"Przeważający atak"
+	}
+	"TF_WIN_2FORT_NOENEMYCAPS_Desc"
+	{
+		"pl"	"Wygraj na mapie 2Fort miażdżącą przewagą."
+	}
+	"TF_WIN_WELL_MINIMUMTIME_Title"
+	{
+		"pl"	"Błyskawiczny atak"
+	}
+	"TF_WIN_WELL_MINIMUMTIME_Desc"
+	{
+		"pl"	"Wygraj na mapie Well w ciągu maksymalnie 5 minut."
+	}
+	"TF_WIN_HYDRO_NOENEMYCAPS_Title"
+	{
+		"pl"	"Nieustanny atak"
+	}
+	"TF_WIN_HYDRO_NOENEMYCAPS_Desc"
+	{
+		"pl"	"Wygraj na mapie Hydro, nie tracąc żadnego obiektu."
+	}
+	"TF_WIN_DUSTBOWL_NOENEMYCAPS_Title"
+	{
+		"pl"	"Szczelna obrona"
+	}
+	"TF_WIN_DUSTBOWL_NOENEMYCAPS_Desc"
+	{
+		"pl"	"Wygraj w obronie na mapie Dustbowl, nie tracąc żadnego obiektu."
+	}
+	"TF_WIN_GRAVELPIT_NOENEMYCAPS_Title"
+	{
+		"pl"	"Niepokonana obrona"
+	}
+	"TF_WIN_GRAVELPIT_NOENEMYCAPS_Desc"
+	{
+		"pl"	"Wygraj w obronie na mapie Gravel Pit, nie tracąc żadnego obiektu."
+	}
+	"TF_PLAY_GAME_EVERYCLASS_Title"
+	{
+		"pl"	"Mistrz klasy"
+	}
+	"TF_PLAY_GAME_EVERYCLASS_Desc"
+	{
+		"pl"	"Zagraj całą rundę, wcielając się w każdą klasę."
+	}
+	"TF_PLAY_GAME_EVERYMAP_Title"
+	{
+		"pl"	"Obieżyświat"
+	}
+	"TF_PLAY_GAME_EVERYMAP_Desc"
+	{
+		"pl"	"Zagraj kompletną grę na mapach 2Fort, Dustbowl, Granary, Gravel Pit, Hydro i Well (CP)."
+	}
+	"TF_GET_HEALPOINTS_Title"
+	{
+		"pl"	"Lekarz drużyny"
+	}
+	"TF_GET_HEALPOINTS_Desc"
+	{
+		"pl"	"Zbierz 25 000 punktów zdrowia jako Medyk."
+	}
+	"TF_BURN_PLAYERSINMINIMUMTIME_Title"
+	{
+		"pl"	"Miotacz ognia"
+	}
+	"TF_BURN_PLAYERSINMINIMUMTIME_Desc"
+	{
+		"pl"	"Podpal 5 nieprzyjaciół w 30 sekund."
+	}
+	"TF_MEDIC_TOP_SCOREBOARD_Title"
+	{
+		"pl"	"Po pierwsze nie szkodzić"
+	}
+	"TF_MEDIC_TOP_SCOREBOARD_Desc"
+	{
+		"pl"	"Rozegraj pełną rundę bez zabijania przeciwników i zakończ z najwyższym wynikiem, w drużynie 6 lub więcej graczy."
+	}
+	"TF_MEDIC_HEAL_UNDER_FIRE_Title"
+	{
+		"pl"	"Poczwórny bajpas"
+	}
+	"TF_MEDIC_HEAL_UNDER_FIRE_Desc"
+	{
+		"pl"	"Ulecz członka drużyny, ostrzeliwanego przez 4 przeciwników jednocześnie."
+	}
+	"TF_MEDIC_SIMUL_CHARGE_Title"
+	{
+		"pl"	"Grupa trzymająca zdrowie"
+	}
+	"TF_MEDIC_SIMUL_CHARGE_Desc"
+	{
+		"pl"	"Razem z 2 innymi Medykami użyjcie jednocześnie 3 ładunków ÜberCharge."
+	}
+	"TF_MEDIC_SETUP_CHARGE_Title"
+	{
+		"pl"	"Przygotowanie chirurgiczne"
+	}
+	"TF_MEDIC_SETUP_CHARGE_Desc"
+	{
+		"pl"	"Przygotuj ładunek ÜberCharge przed zakończeniem etapu przygotowania."
+	}
+	"TF_MEDIC_RAPID_CHARGE_Title"
+	{
+		"pl"	"Król traumy"
+	}
+	"TF_MEDIC_RAPID_CHARGE_Desc"
+	{
+		"pl"	"Użyj 3 ładunków ÜberCharge w czasie krótszym niż 5 minut, pomagając w tym czasie w zabiciu 5 przeciwników."
+	}
+	"TF_MEDIC_COUNTER_CHARGE_Title"
+	{
+		"pl"	"Podwójna ślepa próba"
+	}
+	"TF_MEDIC_COUNTER_CHARGE_Desc"
+	{
+		"pl"	"Użyj ładunku ÜberCharge w ciągu 8 sekund od aktywacji podobnego ładunku przez Medyka drużyny przeciwnej."
+	}
+	"TF_MEDIC_SWITCH_TO_MEDIC_Title"
+	{
+		"pl"	"Zabawa w doktora"
+	}
+	"TF_MEDIC_SWITCH_TO_MEDIC_Desc"
+	{
+		"pl"	"W drużynie bez Medyków, bądź pierwszą osobą, która przełączy się na tę klasę i wyleczy 500 punktów zdrowia."
+	}
+	"TF_MEDIC_SAVE_TEAMMATE_Title"
+	{
+		"pl"	"Selekcja"
+	}
+	"TF_MEDIC_SAVE_TEAMMATE_Desc"
+	{
+		"pl"	"Użyj ładunku ÜberCharge na członku drużyny, na mniej niż sekundę przed trafieniem krytycznym ładunkiem wybuchowym."
+	}
+	"TF_MEDIC_CHARGE_BLOCKER_Title"
+	{
+		"pl"	"Medycyna zapobiegawcza"
+	}
+	"TF_MEDIC_CHARGE_BLOCKER_Desc"
+	{
+		"pl"	"Zablokuj przejęcie punktu kontrolnego z pomocą członka drużyny, na którym użyłeś ładunku ÜberCharge."
+	}
+	"TF_MEDIC_ASSIST_MEDIC_Title"
+	{
+		"pl"	"Konsultacje"
+	}
+	"TF_MEDIC_ASSIST_MEDIC_Desc"
+	{
+		"pl"	"Pomóż sprzymierzonemu Medykowi w zabiciu 5 przeciwników, samemu nie ginąc."
+	}
+	"TF_MEDIC_SYRINGE_SCOUTS_Title"
+	{
+		"pl"	"Czy boli, gdy tutaj dotykam?"
+	}
+	"TF_MEDIC_SYRINGE_SCOUTS_Desc"
+	{
+		"pl"	"Zabij 50 Skautów za pomocą karabinu strzykawkowego."
+	}
+	"TF_MEDIC_BONESAW_MEDICS_Title"
+	{
+		"pl"	"Rozpoznanie środowiskowe"
+	}
+	"TF_MEDIC_BONESAW_MEDICS_Desc"
+	{
+		"pl"	"Zabij 50 Medyków za pomocą piły do kości."
+	}
+	"TF_MEDIC_ASSIST_HEAVY_LONG_Title"
+	{
+		"pl"	"Wielka apteka"
+	}
+	"TF_MEDIC_ASSIST_HEAVY_LONG_Desc"
+	{
+		"pl"	"Pomóż Grubemu zabić 20 przeciwników, utrzymując go i siebie przy życiu."
+	}
+	"TF_MEDIC_ASSIST_SCOUT_Title"
+	{
+		"pl"	"Poczujesz małe ukłucie"
+	}
+	"TF_MEDIC_ASSIST_SCOUT_Desc"
+	{
+		"pl"	"Pomóż w zabiciu 3 przeciwników, za pomocą jednego ładunku ÜberCharge użytego na Skaucie."
+	}
+	"TF_MEDIC_ASSIST_PYRO_Title"
+	{
+		"pl"	"Oparzenia III stopnia"
+	}
+	"TF_MEDIC_ASSIST_PYRO_Desc"
+	{
+		"pl"	"Pomóż w spaleniu 5 przeciwników, za pomocą jednego ładunku ÜberCharge użytego na Pyro."
+	}
+	"TF_MEDIC_ASSIST_HEAVY_Title"
+	{
+		"pl"	"Krótka trauma"
+	}
+	"TF_MEDIC_ASSIST_HEAVY_Desc"
+	{
+		"pl"	"Pomóż w zabiciu 2 przeciwników w walce wręcz, za pomocą jednego ładunku ÜberCharge użytego na Grubym."
+	}
+	"TF_MEDIC_ASSIST_DEMOMAN_Title"
+	{
+		"pl"	"Przełom w medycynie"
+	}
+	"TF_MEDIC_ASSIST_DEMOMAN_Desc"
+	{
+		"pl"	"Pomóż w zniszczeniu 5 konstrukcji, za pomocą jednego ładunku ÜberCharge użytego na Demomanie."
+	}
+	"TF_MEDIC_ASSIST_SOLDIER_Title"
+	{
+		"pl"	"Wybuchowa asysta"
+	}
+	"TF_MEDIC_ASSIST_SOLDIER_Desc"
+	{
+		"pl"	"Pomóż w wysadzeniu 5 przeciwników za pomocą jednego ładunku ÜberCharge, użytego na Żołnierzu."
+	}
+	"TF_MEDIC_HEAL_ENGINEER_Title"
+	{
+		"pl"	"Pomocna dłoń"
+	}
+	"TF_MEDIC_HEAL_ENGINEER_Desc"
+	{
+		"pl"	"Ulecz Inżyniera, podczas gdy naprawia on działko strażnicze i jest ostrzeliwany."
+	}
+	"TF_MEDIC_ASSIST_CAPTURER_Title"
+	{
+		"pl"	"Ubi concordia, ibi victoria"
+	}
+	"TF_MEDIC_ASSIST_CAPTURER_Desc"
+	{
+		"pl"	"Pomóż w zabiciu 5 przeciwników przy punkcie kontrolnym wroga, nie ginąc."
+	}
+	"TF_MEDIC_HEAL_CALLERS_Title"
+	{
+		"pl"	"Wielki obchód"
+	}
+	"TF_MEDIC_HEAL_CALLERS_Desc"
+	{
+		"pl"	"Ulecz 200 członków drużyny, po wezwaniu przez nich Medyka."
+	}
+	"TF_MEDIC_EXTINGUISH_TEAMMATES_Title"
+	{
+		"pl"	"Lek na piekło"
+	}
+	"TF_MEDIC_EXTINGUISH_TEAMMATES_Desc"
+	{
+		"pl"	"Ugaś 100 płonących członków drużyny."
+	}
+	"TF_MEDIC_ASSIST_VS_NEMESES_Title"
+	{
+		"pl"	"Lekarz zaangażowany"
+	}
+	"TF_MEDIC_ASSIST_VS_NEMESES_Desc"
+	{
+		"pl"	"Pomóż w zabiciu 20 przeciwników."
+	}
+	"TF_MEDIC_KILL_WHILE_CHARGED_Title"
+	{
+		"pl"	"Efekt placebo"
+	}
+	"TF_MEDIC_KILL_WHILE_CHARGED_Desc"
+	{
+		"pl"	"Zabij 5 przeciwników nie ginąc, mając gotowy ładunek ÜberCharge, lecz nie używając go."
+	}
+	"TF_MEDIC_BONESAW_NOMISSES_Title"
+	{
+		"pl"	"Łapiduch"
+	}
+	"TF_MEDIC_BONESAW_NOMISSES_Desc"
+	{
+		"pl"	"Uderz przeciwników piłą do kości 5 razy pod rząd, nie ginąc przy tym, ani nie pudłując."
+	}
+	"TF_MEDIC_HEAL_LARGE_Title"
+	{
+		"pl"	"Stażysta"
+	}
+	"TF_MEDIC_HEAL_LARGE_Desc"
+	{
+		"pl"	"Ulecz 7000 punktów zdrowia nie ginąc."
+	}
+	"TF_MEDIC_HEAL_HUGE_Title"
+	{
+		"pl"	"Specjalista"
+	}
+	"TF_MEDIC_HEAL_HUGE_Desc"
+	{
+		"pl"	"Ulecz 10000 punktów zdrowia nie ginąc."
+	}
+	"TF_MEDIC_HEAL_GRIND_Title"
+	{
+		"pl"	"Nadordynator"
+	}
+	"TF_MEDIC_HEAL_GRIND_Desc"
+	{
+		"pl"	"Ulecz łącznie 1 milion punktów zdrowia."
+	}
+	"TF_MEDIC_KILL_HEALED_SPY_Title"
+	{
+		"pl"	"Przysięga hipokryty"
+	}
+	"TF_MEDIC_KILL_HEALED_SPY_Desc"
+	{
+		"pl"	"Zabij wrogiego Szpiega, którego leczyłeś."
+	}
+	"TF_MEDIC_SAVE_FALLING_TEAMMATE_Title"
+	{
+		"pl"	"Interwencja medyczna"
+	}
+	"TF_MEDIC_SAVE_FALLING_TEAMMATE_Desc"
+	{
+		"pl"	"Uratuj spadającego członka drużyny przed śmiercią od uderzenia o ziemię."
+	}
+	"TF_MEDIC_CHARGE_JUGGLE_Title"
+	{
+		"pl"	"Druga opinia"
+	}
+	"TF_MEDIC_CHARGE_JUGGLE_Desc"
+	{
+		"pl"	"Użyj ładunku ÜberCharge na 2 członkach drużyny jednocześnie."
+	}
+	"TF_MEDIC_FREEZECAM_RAGDOLL_Title"
+	{
+		"pl"	"Raport z autopsji"
+	}
+	"TF_MEDIC_FREEZECAM_RAGDOLL_Desc"
+	{
+		"pl"	"Prześlij przeciwnikowi migawkę, na której drwisz z jego truchła."
+	}
+	"TF_MEDIC_BONESAW_SPY_CALLERS_Title"
+	{
+		"pl"	"Kto wzywał Medyka?"
+	}
+	"TF_MEDIC_BONESAW_SPY_CALLERS_Desc"
+	{
+		"pl"	"Użyj piły do kości, aby zabić pięciu Szpiegów, którzy wzywali Medyka."
+	}
+	"TF_MEDIC_CHARGE_FRIENDS_Title"
+	{
+		"pl"	"Lekarz rodzinny"
+	}
+	"TF_MEDIC_CHARGE_FRIENDS_Desc"
+	{
+		"pl"	"Użyj ładunku ÜberCharge na 10 znajomych ze Społeczności Steam."
+	}
+	"TF_MEDIC_INVITE_JOIN_CHARGE_Title"
+	{
+		"pl"	"Wizyta domowa"
+	}
+	"TF_MEDIC_INVITE_JOIN_CHARGE_Desc"
+	{
+		"pl"	"Przyłącz się do gry, w której jest już twój znajomy, a następnie użyj na nim ładunku ÜberCharge."
+	}
+	"TF_MEDIC_HEAL_ACHIEVER_Title"
+	{
+		"pl"	"Przy łóżku pacjenta"
+	}
+	"TF_MEDIC_HEAL_ACHIEVER_Desc"
+	{
+		"pl"	"Ulecz członka drużyny, w momencie gdy zdobywa on własne osiągnięcie."
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS1_Title"
+	{
+		"pl"	"Kamień milowy Medyka 1"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS1_Desc"
+	{
+		"pl"	"Zdobądź 10 osiągnięć z Pakietu medycznego."
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS2_Title"
+	{
+		"pl"	"Kamień milowy Medyka 2"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS2_Desc"
+	{
+		"pl"	"Zdobądź 16 osiągnięć z Pakietu medycznego."
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS3_Title"
+	{
+		"pl"	"Kamień milowy Medyka 3"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS3_Desc"
+	{
+		"pl"	"Zdobądź 22 osiągnięcia z Pakietu medycznego."
+	}
+	"TF_PYRO_KILL_MULTIWEAPONS_Title"
+	{
+		"pl"	"Ognia po dwakroć"
+	}
+	"TF_PYRO_KILL_MULTIWEAPONS_Desc"
+	{
+		"pl"	"Użyj strzelby, aby wykończyć 20 graczy, których wcześniej podpaliłeś."
+	}
+	"TF_PYRO_SIMULBURN_SCOUTS_Title"
+	{
+		"pl"	"Podwójna pieczeń"
+	}
+	"TF_PYRO_SIMULBURN_SCOUTS_Desc"
+	{
+		"pl"	"Spraw, aby dwóch Skautów płonęło w tym samym momencie."
+	}
+	"TF_PYRO_FORCE_WATERJUMP_Title"
+	{
+		"pl"	"Chrzest w płomieniach"
+	}
+	"TF_PYRO_FORCE_WATERJUMP_Desc"
+	{
+		"pl"	"Zmuś 10 płonących przeciwników do wskoczenia do wody."
+	}
+	"TF_PYRO_KILL_POSTDEATH_Title"
+	{
+		"pl"	"Podpal i zapomnij"
+	}
+	"TF_PYRO_KILL_POSTDEATH_Desc"
+	{
+		"pl"	"Będąc martwym doprowadź do śmierci 15 graczy."
+	}
+	"TF_PYRO_KILL_SPIES_Title"
+	{
+		"pl"	"Zapora ogniowa"
+	}
+	"TF_PYRO_KILL_SPIES_Desc"
+	{
+		"pl"	"Podpal 5 Szpiegów, którzy umieścili sapera na przyjaznej konstrukcji."
+	}
+	"TF_PYRO_KILL_CARRIERS_Title"
+	{
+		"pl"	"Płonące teczki"
+	}
+	"TF_PYRO_KILL_CARRIERS_Desc"
+	{
+		"pl"	"Podpal 5 przeciwników niosących Twoje tajne materiały."
+	}
+	"TF_PYRO_REVEAL_SPIES_Title"
+	{
+		"pl"	"Samozapłon"
+	}
+	"TF_PYRO_REVEAL_SPIES_Desc"
+	{
+		"pl"	"Podpal 10 ukrytych Szpiegów."
+	}
+	"TF_PYRO_CAMP_TELEPORTERS_Title"
+	{
+		"pl"	"Ognisty szlak"
+	}
+	"TF_PYRO_CAMP_TELEPORTERS_Desc"
+	{
+		"pl"	"Podpal 10 przeciwników, którzy chwilę wcześniej korzystali z teleportera."
+	}
+	"TF_PYRO_CAMP_POSITION_Title"
+	{
+		"pl"	"Ognisko"
+	}
+	"TF_PYRO_CAMP_POSITION_Desc"
+	{
+		"pl"	"Zabij 3 przeciwników pod rząd, na tym samym obszarze."
+	}
+	"TF_PYRO_KILL_AXE_SMALL_Title"
+	{
+		"pl"	"Drwal"
+	}
+	"TF_PYRO_KILL_AXE_SMALL_Desc"
+	{
+		"pl"	"Zabij toporem 3 graczy nie ginąc."
+	}
+	"TF_PYRO_KILL_AXE_LARGE_Title"
+	{
+		"pl"	"Rzemieślnik"
+	}
+	"TF_PYRO_KILL_AXE_LARGE_Desc"
+	{
+		"pl"	"Zabij toporem 6 graczy nie ginąc."
+	}
+	"TF_PYRO_KILL_FROM_BEHIND_Title"
+	{
+		"pl"	"Żar depcze po piętach"
+	}
+	"TF_PYRO_KILL_FROM_BEHIND_Desc"
+	{
+		"pl"	"Zabij 50 graczy, korzystając z miotacza ognia i atakując ich zza pleców."
+	}
+	"TF_PYRO_BURN_SPIES_AS_YOU_Title"
+	{
+		"pl"	"Szpieg z grilla"
+	}
+	"TF_PYRO_BURN_SPIES_AS_YOU_Desc"
+	{
+		"pl"	"Podpal 10 przebranych Szpiegów."
+	}
+	"TF_PYRO_BURN_SNIPERS_ZOOMED_Title"
+	{
+		"pl"	"Miej oko na płomienie"
+	}
+	"TF_PYRO_BURN_SNIPERS_ZOOMED_Desc"
+	{
+		"pl"	"Podpal 10 Snajperów obserwujących cel przez lunetę karabinu."
+	}
+	"TF_PYRO_BURN_MEDICS_CHARGED_Title"
+	{
+		"pl"	"Oddział oparzeniowy"
+	}
+	"TF_PYRO_BURN_MEDICS_CHARGED_Desc"
+	{
+		"pl"	"Podpal 3 Medyków, którzy są gotowi, aby użyć ładunku ÜberCharge."
+	}
+	"TF_PYRO_REFLECT_PROJECTILES_Title"
+	{
+		"pl"	"O mało co"
+	}
+	"TF_PYRO_REFLECT_PROJECTILES_Desc"
+	{
+		"pl"	"Odbij 100 pocisków, korzystając ze strumienia sprężonego powietrza."
+	}
+	"TF_PYRO_KILL_HEAVIES_Title"
+	{
+		"pl"	"Bekon z grilla"
+	}
+	"TF_PYRO_KILL_HEAVIES_Desc"
+	{
+		"pl"	"Zabij 50 Grubych, korzystając z miotacza ognia."
+	}
+	"TF_PYRO_KILL_UNDERWATER_Title"
+	{
+		"pl"	"Plan B"
+	}
+	"TF_PYRO_KILL_UNDERWATER_Desc"
+	{
+		"pl"	"Nurkując, zabij 10 przeciwników będących pod wodą."
+	}
+	"TF_PYRO_KILL_UBERCHARGE_Title"
+	{
+		"pl"	"Pirotechnika"
+	}
+	"TF_PYRO_KILL_UBERCHARGE_Desc"
+	{
+		"pl"	"Zabij 3 przeciwników, korzystając z jednego ładunku ÜberCharge."
+	}
+	"TF_PYRO_DESTROY_BUILDINGS_Title"
+	{
+		"pl"	"Niszczyciel"
+	}
+	"TF_PYRO_DESTROY_BUILDINGS_Desc"
+	{
+		"pl"	"Zniszcz 50 konstrukcji wzniesionych przez Inżynierów."
+	}
+	"TF_PYRO_DEFEND_POINTS_Title"
+	{
+		"pl"	"Pożar kontrolowany"
+	}
+	"TF_PYRO_DEFEND_POINTS_Desc"
+	{
+		"pl"	"Podpal 50 przeciwników zdobywających jeden z Twoich punktów kontrolnych."
+	}
+	"TF_PYRO_KILL_GRIND_Title"
+	{
+		"pl"	"Straszak"
+	}
+	"TF_PYRO_KILL_GRIND_Desc"
+	{
+		"pl"	"Zabij 500 przeciwników."
+	}
+	"TF_PYRO_DAMAGE_GRIND_Title"
+	{
+		"pl"	"Pyromanta"
+	}
+	"TF_PYRO_DAMAGE_GRIND_Desc"
+	{
+		"pl"	"Zadaj łącznie milion punktów obrażenia."
+	}
+	"TF_PYRO_BURN_MEDICPAIR_Title"
+	{
+		"pl"	"Gra w dwa ognie"
+	}
+	"TF_PYRO_BURN_MEDICPAIR_Desc"
+	{
+		"pl"	"Podpal przeciwnika i leczącego go Medyka."
+	}
+	"TF_PYRO_KILL_TAUNT_Title"
+	{
+		"pl"	"OMGWTFBBQ"
+	}
+	"TF_PYRO_KILL_TAUNT_Desc"
+	{
+		"pl"	"Zabij przeciwnika drwiną."
+	}
+	"TF_PYRO_KILL_TEAMWORK_Title"
+	{
+		"pl"	"Poparzenia drugiego stopnia"
+	}
+	"TF_PYRO_KILL_TEAMWORK_Desc"
+	{
+		"pl"	"Zabij płonącego przeciwnika, którego podpalił inny Pyro."
+	}
+	"TF_PYRO_BURN_SPY_TAUNT_Title"
+	{
+		"pl"	"Masz ognia?"
+	}
+	"TF_PYRO_BURN_SPY_TAUNT_Desc"
+	{
+		"pl"	"Podpal wrogiego Szpiega, w momencie gdy strzepuje on popiół z papierosa."
+	}
+	"TF_PYRO_DOMINATE_LEAVESVR_Title"
+	{
+		"pl"	"Dobór naturalny"
+	}
+	"TF_PYRO_DOMINATE_LEAVESVR_Desc"
+	{
+		"pl"	"Spraw, aby zdominowany gracz opuścił serwer."
+	}
+	"TF_PYRO_REFLECT_CROCKET_KILL_Title"
+	{
+		"pl"	"Gorący ładunek"
+	}
+	"TF_PYRO_REFLECT_CROCKET_KILL_Desc"
+	{
+		"pl"	"Zabij Żołnierza odbitą rakietą z krytycznym ładunkiem."
+	}
+	"TF_PYRO_KILL_TAUNTERS_Title"
+	{
+		"pl"	"Śmierć prześmiewcom"
+	}
+	"TF_PYRO_KILL_TAUNTERS_Desc"
+	{
+		"pl"	"Zabij 3 drwiących przeciwników."
+	}
+	"TF_PYRO_DOUBLE_KO_Title"
+	{
+		"pl"	"Ogień z zaświatów"
+	}
+	"TF_PYRO_DOUBLE_KO_Desc"
+	{
+		"pl"	"Zabij przeciwnika w momencie, gdy sam giniesz z jego ręki."
+	}
+	"TF_PYRO_BURN_RJ_SOLDIER_Title"
+	{
+		"pl"	"Ognisty lot"
+	}
+	"TF_PYRO_BURN_RJ_SOLDIER_Desc"
+	{
+		"pl"	"Podpal Żołnierza wykonującego rakietowy skok."
+	}
+	"TF_PYRO_FREEZECAM_TAUNTS_Title"
+	{
+		"pl"	"Z płomieniem ci do twarzy"
+	}
+	"TF_PYRO_FREEZECAM_TAUNTS_Desc"
+	{
+		"pl"	"Prześlij przeciwnikom migawki wszystkich swoich drwin."
+	}
+	"TF_PYRO_KILL_GRIND_LARGE_Title"
+	{
+		"pl"	"Starszy ogniowy"
+	}
+	"TF_PYRO_KILL_GRIND_LARGE_Desc"
+	{
+		"pl"	"Zabij 1000 przeciwników."
+	}
+	"TF_PYRO_IGNITE_FLAREGUN_Title"
+	{
+		"pl"	"W centrum uwagi"
+	}
+	"TF_PYRO_IGNITE_FLAREGUN_Desc"
+	{
+		"pl"	"Podpal 100 przeciwników, używając pistoletu sygnałowego."
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS1_Title"
+	{
+		"pl"	"Kamień milowy Pyro 1"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS1_Desc"
+	{
+		"pl"	"Zdobądź 10 osiągnięć z pakietu Pyro."
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS2_Title"
+	{
+		"pl"	"Kamień milowy Pyro 2"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS2_Desc"
+	{
+		"pl"	"Zdobądź 16 osiągnięć z pakietu Pyro."
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS3_Title"
+	{
+		"pl"	"Kamień milowy Pyro 3"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS3_Desc"
+	{
+		"pl"	"Zdobądź 22 osiągnięcia z pakietu Pyro."
+	}
+	"TF_HEAVY_DAMAGE_TAKEN_Title"
+	{
+		"pl"	"Żelazna kurtyna"
+	}
+	"TF_HEAVY_DAMAGE_TAKEN_Desc"
+	{
+		"pl"	"Otrzymaj 1000 punktów obrażeń nie ginąc."
+	}
+	"TF_HEAVY_DEFEND_MEDIC_Title"
+	{
+		"pl"	"Lojalność partyjna"
+	}
+	"TF_HEAVY_DEFEND_MEDIC_Desc"
+	{
+		"pl"	"Zabij 50 przeciwników w 3 sekundy po tym, jak zaatakowali oni twojego Medyka."
+	}
+	"TF_HEAVY_ASSIST_MEDIC_LARGE_Title"
+	{
+		"pl"	"Podział pracy"
+	}
+	"TF_HEAVY_ASSIST_MEDIC_LARGE_Desc"
+	{
+		"pl"	"Zabij 20 przeciwników z pomocą Medyka, nie dopuszczając waszej śmierci."
+	}
+	"TF_HEAVY_EARN_MEDIC_DOMINATION_Title"
+	{
+		"pl"	"Czerwony Oktoberfest"
+	}
+	"TF_HEAVY_EARN_MEDIC_DOMINATION_Desc"
+	{
+		"pl"	"Zdobądź dominację dla Medyka, który cię leczy."
+	}
+	"TF_HEAVY_KILL_TAUNT_Title"
+	{
+		"pl"	"Proces pokazowy"
+	}
+	"TF_HEAVY_KILL_TAUNT_Desc"
+	{
+		"pl"	"Zabij przeciwnika drwiną."
+	}
+	"TF_HEAVY_KILL_FLAG_CARRIERS_Title"
+	{
+		"pl"	"Zbrodnia i kara"
+	}
+	"TF_HEAVY_KILL_FLAG_CARRIERS_Desc"
+	{
+		"pl"	"Zabij 10 przeciwników niosących twoje tajne materiały."
+	}
+	"TF_HEAVY_KILL_MEDIC_PAIR_Title"
+	{
+		"pl"	"Walka klas"
+	}
+	"TF_HEAVY_KILL_MEDIC_PAIR_Desc"
+	{
+		"pl"	"Korzystając z pomocy Medyka, zabij wrogą parę Grubego i Medyka."
+	}
+	"TF_HEAVY_BLOCK_INVULN_HEAVY_Title"
+	{
+		"pl"	"Blok radziecki"
+	}
+	"TF_HEAVY_BLOCK_INVULN_HEAVY_Desc"
+	{
+		"pl"	"Broniąc się w trybie niezniszczalności zablokuj ruch przeciwnego niezniszczalnego Grubego."
+	}
+	"TF_HEAVY_BLOCK_CART_Title"
+	{
+		"pl"	"Wagonowy Stalin"
+	}
+	"TF_HEAVY_BLOCK_CART_Desc"
+	{
+		"pl"	"Przeszkodź 25 razy przeciwnikowi w przemieszczeniu wagonu z ładunkiem."
+	}
+	"TF_HEAVY_RECEIVE_UBER_GRIND_Title"
+	{
+		"pl"	"Super-sowieta"
+	}
+	"TF_HEAVY_RECEIVE_UBER_GRIND_Desc"
+	{
+		"pl"	"Bądź pod wpływem ładunku ÜberCharge 50 razy."
+	}
+	"TF_HEAVY_STAND_NEAR_DISPENSER_Title"
+	{
+		"pl"	"Pracownik fabryki"
+	}
+	"TF_HEAVY_STAND_NEAR_DISPENSER_Desc"
+	{
+		"pl"	"Zabij 20 przeciwników w czasie, gdy doładowujesz się przy zasobniku."
+	}
+	"TF_HEAVY_ASSIST_HEAVY_GRIND_Title"
+	{
+		"pl"	"Związek radziecki"
+	}
+	"TF_HEAVY_ASSIST_HEAVY_GRIND_Desc"
+	{
+		"pl"	"Zabij 25 przeciwników pomagając lub uzyskując pomoc od innego Grubego."
+	}
+	"TF_HEAVY_CLEAR_STICKYBOMBS_Title"
+	{
+		"pl"	"W posiadaniu środków produkcji"
+	}
+	"TF_HEAVY_CLEAR_STICKYBOMBS_Desc"
+	{
+		"pl"	"Pozbądź się 20 bomb samoprzylepnych, zabijając Demomanów, którzy je umieścili."
+	}
+	"TF_HEAVY_KILL_UNDERWATER_Title"
+	{
+		"pl"	"Szalony Iwan"
+	}
+	"TF_HEAVY_KILL_UNDERWATER_Desc"
+	{
+		"pl"	"Zabij 100 przeciwników w czasie, gdy ty i ofiara znajdujecie się pod wodą."
+	}
+	"TF_HEAVY_TAKE_MULTI_DAMAGE_Title"
+	{
+		"pl"	"Rasputin"
+	}
+	"TF_HEAVY_TAKE_MULTI_DAMAGE_Desc"
+	{
+		"pl"	"Odnieś obrażenia od postrzału, podpalenia, uderzenia i wybuchu nie ginąc."
+	}
+	"TF_HEAVY_KILL_DOMINATED_Title"
+	{
+		"pl"	"Wisienka na torcie"
+	}
+	"TF_HEAVY_KILL_DOMINATED_Desc"
+	{
+		"pl"	"Zabij 20 razy graczy, nad którymi dominujesz."
+	}
+	"TF_HEAVY_SURVIVE_CROCKET_Title"
+	{
+		"pl"	"Cementowy blok"
+	}
+	"TF_HEAVY_SURVIVE_CROCKET_Desc"
+	{
+		"pl"	"Przeżyj bezpośrednie trafienie rakietą z krytycznym ładunkiem."
+	}
+	"TF_HEAVY_ASSIST_GRIND_Title"
+	{
+		"pl"	"Kolektywizacja"
+	}
+	"TF_HEAVY_ASSIST_GRIND_Desc"
+	{
+		"pl"	"Zdobądź 1000 asyst."
+	}
+	"TF_HEAVY_UNCOVER_SPIES_Title"
+	{
+		"pl"	"Materializm szpiegolektyczny"
+	}
+	"TF_HEAVY_UNCOVER_SPIES_Desc"
+	{
+		"pl"	"Zabij lub pomóż w zabiciu 10 ukrytych Szpiegów."
+	}
+	"TF_HEAVY_KILL_WHILE_SPUNUP_Title"
+	{
+		"pl"	"Permanentna rewolucja"
+	}
+	"TF_HEAVY_KILL_WHILE_SPUNUP_Desc"
+	{
+		"pl"	"Zabij 5 przeciwników bez spowolnienia obrotów Miniguna."
+	}
+	"TF_HEAVY_FIRE_LOTS_Title"
+	{
+		"pl"	"Przemysł ciężki"
+	}
+	"TF_HEAVY_FIRE_LOTS_Desc"
+	{
+		"pl"	"Wystrzel równowartość 200 000 dolarów amunicji z Miniguna w czasie jednego życia."
+	}
+	"TF_HEAVY_KILL_CRIT_PUNCH_Title"
+	{
+		"pl"	"Komunistyczny pięściofest"
+	}
+	"TF_HEAVY_KILL_CRIT_PUNCH_Desc"
+	{
+		"pl"	"Zabij przeciwnika krytycznym ciosem pięścią."
+	}
+	"TF_HEAVY_HEAL_MEDIKITS_Title"
+	{
+		"pl"	"Redystrybucja zdrowia"
+	}
+	"TF_HEAVY_HEAL_MEDIKITS_Desc"
+	{
+		"pl"	"Ulecz 1000 punktów obrażeń za pomocą apteczek, nie ginąc."
+	}
+	"TF_HEAVY_KILL_SHOTGUN_Title"
+	{
+		"pl"	"Racjonowanie"
+	}
+	"TF_HEAVY_KILL_SHOTGUN_Desc"
+	{
+		"pl"	"Zabij przeciwnika za pomocą strzelby po tym, jak skończy ci się amunicja do Miniguna."
+	}
+	"TF_HEAVY_FIRST_TO_CAP_Title"
+	{
+		"pl"	"Partia awangardy"
+	}
+	"TF_HEAVY_FIRST_TO_CAP_Desc"
+	{
+		"pl"	"Bądź pierwszym graczem w drużynie, który zacznie przejmować punkt kontrolny w danej rundzie."
+	}
+	"TF_HEAVY_PAYLOAD_CAP_GRIND_Title"
+	{
+		"pl"	"Wagonowy Puszkin"
+	}
+	"TF_HEAVY_PAYLOAD_CAP_GRIND_Desc"
+	{
+		"pl"	"Uzyskaj 50 przejęć na mapach typu Ładunek."
+	}
+	"TF_HEAVY_KILL_MIDAIR_MINIGUN_Title"
+	{
+		"pl"	"Marksista wyborowy"
+	}
+	"TF_HEAVY_KILL_MIDAIR_MINIGUN_Desc"
+	{
+		"pl"	"Zabij 10 przeciwników w powietrzu za pomocą Miniguna."
+	}
+	"TF_HEAVY_DEFEND_CONTROL_POINT_Title"
+	{
+		"pl"	"Park Gorkiego"
+	}
+	"TF_HEAVY_DEFEND_CONTROL_POINT_Desc"
+	{
+		"pl"	"Zabij 25 przeciwników stojąc na zdobytym punkcie kontrolnym."
+	}
+	"TF_HEAVY_KILL_CAPPING_ENEMIES_Title"
+	{
+		"pl"	"Czystka"
+	}
+	"TF_HEAVY_KILL_CAPPING_ENEMIES_Desc"
+	{
+		"pl"	"Zabij 15 przeciwników zdobywających twój punkt kontrolny."
+	}
+	"TF_HEAVY_REVENGE_ASSIST_Title"
+	{
+		"pl"	"Pomocna dłoń"
+	}
+	"TF_HEAVY_REVENGE_ASSIST_Desc"
+	{
+		"pl"	"Pomóż 5 towarzyszom zemścić się na swoich prześladowcach."
+	}
+	"TF_HEAVY_TELEPORT_FAST_KILL_Title"
+	{
+		"pl"	"Plan pięciosekundowy"
+	}
+	"TF_HEAVY_TELEPORT_FAST_KILL_Desc"
+	{
+		"pl"	"Zabij przeciwnika w ciągu 5 sekund po wyjściu z teleportera."
+	}
+	"TF_HEAVY_FREEZECAM_TAUNT_Title"
+	{
+		"pl"	"Fotostrojka"
+	}
+	"TF_HEAVY_FREEZECAM_TAUNT_Desc"
+	{
+		"pl"	"Prześlij przeciwnikowi migawkę, na której drwisz z niego będąc niezniszczalnym."
+	}
+	"TF_HEAVY_EAT_SANDWICHES_Title"
+	{
+		"pl"	"Ostentacyjna konsumpcja"
+	}
+	"TF_HEAVY_EAT_SANDWICHES_Desc"
+	{
+		"pl"	"Zjedz 100 kanapek."
+	}
+	"TF_HEAVY_KILL_SCOUTS_Title"
+	{
+		"pl"	"Nie dotykaj kanapki"
+	}
+	"TF_HEAVY_KILL_SCOUTS_Desc"
+	{
+		"pl"	"Zabij 50 Skautów za pomocą Nataszy."
+	}
+	"TF_HEAVY_KILL_HEAVIES_GLOVES_Title"
+	{
+		"pl"	"Czerwony pas"
+	}
+	"TF_HEAVY_KILL_HEAVIES_GLOVES_Desc"
+	{
+		"pl"	"Zabij 10 Grubych z przeciwnej drużyny za pomocą zabójczych rękawic bokserskich."
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS1_Title"
+	{
+		"pl"	"Kamień milowy Grubego 1"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS1_Desc"
+	{
+		"pl"	"Zdobądź 10 osiągnięć z Pakietu ciężkiego."
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS2_Title"
+	{
+		"pl"	"Kamień milowy Grubego 2"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS2_Desc"
+	{
+		"pl"	"Zdobądź 16 osiągnięć z Pakietu ciężkiego."
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS3_Title"
+	{
+		"pl"	"Kamień milowy Grubego 3"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS3_Desc"
+	{
+		"pl"	"Zdobądź 22 osiągnięcia z Pakietu ciężkiego."
+	}
+	"TF_SCOUT_FIRST_BLOOD_Title"
+	{
+		"pl"	"Pierwsza krew"
+	}
+	"TF_SCOUT_FIRST_BLOOD_Desc"
+	{
+		"pl"	"Zabij jako pierwszy w rozgrywce typu Arena."
+	}
+	"TF_SCOUT_FIRST_BLOOD_KILL_Title"
+	{
+		"pl"	"Pierwsza krew, Część 2"
+	}
+	"TF_SCOUT_FIRST_BLOOD_KILL_Desc"
+	{
+		"pl"	"Zabij 5 wrogów podczas premii krytycznej Pierwszej Krwi."
+	}
+	"TF_SCOUT_WELL_EARLY_KILL_Title"
+	{
+		"pl"	"Szybki sierpowy"
+	}
+	"TF_SCOUT_WELL_EARLY_KILL_Desc"
+	{
+		"pl"	"Zabij gracza na mapie Well przed rozpoczęciem rundy."
+	}
+	"TF_SCOUT_LIFETIME_KILLS_Title"
+	{
+		"pl"	"Pamiętny rok"
+	}
+	"TF_SCOUT_LIFETIME_KILLS_Desc"
+	{
+		"pl"	"Zabij 2004 przeciwników."
+	}
+	"TF_SCOUT_IRON_MAN_KILLS_Title"
+	{
+		"pl"	"Cykl"
+	}
+	"TF_SCOUT_IRON_MAN_KILLS_Desc"
+	{
+		"pl"	"W ciągu jednego życia zabij przeciwnika na ziemi, w powietrzu i w wodzie."
+	}
+	"TF_SCOUT_DESTROY_TELEPORTERS_Title"
+	{
+		"pl"	"Wielkie zamknięcie"
+	}
+	"TF_SCOUT_DESTROY_TELEPORTERS_Desc"
+	{
+		"pl"	"Zniszcz 3 wejścia do teleporterów."
+	}
+	"TF_SCOUT_DESTROY_BUILDINGS_BEING_BUILT_Title"
+	{
+		"pl"	"Budowlanka"
+	}
+	"TF_SCOUT_DESTROY_BUILDINGS_BEING_BUILT_Desc"
+	{
+		"pl"	"Zniszcz 3 budynki wroga, które są nadal w budowie."
+	}
+	"TF_SCOUT_DESTROY_SENTRY_WITH_PISTOL_Title"
+	{
+		"pl"	"Rewolwerowiec"
+	}
+	"TF_SCOUT_DESTROY_SENTRY_WITH_PISTOL_Desc"
+	{
+		"pl"	"Zniszcz aktywne działko strażnicze używając tylko pistoletu."
+	}
+	"TF_SCOUT_DOUBLE_JUMPS_Title"
+	{
+		"pl"	"Nasi górą"
+	}
+	"TF_SCOUT_DOUBLE_JUMPS_Desc"
+	{
+		"pl"	"Wykonaj 1000 podwójnych skoków."
+	}
+	"TF_SCOUT_ASSIST_MEDIC_Title"
+	{
+		"pl"	"Grzebanie przy piłce"
+	}
+	"TF_SCOUT_ASSIST_MEDIC_Desc"
+	{
+		"pl"	"Zabij 3 wrogów, znajdując się pod wpływem ÜberCharge użytego przez Medyka."
+	}
+	"TF_SCOUT_STEAL_SANDWICH_Title"
+	{
+		"pl"	"Nasi 1, Goście 0"
+	}
+	"TF_SCOUT_STEAL_SANDWICH_Desc"
+	{
+		"pl"	"Zabij Grubego i zabierz jego kanapkę."
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS1_Title"
+	{
+		"pl"	"Kamień milowy Skauta 1"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS1_Desc"
+	{
+		"pl"	"Zdobądź 10 osiągnięć z Pakietu zwiadowczego."
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS2_Title"
+	{
+		"pl"	"Kamień milowy Skauta 2"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS2_Desc"
+	{
+		"pl"	"Zdobądź 16 osiągnięć z Pakietu zwiadowczego."
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS3_Title"
+	{
+		"pl"	"Kamień milowy Skauta 3"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS3_Desc"
+	{
+		"pl"	"Zdobądź 22 osiągnięcia z Pakietu zwiadowczego."
+	}
+	"TF_SCOUT_KILL_CHARGED_MEDICS_Title"
+	{
+		"pl"	"Bez znieczulenia"
+	}
+	"TF_SCOUT_KILL_CHARGED_MEDICS_Desc"
+	{
+		"pl"	"Zabij Medyka, który jest gotowy do użycia ładunku ÜberCharge."
+	}
+	"TF_SCOUT_SURVIVE_DAMAGE_Title"
+	{
+		"pl"	"Niezniszczalny"
+	}
+	"TF_SCOUT_SURVIVE_DAMAGE_Desc"
+	{
+		"pl"	"Przeżyj 500 punktów obrażeń w jednym życiu."
+	}
+	"TF_SCOUT_DOUBLEJUMP_KILL_Title"
+	{
+		"pl"	"Zabójcza mucha"
+	}
+	"TF_SCOUT_DOUBLEJUMP_KILL_Desc"
+	{
+		"pl"	"Zabij 20 graczy podczas podwójnego skoku."
+	}
+	"TF_SCOUT_FLAG_CAP_GRIND_Title"
+	{
+		"pl"	"Agent wahadłowy"
+	}
+	"TF_SCOUT_FLAG_CAP_GRIND_Desc"
+	{
+		"pl"	"Przechwyć tajne materiały nieprzyjaciela 25 razy."
+	}
+	"TF_SCOUT_THREE_FLAGCAPS_Title"
+	{
+		"pl"	"Potrójne przechwycenie"
+	}
+	"TF_SCOUT_THREE_FLAGCAPS_Desc"
+	{
+		"pl"	"Przechwyć tajne materiały nieprzyjaciela 3 razy w ciągu jednej rundy typu Zdobądź flagę."
+	}
+	"TF_SCOUT_DODGE_DAMAGE_Title"
+	{
+		"pl"	"Piskorz"
+	}
+	"TF_SCOUT_DODGE_DAMAGE_Desc"
+	{
+		"pl"	"Uchyl się przed 1000 punktów obrażeń w jednym życiu, korzystając z Bonk! Atomowego Kopu."
+	}
+	"TF_SCOUT_KNOCK_INTO_TRAIN_Title"
+	{
+		"pl"	"Klasyczny upadek"
+	}
+	"TF_SCOUT_KNOCK_INTO_TRAIN_Desc"
+	{
+		"pl"	"Spowoduj nieszczęśliwy wypadek śmiertelny lub samobójstwo, korzystając z odrzutu Siły Natury."
+	}
+	"TF_SCOUT_KILL_STUNNED_Title"
+	{
+		"pl"	"Strefa uderzenia"
+	}
+	"TF_SCOUT_KILL_STUNNED_Desc"
+	{
+		"pl"	"Zabij 50 ogłuszonych przeciwników."
+	}
+	"TF_SCOUT_STUN_INTO_TRAIN_Title"
+	{
+		"pl"	"Brudna zagrywka"
+	}
+	"TF_SCOUT_STUN_INTO_TRAIN_Desc"
+	{
+		"pl"	"Spowoduj nieszczęśliwy wypadek śmiertelny poprzez ogłuszenie przeciwnika."
+	}
+	"TF_SCOUT_STUN_UBER_ENEMIES_Title"
+	{
+		"pl"	"To boli"
+	}
+	"TF_SCOUT_STUN_UBER_ENEMIES_Desc"
+	{
+		"pl"	"Ogłusz 2 Medyków, którzy są gotowi, aby użyć ładunku ÜberCharge."
+	}
+	"TF_SCOUT_STUN_CAPPING_ENEMIES_Title"
+	{
+		"pl"	"Szybka piłka"
+	}
+	"TF_SCOUT_STUN_CAPPING_ENEMIES_Desc"
+	{
+		"pl"	"Ogłusz 50 przeciwników, gdy zdobywają punkt lub pchają wagon."
+	}
+	"TF_SCOUT_MAX_STUNS_Title"
+	{
+		"pl"	"Strzał z dystansu"
+	}
+	"TF_SCOUT_MAX_STUNS_Desc"
+	{
+		"pl"	"Ogłusz przeciwnika na możliwie najdłużej, poprzez trafienie go z daleka piłką."
+	}
+	"TF_SCOUT_STUN_SCOUT_WITH_THEIR_BALL_Title"
+	{
+		"pl"	"Zbijak"
+	}
+	"TF_SCOUT_STUN_SCOUT_WITH_THEIR_BALL_Desc"
+	{
+		"pl"	"Ogłusz Skauta jego własną piłką."
+	}
+	"TF_SCOUT_KILL_IN_DODGE_COOLDOWN_Title"
+	{
+		"pl"	"Zwolnić gońca"
+	}
+	"TF_SCOUT_KILL_IN_DODGE_COOLDOWN_Desc"
+	{
+		"pl"	"Zabij Skauta, gdy znajduje się on pod wpływem Kryt-o-Coli."
+	}
+	"TF_SCOUT_KILL_FROM_BEHIND_Title"
+	{
+		"pl"	"Chwila nieuwagi"
+	}
+	"TF_SCOUT_KILL_FROM_BEHIND_Desc"
+	{
+		"pl"	"Zabij 50 przeciwników podchodząc ich od tyłu i korzystając z Siły Natury."
+	}
+	"TF_SCOUT_CAPTURE_LAST_POINT_Title"
+	{
+		"pl"	"Pożegnanie"
+	}
+	"TF_SCOUT_CAPTURE_LAST_POINT_Desc"
+	{
+		"pl"	"Przejmij ostatni punkt na mapie typu Punkt kontrolny."
+	}
+	"TF_SCOUT_CAPTURE_THREE_POINTS_Title"
+	{
+		"pl"	"Potrójne zagranie"
+	}
+	"TF_SCOUT_CAPTURE_THREE_POINTS_Desc"
+	{
+		"pl"	"Przejmij trzy punkty przejęcia pod rząd w ciągu jednego życia."
+	}
+	"TF_SCOUT_FAST_CAP_Title"
+	{
+		"pl"	"Krótka piłka"
+	}
+	"TF_SCOUT_FAST_CAP_Desc"
+	{
+		"pl"	"Zacznij przejmowanie punktu przejęcia w ciągu sekundy od momentu, gdy stanie się dostępny."
+	}
+	"TF_SCOUT_START_AND_FINISH_CAP_Title"
+	{
+		"pl"	"Wystawka"
+	}
+	"TF_SCOUT_START_AND_FINISH_CAP_Desc"
+	{
+		"pl"	"Zapoczątkuj 10 pomyślnych przejęć punktów."
+	}
+	"TF_SCOUT_BLOCK_CAPS_Title"
+	{
+		"pl"	"Blokowanie bazy"
+	}
+	"TF_SCOUT_BLOCK_CAPS_Desc"
+	{
+		"pl"	"Zablokuj 50 przejęć punktów."
+	}
+	"TF_SCOUT_CARRIER_KILL_CARRIER_Title"
+	{
+		"pl"	"Złapał Kozak Tatarzyna"
+	}
+	"TF_SCOUT_CARRIER_KILL_CARRIER_Desc"
+	{
+		"pl"	"Zabij przeciwnika posiadającego twoje tajne materiały, gdy ty masz jego tajne materiały."
+	}
+	"TF_SCOUT_CAP_FLAG_WITHOUT_ATTACKING_Title"
+	{
+		"pl"	"Cichociemny"
+	}
+	"TF_SCOUT_CAP_FLAG_WITHOUT_ATTACKING_Desc"
+	{
+		"pl"	"Wykradnij i przejmij tajne materiały przeciwnika, nie oddając przy tym ani jednego strzału."
+	}
+	"TF_SCOUT_LONG_DISTANCE_RUNNER_Title"
+	{
+		"pl"	"Wyścig o proporzec"
+	}
+	"TF_SCOUT_LONG_DISTANCE_RUNNER_Desc"
+	{
+		"pl"	"Przebiegnij 25 kilometrów."
+	}
+	"TF_SCOUT_TAUNT_KILL_Title"
+	{
+		"pl"	"Na aut"
+	}
+	"TF_SCOUT_TAUNT_KILL_Desc"
+	{
+		"pl"	"Odrzuć przeciwnika na 25 metrów za pomocą kija."
+	}
+	"TF_SNIPER_JARATE_DOMINATED_Title"
+	{
+		"pl"	"Twarda jazda, mokra robota"
+	}
+	"TF_SNIPER_JARATE_DOMINATED_Desc"
+	{
+		"pl"	"Zaatakuj Sikwondem przeciwnika, którego dominujesz."
+	}
+	"TF_SNIPER_FREEZECAM_HAT_Title"
+	{
+		"pl"	"Bądź uprzejmy"
+	}
+	"TF_SNIPER_FREEZECAM_HAT_Desc"
+	{
+		"pl"	"Prześlij przeciwnikowi migawkę, na której uchylasz przed nim kapelusza."
+	}
+	"TF_SNIPER_RIFLE_NO_MISSING_Title"
+	{
+		"pl"	"Bądź wydajny"
+	}
+	"TF_SNIPER_RIFLE_NO_MISSING_Desc"
+	{
+		"pl"	"Zabij 3 przeciwników za pomocą karabinu snajperskiego nie pudłując ani razu."
+	}
+	"TF_SNIPER_CAPTURE_FLAG_Title"
+	{
+		"pl"	"Miej plan"
+	}
+	"TF_SNIPER_CAPTURE_FLAG_Desc"
+	{
+		"pl"	"Zdobądź flagę w trybie CTF."
+	}
+	"TF_SNIPER_KILL_GRIND_Title"
+	{
+		"pl"	"Zabij każdego, kogo spotkasz"
+	}
+	"TF_SNIPER_KILL_GRIND_Desc"
+	{
+		"pl"	"Zabij 1000 przeciwników."
+	}
+	"TF_SNIPER_KILL_WEAPONS_Title"
+	{
+		"pl"	"Po trzykroć ofiara"
+	}
+	"TF_SNIPER_KILL_WEAPONS_Desc"
+	{
+		"pl"	"W ciągu jednej rundy zabij przeciwników 3 różnymi broniami."
+	}
+	"TF_SNIPER_HEADSHOT_SNIPERS_Title"
+	{
+		"pl"	"Sekwencja samozniszczenia"
+	}
+	"TF_SNIPER_HEADSHOT_SNIPERS_Desc"
+	{
+		"pl"	"Zabij 10 snajperów przeciwnika strzałami w głowę."
+	}
+	"TF_SNIPER_DESTROY_SENTRYGUNS_Title"
+	{
+		"pl"	"Działa na złom"
+	}
+	"TF_SNIPER_DESTROY_SENTRYGUNS_Desc"
+	{
+		"pl"	"Zniszcz 3 działka strażnicze zbudowane przez Inżyniera."
+	}
+	"TF_SNIPER_KILL_INVIS_SPY_Title"
+	{
+		"pl"	"Strzał w ciemno"
+	}
+	"TF_SNIPER_KILL_INVIS_SPY_Desc"
+	{
+		"pl"	"Zabij całkowicie niewidzialnego Szpiega jednym strzałem."
+	}
+	"TF_SNIPER_KILL_MIDAIR_SCOUT_Title"
+	{
+		"pl"	"Leż i nie wstawaj"
+	}
+	"TF_SNIPER_KILL_MIDAIR_SCOUT_Desc"
+	{
+		"pl"	"Zabij znajdującego się w powietrzu Skauta za pomocą karabinu snajperskiego lub Łuku łowcy."
+	}
+	"TF_SNIPER_FREEZECAM_WAVE_Title"
+	{
+		"pl"	"Ckliwe pożegnanie"
+	}
+	"TF_SNIPER_FREEZECAM_WAVE_Desc"
+	{
+		"pl"	"Prześlij przeciwnikowi migawkę, na której machasz do niego."
+	}
+	"TF_SNIPER_DOMINATE_SNIPER_Title"
+	{
+		"pl"	"Zasady australijskie"
+	}
+	"TF_SNIPER_DOMINATE_SNIPER_Desc"
+	{
+		"pl"	"Zdominuj wrogiego Snajpera."
+	}
+	"TF_SNIPER_KILL_SPIES_MELEE_Title"
+	{
+		"pl"	"Dźgnij szpiega"
+	}
+	"TF_SNIPER_KILL_SPIES_MELEE_Desc"
+	{
+		"pl"	"Zabij 10 Szpiegów, używając kukri."
+	}
+	"TF_SNIPER_HEADSHOT_DEMOMAN_Title"
+	{
+		"pl"	"Prosto w łeb"
+	}
+	"TF_SNIPER_HEADSHOT_DEMOMAN_Desc"
+	{
+		"pl"	"Traf w głowę wrogiego Demomana."
+	}
+	"TF_SNIPER_KILL_RJER_Title"
+	{
+		"pl"	"Strącony skoczek"
+	}
+	"TF_SNIPER_KILL_RJER_Desc"
+	{
+		"pl"	"Zabij przeciwnika, który wyskoczył na rakiecie lub granacie, za pomocą karabinu snajperskiego lub Łuku łowcy."
+	}
+	"TF_SNIPER_KILL_OBJECTIVES_Title"
+	{
+		"pl"	"Nie jestem psychopatą, tato"
+	}
+	"TF_SNIPER_KILL_OBJECTIVES_Desc"
+	{
+		"pl"	"Nie ginąc zabij 3 przeciwników w trakcie osiągania przez nich celów."
+	}
+	"TF_SNIPER_KILL_UNSCOPED_Title"
+	{
+		"pl"	"Zaufaj swoim uczuciom"
+	}
+	"TF_SNIPER_KILL_UNSCOPED_Desc"
+	{
+		"pl"	"Zabij 5 przeciwników za pomocą karabinu snajperskiego bez korzystania z lunety."
+	}
+	"TF_SNIPER_KILL_CHARGED_MEDIC_Title"
+	{
+		"pl"	"Überektomia"
+	}
+	"TF_SNIPER_KILL_CHARGED_MEDIC_Desc"
+	{
+		"pl"	"Zabij Medyka, który jest gotowy do użycia ładunku ÜberCharge."
+	}
+	"TF_SNIPER_GET_BACKSTABBED_Title"
+	{
+		"pl"	"Nagroda pocieszenia"
+	}
+	"TF_SNIPER_GET_BACKSTABBED_Desc"
+	{
+		"pl"	"Otrzymaj 50 ciosów nożem w plecy."
+	}
+	"TF_SNIPER_KILL_AT_ROUNDSTART_Title"
+	{
+		"pl"	"Wróg u bram"
+	}
+	"TF_SNIPER_KILL_AT_ROUNDSTART_Desc"
+	{
+		"pl"	"Zabij przeciwnika w ciągu pierwszej sekundy danej rundy."
+	}
+	"TF_SNIPER_HEADSHOT_POST_INVULN_Title"
+	{
+		"pl"	"Strzał na pożegnanie"
+	}
+	"TF_SNIPER_HEADSHOT_POST_INVULN_Desc"
+	{
+		"pl"	"Strzel przeciwnikowi w głowę w momencie, gdy jego nieśmiertelność się kończy."
+	}
+	"TF_SNIPER_TOP_SCOREBOARD_GRIND_Title"
+	{
+		"pl"	"Moja błyskotliwa kariera"
+	}
+	"TF_SNIPER_TOP_SCOREBOARD_GRIND_Desc"
+	{
+		"pl"	"Znajdź się 10-krotnie na szczycie tablicy wyników w drużynie 6 lub więcej graczy."
+	}
+	"TF_SNIPER_KILL_FAILED_SPY_Title"
+	{
+		"pl"	"Terapia szokowa"
+	}
+	"TF_SNIPER_KILL_FAILED_SPY_Desc"
+	{
+		"pl"	"Zabij Szpiega, którego cios nożem został zablokowany przez Twoją tarczę Razorback."
+	}
+	"TF_SNIPER_JARATE_GROUP_Title"
+	{
+		"pl"	"Bombardowanie cieczą"
+	}
+	"TF_SNIPER_JARATE_GROUP_Desc"
+	{
+		"pl"	"Oblej Sikwondem 4 przeciwników jednocześnie."
+	}
+	"TF_SNIPER_JARATE_MEDIC_PAIR_Title"
+	{
+		"pl"	"Z deszczu pod rynnę"
+	}
+	"TF_SNIPER_JARATE_MEDIC_PAIR_Desc"
+	{
+		"pl"	"Oblej Sikwondem przeciwnika i leczącego go Medyka."
+	}
+	"TF_SNIPER_JARATE_REVEAL_SPY_Title"
+	{
+		"pl"	"Szpiegowykrywacz"
+	}
+	"TF_SNIPER_JARATE_REVEAL_SPY_Desc"
+	{
+		"pl"	"Użyj Sikwonda, aby odkryć ukrytego Szpiega."
+	}
+	"TF_SNIPER_JARATE_EXTINGUISH_Title"
+	{
+		"pl"	"Przyjaźń jest złotem"
+	}
+	"TF_SNIPER_JARATE_EXTINGUISH_Desc"
+	{
+		"pl"	"Ugaś płonącego członka drużyny za pomocą Sikwonda."
+	}
+	"TF_SNIPER_BOW_PIN_HEAVY_Title"
+	{
+		"pl"	"Wilhelm Tell plus"
+	}
+	"TF_SNIPER_BOW_PIN_HEAVY_Desc"
+	{
+		"pl"	"Przybij do ściany Grubego, trafiając go w głowę."
+	}
+	"TF_SNIPER_BOW_KILL_MEDIC_PAIR_Title"
+	{
+		"pl"	"Po strzale dla każdego"
+	}
+	"TF_SNIPER_BOW_KILL_MEDIC_PAIR_Desc"
+	{
+		"pl"	"Zabij jednocześnie Grubego i Medyka za pomocą łuku."
+	}
+	"TF_SNIPER_BOW_KILL_FLAGCARRIER_Title"
+	{
+		"pl"	"Być jak Robin Hood"
+	}
+	"TF_SNIPER_BOW_KILL_FLAGCARRIER_Desc"
+	{
+		"pl"	"Zabij jedną strzałą postać przenoszącą tajne materiały."
+	}
+	"TF_SNIPER_BOW_PINCUSHION_Title"
+	{
+		"pl"	"Jeżozwierz"
+	}
+	"TF_SNIPER_BOW_PINCUSHION_Desc"
+	{
+		"pl"	"Traf przeciwnika 3 strzałami z łuku, nie zabijając go."
+	}
+	"TF_SNIPER_JARATE_ASSISTS_Title"
+	{
+		"pl"	"Asystent numer jeden"
+	}
+	"TF_SNIPER_JARATE_ASSISTS_Desc"
+	{
+		"pl"	"Zalicz 5 asyst w jednej rundzie z użyciem Sikwondo."
+	}
+	"TF_SNIPER_JARATE_KILL_MELEE_Title"
+	{
+		"pl"	"Cios Sikwondo"
+	}
+	"TF_SNIPER_JARATE_KILL_MELEE_Desc"
+	{
+		"pl"	"Oblej Sikwondem 3 przeciwników i zabij ich używając kukri."
+	}
+	"TF_SNIPER_TAUNT_KILL_Title"
+	{
+		"pl"	"Zadźgany"
+	}
+	"TF_SNIPER_TAUNT_KILL_Desc"
+	{
+		"pl"	"Dźgnij przeciwnika strzałą."
+	}
+	"TF_SNIPER_BOW_KILL_WHILEDEAD_Title"
+	{
+		"pl"	"Śmierć zza grobu"
+	}
+	"TF_SNIPER_BOW_KILL_WHILEDEAD_Desc"
+	{
+		"pl"	"Zabij przeciwnika za pomocą strzały, będąc martwym."
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS1_Title"
+	{
+		"pl"	"Kamień milowy Snajpera 1"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS1_Desc"
+	{
+		"pl"	"Zdobądź 5 osiągnięć z Pakietu snajperskiego."
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS2_Title"
+	{
+		"pl"	"Kamień milowy Snajpera 2"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS2_Desc"
+	{
+		"pl"	"Zdobądź 11 osiągnięć z Pakietu snajperskiego."
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS3_Title"
+	{
+		"pl"	"Kamień milowy Snajpera 3"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS3_Desc"
+	{
+		"pl"	"Zdobądź 17 osiągnięć z Pakietu snajperskiego."
+	}
+	"TF_SPY_BACKSTAB_SNIPERS_Title"
+	{
+		"pl"	"Potrójne dźgnięcie"
+	}
+	"TF_SPY_BACKSTAB_SNIPERS_Desc"
+	{
+		"pl"	"Dźgnij w plecy trzech Snajperów, nie ginąc."
+	}
+	"TF_SPY_FREEZECAM_FLICK_Title"
+	{
+		"pl"	"Tajne przez poufne"
+	}
+	"TF_SPY_FREEZECAM_FLICK_Desc"
+	{
+		"pl"	"Prześlij przeciwnikowi migawkę, na której ciskasz w jego truchło papierosem."
+	}
+	"TF_SPY_BACKSTAB_DISGUISED_SPY_Title"
+	{
+		"pl"	"Kontrwywiad"
+	}
+	"TF_SPY_BACKSTAB_DISGUISED_SPY_Desc"
+	{
+		"pl"	"Dźgnij w plecy przebranego Szpiega."
+	}
+	"TF_SPY_BACKSTAB_DISGUISE_TARGET_Title"
+	{
+		"pl"	"Kradzież tożsamości"
+	}
+	"TF_SPY_BACKSTAB_DISGUISE_TARGET_Desc"
+	{
+		"pl"	"Dźgnij w plecy przeciwnika, za którego jesteś obecnie przebrany."
+	}
+	"TF_SPY_TAUNT_KILL_Title"
+	{
+		"pl"	"Człowiek-sito"
+	}
+	"TF_SPY_TAUNT_KILL_Desc"
+	{
+		"pl"	"Dźgnij przeciwnika podczas szermierki."
+	}
+	"TF_SPY_BACKSTAB_MEDIC_HEALING_YOU_Title"
+	{
+		"pl"	"Kto wzywał Szpiega?"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_HEALING_YOU_Desc"
+	{
+		"pl"	"Dźgnij w plecy Medyka, który leczył Cię w ciągu ostatnich 5 sekund."
+	}
+	"TF_SPY_BACKSTAB_ENGY_SAP_BUILDING_Title"
+	{
+		"pl"	"Człowiek i jego złom"
+	}
+	"TF_SPY_BACKSTAB_ENGY_SAP_BUILDING_Desc"
+	{
+		"pl"	"Dźgnij w plecy Inżyniera i wyłącz czasowo jego 3 konstrukcje w ciągu 10 sekund."
+	}
+	"TF_SPY_SAP_BUILDING_BACKSTAB_ENGY_Title"
+	{
+		"pl"	"Ze sztyletem na fachowca"
+	}
+	"TF_SPY_SAP_BUILDING_BACKSTAB_ENGY_Desc"
+	{
+		"pl"	"Wyłącz czasowo konstrukcję przeciwnika, a następnie dźgnij w plecy Inżyniera, który ją zbudował, w ciągu 5 sekund."
+	}
+	"TF_SPY_BACKSTAB_MEDIC_PAIR_Title"
+	{
+		"pl"	"Przepraszam, że się wcinam..."
+	}
+	"TF_SPY_BACKSTAB_MEDIC_PAIR_Desc"
+	{
+		"pl"	"Dźgnij w plecy przeciwnika i leczącego go Medyka w ciągu 10 sekund."
+	}
+	"TF_SPY_BACKSTAB_FRIENDS_Title"
+	{
+		"pl"	"Agent Prowokator"
+	}
+	"TF_SPY_BACKSTAB_FRIENDS_Desc"
+	{
+		"pl"	"Dźgnij 10 razy w plecy swoich znajomych ze Społeczności Steam."
+	}
+	"TF_SPY_DOMINATE_SNIPER_Title"
+	{
+		"pl"	"Krucjata w Melbourne"
+	}
+	"TF_SPY_DOMINATE_SNIPER_Desc"
+	{
+		"pl"	"Zdominuj Snajpera."
+	}
+	"TF_SPY_BUMP_CLOAKED_SPY_Title"
+	{
+		"pl"	"Szpiedzy tacy, jak my"
+	}
+	"TF_SPY_BUMP_CLOAKED_SPY_Desc"
+	{
+		"pl"	"Będąc niewidzialnym, wpadnij na niewidzialnego Szpiega z przeciwnej drużyny."
+	}
+	"TF_SPY_KILL_SPY_WITH_KNIFE_Title"
+	{
+		"pl"	"Szeroki uśmiech"
+	}
+	"TF_SPY_KILL_SPY_WITH_KNIFE_Desc"
+	{
+		"pl"	"Zabij nożem Szpiega uzbrojonego w pistolet."
+	}
+	"TF_SPY_SURVIVE_BURNING_Title"
+	{
+		"pl"	"Palący problem"
+	}
+	"TF_SPY_SURVIVE_BURNING_Desc"
+	{
+		"pl"	"Przeżyj 30 sekund po tym, jak zostaniesz podpalony będąc niewidzialnym."
+	}
+	"TF_SPY_BREAK_SHIELD_KILL_SNIPER_Title"
+	{
+		"pl"	"Śmierć nadejdzie późno"
+	}
+	"TF_SPY_BREAK_SHIELD_KILL_SNIPER_Desc"
+	{
+		"pl"	"Zabij Snajpera po zniszczeniu jego tarczy Razorback ciosem w plecy."
+	}
+	"TF_SPY_KILL_WORKING_ENGY_Title"
+	{
+		"pl"	"Z cyklu dzieła niedokończone"
+	}
+	"TF_SPY_KILL_WORKING_ENGY_Desc"
+	{
+		"pl"	"Zabij Inżyniera, który pracuje przy działku strażniczym."
+	}
+	"TF_SPY_FAST_CAP_Title"
+	{
+		"pl"	"W służbie Jej Królewskiej Własności"
+	}
+	"TF_SPY_FAST_CAP_Desc"
+	{
+		"pl"	"Zacznij przejmowanie punktu w ciągu sekundy od momentu, gdy stanie się dostępny."
+	}
+	"TF_SPY_MEDIC_HEALING_KILL_ENEMY_Title"
+	{
+		"pl"	"Przekręt ubezpieczeniowy"
+	}
+	"TF_SPY_MEDIC_HEALING_KILL_ENEMY_Desc"
+	{
+		"pl"	"Zabij wroga w momencie, gdy będzie cię leczyć Medyk z drużyny przeciwnej."
+	}
+	"TF_SPY_KILL_CP_DEFENDERS_Title"
+	{
+		"pl"	"Punktołamacz"
+	}
+	"TF_SPY_KILL_CP_DEFENDERS_Desc"
+	{
+		"pl"	"Zabij 15 przeciwników, którzy stoją na swoim punkcie kontrolnym."
+	}
+	"TF_SPY_BACKSTAB_DOMINATING_ENEMY_Title"
+	{
+		"pl"	"Cel szczególnej wartości"
+	}
+	"TF_SPY_BACKSTAB_DOMINATING_ENEMY_Desc"
+	{
+		"pl"	"Dźgnij w plecy przeciwnika, który dominuje 3 lub więcej członków Twojej drużyny."
+	}
+	"TF_SPY_REVENGE_WITH_BACKSTAB_Title"
+	{
+		"pl"	"Zemsta sztywniaka"
+	}
+	"TF_SPY_REVENGE_WITH_BACKSTAB_Desc"
+	{
+		"pl"	"Zabij w odwecie przeciwnika pchnięciem nożem w plecy."
+	}
+	"TF_SPY_KNIFE_KILL_WHILE_JARATED_Title"
+	{
+		"pl"	"Mokra robota"
+	}
+	"TF_SPY_KNIFE_KILL_WHILE_JARATED_Desc"
+	{
+		"pl"	"Zadźgaj przeciwnika, będąc pod wpływem ataku słoikiem."
+	}
+	"TF_SPY_BACKSTAB_QUICK_KILLS_Title"
+	{
+		"pl"	"Dźga się tylko trzy razy"
+	}
+	"TF_SPY_BACKSTAB_QUICK_KILLS_Desc"
+	{
+		"pl"	"Dźgnij w plecy 3 przeciwników w ciągu 10 sekund."
+	}
+	"TF_SPY_BACKSTAB_GRIND_Title"
+	{
+		"pl"	"Szpieg nad szpiegami"
+	}
+	"TF_SPY_BACKSTAB_GRIND_Desc"
+	{
+		"pl"	"Dźgnij w plecy 1000 przeciwników."
+	}
+	"TF_SPY_SAPPER_GRIND_Title"
+	{
+		"pl"	"Zagrożenie budowlane"
+	}
+	"TF_SPY_SAPPER_GRIND_Desc"
+	{
+		"pl"	"Zniszcz 1000 konstrukcji Inżyniera, korzystając z saperów."
+	}
+	"TF_SPY_SAPPER_TEAMWORK_Title"
+	{
+		"pl"	"Zgodna współpraca"
+	}
+	"TF_SPY_SAPPER_TEAMWORK_Desc"
+	{
+		"pl"	"Wyłącz czasowo działko strażnicze przeciwnika w ciągu 3 sekund od momentu, gdy członek Twojej drużyny unieruchomi inne działo."
+	}
+	"TF_SPY_BACKSTAB_MEDIC_CHARGED_Title"
+	{
+		"pl"	"Doktor Nooooo"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_CHARGED_Desc"
+	{
+		"pl"	"Dźgnij w plecy Medyka, który jest gotowy do użycia ładunku ÜberCharge."
+	}
+	"TF_SPY_BACKSTAB_CAPPING_ENEMIES_Title"
+	{
+		"pl"	"Czy to aby bezpieczne?"
+	}
+	"TF_SPY_BACKSTAB_CAPPING_ENEMIES_Desc"
+	{
+		"pl"	"Dźgnij w plecy 50 przeciwników, którzy przejmują punkty kontrolne."
+	}
+	"TF_SPY_BACKSTAB_ENEMY_SWITCH_PYRO_Title"
+	{
+		"pl"	"Tnij i pal"
+	}
+	"TF_SPY_BACKSTAB_ENEMY_SWITCH_PYRO_Desc"
+	{
+		"pl"	"Dźgnij w plecy przeciwnika, który następnie wcieli się w postać Pyro, nim się odrodzi."
+	}
+	"TF_SPY_AMBASSADOR_GRIND_Title"
+	{
+		"pl"	"Dyplomacja"
+	}
+	"TF_SPY_AMBASSADOR_GRIND_Desc"
+	{
+		"pl"	"Zabij 50 przeciwników Ambasadorem."
+	}
+	"TF_SPY_AMBASSADOR_SNIPER_GRIND_Title"
+	{
+		"pl"	"Wentylacja czaszki"
+	}
+	"TF_SPY_AMBASSADOR_SNIPER_GRIND_Desc"
+	{
+		"pl"	"Traf w głowę 20 Snajperów za pomocą Ambasadora."
+	}
+	"TF_SPY_FEIGN_DEATH_KILL_Title"
+	{
+		"pl"	"Uśpiony agent"
+	}
+	"TF_SPY_FEIGN_DEATH_KILL_Desc"
+	{
+		"pl"	"Zabij przeciwnika, który w ciągu ostatnich 20 sekund aktywował Twoją umiejętność udawania martwego."
+	}
+	"TF_SPY_AMBASSADOR_SCOUT_GRIND_Title"
+	{
+		"pl"	"I kto tu rządzi?"
+	}
+	"TF_SPY_AMBASSADOR_SCOUT_GRIND_Desc"
+	{
+		"pl"	"Zabij strzałem w głowę 3 Skautów za pomocą Ambasadora."
+	}
+	"TF_SPY_CAMP_POSITION_Title"
+	{
+		"pl"	"Ścisły tajniak"
+	}
+	"TF_SPY_CAMP_POSITION_Desc"
+	{
+		"pl"	"Korzystając z Peleryny Nożownika, zabij tego samego przeciwnika 3-krotnie, na tym samym obszarze, nie ginąc."
+	}
+	"TF_SPY_ACHIEVE_PROGRESS1_Title"
+	{
+		"pl"	"Kamień milowy Szpiega 1"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS1_Desc"
+	{
+		"pl"	"Zdobądź 5 osiągnięć z Pakietu szpiegowskiego."
+	}
+	"TF_SPY_ACHIEVE_PROGRESS2_Title"
+	{
+		"pl"	"Kamień milowy Szpiega 2"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS2_Desc"
+	{
+		"pl"	"Zdobądź 11 osiągnięć z Pakietu szpiegowskiego."
+	}
+	"TF_SPY_ACHIEVE_PROGRESS3_Title"
+	{
+		"pl"	"Kamień milowy Szpiega 3"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS3_Desc"
+	{
+		"pl"	"Zdobądź 17 osiągnięć z Pakietu szpiegowskiego."
+	}
+	"TF_HALLOWEEN_COLLECT_PUMPKINS_Title"
+	{
+		"pl"	"Polowanie na słodycze"
+	}
+	"TF_HALLOWEEN_COLLECT_PUMPKINS_Desc"
+	{
+		"pl"	"Zabierz poległym graczom 20 dyń halloweenowych, aby odblokować kapelusz."
+	}
+	"TF_HALLOWEEN_DOMINATE_FOR_HAT_Title"
+	{
+		"pl"	"Twój własny cylinder"
+	}
+	"TF_HALLOWEEN_DOMINATE_FOR_HAT_Desc"
+	{
+		"pl"	"Zdominuj gracza noszącego Upiorny cylinder, aby zdobyć swój własny."
+	}
+	"TF_HALLOWEEN_KILL_SCARED_PLAYER_Title"
+	{
+		"pl"	"Wystraszony na śmierć"
+	}
+	"TF_HALLOWEEN_KILL_SCARED_PLAYER_Desc"
+	{
+		"pl"	"Zabij gracza, którego wystraszył duch na mapie Harvest (Król wzgórza)."
+	}
+	"TF_HALLOWEEN_PUMPKIN_KILL_Title"
+	{
+		"pl"	"Atak latarni"
+	}
+	"TF_HALLOWEEN_PUMPKIN_KILL_Desc"
+	{
+		"pl"	"Spowoduj śmierć 5 graczy, doprowadzając do wybuchu pobliskich bomb dyniowych."
+	}
+	"TF_HALLOWEEN_DISGUISED_SPY_KILL_Title"
+	{
+		"pl"	"Konkurs na przebranie"
+	}
+	"TF_HALLOWEEN_DISGUISED_SPY_KILL_Desc"
+	{
+		"pl"	"Zabij Szpiega przebranego za Twoją aktualną klasę."
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS1_Title"
+	{
+		"pl"	"Kamień milowy Żołnierza 1"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS1_Desc"
+	{
+		"pl"	"Zdobądź 5 osiągnięć z pakietu żołnierskiego."
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS2_Title"
+	{
+		"pl"	"Kamień milowy Żołnierza 2"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS2_Desc"
+	{
+		"pl"	"Zdobądź 11 osiągnięć z pakietu żołnierskiego."
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS3_Title"
+	{
+		"pl"	"Kamień milowy Żołnierza 3"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS3_Desc"
+	{
+		"pl"	"Zdobądź 17 osiągnięć z pakietu żołnierskiego."
+	}
+	"TF_SOLDIER_KILL_GROUP_WITH_CROCKET_Title"
+	{
+		"pl"	"Potrójny rozprysk"
+	}
+	"TF_SOLDIER_KILL_GROUP_WITH_CROCKET_Desc"
+	{
+		"pl"	"Zabij 3 przeciwników pojedynczą rakietą z krytycznym ładunkiem."
+	}
+	"TF_SOLDIER_KILL_TWO_DURING_ROCKET_JUMP_Title"
+	{
+		"pl"	"Śmierć nadchodzi z góry"
+	}
+	"TF_SOLDIER_KILL_TWO_DURING_ROCKET_JUMP_Desc"
+	{
+		"pl"	"Wykonaj rakietowy skok i zabij 2 przeciwników, zanim wylądujesz."
+	}
+	"TF_SOLDIER_THREE_DOMINATIONS_Title"
+	{
+		"pl"	"Dominator"
+	}
+	"TF_SOLDIER_THREE_DOMINATIONS_Desc"
+	{
+		"pl"	"Zdobądź 3 dominacje w ciągu jednego życia."
+	}
+	"TF_SOLDIER_DEFEND_MEDIC_Title"
+	{
+		"pl"	"Wojenna zbrodnia i kara"
+	}
+	"TF_SOLDIER_DEFEND_MEDIC_Desc"
+	{
+		"pl"	"W ciągu jednego życia zabij 3 przeciwników, którzy zranili leczącego Cię Medyka."
+	}
+	"TF_SOLDIER_KILL_TAUNT_Title"
+	{
+		"pl"	"Odłamki klęski"
+	}
+	"TF_SOLDIER_KILL_TAUNT_Desc"
+	{
+		"pl"	"Użyj granatu, by rozwalić gracza na kawałki."
+	}
+	"TF_SOLDIER_DESTROY_SENTRY_OUT_OF_RANGE_Title"
+	{
+		"pl"	"Działa rozwalonych"
+	}
+	"TF_SOLDIER_DESTROY_SENTRY_OUT_OF_RANGE_Desc"
+	{
+		"pl"	"Zniszcz 5 działek strażniczych Inżyniera, stojąc poza ich zasięgiem."
+	}
+	"TF_SOLDIER_KILL_SNIPER_WHILE_DEAD_Title"
+	{
+		"pl"	"Gwarantowane wzajemne zniszczenie"
+	}
+	"TF_SOLDIER_KILL_SNIPER_WHILE_DEAD_Desc"
+	{
+		"pl"	"Zabij rakietą wrogiego Snajpera, który właśnie Cię zabił."
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_TARGET_WHILE_AIRBORNE_Title"
+	{
+		"pl"	"Skrzydła chwały"
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_TARGET_WHILE_AIRBORNE_Desc"
+	{
+		"pl"	"Zabij wrogiego żołnierza, gdy obaj znajdujecie się w powietrzu."
+	}
+	"TF_SOLDIER_KILL_ENGY_Title"
+	{
+		"pl"	"Wieczny Inżynier"
+	}
+	"TF_SOLDIER_KILL_ENGY_Desc"
+	{
+		"pl"	"Zabij Inżyniera, gdy naprawia on swoje ostrzeliwane działko strażnicze."
+	}
+	"TF_SOLDIER_NEMESIS_SHOVEL_KILL_Title"
+	{
+		"pl"	"Bój w okopach"
+	}
+	"TF_SOLDIER_NEMESIS_SHOVEL_KILL_Desc"
+	{
+		"pl"	"Zabij swojego nemezis saperką."
+	}
+	"TF_SOLDIER_DESTROY_STICKIES_Title"
+	{
+		"pl"	"Mały saper"
+	}
+	"TF_SOLDIER_DESTROY_STICKIES_Desc"
+	{
+		"pl"	"Zniszcz ze strzelby 10 bomb samoprzylepnych w jednym życiu."
+	}
+	"TF_SOLDIER_CROUCH_ROCKET_JUMP_Title"
+	{
+		"pl"	"Tylko dla orłów"
+	}
+	"TF_SOLDIER_CROUCH_ROCKET_JUMP_Desc"
+	{
+		"pl"	"Wykonaj najwyższy możliwy rakietowy skok, korzystając ze skoku i kucania."
+	}
+	"TF_SOLDIER_BUFF_FRIENDS_Title"
+	{
+		"pl"	"Sztandar braci"
+	}
+	"TF_SOLDIER_BUFF_FRIENDS_Desc"
+	{
+		"pl"	"Ulecz 5 przyjaciół z systemu Steam naraz, korzystając ze Sztandaru chwały."
+	}
+	"TF_SOLDIER_KILL_TWENTY_FROM_ABOVE_Title"
+	{
+		"pl"	"As przestworzy"
+	}
+	"TF_SOLDIER_KILL_TWENTY_FROM_ABOVE_Desc"
+	{
+		"pl"	"Zabij 20 przeciwników atakami z góry."
+	}
+	"TF_SOLDIER_SHOOT_MULT_CRITS_Title"
+	{
+		"pl"	"Krytyki są durne"
+	}
+	"TF_SOLDIER_SHOOT_MULT_CRITS_Desc"
+	{
+		"pl"	"Wystrzel pod rząd dwie rakiety z ładunkiem krytycznym bez dopalacza."
+	}
+	"TF_SOLDIER_KILL_DEFENSELESS_Title"
+	{
+		"pl"	"Niekonwencja genewska"
+	}
+	"TF_SOLDIER_KILL_DEFENSELESS_Desc"
+	{
+		"pl"	"Zabij 5 bezbronnych graczy po zakończeniu rozgrywki."
+	}
+	"TF_SOLDIER_KILL_ON_FIRE_Title"
+	{
+		"pl"	"Gorąca lojalność"
+	}
+	"TF_SOLDIER_KILL_ON_FIRE_Desc"
+	{
+		"pl"	"Zabij 20 wrogów, gdy płoniesz."
+	}
+	"TF_SOLDIER_KILL_FIVE_STUNNED_Title"
+	{
+		"pl"	"Głuchy jak pień"
+	}
+	"TF_SOLDIER_KILL_FIVE_STUNNED_Desc"
+	{
+		"pl"	"Zabij 5 ogłuszonych graczy."
+	}
+	"TF_SOLDIER_FREEZECAM_GIBS_Title"
+	{
+		"pl"	"Soczysty dowcip"
+	}
+	"TF_SOLDIER_FREEZECAM_GIBS_Desc"
+	{
+		"pl"	"Prześlij przeciwnikowi migawkę Twoich drwin nad 3 częściami jego ciała."
+	}
+	"TF_SOLDIER_KILL_SPY_KILLER_Title"
+	{
+		"pl"	"Szpiegunał zbrodni wojennych"
+	}
+	"TF_SOLDIER_KILL_SPY_KILLER_Desc"
+	{
+		"pl"	"Zabij Szpiega, który właśnie dźgnął w plecy jednego z Twoich towarzyszy."
+	}
+	"TF_SOLDIER_DEFEND_CAP_THIRTY_TIMES_Title"
+	{
+		"pl"	"Jak na Hamburger Hill"
+	}
+	"TF_SOLDIER_DEFEND_CAP_THIRTY_TIMES_Desc"
+	{
+		"pl"	"30 razy obroń punkt przejęcia."
+	}
+	"TF_SOLDIER_GIB_GRIND_Title"
+	{
+		"pl"	"Flaki naszych ojców"
+	}
+	"TF_SOLDIER_GIB_GRIND_Desc"
+	{
+		"pl"	"Wypruj flaki 1000 przeciwnikom."
+	}
+	"TF_SOLDIER_RJ_EQUALIZER_KILL_Title"
+	{
+		"pl"	"Obowiązek wzywa"
+	}
+	"TF_SOLDIER_RJ_EQUALIZER_KILL_Desc"
+	{
+		"pl"	"Podczas rakietowego skoku zabij przeciwnika Wyrównywaczem, zanim wylądujesz."
+	}
+	"TF_SOLDIER_BUFF_TEAMMATES_Title"
+	{
+		"pl"	"Sztandarowi chłopcy"
+	}
+	"TF_SOLDIER_BUFF_TEAMMATES_Desc"
+	{
+		"pl"	"W ciągu jednego życia ulecz 15 towarzyszy, korzystając ze Sztandaru chwały."
+	}
+	"TF_SOLDIER_KILL_DEMOMAN_GRIND_Title"
+	{
+		"pl"	"Zgiń, przepadnij!"
+	}
+	"TF_SOLDIER_KILL_DEMOMAN_GRIND_Desc"
+	{
+		"pl"	"Zabij 500 wrogich Demomanów."
+	}
+	"TF_SOLDIER_KILL_PYRO_Title"
+	{
+		"pl"	"Dorwać strażaka"
+	}
+	"TF_SOLDIER_KILL_PYRO_Desc"
+	{
+		"pl"	"Zabij Pyro, który w ciągu ostatnich 10 sekund zdetonował w powietrzu jedną z Twoich rakiet."
+	}
+	"TF_SOLDIER_EQUALIZER_STREAK_Title"
+	{
+		"pl"	"Nie mam czasu na krwawienie"
+	}
+	"TF_SOLDIER_EQUALIZER_STREAK_Desc"
+	{
+		"pl"	"W ciągu jednego życia zabij 3 graczy Wyrównywaczem bez przyjmowania leczenia."
+	}
+	"TF_SOLDIER_KILL_WITH_EQUALIZER_WHILE_HURT_Title"
+	{
+		"pl"	"O krok od śmierci"
+	}
+	"TF_SOLDIER_KILL_WITH_EQUALIZER_WHILE_HURT_Desc"
+	{
+		"pl"	"Zabij 20 przeciwników Wyrównywaczem, mając mniej niż 25 punktów zdrowia."
+	}
+	"TF_SOLDIER_BOUNCE_THEN_SHOTGUN_Title"
+	{
+		"pl"	"Komu dzwonią naboje"
+	}
+	"TF_SOLDIER_BOUNCE_THEN_SHOTGUN_Desc"
+	{
+		"pl"	"Wystrzel przeciwnika w powietrze rakietą i zabij go ze strzelby, nim wyląduje."
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_WITH_DIRECT_HIT_Title"
+	{
+		"pl"	"Śmierć nadchodzi z dołu"
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_WITH_DIRECT_HIT_Desc"
+	{
+		"pl"	"Zabij 10 przeciwników znajdujących się w powietrzu, używając Celnego Strzału."
+	}
+	"TF_SOLDIER_FREEZECAM_TAUNT_Title"
+	{
+		"pl"	"Warte tysiąca słów"
+	}
+	"TF_SOLDIER_FREEZECAM_TAUNT_Desc"
+	{
+		"pl"	"Prześlij przeciwnikowi migawkę swojej salwy z 21 dział."
+	}
+	"TF_SOLDIER_DUO_SOLDIER_KILLS_Title"
+	{
+		"pl"	"Towarzysze jatki"
+	}
+	"TF_SOLDIER_DUO_SOLDIER_KILLS_Desc"
+	{
+		"pl"	"Zabij 10 przeciwników wspólnie z innym Soldierem."
+	}
+	"TF_SOLDIER_MVP_Title"
+	{
+		"pl"	"Medale Honoru"
+	}
+	"TF_SOLDIER_MVP_Desc"
+	{
+		"pl"	"10 razy ukończ rundę jako najbardziej wartościowy gracz."
+	}
+	"TF_SOLDIER_RIDE_THE_CART_Title"
+	{
+		"pl"	"Cwał Wagonu"
+	}
+	"TF_SOLDIER_RIDE_THE_CART_Desc"
+	{
+		"pl"	"Jedź na wagonie przez 30 sekund."
+	}
+	"TF_SOLDIER_ASSIST_MEDIC_UBER_Title"
+	{
+		"pl"	"S*M*A*S*H"
+	}
+	"TF_SOLDIER_ASSIST_MEDIC_UBER_Desc"
+	{
+		"pl"	"Pomóż Medykowi w wysadzeniu 5 przeciwników na jednym ładunku ÜberCharge."
+	}
+	"TF_DEMOMAN_KILL_SOLDIER_GRIND_Title"
+	{
+		"pl"	"Kilt w akcji"
+	}
+	"TF_DEMOMAN_KILL_SOLDIER_GRIND_Desc"
+	{
+		"pl"	"Zabij 500 Soldierów przeciwnika."
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_WITH_MEDIC_Title"
+	{
+		"pl"	"Demolant"
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_WITH_MEDIC_Desc"
+	{
+		"pl"	"Zniszcz 5 konstrukcji Inżynierów przeciwnika podczas jednego ładunku ÜberCharge otrzymanego od Medyka."
+	}
+	"TF_DEMOMAN_DECAPITATE_CLOAKED_SPY_Title"
+	{
+		"pl"	"Przędł Connery"
+	}
+	"TF_DEMOMAN_DECAPITATE_CLOAKED_SPY_Desc"
+	{
+		"pl"	"Obetnij głowę ukrytemu Szpiegowi."
+	}
+	"TF_DEMOMAN_KILL_X_WITH_DIRECTPIPE_Title"
+	{
+		"pl"	"Mordercze wyrzuty"
+	}
+	"TF_DEMOMAN_KILL_X_WITH_DIRECTPIPE_Desc"
+	{
+		"pl"	"Zabij 50 przeciwników bezpośrednimi trafieniami z granatnika."
+	}
+	"TF_DEMOMAN_BOUNCE_AND_KILL_Title"
+	{
+		"pl"	"Rzut młotem"
+	}
+	"TF_DEMOMAN_BOUNCE_AND_KILL_Desc"
+	{
+		"pl"	"Podrzuć przeciwnika w powietrze i zabij go, nim wyląduje."
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_Title"
+	{
+		"pl"	"Mózgobranie"
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_Desc"
+	{
+		"pl"	"Obetnij głowy 50 przeciwnikom."
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_FAST_Title"
+	{
+		"pl"	"Left 4 Head"
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_FAST_Desc"
+	{
+		"pl"	"Obetnij głowy 4 przeciwnikom w odstępach nie większych niż 10 sekund."
+	}
+	"TF_DEMOMAN_DUO_DEMOMAN_KILLS_Title"
+	{
+		"pl"	"Ręka rękę myje"
+	}
+	"TF_DEMOMAN_DUO_DEMOMAN_KILLS_Desc"
+	{
+		"pl"	"Zabij 10 przeciwników we współpracy z innym Demomanem."
+	}
+	"TF_DEMOMAN_KILL_TWO_DURING_STICKYJUMP_Title"
+	{
+		"pl"	"Podwójna szkocka"
+	}
+	"TF_DEMOMAN_KILL_TWO_DURING_STICKYJUMP_Desc"
+	{
+		"pl"	"Zabij 2 przeciwników podczas jednego bombowego skoku."
+	}
+	"TF_DEMOMAN_KILL_PLAYER_AFTER_TP_Title"
+	{
+		"pl"	"Bombowiec z Loch Ness"
+	}
+	"TF_DEMOMAN_KILL_PLAYER_AFTER_TP_Desc"
+	{
+		"pl"	"Zabij przeciwnika bombą samoprzylepną w ciągu 5 sekund od jego teleportacji."
+	}
+	"TF_DEMOMAN_DOMINATE_THREE_ENGINEERS_Title"
+	{
+		"pl"	"Do trzech razy sztuka"
+	}
+	"TF_DEMOMAN_DOMINATE_THREE_ENGINEERS_Desc"
+	{
+		"pl"	"Uzyskaj dominację nad 3 Inżynierami."
+	}
+	"TF_DEMOMAN_KILL_BUILDING_DIRECT_HIT_Title"
+	{
+		"pl"	"Ślepy ogień"
+	}
+	"TF_DEMOMAN_KILL_BUILDING_DIRECT_HIT_Desc"
+	{
+		"pl"	"Bezpośrednim trafieniem z granatnika zniszcz niewidoczną konstrukcję Inżyniera."
+	}
+	"TF_DEMOMAN_MELEE_KILL_WHILE_STICKYJUMPING_Title"
+	{
+		"pl"	"Szkocka sztuka"
+	}
+	"TF_DEMOMAN_MELEE_KILL_WHILE_STICKYJUMPING_Desc"
+	{
+		"pl"	"Zabij przeciwnika w walce wręcz podczas skoku na bombie samoprzylepnej."
+	}
+	"TF_DEMOMAN_KILL_ENGI_SENTRY_DISPENSER_Title"
+	{
+		"pl"	"Szkockie bum"
+	}
+	"TF_DEMOMAN_KILL_ENGI_SENTRY_DISPENSER_Desc"
+	{
+		"pl"	"Jedną detonacją bomby samoprzylepnej wysadź Inżyniera wraz z jego działkiem strażniczym i zasobnikiem."
+	}
+	"TF_DEMOMAN_DECAPITATE_EQUALIZER_Title"
+	{
+		"pl"	"Problem z głowy"
+	}
+	"TF_DEMOMAN_DECAPITATE_EQUALIZER_Desc"
+	{
+		"pl"	"Obetnij głowę wrogiemu Soldierowi uzbrojonemu w Wyrównywacz."
+	}
+	"TF_DEMOMAN_DECAPITATE_NEMESIS_Title"
+	{
+		"pl"	"Pozostanie tylko jeden"
+	}
+	"TF_DEMOMAN_DECAPITATE_NEMESIS_Desc"
+	{
+		"pl"	"Obetnij głowę swojemu nemezis."
+	}
+	"TF_DEMOMAN_DAMAGE_GRIND_Title"
+	{
+		"pl"	"Demolka w kratę"
+	}
+	"TF_DEMOMAN_DAMAGE_GRIND_Desc"
+	{
+		"pl"	"Zadaj łącznie milion punktów obrażeń od wybuchu."
+	}
+	"TF_DEMOMAN_KILL_X_CAPPING_ONEDET_Title"
+	{
+		"pl"	"Szkocka Straż"
+	}
+	"TF_DEMOMAN_KILL_X_CAPPING_ONEDET_Desc"
+	{
+		"pl"	"3 razy zabij detonacją jednej bomby samoprzylepnej 3 przeciwników zdobywających punkt przejęcia lub pchających wagon."
+	}
+	"TF_DEMOMAN_KILL_X_DEFENDING_Title"
+	{
+		"pl"	"Waleczne zwłoki"
+	}
+	"TF_DEMOMAN_KILL_X_DEFENDING_Desc"
+	{
+		"pl"	"Zabij 25 graczy broniących punktu przejęcia lub wagonu."
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_GRIND_Title"
+	{
+		"pl"	"Nie płacz, kiedy odjadę"
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_GRIND_Desc"
+	{
+		"pl"	"Zniszcz 50 konstrukcji."
+	}
+	"TF_DEMOMAN_KILL_X_HEAVIES_FULLHP_ONEDET_Title"
+	{
+		"pl"	"Lepkie ożywienie"
+	}
+	"TF_DEMOMAN_KILL_X_HEAVIES_FULLHP_ONEDET_Desc"
+	{
+		"pl"	"Zabij 5 Grubych ze 100% zdrowia jedną detonacją bomby samoprzylepnej."
+	}
+	"TF_DEMOMAN_KILL_X_SCOUTS_PYROS_Title"
+	{
+		"pl"	"Szkocka rozrywka"
+	}
+	"TF_DEMOMAN_KILL_X_SCOUTS_PYROS_Desc"
+	{
+		"pl"	"Zabij granatnikiem 25 Skautów i Pyro."
+	}
+	"TF_DEMOMAN_TAUNT_KILL_Title"
+	{
+		"pl"	"Szkocki dotyk"
+	}
+	"TF_DEMOMAN_TAUNT_KILL_Desc"
+	{
+		"pl"	"Rozkoszuj się rzezią wrogów, korzystając z Miecza dwuręcznego."
+	}
+	"TF_DEMOMAN_CHARGE_KILL_Title"
+	{
+		"pl"	"Szarża z tarczą"
+	}
+	"TF_DEMOMAN_CHARGE_KILL_Desc"
+	{
+		"pl"	"Zaszarżuj i zabij przeciwnika uderzeniem tarczy."
+	}
+	"TF_DEMOMAN_CRIT_SWORD_KILL_Title"
+	{
+		"pl"	"Szkocki zamach"
+	}
+	"TF_DEMOMAN_CRIT_SWORD_KILL_Desc"
+	{
+		"pl"	"Zabij 5 przeciwników krytycznym ciosem miecza dwuręcznego."
+	}
+	"TF_DEMOMAN_AIR_BURST_KILLS_Title"
+	{
+		"pl"	"Nadlatuje coś lepkiego"
+	}
+	"TF_DEMOMAN_AIR_BURST_KILLS_Desc"
+	{
+		"pl"	"Zabij 30 przeciwników eksplozjami powietrznymi bomb samoprzylepnych."
+	}
+	"TF_DEMOMAN_STICKYJUMP_CAP_Title"
+	{
+		"pl"	"Z lotu ptaka"
+	}
+	"TF_DEMOMAN_STICKYJUMP_CAP_Desc"
+	{
+		"pl"	"Zdobądź punkt przejęcia z bombowego skoku."
+	}
+	"TF_DEMOMAN_FREEZECAM_SMILE_Title"
+	{
+		"pl"	"Klawo jak cholera"
+	}
+	"TF_DEMOMAN_FREEZECAM_SMILE_Desc"
+	{
+		"pl"	"Prześlij przeciwnikowi migawkę swojej uśmiechniętej twarzy."
+	}
+	"TF_DEMOMAN_FREEZECAM_RUMP_Title"
+	{
+		"pl"	"Drugie oko"
+	}
+	"TF_DEMOMAN_FREEZECAM_RUMP_Desc"
+	{
+		"pl"	"Prześlij przeciwnikowi migawkę sceny, w której kręcisz tyłkiem."
+	}
+	"TF_DEMOMAN_ENVIRONMENTAL_KILL_Title"
+	{
+		"pl"	"To nie ja"
+	}
+	"TF_DEMOMAN_ENVIRONMENTAL_KILL_Desc"
+	{
+		"pl"	"Korzystając z wyrzutni bomb samoprzylepnych, zabij przeciwnika poprzez obrażenia zadane przez otoczenie."
+	}
+	"TF_DEMOMAN_DESTROY_X_STICKYBOMBS_Title"
+	{
+		"pl"	"Partyzant"
+	}
+	"TF_DEMOMAN_DESTROY_X_STICKYBOMBS_Desc"
+	{
+		"pl"	"Zniszcz 100 bomb samoprzylepnych wroga Szkockim Oporem."
+	}
+	"TF_DEMOMAN_STICKJUMP_DISTANCE_Title"
+	{
+		"pl"	"Góralski sus"
+	}
+	"TF_DEMOMAN_STICKJUMP_DISTANCE_Desc"
+	{
+		"pl"	"Wykonaj bardzo daleki bombowy skok..."
+	}
+	"TF_DEMOMAN_KILL3_WITH_DETONATION_Title"
+	{
+		"pl"	"Trzy w cenie jednego"
+	}
+	"TF_DEMOMAN_KILL3_WITH_DETONATION_Desc"
+	{
+		"pl"	"Zabij co najmniej trzech graczy jedną detonacją bomb samoprzylepnych."
+	}
+	"TF_DEMOMAN_KILLXSAPPINGSPIES_Title"
+	{
+		"pl"	"Szybka sprawiedliwość"
+	}
+	"TF_DEMOMAN_KILLXSAPPINGSPIES_Desc"
+	{
+		"pl"	"Zabij 20 Szpiegów w ciągu 5 sekund od podłożenia przez nich sapera na przyjaznej konstrukcji."
+	}
+	"TF_DEMOMAN_KILL3_WITH_PIPE_SETUPS_Title"
+	{
+		"pl"	"Jak muchy na lep"
+	}
+	"TF_DEMOMAN_KILL3_WITH_PIPE_SETUPS_Desc"
+	{
+		"pl"	"Korzystając ze Szkockiego Oporu, zabij 3 graczy osobnymi eksplozjami bez podkładania nowych bomb samoprzylepnych."
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS1_Title"
+	{
+		"pl"	"Kamień milowy Demomana 1"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS1_Desc"
+	{
+		"pl"	"Zdobądź 5 osiągnięć z Pakietu Demomana."
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS2_Title"
+	{
+		"pl"	"Kamień milowy Demomana 2"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS2_Desc"
+	{
+		"pl"	"Zdobądź 11 osiągnięć z Pakietu Demomana."
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS3_Title"
+	{
+		"pl"	"Kamień milowy Demomana 3"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS3_Desc"
+	{
+		"pl"	"Zdobądź 17 osiągnięć z Pakietu Demomana."
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS1_Title"
+	{
+		"pl"	"Kamień milowy Inżyniera 1"
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS1_Desc"
+	{
+		"pl"	"Zdobądź 5 osiągnięć z pakietu inżynierskiego."
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS2_Title"
+	{
+		"pl"	"Kamień milowy Inżyniera 2"
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS2_Desc"
+	{
+		"pl"	"Zdobądź 11 osiągnięć z pakietu inżynieryjnego."
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS3_Title"
+	{
+		"pl"	"Kamień milowy Inżyniera 3"
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS3_Desc"
+	{
+		"pl"	"Zdobądź 17 osiągnięć z pakietu inżynierskiego."
+	}
+	"TF_ENGINEER_TELEPORT_GRIND_Title"
+	{
+		"pl"	"Teletransporter"
+	}
+	"TF_ENGINEER_TELEPORT_GRIND_Desc"
+	{
+		"pl"	"Teleportuj 100 towarzyszy na pole bitwy."
+	}
+	"TF_ENGINEER_DISPENSER_EXTINGUISH_Title"
+	{
+		"pl"	"Zgaszony dżentelmen"
+	}
+	"TF_ENGINEER_DISPENSER_EXTINGUISH_Desc"
+	{
+		"pl"	"Ugaś z pomocą zasobników 20 płonących graczy."
+	}
+	"TF_ENGINEER_REVENGE_CRIT_SENTRY_KILLER_Title"
+	{
+		"pl"	"Inżynieria odwetu"
+	}
+	"TF_ENGINEER_REVENGE_CRIT_SENTRY_KILLER_Desc"
+	{
+		"pl"	"Użyj krytycznego strzału odwetu, aby zabić wroga, który zniszczył Twoje działko."
+	}
+	"TF_ENGINEER_MANUAL_CLOAKED_SPY_KILL_Title"
+	{
+		"pl"	"Wyszukiwarka"
+	}
+	"TF_ENGINEER_MANUAL_CLOAKED_SPY_KILL_Desc"
+	{
+		"pl"	"Zabij 3 ukrytych graczy Spy za pomocą działka pod kontrolą Wranglera."
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_KILLS_BEYOND_RANGE_Title"
+	{
+		"pl"	"Jak na strzelnicy"
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_KILLS_BEYOND_RANGE_Desc"
+	{
+		"pl"	"Zabij 10 przeciwników poza normalnym zasięgiem działka, korzystając z Wranglera."
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_ABSORB_DMG_Title"
+	{
+		"pl"	"Blokada budowlana"
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_ABSORB_DMG_Desc"
+	{
+		"pl"	"Spraw, aby działko strażnicze, będące pod ochroną tarczy Tresera, pochłonęło 500 punktów obrażeń bez bycia zniszczonym."
+	}
+	"TF_ENGINEER_REVENGE_CRIT_LIFE_Title"
+	{
+		"pl"	"Bez przebaczenia"
+	}
+	"TF_ENGINEER_REVENGE_CRIT_LIFE_Desc"
+	{
+		"pl"	"Zabij 3 wrogów krytycznym strzałem odwetu nie ginąc."
+	}
+	"TF_ENGINEER_KILL_SPY_TWO_SAPPERS_Title"
+	{
+		"pl"	"Szybki refleks"
+	}
+	"TF_ENGINEER_KILL_SPY_TWO_SAPPERS_Desc"
+	{
+		"pl"	"Zabij Szpiega i zniszcz 2 sapery w ciągu 10 sekund."
+	}
+	"TF_ENGINEER_KILL_DISGUISED_SPY_Title"
+	{
+		"pl"	"Francuski klucznik"
+	}
+	"TF_ENGINEER_KILL_DISGUISED_SPY_Desc"
+	{
+		"pl"	"Zabij swoim kluczem przebranego Szpiega."
+	}
+	"TF_ENGINEER_UPGRADE_BUILDINGS_Title"
+	{
+		"pl"	"Cichy wspólnik"
+	}
+	"TF_ENGINEER_UPGRADE_BUILDINGS_Desc"
+	{
+		"pl"	"Ulepsz 50 przyjacielskich konstrukcji."
+	}
+	"TF_ENGINEER_DESTROY_SAPPERS_Title"
+	{
+		"pl"	"Za garść saperów"
+	}
+	"TF_ENGINEER_DESTROY_SAPPERS_Desc"
+	{
+		"pl"	"Zniszcz 25 saperów znajdujących się na przyjacielskich konstrukcjach."
+	}
+	"TF_ENGINEER_REPAIR_SENTRY_W_MEDIC_Title"
+	{
+		"pl"	"Inżynieria medyczna"
+	}
+	"TF_ENGINEER_REPAIR_SENTRY_W_MEDIC_Desc"
+	{
+		"pl"	"Napraw ostrzeliwane działko strażnicze, będąc leczonym przez Medyka."
+	}
+	"TF_ENGINEER_SENTRY_KILL_LIFETIME_GRIND_Title"
+	{
+		"pl"	"Najlepsza mała rzeźnia w Teksasie"
+	}
+	"TF_ENGINEER_SENTRY_KILL_LIFETIME_GRIND_Desc"
+	{
+		"pl"	"Zabij 5000 wrogów, korzystając z działek strażniczych."
+	}
+	"TF_ENGINEER_SENTRY_AVENGES_YOU_Title"
+	{
+		"pl"	"Graniczna sprawiedliwość"
+	}
+	"TF_ENGINEER_SENTRY_AVENGES_YOU_Desc"
+	{
+		"pl"	"Spraw, aby twoje działko strażnicze zabiło wroga, który zabił cię w przeciągu ostatnich 10 sekund."
+	}
+	"TF_ENGINEER_FREEZECAM_TAUNT_Title"
+	{
+		"pl"	"Sześciostrunowe żądło"
+	}
+	"TF_ENGINEER_FREEZECAM_TAUNT_Desc"
+	{
+		"pl"	"Prześlij przeciwnikowi migawkę, na której popisujesz się grą na gitarze."
+	}
+	"TF_ENGINEER_FREEZECAM_SENTRY_Title"
+	{
+		"pl"	"Nieuprzejmy Inżynier"
+	}
+	"TF_ENGINEER_FREEZECAM_SENTRY_Desc"
+	{
+		"pl"	"Prześlij przeciwnikowi migawkę, na której jesteś ty oraz działko, które go właśnie zabiło."
+	}
+	"TF_ENGINEER_SHOTGUN_KILL_PREV_SENTRY_TARGET_Title"
+	{
+		"pl"	"Teksański dwukrok"
+	}
+	"TF_ENGINEER_SHOTGUN_KILL_PREV_SENTRY_TARGET_Desc"
+	{
+		"pl"	"Dobij wroga strzelbą, który został wcześniej zraniony przez twoje działko strażnicze."
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GROUP_Title"
+	{
+		"pl"	"Doktor na wakacjach"
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GROUP_Desc"
+	{
+		"pl"	"Spraw, aby twój zasobnik leczył 3 towarzyszy jednocześnie."
+	}
+	"TF_ENGINEER_SENTRY_KILL_CAPS_Title"
+	{
+		"pl"	"Ziemia niczyja"
+	}
+	"TF_ENGINEER_SENTRY_KILL_CAPS_Desc"
+	{
+		"pl"	"Użyj działka strażniczego, aby zabić 25 przeciwników, którzy przejmują punkt kontolny."
+	}
+	"TF_ENGINEER_KILL_FLAG_CARRIERS_Title"
+	{
+		"pl"	"Sekrety fachu"
+	}
+	"TF_ENGINEER_KILL_FLAG_CARRIERS_Desc"
+	{
+		"pl"	"Zabij 20 graczy niosących tajne materiały."
+	}
+	"TF_ENGINEER_WASTE_METAL_GRIND_Title"
+	{
+		"pl"	"Death Metal"
+	}
+	"TF_ENGINEER_WASTE_METAL_GRIND_Desc"
+	{
+		"pl"	"Podnieś 10 000 metalu ze zniszczonych konstrukcji."
+	}
+	"TF_ENGINEER_HELP_BUILD_STRUCTURE_Title"
+	{
+		"pl"	"Uprzejmy Inżynier"
+	}
+	"TF_ENGINEER_HELP_BUILD_STRUCTURE_Desc"
+	{
+		"pl"	"Pomóż innemu Inżynierowi z drużyny wznieść jego konstrukcję."
+	}
+	"TF_ENGINEER_REMOVE_SAPPER_LONG_DIST_Title"
+	{
+		"pl"	"Rusz się!"
+	}
+	"TF_ENGINEER_REMOVE_SAPPER_LONG_DIST_Desc"
+	{
+		"pl"	"Dobiegnij do swojego budynku oddalonego o kilka metrów i zniszcz saper umieszczony na nim."
+	}
+	"TF_ENGINEER_DESTROY_STICKIES_Title"
+	{
+		"pl"	"Jak zabito szkodniki"
+	}
+	"TF_ENGINEER_DESTROY_STICKIES_Desc"
+	{
+		"pl"	"Zniszcz 50 wrogich bomb samoprzylepnych, leżących w pobliżu przyjacielskich konstrukcji."
+	}
+	"TF_ENGINEER_TAUNT_KILL_Title"
+	{
+		"pl"	"Chłopak z gitarą"
+	}
+	"TF_ENGINEER_TAUNT_KILL_Desc"
+	{
+		"pl"	"Rozwal gitarę na głowie przeciwnika."
+	}
+	"TF_ENGINEER_KILL_SNIPERS_SENTRY_Title"
+	{
+		"pl"	"Łamiąc Moranta"
+	}
+	"TF_ENGINEER_KILL_SNIPERS_SENTRY_Desc"
+	{
+		"pl"	"Zabij 10 graczy Sniper za pomocą działka pod kontrolą Wranglera."
+	}
+	"TF_ENGINEER_HELP_MANUAL_SENTRY_Title"
+	{
+		"pl"	"W pocie czoła"
+	}
+	"TF_ENGINEER_HELP_MANUAL_SENTRY_Desc"
+	{
+		"pl"	"Wykonaj 50 napraw i/lub przeładowań działka, które za pomocą Wranglera kontroluje inny Engineer."
+	}
+	"TF_ENGINEER_KILL_SENTRY_WITH_SENTRY_Title"
+	{
+		"pl"	"Ochrona patentu"
+	}
+	"TF_ENGINEER_KILL_SENTRY_WITH_SENTRY_Desc"
+	{
+		"pl"	"Zniszcz działko przeciwnika klasy Engineer za pomocą działka pod kontrolą Twojego Wranglera."
+	}
+	"TF_ENGINEER_MOVE_SENTRY_GET_KILL_Title"
+	{
+		"pl"	"Jeśli je zbudujesz, oni zginą"
+	}
+	"TF_ENGINEER_MOVE_SENTRY_GET_KILL_Desc"
+	{
+		"pl"	"Umieść działko poziomu 3 w miejscu, gdzie zabije kogoś krótko po rozstawieniu."
+	}
+	"TF_ENGINEER_BUILDING_CARRY_Title"
+	{
+		"pl"	"Strażnik Teksasu"
+	}
+	"TF_ENGINEER_BUILDING_CARRY_Desc"
+	{
+		"pl"	"Przenieś swoje konstrukcje łącznie na odległość jednego kilometra."
+	}
+	"TF_ENGINEER_KILL_ASSIST_Title"
+	{
+		"pl"	"Zastępca"
+	}
+	"TF_ENGINEER_KILL_ASSIST_Desc"
+	{
+		"pl"	"Zdobądź 10 asyst z innym graczem Engineer, gdzie w zabiciu innego gracza brało udział działko."
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GRIND_Title"
+	{
+		"pl"	"Kowboj-aptekarz"
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GRIND_Desc"
+	{
+		"pl"	"Spraw, aby twoje zasobniki wydały w sumie 100 000 punktów zdrowia."
+	}
+	"TF_ENGINEER_REPAIR_TEAM_GRIND_Title"
+	{
+		"pl"	"Rekonstruktor"
+	}
+	"TF_ENGINEER_REPAIR_TEAM_GRIND_Desc"
+	{
+		"pl"	"Napraw 50 000 punktów uszkodzeń konstrukcjom zbudowanym przez twoich towarzyszy."
+	}
+	"TF_ENGINEER_TANK_DAMAGE_Title"
+	{
+		"pl"	"Wytrzymała konstrukcja"
+	}
+	"TF_ENGINEER_TANK_DAMAGE_Desc"
+	{
+		"pl"	"Spraw, żeby jedna konstrukcja przyjęła na siebie 2000 punktów uszkodzeń i nie uległa zniszczeniu."
+	}
+	"TF_ENGINEER_HEAVY_ASSIST_Title"
+	{
+		"pl"	"(Przed)ostatni kowboj"
+	}
+	"TF_ENGINEER_HEAVY_ASSIST_Desc"
+	{
+		"pl"	"Spraw, aby twój zasobnik leczył Grubego, który zabije 5 wrogów."
+	}
+}

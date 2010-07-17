@@ -1,4 +1,4 @@
-"Phrases"
+ï»¿"Phrases"
 {
 	"TF_GET_TURRETKILLS_Title"
 	{
@@ -158,7 +158,7 @@
 	}
 	"TF_MEDIC_SIMUL_CHARGE_Desc"
 	{
-		"en"	"Work with 2 other Medics to deploy 3 simultaneous ÜberCharges."
+		"en"	"Work with 2 other Medics to deploy 3 simultaneous ÃœberCharges."
 	}
 	"TF_MEDIC_SETUP_CHARGE_Title"
 	{
@@ -166,7 +166,7 @@
 	}
 	"TF_MEDIC_SETUP_CHARGE_Desc"
 	{
-		"en"	"Have an ÜberCharge ready before the Setup phase ends."
+		"en"	"Have an ÃœberCharge ready before the Setup phase ends."
 	}
 	"TF_MEDIC_RAPID_CHARGE_Title"
 	{
@@ -174,7 +174,7 @@
 	}
 	"TF_MEDIC_RAPID_CHARGE_Desc"
 	{
-		"en"	"Deploy 3 ÜberCharges in less than 5 minutes, and assist in 5 kills during that time."
+		"en"	"Deploy 3 ÃœberCharges in less than 5 minutes, and assist in 5 kills during that time."
 	}
 	"TF_MEDIC_COUNTER_CHARGE_Title"
 	{
@@ -182,7 +182,7 @@
 	}
 	"TF_MEDIC_COUNTER_CHARGE_Desc"
 	{
-		"en"	"Deploy an ÜberCharge within 8 seconds of a nearby enemy Medic deploying his."
+		"en"	"Deploy an ÃœberCharge within 8 seconds of a nearby enemy Medic deploying his."
 	}
 	"TF_MEDIC_SWITCH_TO_MEDIC_Title"
 	{
@@ -198,7 +198,7 @@
 	}
 	"TF_MEDIC_SAVE_TEAMMATE_Desc"
 	{
-		"en"	"Deploy an ÜberCharge on a teammate less than a second before they're hit by a critical explosive."
+		"en"	"Deploy an ÃœberCharge on a teammate less than a second before they're hit by a critical explosive."
 	}
 	"TF_MEDIC_CHARGE_BLOCKER_Title"
 	{
@@ -206,7 +206,7 @@
 	}
 	"TF_MEDIC_CHARGE_BLOCKER_Desc"
 	{
-		"en"	"Block the enemy from capturing a control point with an ÜberCharged teammate."
+		"en"	"Block the enemy from capturing a control point with an ÃœberCharged teammate."
 	}
 	"TF_MEDIC_ASSIST_MEDIC_Title"
 	{
@@ -246,7 +246,7 @@
 	}
 	"TF_MEDIC_ASSIST_SCOUT_Desc"
 	{
-		"en"	"Assist in killing 3 enemies with a single ÜberCharge on a Scout."
+		"en"	"Assist in killing 3 enemies with a single ÃœberCharge on a Scout."
 	}
 	"TF_MEDIC_ASSIST_PYRO_Title"
 	{
@@ -254,7 +254,7 @@
 	}
 	"TF_MEDIC_ASSIST_PYRO_Desc"
 	{
-		"en"	"Assist in burning 5 enemies with a single ÜberCharge on a Pyro."
+		"en"	"Assist in burning 5 enemies with a single ÃœberCharge on a Pyro."
 	}
 	"TF_MEDIC_ASSIST_HEAVY_Title"
 	{
@@ -262,7 +262,7 @@
 	}
 	"TF_MEDIC_ASSIST_HEAVY_Desc"
 	{
-		"en"	"Assist in punching 2 enemies with a single ÜberCharge on a Heavy."
+		"en"	"Assist in punching 2 enemies with a single ÃœberCharge on a Heavy."
 	}
 	"TF_MEDIC_ASSIST_DEMOMAN_Title"
 	{
@@ -270,7 +270,7 @@
 	}
 	"TF_MEDIC_ASSIST_DEMOMAN_Desc"
 	{
-		"en"	"Assist in destroying 5 enemy Engineer buildings with a single ÜberCharge on a Demoman."
+		"en"	"Assist in destroying 5 enemy Engineer buildings with a single ÃœberCharge on a Demoman."
 	}
 	"TF_MEDIC_ASSIST_SOLDIER_Title"
 	{
@@ -278,7 +278,7 @@
 	}
 	"TF_MEDIC_ASSIST_SOLDIER_Desc"
 	{
-		"en"	"Assist in exploding 5 enemies with a single ÜberCharge on a Soldier."
+		"en"	"Assist in exploding 5 enemies with a single ÃœberCharge on a Soldier."
 	}
 	"TF_MEDIC_HEAL_ENGINEER_Title"
 	{
@@ -326,7 +326,7 @@
 	}
 	"TF_MEDIC_KILL_WHILE_CHARGED_Desc"
 	{
-		"en"	"Kill 5 enemies in a single life, while having your ÜberCharge ready, but undeployed."
+		"en"	"Kill 5 enemies in a single life, while having your ÃœberCharge ready, but undeployed."
 	}
 	"TF_MEDIC_BONESAW_NOMISSES_Title"
 	{
@@ -382,7 +382,7 @@
 	}
 	"TF_MEDIC_CHARGE_JUGGLE_Desc"
 	{
-		"en"	"ÜberCharge 2 teammates at once."
+		"en"	"ÃœberCharge 2 teammates at once."
 	}
 	"TF_MEDIC_FREEZECAM_RAGDOLL_Title"
 	{
@@ -406,7 +406,7 @@
 	}
 	"TF_MEDIC_CHARGE_FRIENDS_Desc"
 	{
-		"en"	"ÜberCharge ten of your Steam Community Friends."
+		"en"	"ÃœberCharge ten of your Steam Community Friends."
 	}
 	"TF_MEDIC_INVITE_JOIN_CHARGE_Title"
 	{
@@ -414,7 +414,7 @@
 	}
 	"TF_MEDIC_INVITE_JOIN_CHARGE_Desc"
 	{
-		"en"	"Join a game that one of your friends is in and then deploy an ÜberCharge on him."
+		"en"	"Join a game that one of your friends is in and then deploy an ÃœberCharge on him."
 	}
 	"TF_MEDIC_HEAL_ACHIEVER_Title"
 	{
@@ -566,7 +566,7 @@
 	}
 	"TF_PYRO_BURN_MEDICS_CHARGED_Desc"
 	{
-		"en"	"Ignite 3 Medics that are ready to deploy an ÜberCharge."
+		"en"	"Ignite 3 Medics that are ready to deploy an ÃœberCharge."
 	}
 	"TF_PYRO_REFLECT_PROJECTILES_Title"
 	{
@@ -598,7 +598,7 @@
 	}
 	"TF_PYRO_KILL_UBERCHARGE_Desc"
 	{
-		"en"	"Kill 3 enemies in a single ÜberCharge."
+		"en"	"Kill 3 enemies in a single ÃœberCharge."
 	}
 	"TF_PYRO_DESTROY_BUILDINGS_Title"
 	{
@@ -830,7 +830,7 @@
 	}
 	"TF_HEAVY_RECEIVE_UBER_GRIND_Desc"
 	{
-		"en"	"Get ÜberCharged 50 times."
+		"en"	"Get ÃœberCharged 50 times."
 	}
 	"TF_HEAVY_STAND_NEAR_DISPENSER_Title"
 	{
@@ -1134,7 +1134,7 @@
 	}
 	"TF_SCOUT_ASSIST_MEDIC_Desc"
 	{
-		"en"	"Kill 3 enemies while under the effects of a Medic's ÜberCharge."
+		"en"	"Kill 3 enemies while under the effects of a Medic's ÃœberCharge."
 	}
 	"TF_SCOUT_STEAL_SANDWICH_Title"
 	{
@@ -1174,7 +1174,7 @@
 	}
 	"TF_SCOUT_KILL_CHARGED_MEDICS_Desc"
 	{
-		"en"	"Kill a Medic that is ready to deploy an ÜberCharge."
+		"en"	"Kill a Medic that is ready to deploy an ÃœberCharge."
 	}
 	"TF_SCOUT_SURVIVE_DAMAGE_Title"
 	{
@@ -1246,7 +1246,7 @@
 	}
 	"TF_SCOUT_STUN_UBER_ENEMIES_Desc"
 	{
-		"en"	"Stun 2 Medics that are ready to deploy an ÜberCharge."
+		"en"	"Stun 2 Medics that are ready to deploy an ÃœberCharge."
 	}
 	"TF_SCOUT_STUN_CAPPING_ENEMIES_Title"
 	{
@@ -1498,11 +1498,11 @@
 	}
 	"TF_SNIPER_KILL_CHARGED_MEDIC_Title"
 	{
-		"en"	"Überectomy"
+		"en"	"Ãœberectomy"
 	}
 	"TF_SNIPER_KILL_CHARGED_MEDIC_Desc"
 	{
-		"en"	"Kill a Medic that is ready to deploy an ÜberCharge."
+		"en"	"Kill a Medic that is ready to deploy an ÃœberCharge."
 	}
 	"TF_SNIPER_GET_BACKSTABBED_Title"
 	{
@@ -1594,7 +1594,7 @@
 	}
 	"TF_SNIPER_BOW_KILL_FLAGCARRIER_Title"
 	{
-		"en"	"Robbin’ Hood"
+		"en"	"Robbinâ€™ Hood"
 	}
 	"TF_SNIPER_BOW_KILL_FLAGCARRIER_Desc"
 	{
@@ -1696,6 +1696,14 @@
 	{
 		"en"	"Backstab the enemy that you're currently disguised as."
 	}
+	"TF_SPY_TAUNT_KILL_Title"
+	{
+		"en"	"The Man from P.U.N.C.T.U.R.E."
+	}
+	"TF_SPY_TAUNT_KILL_Desc"
+	{
+		"en"	"Stab an enemy while fencing."
+	}
 	"TF_SPY_BACKSTAB_MEDIC_HEALING_YOU_Title"
 	{
 		"en"	"FYI I am a Spy"
@@ -1784,6 +1792,14 @@
 	{
 		"en"	"Kill an Engineer who is working on a sentry gun."
 	}
+	"TF_SPY_FAST_CAP_Title"
+	{
+		"en"	"On Her Majestyâ€™s Secret Surface"
+	}
+	"TF_SPY_FAST_CAP_Desc"
+	{
+		"en"	"Start capping a capture point within a second of it becoming available."
+	}
 	"TF_SPY_MEDIC_HEALING_KILL_ENEMY_Title"
 	{
 		"en"	"Insurance Fraud"
@@ -1862,7 +1878,7 @@
 	}
 	"TF_SPY_BACKSTAB_MEDIC_CHARGED_Desc"
 	{
-		"en"	"Backstab a Medic that is ready to deploy an ÜberCharge."
+		"en"	"Backstab a Medic that is ready to deploy an ÃœberCharge."
 	}
 	"TF_SPY_BACKSTAB_CAPPING_ENEMIES_Title"
 	{
@@ -2286,7 +2302,7 @@
 	}
 	"TF_SOLDIER_ASSIST_MEDIC_UBER_Desc"
 	{
-		"en"	"Assist a Medic in exploding 5 enemies with a single ÜberCharge."
+		"en"	"Assist a Medic in exploding 5 enemies with a single ÃœberCharge."
 	}
 	"TF_DEMOMAN_KILL_SOLDIER_GRIND_Title"
 	{
@@ -2302,7 +2318,7 @@
 	}
 	"TF_DEMOMAN_DESTROY_BUILDINGS_WITH_MEDIC_Desc"
 	{
-		"en"	"Destroy 5 enemy Engineer buildings during a single ÜberCharge from a Medic."
+		"en"	"Destroy 5 enemy Engineer buildings during a single ÃœberCharge from a Medic."
 	}
 	"TF_DEMOMAN_DECAPITATE_CLOAKED_SPY_Title"
 	{
@@ -2591,22 +2607,6 @@
 	"TF_DEMOMAN_ACHIEVE_PROGRESS3_Desc"
 	{
 		"en"	"Achieve 17 of the achievements in the Demoman pack."
-	}
-	"TF_SPY_TAUNT_KILL_Title"
-	{
-		"en"	"The Man from P.U.N.C.T.U.R.E."
-	}
-	"TF_SPY_TAUNT_KILL_Desc"
-	{
-		"en"	"Stab an enemy while fencing."
-	}
-	"TF_SPY_FAST_CAP_Title"
-	{
-		"en"	"On Her Majesty’s Secret Surface"
-	}
-	"TF_SPY_FAST_CAP_Desc"
-	{
-		"en"	"Start capping a capture point within a second of it becoming available."
 	}
 	"TF_ENGINEER_ACHIEVE_PROGRESS1_Title"
 	{

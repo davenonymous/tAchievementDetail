@@ -1,12 +1,12 @@
-"Phrases"
+ï»¿"Phrases"
 {
 	"TF_GET_TURRETKILLS_Title"
 	{
-		"sv"	"Vaktgevärsskytte"
+		"sv"	"VaktgevÃ¤rsskytte"
 	}
 	"TF_GET_TURRETKILLS_Desc"
 	{
-		"sv"	"Vaktgevärsdöda 10 med ett enda vaktgevär."
+		"sv"	"VaktgevÃ¤rsdÃ¶da 10 med ett enda vaktgevÃ¤r."
 	}
 	"TF_KILL_NEMESIS_Title"
 	{
@@ -14,27 +14,27 @@
 	}
 	"TF_KILL_NEMESIS_Desc"
 	{
-		"sv"	"Hämnddöda fem."
+		"sv"	"HÃ¤mnddÃ¶da fem."
 	}
 	"TF_GET_CONSECUTIVEKILLS_NODEATHS_Title"
 	{
-		"sv"	"Dödssvårt"
+		"sv"	"DÃ¶dssvÃ¥rt"
 	}
 	"TF_GET_CONSECUTIVEKILLS_NODEATHS_Desc"
 	{
-		"sv"	"Döda fem i rad utan att själv dö."
+		"sv"	"DÃ¶da fem i rad utan att sjÃ¤lv dÃ¶."
 	}
 	"TF_GET_HEALED_BYENEMY_Title"
 	{
-		"sv"	"Förklädningsmästare"
+		"sv"	"FÃ¶rklÃ¤dningsmÃ¤stare"
 	}
 	"TF_GET_HEALED_BYENEMY_Desc"
 	{
-		"sv"	"Lura en motståndarsjukvårdare att hela dig."
+		"sv"	"Lura en motstÃ¥ndarsjukvÃ¥rdare att hela dig."
 	}
 	"TF_GET_HEADSHOTS_Title"
 	{
-		"sv"	"Hjärna"
+		"sv"	"HjÃ¤rna"
 	}
 	"TF_GET_HEADSHOTS_Desc"
 	{
@@ -42,11 +42,11 @@
 	}
 	"TF_PLAY_GAME_FRIENDSONLY_Title"
 	{
-		"sv"	"Vänskapligt värre..."
+		"sv"	"VÃ¤nskapligt vÃ¤rre..."
 	}
 	"TF_PLAY_GAME_FRIENDSONLY_Desc"
 	{
-		"sv"	"Spela i ett spel med sju eller fler spelare från din vännerlista."
+		"sv"	"Spela i ett spel med sju eller fler spelare frÃ¥n din vÃ¤nnerlista."
 	}
 	"TF_WIN_MULTIPLEGAMES_Title"
 	{
@@ -62,7 +62,7 @@
 	}
 	"TF_GET_MULTIPLEKILLS_Desc"
 	{
-		"sv"	"Döda sammanlagt 1 000."
+		"sv"	"DÃ¶da sammanlagt 1Â 000."
 	}
 	"TF_WIN_2FORT_NOENEMYCAPS_Title"
 	{
@@ -70,7 +70,7 @@
 	}
 	"TF_WIN_2FORT_NOENEMYCAPS_Desc"
 	{
-		"sv"	"Vinn 2Fort med en utestängning."
+		"sv"	"Vinn 2Fort med en utestÃ¤ngning."
 	}
 	"TF_WIN_WELL_MINIMUMTIME_Title"
 	{
@@ -78,7 +78,7 @@
 	}
 	"TF_WIN_WELL_MINIMUMTIME_Desc"
 	{
-		"sv"	"Vinn Well på högst fem minuter."
+		"sv"	"Vinn Well pÃ¥ hÃ¶gst fem minuter."
 	}
 	"TF_WIN_HYDRO_NOENEMYCAPS_Title"
 	{
@@ -86,39 +86,39 @@
 	}
 	"TF_WIN_HYDRO_NOENEMYCAPS_Desc"
 	{
-		"sv"	"Vinn Hydro utan att ge upp en erövring."
+		"sv"	"Vinn Hydro utan att ge upp en erÃ¶vring."
 	}
 	"TF_WIN_DUSTBOWL_NOENEMYCAPS_Title"
 	{
-		"sv"	"Ogenomträngligt försvar"
+		"sv"	"OgenomtrÃ¤ngligt fÃ¶rsvar"
 	}
 	"TF_WIN_DUSTBOWL_NOENEMYCAPS_Desc"
 	{
-		"sv"	"Försvara Dustbowl framgångsrikt utan att ge upp en erövring."
+		"sv"	"FÃ¶rsvara Dustbowl framgÃ¥ngsrikt utan att ge upp en erÃ¶vring."
 	}
 	"TF_WIN_GRAVELPIT_NOENEMYCAPS_Title"
 	{
-		"sv"	"Omöjligt försvar"
+		"sv"	"OmÃ¶jligt fÃ¶rsvar"
 	}
 	"TF_WIN_GRAVELPIT_NOENEMYCAPS_Desc"
 	{
-		"sv"	"Försvara Gravel Pit framgångsrikt utan att ge upp en erövring."
+		"sv"	"FÃ¶rsvara Gravel Pit framgÃ¥ngsrikt utan att ge upp en erÃ¶vring."
 	}
 	"TF_PLAY_GAME_EVERYCLASS_Title"
 	{
-		"sv"	"Bäst i klassen"
+		"sv"	"BÃ¤st i klassen"
 	}
 	"TF_PLAY_GAME_EVERYCLASS_Desc"
 	{
-		"sv"	"Spela en hel omgång i varje klass."
+		"sv"	"Spela en hel omgÃ¥ng med varje klass."
 	}
 	"TF_PLAY_GAME_EVERYMAP_Title"
 	{
-		"sv"	"Jordenruntresenär"
+		"sv"	"JordenruntresenÃ¤r"
 	}
 	"TF_PLAY_GAME_EVERYMAP_Desc"
 	{
-		"sv"	"Spela ett helt spel på 2Fort, Dustbowl, Granary, Gravel Pit, Hydro och Well (CP)."
+		"sv"	"Spela ett helt spel pÃ¥ 2Fort, Dustbowl, Granary, Gravel Pit, Hydro och Well (CP)."
 	}
 	"TF_GET_HEALPOINTS_Title"
 	{
@@ -126,7 +126,7 @@
 	}
 	"TF_GET_HEALPOINTS_Desc"
 	{
-		"sv"	"Samla in 25 000 helningspoäng som sjukvårdare."
+		"sv"	"Samla in 25Â 000 helningspoÃ¤ng som sjukvÃ¥rdare."
 	}
 	"TF_BURN_PLAYERSINMINIMUMTIME_Title"
 	{
@@ -134,15 +134,15 @@
 	}
 	"TF_BURN_PLAYERSINMINIMUMTIME_Desc"
 	{
-		"sv"	"Sätt eld på fem fiender på 30 sekunder."
+		"sv"	"SÃ¤tt eld pÃ¥ fem fiender pÃ¥ 30 sekunder."
 	}
 	"TF_MEDIC_TOP_SCOREBOARD_Title"
 	{
-		"sv"	"Kasta inte första stenen"
+		"sv"	"Kasta inte fÃ¶rsta stenen"
 	}
 	"TF_MEDIC_TOP_SCOREBOARD_Desc"
 	{
-		"sv"	"Spela en hel omgång utan att döda några fiender, och få högst poäng med ett lag med 6 spelare eller fler."
+		"sv"	"Spela en hel omgÃ¥ng utan att dÃ¶da nÃ¥gra fiender, och fÃ¥ hÃ¶gst poÃ¤ng med ett lag med 6 spelare eller fler."
 	}
 	"TF_MEDIC_HEAL_UNDER_FIRE_Title"
 	{
@@ -154,19 +154,19 @@
 	}
 	"TF_MEDIC_SIMUL_CHARGE_Title"
 	{
-		"sv"	"Grupphälsa"
+		"sv"	"GrupphÃ¤lsa"
 	}
 	"TF_MEDIC_SIMUL_CHARGE_Desc"
 	{
-		"sv"	"Samarbeta med 2 andra sjukvårdare och utför 3 samtidiga överladdningar."
+		"sv"	"Samarbeta med 2 andra sjukvÃ¥rdare och utfÃ¶r 3 samtidiga ÃœberLaddningar."
 	}
 	"TF_MEDIC_SETUP_CHARGE_Title"
 	{
-		"sv"	"Laddad för vård"
+		"sv"	"Laddad fÃ¶r vÃ¥rd"
 	}
 	"TF_MEDIC_SETUP_CHARGE_Desc"
 	{
-		"sv"	"Ha en överladdning klar innan förberedelsefasen är över."
+		"sv"	"Ha en ÃœberLaddning klar innan fÃ¶rberedelsefasen Ã¤r Ã¶ver."
 	}
 	"TF_MEDIC_RAPID_CHARGE_Title"
 	{
@@ -174,7 +174,7 @@
 	}
 	"TF_MEDIC_RAPID_CHARGE_Desc"
 	{
-		"sv"	"Utför 3 överladdningar på mindre än 5 minuter, och hjälp till med 5 dödade under den tiden."
+		"sv"	"UtfÃ¶r 3 ÃœberLaddningar pÃ¥ mindre Ã¤n 5 minuter, och fÃ¥ 5 dÃ¶dsassister under den tiden."
 	}
 	"TF_MEDIC_COUNTER_CHARGE_Title"
 	{
@@ -182,7 +182,7 @@
 	}
 	"TF_MEDIC_COUNTER_CHARGE_Desc"
 	{
-		"sv"	"Utför en överladdning inom 8 sekunder efter att en fiendesjukvårdare i närheten utfört sin."
+		"sv"	"UtfÃ¶r en ÃœberLaddning inom 8 sekunder efter att en fiendesjukvÃ¥rdare i nÃ¤rheten utfÃ¶rt sin."
 	}
 	"TF_MEDIC_SWITCH_TO_MEDIC_Title"
 	{
@@ -190,39 +190,39 @@
 	}
 	"TF_MEDIC_SWITCH_TO_MEDIC_Desc"
 	{
-		"sv"	"Bli den förste i ett lag utan sjukvårdare att växla till sjukvårdare efter att en lagmedlem ropat \"Medic!\", och hela sedan 500 i hälsa."
+		"sv"	", och hela sedan 500 i hÃ¤lsa."
 	}
 	"TF_MEDIC_SAVE_TEAMMATE_Title"
 	{
-		"sv"	"Akutvård"
+		"sv"	"AkutvÃ¥rd"
 	}
 	"TF_MEDIC_SAVE_TEAMMATE_Desc"
 	{
-		"sv"	"Utför en överladdning för en lagmedlem mindre än en sekund innan denne träffas av en kritisk bomb."
+		"sv"	"UtfÃ¶r en ÃœberLaddning fÃ¶r en lagmedlem mindre Ã¤n en sekund innan denne trÃ¤ffas av en kritisk bomb."
 	}
 	"TF_MEDIC_CHARGE_BLOCKER_Title"
 	{
-		"sv"	"Förebyggande vård"
+		"sv"	"FÃ¶rebyggande vÃ¥rd"
 	}
 	"TF_MEDIC_CHARGE_BLOCKER_Desc"
 	{
-		"sv"	"Blockera fienden från att erövra en kontrollpunkt med hjälp av en överladdad lagmedlem."
+		"sv"	"Blockera fienden frÃ¥n att erÃ¶vra en kontrollpunkt med hjÃ¤lp av en ÃœberLaddad lagmedlem."
 	}
 	"TF_MEDIC_ASSIST_MEDIC_Title"
 	{
-		"sv"	"Rådgivning"
+		"sv"	"RÃ¥dgivning"
 	}
 	"TF_MEDIC_ASSIST_MEDIC_Desc"
 	{
-		"sv"	"Hjälp en annan sjukvårdare att döda 5 fiender i samma liv."
+		"sv"	"HjÃ¤lp en annan sjukvÃ¥rdare att dÃ¶da 5 fiender i samma liv."
 	}
 	"TF_MEDIC_SYRINGE_SCOUTS_Title"
 	{
-		"sv"	"Gör det ont när jag gör så här?"
+		"sv"	"GÃ¶r det ont nÃ¤r jag gÃ¶r sÃ¥ hÃ¤r?"
 	}
 	"TF_MEDIC_SYRINGE_SCOUTS_Desc"
 	{
-		"sv"	"Döda 50 spanare med ett sprutvapen."
+		"sv"	"DÃ¶da 50 spanare med ditt sprutgevÃ¤r."
 	}
 	"TF_MEDIC_BONESAW_MEDICS_Title"
 	{
@@ -230,47 +230,47 @@
 	}
 	"TF_MEDIC_BONESAW_MEDICS_Desc"
 	{
-		"sv"	"Döda 50 sjukvårdare med bensågen."
+		"sv"	"DÃ¶da 50 sjukvÃ¥rdare med din bensÃ¥g."
 	}
 	"TF_MEDIC_ASSIST_HEAVY_LONG_Title"
 	{
-		"sv"	"Tung läkekonst"
+		"sv"	"Tung lÃ¤kekonst"
 	}
 	"TF_MEDIC_ASSIST_HEAVY_LONG_Desc"
 	{
-		"sv"	"Hjälp en tung artillerist att döda 20 fiender utan att någon av er dör."
+		"sv"	"HjÃ¤lp en tung artillerist att dÃ¶da 20 fiender utan att nÃ¥gon av er dÃ¶r."
 	}
 	"TF_MEDIC_ASSIST_SCOUT_Title"
 	{
-		"sv"	"Det här kommer att svida lite"
+		"sv"	"Det hÃ¤r kommer att svida lite"
 	}
 	"TF_MEDIC_ASSIST_SCOUT_Desc"
 	{
-		"sv"	"Hjälp till att döda 3 fiender med en enda överladdning för en spanare."
+		"sv"	"HjÃ¤lp till att dÃ¶da 3 fiender med en enda ÃœberLaddning fÃ¶r en spanare."
 	}
 	"TF_MEDIC_ASSIST_PYRO_Title"
 	{
-		"sv"	"Brännskador"
+		"sv"	"BrÃ¤nnskador"
 	}
 	"TF_MEDIC_ASSIST_PYRO_Desc"
 	{
-		"sv"	"Hjälp till att bränna 5 fiender med en enda överladdning för en pyro."
+		"sv"	"HjÃ¤lp till att brÃ¤nna 5 fiender med en enda ÃœberLaddning fÃ¶r en pyro."
 	}
 	"TF_MEDIC_ASSIST_HEAVY_Title"
 	{
-		"sv"	"Trubbigt våld"
+		"sv"	"Trubbigt vÃ¥ld"
 	}
 	"TF_MEDIC_ASSIST_HEAVY_Desc"
 	{
-		"sv"	"Hjälp till att döda 2 fiender med en enda överladdning för en tung artillerist."
+		"sv"	"HjÃ¤lp till att slÃ¥ 2 fiender med en enda ÃœberLaddning fÃ¶r en tung artillerist."
 	}
 	"TF_MEDIC_ASSIST_DEMOMAN_Title"
 	{
-		"sv"	"Byggnadsvård"
+		"sv"	"ByggnadsvÃ¥rd"
 	}
 	"TF_MEDIC_ASSIST_DEMOMAN_Desc"
 	{
-		"sv"	"Hjälp till att förstöra 5 av fiendens teknikerbyggnader med en enda överladdning för en demoman."
+		"sv"	"HjÃ¤lp till att fÃ¶rstÃ¶ra 5 av fiendens teknikerbyggnader med en enda ÃœberLaddning fÃ¶r en demoman."
 	}
 	"TF_MEDIC_ASSIST_SOLDIER_Title"
 	{
@@ -278,31 +278,31 @@
 	}
 	"TF_MEDIC_ASSIST_SOLDIER_Desc"
 	{
-		"sv"	"Hjälp till att spränga 5 fiender med en enda överladdning för en soldat."
+		"sv"	"HjÃ¤lp till att sprÃ¤nga 5 fiender med en enda ÃœberLaddning fÃ¶r en soldat."
 	}
 	"TF_MEDIC_HEAL_ENGINEER_Title"
 	{
-		"sv"	"Tillståndet är kritiskt"
+		"sv"	"TillstÃ¥ndet Ã¤r kritiskt"
 	}
 	"TF_MEDIC_HEAL_ENGINEER_Desc"
 	{
-		"sv"	"Hela en tekniker medan han reparerar sitt vaktgevär under tiden som det beskjuts."
+		"sv"	"Hela en tekniker medan han reparerar sitt vaktgevÃ¤r under tiden som det beskjuts."
 	}
 	"TF_MEDIC_ASSIST_CAPTURER_Title"
 	{
-		"sv"	"Enhet och seger"
+		"sv"	"Ubi concordia, ibi victoria"
 	}
 	"TF_MEDIC_ASSIST_CAPTURER_Desc"
 	{
-		"sv"	"Hjälp till att döda 5 fiender på en fiendekontrollpunkt i ett och samma liv."
+		"sv"	"HjÃ¤lp till att dÃ¶da 5 fiender pÃ¥ en fiendekontrollpunkt i ett och samma liv."
 	}
 	"TF_MEDIC_HEAL_CALLERS_Title"
 	{
-		"sv"	"Gå ronden"
+		"sv"	"GÃ¥ ronden"
 	}
 	"TF_MEDIC_HEAL_CALLERS_Desc"
 	{
-		"sv"	"Hela 200 lagmedlemmar efter att de ropat \"Medic!\"."
+		"sv"	"."
 	}
 	"TF_MEDIC_EXTINGUISH_TEAMMATES_Title"
 	{
@@ -310,15 +310,15 @@
 	}
 	"TF_MEDIC_EXTINGUISH_TEAMMATES_Desc"
 	{
-		"sv"	"Släck 100 brinnande lagmedlemmar."
+		"sv"	"SlÃ¤ck 100 brinnande lagmedlemmar."
 	}
 	"TF_MEDIC_ASSIST_VS_NEMESES_Title"
 	{
-		"sv"	"Doktorsassisterat självmord"
+		"sv"	"Doktorsassisterat sjÃ¤lvmord"
 	}
 	"TF_MEDIC_ASSIST_VS_NEMESES_Desc"
 	{
-		"sv"	"Hjälp till att döda 20 nemesis."
+		"sv"	"HjÃ¤lp till att dÃ¶da 20 nemesis."
 	}
 	"TF_MEDIC_KILL_WHILE_CHARGED_Title"
 	{
@@ -326,15 +326,15 @@
 	}
 	"TF_MEDIC_KILL_WHILE_CHARGED_Desc"
 	{
-		"sv"	"Döda 5 fiender i ett enda liv under tiden som du har överladdningen klar utan att utföra den."
+		"sv"	"DÃ¶da 5 fiender i ett enda liv under tiden som du har Ã¶verladdningen klar utan att utfÃ¶ra den."
 	}
 	"TF_MEDIC_BONESAW_NOMISSES_Title"
 	{
-		"sv"	"Bensågare"
+		"sv"	"BensÃ¥gare"
 	}
 	"TF_MEDIC_BONESAW_NOMISSES_Desc"
 	{
-		"sv"	"Träffa fiender med bensågen 5 gånger i rad utan att dö eller missa."
+		"sv"	"TrÃ¤ffa fiender med bensÃ¥gen 5 gÃ¥nger i rad utan att dÃ¶ eller missa."
 	}
 	"TF_MEDIC_HEAL_LARGE_Title"
 	{
@@ -342,7 +342,7 @@
 	}
 	"TF_MEDIC_HEAL_LARGE_Desc"
 	{
-		"sv"	"Samla ihop 7000 hälsopoäng i ett enda liv."
+		"sv"	"Samla ihop 7000 hÃ¤lsopoÃ¤ng i ett enda liv."
 	}
 	"TF_MEDIC_HEAL_HUGE_Title"
 	{
@@ -350,15 +350,15 @@
 	}
 	"TF_MEDIC_HEAL_HUGE_Desc"
 	{
-		"sv"	"Samla ihop 10 000 hälsopoäng i ett enda liv."
+		"sv"	"Samla ihop 10Â 000 hÃ¤lsopoÃ¤ng i ett enda liv."
 	}
 	"TF_MEDIC_HEAL_GRIND_Title"
 	{
-		"sv"	"Överläkare"
+		"sv"	"Ã–verlÃ¤kare"
 	}
 	"TF_MEDIC_HEAL_GRIND_Desc"
 	{
-		"sv"	"Samla ihop 1 miljon hälsopoäng totalt."
+		"sv"	"Samla ihop 1 miljon hÃ¤lsopoÃ¤ng totalt."
 	}
 	"TF_MEDIC_KILL_HEALED_SPY_Title"
 	{
@@ -366,7 +366,7 @@
 	}
 	"TF_MEDIC_KILL_HEALED_SPY_Desc"
 	{
-		"sv"	"Döda en fiendespion som du har helat."
+		"sv"	"DÃ¶da en fiendespion som du har helat."
 	}
 	"TF_MEDIC_SAVE_FALLING_TEAMMATE_Title"
 	{
@@ -374,7 +374,7 @@
 	}
 	"TF_MEDIC_SAVE_FALLING_TEAMMATE_Desc"
 	{
-		"sv"	"Rädda en fallande lagmedlem från att dö vid nedslaget."
+		"sv"	"RÃ¤dda en fallande lagmedlem frÃ¥n att dÃ¶ vid nedslaget."
 	}
 	"TF_MEDIC_CHARGE_JUGGLE_Title"
 	{
@@ -382,7 +382,7 @@
 	}
 	"TF_MEDIC_CHARGE_JUGGLE_Desc"
 	{
-		"sv"	"Överladda 2 lagmedlemmar samtidigt."
+		"sv"	"Ã–verladda 2 lagmedlemmar samtidigt."
 	}
 	"TF_MEDIC_FREEZECAM_RAGDOLL_Title"
 	{
@@ -390,15 +390,15 @@
 	}
 	"TF_MEDIC_FREEZECAM_RAGDOLL_Desc"
 	{
-		"sv"	"Ge en dödad fiende en bild av dig själv när du hånar liket."
+		"sv"	"Ge en dÃ¶dad fiende en bild av dig sjÃ¤lv nÃ¤r du hÃ¥nar liket."
 	}
 	"TF_MEDIC_BONESAW_SPY_CALLERS_Title"
 	{
-		"sv"	"Så du vet: jag är läkare"
+		"sv"	"SÃ¥ du vet: jag Ã¤r lÃ¤kare"
 	}
 	"TF_MEDIC_BONESAW_SPY_CALLERS_Desc"
 	{
-		"sv"	"Använd bensågen till att döda 5 spioner som har ropat på sjukvårdare."
+		"sv"	"AnvÃ¤nd bensÃ¥gen till att dÃ¶da 5 spioner som har ropat pÃ¥ sjukvÃ¥rdare."
 	}
 	"TF_MEDIC_CHARGE_FRIENDS_Title"
 	{
@@ -406,15 +406,15 @@
 	}
 	"TF_MEDIC_CHARGE_FRIENDS_Desc"
 	{
-		"sv"	"Överladda tio av dina vänner från Steam-gemenskapen."
+		"sv"	"Ã–verladda tio av dina vÃ¤nner frÃ¥n Steam-gemenskapen."
 	}
 	"TF_MEDIC_INVITE_JOIN_CHARGE_Title"
 	{
-		"sv"	"Hembesök"
+		"sv"	"HembesÃ¶k"
 	}
 	"TF_MEDIC_INVITE_JOIN_CHARGE_Desc"
 	{
-		"sv"	"Gå med i ett spel som en av dina vänner är med i och utför sedan en överladdning för honom."
+		"sv"	"GÃ¥ med i ett spel som en av dina vÃ¤nner Ã¤r med i och utfÃ¶r sedan en Ã¶verladdning fÃ¶r honom."
 	}
 	"TF_MEDIC_HEAL_ACHIEVER_Title"
 	{
@@ -422,31 +422,31 @@
 	}
 	"TF_MEDIC_HEAL_ACHIEVER_Desc"
 	{
-		"sv"	"Hela en lagmedlem samtidigt som han tjänar in ett eget framsteg."
+		"sv"	"Hela en lagmedlem samtidigt som han tjÃ¤nar in ett eget framsteg."
 	}
 	"TF_MEDIC_ACHIEVE_PROGRESS1_Title"
 	{
-		"sv"	"Milstolpe 1, sjukvårdare"
+		"sv"	"Milstolpe 1, sjukvÃ¥rdare"
 	}
 	"TF_MEDIC_ACHIEVE_PROGRESS1_Desc"
 	{
-		"sv"	"Tjäna in 10 av framstegen i sjukvårdarpaketet."
+		"sv"	"TjÃ¤na in 10 av framstegen i sjukvÃ¥rdarpaketet."
 	}
 	"TF_MEDIC_ACHIEVE_PROGRESS2_Title"
 	{
-		"sv"	"Milstolpe 2, sjukvårdare"
+		"sv"	"Milstolpe 2, sjukvÃ¥rdare"
 	}
 	"TF_MEDIC_ACHIEVE_PROGRESS2_Desc"
 	{
-		"sv"	"Tjäna in 16 av framstegen i sjukvårdarpaketet."
+		"sv"	"TjÃ¤na in 16 av framstegen i sjukvÃ¥rdarpaketet."
 	}
 	"TF_MEDIC_ACHIEVE_PROGRESS3_Title"
 	{
-		"sv"	"Milstolpe 3, sjukvårdare"
+		"sv"	"Milstolpe 3, sjukvÃ¥rdare"
 	}
 	"TF_MEDIC_ACHIEVE_PROGRESS3_Desc"
 	{
-		"sv"	"Tjäna in 22 av framstegen i sjukvårdarpaketet."
+		"sv"	"TjÃ¤na in 22 av framstegen i sjukvÃ¥rdarpaketet."
 	}
 	"TF_PYRO_KILL_MULTIWEAPONS_Title"
 	{
@@ -454,7 +454,7 @@
 	}
 	"TF_PYRO_KILL_MULTIWEAPONS_Desc"
 	{
-		"sv"	"Använd hagelgeväret till att döda 20 spelare du har satt eld på."
+		"sv"	"AnvÃ¤nd hagelgevÃ¤ret till att dÃ¶da 20 spelare du har satt eld pÃ¥."
 	}
 	"TF_PYRO_SIMULBURN_SCOUTS_Title"
 	{
@@ -462,7 +462,7 @@
 	}
 	"TF_PYRO_SIMULBURN_SCOUTS_Desc"
 	{
-		"sv"	"Sätt eld på två 2 fiendespanare samtidigt."
+		"sv"	"SÃ¤tt eld pÃ¥ tvÃ¥ 2 fiendespanare samtidigt."
 	}
 	"TF_PYRO_FORCE_WATERJUMP_Title"
 	{
@@ -474,51 +474,51 @@
 	}
 	"TF_PYRO_KILL_POSTDEATH_Title"
 	{
-		"sv"	"Skärselden"
+		"sv"	"SkÃ¤rselden"
 	}
 	"TF_PYRO_KILL_POSTDEATH_Desc"
 	{
-		"sv"	"Döda 15 spelare medan du är död."
+		"sv"	"DÃ¶da 15 spelare medan du Ã¤r dÃ¶d."
 	}
 	"TF_PYRO_KILL_SPIES_Title"
 	{
-		"sv"	"Brandvägg"
+		"sv"	"BrandvÃ¤gg"
 	}
 	"TF_PYRO_KILL_SPIES_Desc"
 	{
-		"sv"	"Sätt eld på 5 spioner som har satt en sapper på en allierad byggnad."
+		"sv"	"SÃ¤tt eld pÃ¥ 5 spioner som har satt en sapper pÃ¥ en allierad byggnad."
 	}
 	"TF_PYRO_KILL_CARRIERS_Title"
 	{
-		"sv"	"Bokbål"
+		"sv"	"BokbÃ¥l"
 	}
 	"TF_PYRO_KILL_CARRIERS_Desc"
 	{
-		"sv"	"Sätt eld på 5 fiender som bär på din information."
+		"sv"	"SÃ¤tt eld pÃ¥ 5 fiender som bÃ¤r pÃ¥ din information."
 	}
 	"TF_PYRO_REVEAL_SPIES_Title"
 	{
-		"sv"	"Spontan antändning"
+		"sv"	"Spontan antÃ¤ndning"
 	}
 	"TF_PYRO_REVEAL_SPIES_Desc"
 	{
-		"sv"	"Sätt eld på 10 dolda spioner."
+		"sv"	"SÃ¤tt eld pÃ¥ 10 dolda spioner."
 	}
 	"TF_PYRO_CAMP_TELEPORTERS_Title"
 	{
-		"sv"	"Fara för brand"
+		"sv"	"Fara fÃ¶r brand"
 	}
 	"TF_PYRO_CAMP_TELEPORTERS_Desc"
 	{
-		"sv"	"Sätt eld på 10 fiender som nyligen använt en teleportör."
+		"sv"	"SÃ¤tt eld pÃ¥ 10 fiender som nyligen anvÃ¤nt en teleportÃ¶r."
 	}
 	"TF_PYRO_CAMP_POSITION_Title"
 	{
-		"sv"	"Lägereld"
+		"sv"	"LÃ¤gereld"
 	}
 	"TF_PYRO_CAMP_POSITION_Desc"
 	{
-		"sv"	"Döda 3 fiender i rad inom samma område."
+		"sv"	"DÃ¶da 3 fiender i rad inom samma omrÃ¥de."
 	}
 	"TF_PYRO_KILL_AXE_SMALL_Title"
 	{
@@ -526,7 +526,7 @@
 	}
 	"TF_PYRO_KILL_AXE_SMALL_Desc"
 	{
-		"sv"	"Döda 3 personer med yxan i ett och samma liv."
+		"sv"	"DÃ¶da 3 personer med yxan i ett och samma liv."
 	}
 	"TF_PYRO_KILL_AXE_LARGE_Title"
 	{
@@ -534,23 +534,23 @@
 	}
 	"TF_PYRO_KILL_AXE_LARGE_Desc"
 	{
-		"sv"	"Döda 6 personer med yxan i ett och samma liv."
+		"sv"	"DÃ¶da 6 personer med yxan i ett och samma liv."
 	}
 	"TF_PYRO_KILL_FROM_BEHIND_Title"
 	{
-		"sv"	"Hett om öronen"
+		"sv"	"Hett om Ã¶ronen"
 	}
 	"TF_PYRO_KILL_FROM_BEHIND_Desc"
 	{
-		"sv"	"Döda 50 fiender med eldkastaren bakifrån."
+		"sv"	"DÃ¶da 50 fiender med eldkastaren bakifrÃ¥n."
 	}
 	"TF_PYRO_BURN_SPIES_AS_YOU_Title"
 	{
-		"sv"	"Eld och lågor"
+		"sv"	"Eld och lÃ¥gor"
 	}
 	"TF_PYRO_BURN_SPIES_AS_YOU_Desc"
 	{
-		"sv"	"Sätt eld på 10 dolda spioner."
+		"sv"	"SÃ¤tt eld pÃ¥ 10 dolda spioner."
 	}
 	"TF_PYRO_BURN_SNIPERS_ZOOMED_Title"
 	{
@@ -558,15 +558,15 @@
 	}
 	"TF_PYRO_BURN_SNIPERS_ZOOMED_Desc"
 	{
-		"sv"	"Sätt eld på 10 krypskyttar när de är inzoomade."
+		"sv"	"SÃ¤tt eld pÃ¥ 10 krypskyttar nÃ¤r de Ã¤r inzoomade."
 	}
 	"TF_PYRO_BURN_MEDICS_CHARGED_Title"
 	{
-		"sv"	"Brännskador"
+		"sv"	"BrÃ¤nnskador"
 	}
 	"TF_PYRO_BURN_MEDICS_CHARGED_Desc"
 	{
-		"sv"	"Sätt eld på 3 sjukvårdare som just ska utföra en överladdning."
+		"sv"	"SÃ¤tt eld pÃ¥ 3 sjukvÃ¥rdare som just ska utfÃ¶ra en Ã¶verladdning."
 	}
 	"TF_PYRO_REFLECT_PROJECTILES_Title"
 	{
@@ -574,15 +574,15 @@
 	}
 	"TF_PYRO_REFLECT_PROJECTILES_Desc"
 	{
-		"sv"	"Kasta tillbaka 100 projektiler med din komprimerade luftstöt."
+		"sv"	"Kasta tillbaka 100 projektiler med din komprimerade luftstÃ¶t."
 	}
 	"TF_PYRO_KILL_HEAVIES_Title"
 	{
-		"sv"	"Steka fläsk"
+		"sv"	"Steka flÃ¤sk"
 	}
 	"TF_PYRO_KILL_HEAVIES_Desc"
 	{
-		"sv"	"Döda 50 tunga artillerister med eldkastaren."
+		"sv"	"DÃ¶da 50 tunga artillerister med eldkastaren."
 	}
 	"TF_PYRO_KILL_UNDERWATER_Title"
 	{
@@ -590,7 +590,7 @@
 	}
 	"TF_PYRO_KILL_UNDERWATER_Desc"
 	{
-		"sv"	"Döda 10 fiender medan ni båda är under vatten."
+		"sv"	"DÃ¶da 10 fiender medan ni bÃ¥da Ã¤r under vatten."
 	}
 	"TF_PYRO_KILL_UBERCHARGE_Title"
 	{
@@ -598,15 +598,15 @@
 	}
 	"TF_PYRO_KILL_UBERCHARGE_Desc"
 	{
-		"sv"	"Döda 3 fiender i en och samma överladdning."
+		"sv"	"DÃ¶da 3 fiender i en och samma Ã¶verladdning."
 	}
 	"TF_PYRO_DESTROY_BUILDINGS_Title"
 	{
-		"sv"	"Mordbrännare"
+		"sv"	"MordbrÃ¤nnare"
 	}
 	"TF_PYRO_DESTROY_BUILDINGS_Desc"
 	{
-		"sv"	"Förstör 50 teknikerbyggnader."
+		"sv"	"FÃ¶rstÃ¶r 50 teknikerbyggnader."
 	}
 	"TF_PYRO_DEFEND_POINTS_Title"
 	{
@@ -614,7 +614,7 @@
 	}
 	"TF_PYRO_DEFEND_POINTS_Desc"
 	{
-		"sv"	"Sätt eld på 50 fiender som erövrar en av dina kontrollpunkter."
+		"sv"	"SÃ¤tt eld pÃ¥ 50 fiender som erÃ¶vrar en av dina kontrollpunkter."
 	}
 	"TF_PYRO_KILL_GRIND_Title"
 	{
@@ -622,23 +622,23 @@
 	}
 	"TF_PYRO_KILL_GRIND_Desc"
 	{
-		"sv"	"Döda 500 fiender."
+		"sv"	"DÃ¶da 500 fiender."
 	}
 	"TF_PYRO_DAMAGE_GRIND_Title"
 	{
-		"sv"	"Eldsjäl"
+		"sv"	"EldsjÃ¤l"
 	}
 	"TF_PYRO_DAMAGE_GRIND_Desc"
 	{
-		"sv"	"Orsaka 1 miljon poäng total eldskada."
+		"sv"	"Orsaka 1 miljon poÃ¤ng total eldskada."
 	}
 	"TF_PYRO_BURN_MEDICPAIR_Title"
 	{
-		"sv"	"Den rätta gnistan"
+		"sv"	"Den rÃ¤tta gnistan"
 	}
 	"TF_PYRO_BURN_MEDICPAIR_Desc"
 	{
-		"sv"	"Sätt eld på en fiende och den sjukvårdare som helar honom."
+		"sv"	"SÃ¤tt eld pÃ¥ en fiende och den sjukvÃ¥rdare som helar honom."
 	}
 	"TF_PYRO_KILL_TAUNT_Title"
 	{
@@ -646,15 +646,15 @@
 	}
 	"TF_PYRO_KILL_TAUNT_Desc"
 	{
-		"sv"	"Döda en fiende genom att håna honom."
+		"sv"	"DÃ¶da en fiende genom att hÃ¥na honom."
 	}
 	"TF_PYRO_KILL_TEAMWORK_Title"
 	{
-		"sv"	"Andra gradens brännskada"
+		"sv"	"Andra gradens brÃ¤nnskada"
 	}
 	"TF_PYRO_KILL_TEAMWORK_Desc"
 	{
-		"sv"	"Döda en brinnande fiende som tänts på av en annan pyro."
+		"sv"	"DÃ¶da en brinnande fiende som tÃ¤nts pÃ¥ av en annan pyro."
 	}
 	"TF_PYRO_BURN_SPY_TAUNT_Title"
 	{
@@ -662,7 +662,7 @@
 	}
 	"TF_PYRO_BURN_SPY_TAUNT_Desc"
 	{
-		"sv"	"Sätt eld på en fiendespion som fimpar en cigarett."
+		"sv"	"SÃ¤tt eld pÃ¥ en fiendespion som fimpar en cigarett."
 	}
 	"TF_PYRO_DOMINATE_LEAVESVR_Title"
 	{
@@ -670,7 +670,7 @@
 	}
 	"TF_PYRO_DOMINATE_LEAVESVR_Desc"
 	{
-		"sv"	"Få en dominerad spelare att lämna servern."
+		"sv"	"FÃ¥ en dominerad spelare att lÃ¤mna servern."
 	}
 	"TF_PYRO_REFLECT_CROCKET_KILL_Title"
 	{
@@ -678,7 +678,7 @@
 	}
 	"TF_PYRO_REFLECT_CROCKET_KILL_Desc"
 	{
-		"sv"	"Döda en soldat med en återkastad kritisk raket."
+		"sv"	"DÃ¶da en soldat med en Ã¥terkastad kritisk raket."
 	}
 	"TF_PYRO_KILL_TAUNTERS_Title"
 	{
@@ -686,23 +686,23 @@
 	}
 	"TF_PYRO_KILL_TAUNTERS_Desc"
 	{
-		"sv"	"Döda 3 fiender medan de hånar dig."
+		"sv"	"DÃ¶da 3 fiender medan de hÃ¥nar dig."
 	}
 	"TF_PYRO_DOUBLE_KO_Title"
 	{
-		"sv"	"Dött lopp"
+		"sv"	"DÃ¶tt lopp"
 	}
 	"TF_PYRO_DOUBLE_KO_Desc"
 	{
-		"sv"	"Döda en fiende i samma sekund som han dödar dig."
+		"sv"	"DÃ¶da en fiende i samma sekund som han dÃ¶dar dig."
 	}
 	"TF_PYRO_BURN_RJ_SOLDIER_Title"
 	{
-		"sv"	"Åkarbrasa"
+		"sv"	"Ã…karbrasa"
 	}
 	"TF_PYRO_BURN_RJ_SOLDIER_Desc"
 	{
-		"sv"	"Sätt eld på en rakethoppande soldat medan han är i luften."
+		"sv"	"SÃ¤tt eld pÃ¥ en rakethoppande soldat medan han Ã¤r i luften."
 	}
 	"TF_PYRO_FREEZECAM_TAUNTS_Title"
 	{
@@ -710,23 +710,23 @@
 	}
 	"TF_PYRO_FREEZECAM_TAUNTS_Desc"
 	{
-		"sv"	"Ge fiender en fryst bild av varje håning du gör."
+		"sv"	"Ge fiender en fryst bild av varje hÃ¥ning du gÃ¶r."
 	}
 	"TF_PYRO_KILL_GRIND_LARGE_Title"
 	{
-		"sv"	"Eldsmästare"
+		"sv"	"EldsmÃ¤stare"
 	}
 	"TF_PYRO_KILL_GRIND_LARGE_Desc"
 	{
-		"sv"	"Döda 1000 fiender."
+		"sv"	"DÃ¶da 1000 fiender."
 	}
 	"TF_PYRO_IGNITE_FLAREGUN_Title"
 	{
-		"sv"	"Uppmärksamhetssökande"
+		"sv"	"UppmÃ¤rksamhetssÃ¶kande"
 	}
 	"TF_PYRO_IGNITE_FLAREGUN_Desc"
 	{
-		"sv"	"Tänd eld på 100 fiender med lysraketgeväret."
+		"sv"	"TÃ¤nd eld pÃ¥ 100 fiender med lysraketgevÃ¤ret."
 	}
 	"TF_PYRO_ACHIEVE_PROGRESS1_Title"
 	{
@@ -734,7 +734,7 @@
 	}
 	"TF_PYRO_ACHIEVE_PROGRESS1_Desc"
 	{
-		"sv"	"Tjäna in 10 av framstegen i pyropaketet."
+		"sv"	"TjÃ¤na in 10 av framstegen i pyropaketet."
 	}
 	"TF_PYRO_ACHIEVE_PROGRESS2_Title"
 	{
@@ -742,7 +742,7 @@
 	}
 	"TF_PYRO_ACHIEVE_PROGRESS2_Desc"
 	{
-		"sv"	"Tjäna in 16 av framstegen i pyropaketet."
+		"sv"	"TjÃ¤na in 16 av framstegen i pyropaketet."
 	}
 	"TF_PYRO_ACHIEVE_PROGRESS3_Title"
 	{
@@ -750,15 +750,15 @@
 	}
 	"TF_PYRO_ACHIEVE_PROGRESS3_Desc"
 	{
-		"sv"	"Tjäna in 22 av framstegen i pyropaketet."
+		"sv"	"TjÃ¤na in 22 av framstegen i pyropaketet."
 	}
 	"TF_HEAVY_DAMAGE_TAKEN_Title"
 	{
-		"sv"	"Järnridån"
+		"sv"	"JÃ¤rnridÃ¥n"
 	}
 	"TF_HEAVY_DAMAGE_TAKEN_Desc"
 	{
-		"sv"	"Ta 1000 poäng skada i ett och samma liv."
+		"sv"	"Ta 1000 poÃ¤ng skada i ett och samma liv."
 	}
 	"TF_HEAVY_DEFEND_MEDIC_Title"
 	{
@@ -766,7 +766,7 @@
 	}
 	"TF_HEAVY_DEFEND_MEDIC_Desc"
 	{
-		"sv"	"Döda 50 fiender inom 3 sekunder från det att de attackerar din sjukvårdare."
+		"sv"	"DÃ¶da 50 fiender inom 3 sekunder frÃ¥n det att de attackerar din sjukvÃ¥rdare."
 	}
 	"TF_HEAVY_ASSIST_MEDIC_LARGE_Title"
 	{
@@ -774,15 +774,15 @@
 	}
 	"TF_HEAVY_ASSIST_MEDIC_LARGE_Desc"
 	{
-		"sv"	"Döda 20 fiender med assistans från en sjukvårdare, och ingen av er dör."
+		"sv"	"DÃ¶da 20 fiender med assistans frÃ¥n en sjukvÃ¥rdare, och ingen av er dÃ¶r."
 	}
 	"TF_HEAVY_EARN_MEDIC_DOMINATION_Title"
 	{
-		"sv"	"Röd oktoberfest"
+		"sv"	"RÃ¶d oktoberfest"
 	}
 	"TF_HEAVY_EARN_MEDIC_DOMINATION_Desc"
 	{
-		"sv"	"Tjäna in en dominering för en sjukvårdare som helar dig."
+		"sv"	"TjÃ¤na in en dominering fÃ¶r en sjukvÃ¥rdare som helar dig."
 	}
 	"TF_HEAVY_KILL_TAUNT_Title"
 	{
@@ -790,7 +790,7 @@
 	}
 	"TF_HEAVY_KILL_TAUNT_Desc"
 	{
-		"sv"	"Döda en fiende genom att håna honom."
+		"sv"	"DÃ¶da en fiende genom att hÃ¥na honom."
 	}
 	"TF_HEAVY_KILL_FLAG_CARRIERS_Title"
 	{
@@ -798,7 +798,7 @@
 	}
 	"TF_HEAVY_KILL_FLAG_CARRIERS_Desc"
 	{
-		"sv"	"Döda 10 fiender som bär på din information."
+		"sv"	"DÃ¶da 10 fiender som bÃ¤r pÃ¥ din information."
 	}
 	"TF_HEAVY_KILL_MEDIC_PAIR_Title"
 	{
@@ -806,7 +806,7 @@
 	}
 	"TF_HEAVY_KILL_MEDIC_PAIR_Desc"
 	{
-		"sv"	"Arbeta med en egen sjukvårdare och döda ett fiendetillhörande par av Tung artillerist och sjukvårdare."
+		"sv"	"Arbeta med en egen sjukvÃ¥rdare och dÃ¶da ett fiendetillhÃ¶rande par av Tung artillerist och sjukvÃ¥rdare."
 	}
 	"TF_HEAVY_BLOCK_INVULN_HEAVY_Title"
 	{
@@ -814,7 +814,7 @@
 	}
 	"TF_HEAVY_BLOCK_INVULN_HEAVY_Desc"
 	{
-		"sv"	"När du är osårbar och i försvarsläge blockerar du en osårbar Tung artillerist-fiendes rörelser."
+		"sv"	"NÃ¤r du Ã¤r osÃ¥rbar och i fÃ¶rsvarslÃ¤ge blockerar du en osÃ¥rbar Tung artillerist-fiendes rÃ¶relser."
 	}
 	"TF_HEAVY_BLOCK_CART_Title"
 	{
@@ -822,15 +822,15 @@
 	}
 	"TF_HEAVY_BLOCK_CART_Desc"
 	{
-		"sv"	"Blockera fienden från att flytta bombvagnen 25 gånger."
+		"sv"	"Blockera fienden frÃ¥n att flytta bombvagnen 25 gÃ¥nger."
 	}
 	"TF_HEAVY_RECEIVE_UBER_GRIND_Title"
 	{
-		"sv"	"Suveräna Sovjet"
+		"sv"	"SuverÃ¤na Sovjet"
 	}
 	"TF_HEAVY_RECEIVE_UBER_GRIND_Desc"
 	{
-		"sv"	"Bli överladdad 50 gånger."
+		"sv"	"Bli Ã¶verladdad 50 gÃ¥nger."
 	}
 	"TF_HEAVY_STAND_NEAR_DISPENSER_Title"
 	{
@@ -838,7 +838,7 @@
 	}
 	"TF_HEAVY_STAND_NEAR_DISPENSER_Desc"
 	{
-		"sv"	"Döda 20 fiender medan du laddas upp med en utmatare."
+		"sv"	"DÃ¶da 20 fiender medan du laddas upp med en utmatare."
 	}
 	"TF_HEAVY_ASSIST_HEAVY_GRIND_Title"
 	{
@@ -846,15 +846,15 @@
 	}
 	"TF_HEAVY_ASSIST_HEAVY_GRIND_Desc"
 	{
-		"sv"	"Döda 25 fiender genom att antingen assistera eller bli assisterad av en annan tung artillerist."
+		"sv"	"DÃ¶da 25 fiender genom att antingen assistera eller bli assisterad av en annan tung artillerist."
 	}
 	"TF_HEAVY_CLEAR_STICKYBOMBS_Title"
 	{
-		"sv"	"Ta över produktionsmedlen"
+		"sv"	"Ta Ã¶ver produktionsmedlen"
 	}
 	"TF_HEAVY_CLEAR_STICKYBOMBS_Desc"
 	{
-		"sv"	"Ta bort 20 klisterbomber genom att döda den Demoman som producerade dem."
+		"sv"	"Ta bort 20 klisterbomber genom att dÃ¶da den Demoman som producerade dem."
 	}
 	"TF_HEAVY_KILL_UNDERWATER_Title"
 	{
@@ -862,7 +862,7 @@
 	}
 	"TF_HEAVY_KILL_UNDERWATER_Desc"
 	{
-		"sv"	"Döda 100 fiender medan både du och fienden är under vatten."
+		"sv"	"DÃ¶da 100 fiender medan bÃ¥de du och fienden Ã¤r under vatten."
 	}
 	"TF_HEAVY_TAKE_MULTI_DAMAGE_Title"
 	{
@@ -870,15 +870,15 @@
 	}
 	"TF_HEAVY_TAKE_MULTI_DAMAGE_Desc"
 	{
-		"sv"	"I ett och samma liv: bli skjuten, bränd, nedslagen och få explosionsskador."
+		"sv"	"I ett och samma liv: bli skjuten, brÃ¤nd, nedslagen och fÃ¥ explosionsskador."
 	}
 	"TF_HEAVY_KILL_DOMINATED_Title"
 	{
-		"sv"	"Tårta på tårta"
+		"sv"	"TÃ¥rta pÃ¥ tÃ¥rta"
 	}
 	"TF_HEAVY_KILL_DOMINATED_Desc"
 	{
-		"sv"	"Döda 20 spelare som du dominerar."
+		"sv"	"DÃ¶da 20 spelare som du dominerar."
 	}
 	"TF_HEAVY_SURVIVE_CROCKET_Title"
 	{
@@ -886,7 +886,7 @@
 	}
 	"TF_HEAVY_SURVIVE_CROCKET_Desc"
 	{
-		"sv"	"Överlev en direktträff från en kritisk raket."
+		"sv"	"Ã–verlev en direkttrÃ¤ff frÃ¥n en kritisk raket."
 	}
 	"TF_HEAVY_ASSIST_GRIND_Title"
 	{
@@ -894,7 +894,7 @@
 	}
 	"TF_HEAVY_ASSIST_GRIND_Desc"
 	{
-		"sv"	"Få 1000 assister."
+		"sv"	"FÃ¥ 1000 assister."
 	}
 	"TF_HEAVY_UNCOVER_SPIES_Title"
 	{
@@ -902,7 +902,7 @@
 	}
 	"TF_HEAVY_UNCOVER_SPIES_Desc"
 	{
-		"sv"	"Döda eller hjälp till att döda 10 dolda spioner."
+		"sv"	"DÃ¶da eller hjÃ¤lp till att dÃ¶da 10 dolda spioner."
 	}
 	"TF_HEAVY_KILL_WHILE_SPUNUP_Title"
 	{
@@ -910,7 +910,7 @@
 	}
 	"TF_HEAVY_KILL_WHILE_SPUNUP_Desc"
 	{
-		"sv"	"Döda 5 fiender utan att snurra vapnet."
+		"sv"	"DÃ¶da 5 fiender utan att snurra vapnet."
 	}
 	"TF_HEAVY_FIRE_LOTS_Title"
 	{
@@ -918,7 +918,7 @@
 	}
 	"TF_HEAVY_FIRE_LOTS_Desc"
 	{
-		"sv"	"Avlossa ammunition till minikulsprutan värd 200 000 dollar i ett och samma liv."
+		"sv"	"Avlossa ammunition till minikulsprutan vÃ¤rd 200Â 000 dollar i ett och samma liv."
 	}
 	"TF_HEAVY_KILL_CRIT_PUNCH_Title"
 	{
@@ -926,15 +926,15 @@
 	}
 	"TF_HEAVY_KILL_CRIT_PUNCH_Desc"
 	{
-		"sv"	"Döda en fiende med ett kritiskt slag."
+		"sv"	"DÃ¶da en fiende med ett kritiskt slag."
 	}
 	"TF_HEAVY_HEAL_MEDIKITS_Title"
 	{
-		"sv"	"Omdistribution av hälsa"
+		"sv"	"Omdistribution av hÃ¤lsa"
 	}
 	"TF_HEAVY_HEAL_MEDIKITS_Desc"
 	{
-		"sv"	"Hela 1000 skador med förbandslådor i ett enda liv."
+		"sv"	"Hela 1000 skador med fÃ¶rbandslÃ¥dor i ett enda liv."
 	}
 	"TF_HEAVY_KILL_SHOTGUN_Title"
 	{
@@ -942,15 +942,15 @@
 	}
 	"TF_HEAVY_KILL_SHOTGUN_Desc"
 	{
-		"sv"	"Döda en fiende med hagelgeväret när du har slut på ammunition till minikulsprutan."
+		"sv"	"DÃ¶da en fiende med hagelgevÃ¤ret nÃ¤r du har slut pÃ¥ ammunition till minikulsprutan."
 	}
 	"TF_HEAVY_FIRST_TO_CAP_Title"
 	{
-		"sv"	"På östfronten massa nytt"
+		"sv"	"PÃ¥ Ã¶stfronten massa nytt"
 	}
 	"TF_HEAVY_FIRST_TO_CAP_Desc"
 	{
-		"sv"	"Bli först i ditt lag med att börja erövra en kontrollpunkt i en omgång."
+		"sv"	"Bli fÃ¶rst i ditt lag med att bÃ¶rja erÃ¶vra en kontrollpunkt i en omgÃ¥ng."
 	}
 	"TF_HEAVY_PAYLOAD_CAP_GRIND_Title"
 	{
@@ -958,15 +958,15 @@
 	}
 	"TF_HEAVY_PAYLOAD_CAP_GRIND_Desc"
 	{
-		"sv"	"Få 50 poäng på bombkartor."
+		"sv"	"FÃ¥ 50 poÃ¤ng pÃ¥ bombkartor."
 	}
 	"TF_HEAVY_KILL_MIDAIR_MINIGUN_Title"
 	{
-		"sv"	"Marximalt luftgevär"
+		"sv"	"Marximalt luftgevÃ¤r"
 	}
 	"TF_HEAVY_KILL_MIDAIR_MINIGUN_Desc"
 	{
-		"sv"	"Döda 10 fiender i luften med minikulsprutan."
+		"sv"	"DÃ¶da 10 fiender i luften med minikulsprutan."
 	}
 	"TF_HEAVY_DEFEND_CONTROL_POINT_Title"
 	{
@@ -974,7 +974,7 @@
 	}
 	"TF_HEAVY_DEFEND_CONTROL_POINT_Desc"
 	{
-		"sv"	"Döda 25 fiender när du står på en kontrollpunkt du äger."
+		"sv"	"DÃ¶da 25 fiender nÃ¤r du stÃ¥r pÃ¥ en kontrollpunkt du Ã¤ger."
 	}
 	"TF_HEAVY_KILL_CAPPING_ENEMIES_Title"
 	{
@@ -982,7 +982,7 @@
 	}
 	"TF_HEAVY_KILL_CAPPING_ENEMIES_Desc"
 	{
-		"sv"	"Döda 15 fiender som erövrar en kontrollpunkt du äger."
+		"sv"	"DÃ¶da 15 fiender som erÃ¶vrar en kontrollpunkt du Ã¤ger."
 	}
 	"TF_HEAVY_REVENGE_ASSIST_Title"
 	{
@@ -990,7 +990,7 @@
 	}
 	"TF_HEAVY_REVENGE_ASSIST_Desc"
 	{
-		"sv"	"Hjälp 5 lagmedlemmar att ta hämnd på sina nemesis."
+		"sv"	"HjÃ¤lp 5 lagmedlemmar att ta hÃ¤mnd pÃ¥ sina nemesis."
 	}
 	"TF_HEAVY_TELEPORT_FAST_KILL_Title"
 	{
@@ -998,7 +998,7 @@
 	}
 	"TF_HEAVY_TELEPORT_FAST_KILL_Desc"
 	{
-		"sv"	"Döda en fiende inom 5 sekunderna från att du kliver ut ur en teleportör."
+		"sv"	"DÃ¶da en fiende inom 5 sekunderna frÃ¥n att du kliver ut ur en teleportÃ¶r."
 	}
 	"TF_HEAVY_FREEZECAM_TAUNT_Title"
 	{
@@ -1006,7 +1006,7 @@
 	}
 	"TF_HEAVY_FREEZECAM_TAUNT_Desc"
 	{
-		"sv"	"Skicka en fryst bild till fienden där du hånar medan du är osårbar."
+		"sv"	"Skicka en fryst bild till fienden dÃ¤r du hÃ¥nar medan du Ã¤r osÃ¥rbar."
 	}
 	"TF_HEAVY_EAT_SANDWICHES_Title"
 	{
@@ -1014,23 +1014,23 @@
 	}
 	"TF_HEAVY_EAT_SANDWICHES_Desc"
 	{
-		"sv"	"Ät 100 sandvichar."
+		"sv"	"Ã„t 100 sandvichar."
 	}
 	"TF_HEAVY_KILL_SCOUTS_Title"
 	{
-		"sv"	"Inte äta Sandvich"
+		"sv"	"Inte Ã¤ta Sandvich"
 	}
 	"TF_HEAVY_KILL_SCOUTS_Desc"
 	{
-		"sv"	"Döda 50 spanare med Natascha."
+		"sv"	"DÃ¶da 50 spanare med Natascha."
 	}
 	"TF_HEAVY_KILL_HEAVIES_GLOVES_Title"
 	{
-		"sv"	"Borsjtj-bälte"
+		"sv"	"Borsjtj-bÃ¤lte"
 	}
 	"TF_HEAVY_KILL_HEAVIES_GLOVES_Desc"
 	{
-		"sv"	"Döda 10 tunga artillerister med KGB."
+		"sv"	"DÃ¶da 10 tunga artillerister med KGB."
 	}
 	"TF_HEAVY_ACHIEVE_PROGRESS1_Title"
 	{
@@ -1038,7 +1038,7 @@
 	}
 	"TF_HEAVY_ACHIEVE_PROGRESS1_Desc"
 	{
-		"sv"	"Tjäna in 10 av framstegen i Tung artillerist-paketet."
+		"sv"	"TjÃ¤na in 10 av framstegen i Tung artillerist-paketet."
 	}
 	"TF_HEAVY_ACHIEVE_PROGRESS2_Title"
 	{
@@ -1046,7 +1046,7 @@
 	}
 	"TF_HEAVY_ACHIEVE_PROGRESS2_Desc"
 	{
-		"sv"	"Tjäna in 16 av framstegen i Tung artillerist-paketet."
+		"sv"	"TjÃ¤na in 16 av framstegen i Tung artillerist-paketet."
 	}
 	"TF_HEAVY_ACHIEVE_PROGRESS3_Title"
 	{
@@ -1054,7 +1054,7 @@
 	}
 	"TF_HEAVY_ACHIEVE_PROGRESS3_Desc"
 	{
-		"sv"	"Tjäna in 22 av framstegen i pTung artillerist-paketet."
+		"sv"	"TjÃ¤na in 22 av framstegen i pTung artillerist-paketet."
 	}
 	"TF_SCOUT_FIRST_BLOOD_Title"
 	{
@@ -1062,7 +1062,7 @@
 	}
 	"TF_SCOUT_FIRST_BLOOD_Desc"
 	{
-		"sv"	"Bli först med att döda någon i en Arenamatch."
+		"sv"	"Bli fÃ¶rst med att dÃ¶da nÃ¥gon i en Arenamatch."
 	}
 	"TF_SCOUT_FIRST_BLOOD_KILL_Title"
 	{
@@ -1070,23 +1070,23 @@
 	}
 	"TF_SCOUT_FIRST_BLOOD_KILL_Desc"
 	{
-		"sv"	"Döda 5 fiender med den kritiska First Blood-förstärkningen."
+		"sv"	"DÃ¶da 5 fiender med den kritiska First Blood-fÃ¶rstÃ¤rkningen."
 	}
 	"TF_SCOUT_WELL_EARLY_KILL_Title"
 	{
-		"sv"	"Slå till"
+		"sv"	"SlÃ¥ till"
 	}
 	"TF_SCOUT_WELL_EARLY_KILL_Desc"
 	{
-		"sv"	"Döda en spelare i Well innan omgången börjar."
+		"sv"	"DÃ¶da en spelare i Well innan omgÃ¥ngen bÃ¶rjar."
 	}
 	"TF_SCOUT_LIFETIME_KILLS_Title"
 	{
-		"sv"	"Ett år att minnas"
+		"sv"	"Ett Ã¥r att minnas"
 	}
 	"TF_SCOUT_LIFETIME_KILLS_Desc"
 	{
-		"sv"	"Döda 2004 fiender totalt."
+		"sv"	"DÃ¶da 2004 fiender totalt."
 	}
 	"TF_SCOUT_IRON_MAN_KILLS_Title"
 	{
@@ -1094,23 +1094,23 @@
 	}
 	"TF_SCOUT_IRON_MAN_KILLS_Desc"
 	{
-		"sv"	"I ett och samma liv ska du döda en fiende medan du är på marken, i luften och i vattnet."
+		"sv"	"I ett och samma liv ska du dÃ¶da en fiende medan du Ã¤r pÃ¥ marken, i luften och i vattnet."
 	}
 	"TF_SCOUT_DESTROY_TELEPORTERS_Title"
 	{
-		"sv"	"Täpp till"
+		"sv"	"TÃ¤pp till"
 	}
 	"TF_SCOUT_DESTROY_TELEPORTERS_Desc"
 	{
-		"sv"	"Förstör 3 teleportörutgångar."
+		"sv"	"FÃ¶rstÃ¶r 3 teleportÃ¶rutgÃ¥ngar."
 	}
 	"TF_SCOUT_DESTROY_BUILDINGS_BEING_BUILT_Title"
 	{
-		"sv"	"Bygg upp stämningen"
+		"sv"	"Bygg upp stÃ¤mningen"
 	}
 	"TF_SCOUT_DESTROY_BUILDINGS_BEING_BUILT_Desc"
 	{
-		"sv"	"Förstör 3 fiendebyggnader medan de fortfarande håller på att byggas."
+		"sv"	"FÃ¶rstÃ¶r 3 fiendebyggnader medan de fortfarande hÃ¥ller pÃ¥ att byggas."
 	}
 	"TF_SCOUT_DESTROY_SENTRY_WITH_PISTOL_Title"
 	{
@@ -1118,15 +1118,15 @@
 	}
 	"TF_SCOUT_DESTROY_SENTRY_WITH_PISTOL_Desc"
 	{
-		"sv"	"Förstör ett aktivt vaktgevär med din pistol."
+		"sv"	"FÃ¶rstÃ¶r ett aktivt vaktgevÃ¤r med din pistol."
 	}
 	"TF_SCOUT_DOUBLE_JUMPS_Title"
 	{
-		"sv"	"Uppåt värre"
+		"sv"	"UppÃ¥t vÃ¤rre"
 	}
 	"TF_SCOUT_DOUBLE_JUMPS_Desc"
 	{
-		"sv"	"Utför 1000 dubbelhopp."
+		"sv"	"UtfÃ¶r 1000 dubbelhopp."
 	}
 	"TF_SCOUT_ASSIST_MEDIC_Title"
 	{
@@ -1134,7 +1134,7 @@
 	}
 	"TF_SCOUT_ASSIST_MEDIC_Desc"
 	{
-		"sv"	"Döda 3 fiender medan du är utsatt för en sjukvårdares överladdning."
+		"sv"	"DÃ¶da 3 fiender medan du Ã¤r utsatt fÃ¶r en sjukvÃ¥rdares Ã¶verladdning."
 	}
 	"TF_SCOUT_STEAL_SANDWICH_Title"
 	{
@@ -1142,7 +1142,7 @@
 	}
 	"TF_SCOUT_STEAL_SANDWICH_Desc"
 	{
-		"sv"	"Döda en Tung artillerist-fiende och ta hans Sandvich."
+		"sv"	"DÃ¶da en Tung artillerist-fiende och ta hans Sandvich."
 	}
 	"TF_SCOUT_ACHIEVE_PROGRESS1_Title"
 	{
@@ -1150,7 +1150,7 @@
 	}
 	"TF_SCOUT_ACHIEVE_PROGRESS1_Desc"
 	{
-		"sv"	"Tjäna in 10 av framstegen i Spanar-paketet."
+		"sv"	"TjÃ¤na in 10 av framstegen i Spanar-paketet."
 	}
 	"TF_SCOUT_ACHIEVE_PROGRESS2_Title"
 	{
@@ -1158,7 +1158,7 @@
 	}
 	"TF_SCOUT_ACHIEVE_PROGRESS2_Desc"
 	{
-		"sv"	"Tjäna in 16 av framstegen i Spanar-paketet."
+		"sv"	"TjÃ¤na in 16 av framstegen i Spanar-paketet."
 	}
 	"TF_SCOUT_ACHIEVE_PROGRESS3_Title"
 	{
@@ -1166,23 +1166,23 @@
 	}
 	"TF_SCOUT_ACHIEVE_PROGRESS3_Desc"
 	{
-		"sv"	"Tjäna in 22 av framstegen i Spanar-paketet."
+		"sv"	"TjÃ¤na in 22 av framstegen i Spanar-paketet."
 	}
 	"TF_SCOUT_KILL_CHARGED_MEDICS_Title"
 	{
-		"sv"	"Slå ett slag för doktorn"
+		"sv"	"SlÃ¥ ett slag fÃ¶r doktorn"
 	}
 	"TF_SCOUT_KILL_CHARGED_MEDICS_Desc"
 	{
-		"sv"	"Döda en sjukvårdare som just ska utföra en överladdning."
+		"sv"	"DÃ¶da en sjukvÃ¥rdare som just ska utfÃ¶ra en Ã¶verladdning."
 	}
 	"TF_SCOUT_SURVIVE_DAMAGE_Title"
 	{
-		"sv"	"Slagtåligt"
+		"sv"	"SlagtÃ¥ligt"
 	}
 	"TF_SCOUT_SURVIVE_DAMAGE_Desc"
 	{
-		"sv"	"Överlev 500 i skada i ett liv."
+		"sv"	"Ã–verlev 500 i skada i ett liv."
 	}
 	"TF_SCOUT_DOUBLEJUMP_KILL_Title"
 	{
@@ -1190,7 +1190,7 @@
 	}
 	"TF_SCOUT_DOUBLEJUMP_KILL_Desc"
 	{
-		"sv"	"Döda 20 spelare medan du dubbelhoppar."
+		"sv"	"DÃ¶da 20 spelare medan du dubbelhoppar."
 	}
 	"TF_SCOUT_FLAG_CAP_GRIND_Title"
 	{
@@ -1198,15 +1198,15 @@
 	}
 	"TF_SCOUT_FLAG_CAP_GRIND_Desc"
 	{
-		"sv"	"Erövra fiendens information 25 gånger."
+		"sv"	"ErÃ¶vra fiendens information 25 gÃ¥nger."
 	}
 	"TF_SCOUT_THREE_FLAGCAPS_Title"
 	{
-		"sv"	"Trippelstöld"
+		"sv"	"TrippelstÃ¶ld"
 	}
 	"TF_SCOUT_THREE_FLAGCAPS_Desc"
 	{
-		"sv"	"Erövra fiendens information 3 gånger i en och samma CTF-omgång."
+		"sv"	"ErÃ¶vra fiendens information 3 gÃ¥nger i en och samma CTF-omgÃ¥ng."
 	}
 	"TF_SCOUT_DODGE_DAMAGE_Title"
 	{
@@ -1214,7 +1214,7 @@
 	}
 	"TF_SCOUT_DODGE_DAMAGE_Desc"
 	{
-		"sv"	"Ducka undan 1000 i skada i ett och samma liv med hjälp av Bonk! Atomic Punch."
+		"sv"	"Ducka undan 1000 i skada i ett och samma liv med hjÃ¤lp av Bonk! Atomic Punch."
 	}
 	"TF_SCOUT_KNOCK_INTO_TRAIN_Title"
 	{
@@ -1222,7 +1222,7 @@
 	}
 	"TF_SCOUT_KNOCK_INTO_TRAIN_Desc"
 	{
-		"sv"	"Orsaka en miljörelaterad död eller ett självmord genom att använda Force-A-Natures rekyl."
+		"sv"	"Orsaka en miljÃ¶relaterad dÃ¶d eller ett sjÃ¤lvmord genom att anvÃ¤nda Hagel-Med-Knuff's rekyl."
 	}
 	"TF_SCOUT_KILL_STUNNED_Title"
 	{
@@ -1230,23 +1230,23 @@
 	}
 	"TF_SCOUT_KILL_STUNNED_Desc"
 	{
-		"sv"	"Döda 50 fiender medan de är bedövade."
+		"sv"	"DÃ¶da 50 fiender medan de Ã¤r bedÃ¶vade."
 	}
 	"TF_SCOUT_STUN_INTO_TRAIN_Title"
 	{
-		"sv"	"Foulområde"
+		"sv"	"FoulomrÃ¥de"
 	}
 	"TF_SCOUT_STUN_INTO_TRAIN_Desc"
 	{
-		"sv"	"Orsaka en miljörelaterad död genom att bedöva en fiende."
+		"sv"	"Orsaka en miljÃ¶relaterad dÃ¶d genom att bedÃ¶va en fiende."
 	}
 	"TF_SCOUT_STUN_UBER_ENEMIES_Title"
 	{
-		"sv"	"Ont, det gör ont"
+		"sv"	"Ont, det gÃ¶r ont"
 	}
 	"TF_SCOUT_STUN_UBER_ENEMIES_Desc"
 	{
-		"sv"	"Bedöva 2 sjukvårdare som just ska utföra en överladdning."
+		"sv"	"BedÃ¶va 2 sjukvÃ¥rdare som just ska utfÃ¶ra en Ã¶verladdning."
 	}
 	"TF_SCOUT_STUN_CAPPING_ENEMIES_Title"
 	{
@@ -1254,15 +1254,15 @@
 	}
 	"TF_SCOUT_STUN_CAPPING_ENEMIES_Desc"
 	{
-		"sv"	"Bedöva 50 fiender när de erövrar en punkt eller flyttar på vagnen."
+		"sv"	"BedÃ¶va 50 fiender nÃ¤r de erÃ¶vrar en punkt eller flyttar pÃ¥ vagnen."
 	}
 	"TF_SCOUT_MAX_STUNS_Title"
 	{
-		"sv"	"Långskott"
+		"sv"	"LÃ¥ngskott"
 	}
 	"TF_SCOUT_MAX_STUNS_Desc"
 	{
-		"sv"	"Bedöva en fiende i maximalt lång tid genom att träffa den med en distansboll."
+		"sv"	"BedÃ¶va en fiende i maximalt lÃ¥ng tid genom att trÃ¤ffa den med en distansboll."
 	}
 	"TF_SCOUT_STUN_SCOUT_WITH_THEIR_BALL_Title"
 	{
@@ -1270,47 +1270,47 @@
 	}
 	"TF_SCOUT_STUN_SCOUT_WITH_THEIR_BALL_Desc"
 	{
-		"sv"	"Bedöva en spanare med hans egen boll."
+		"sv"	"BedÃ¶va en spanare med hans egen boll."
 	}
 	"TF_SCOUT_KILL_IN_DODGE_COOLDOWN_Title"
 	{
-		"sv"	"Långsam löpare"
+		"sv"	"LÃ¥ngsam lÃ¶pare"
 	}
 	"TF_SCOUT_KILL_IN_DODGE_COOLDOWN_Desc"
 	{
-		"sv"	"Döda en spanare som är fångad i den nedsaktande effekten efter duckning."
+		"sv"	"DÃ¶da en spanare som Ã¤r fÃ¥ngad i den nedsaktande effekten efter duckning."
 	}
 	"TF_SCOUT_KILL_FROM_BEHIND_Title"
 	{
-		"sv"	"Somnat på sin post"
+		"sv"	"Somnat pÃ¥ sin post"
 	}
 	"TF_SCOUT_KILL_FROM_BEHIND_Desc"
 	{
-		"sv"	"Döda 50 fiender bakifrån med Force-A-Nature."
+		"sv"	"DÃ¶da 50 fiender bakifrÃ¥n med Hagel-Med-Knuff."
 	}
 	"TF_SCOUT_CAPTURE_LAST_POINT_Title"
 	{
-		"sv"	"Bränd"
+		"sv"	"BrÃ¤nd"
 	}
 	"TF_SCOUT_CAPTURE_LAST_POINT_Desc"
 	{
-		"sv"	"Erövra den sista punkten i en kontrollpunktskarta."
+		"sv"	"ErÃ¶vra den sista punkten i en kontrollpunktskarta."
 	}
 	"TF_SCOUT_CAPTURE_THREE_POINTS_Title"
 	{
-		"sv"	"Gå till 3:e bas"
+		"sv"	"GÃ¥ till 3:e bas"
 	}
 	"TF_SCOUT_CAPTURE_THREE_POINTS_Desc"
 	{
-		"sv"	"Erövra tre erövringspunkter på rad i ett liv."
+		"sv"	"ErÃ¶vra tre erÃ¶vringspunkter pÃ¥ rad i ett liv."
 	}
 	"TF_SCOUT_FAST_CAP_Title"
 	{
-		"sv"	"Stjäl en bas"
+		"sv"	"StjÃ¤l en bas"
 	}
 	"TF_SCOUT_FAST_CAP_Desc"
 	{
-		"sv"	"Börja erövra en erövringspunkt inom en sekund efter att den blir tillgänglig."
+		"sv"	"BÃ¶rja erÃ¶vra en erÃ¶vringspunkt inom en sekund efter att den blir tillgÃ¤nglig."
 	}
 	"TF_SCOUT_START_AND_FINISH_CAP_Title"
 	{
@@ -1318,7 +1318,7 @@
 	}
 	"TF_SCOUT_START_AND_FINISH_CAP_Desc"
 	{
-		"sv"	"Inled 10 punkterövringar som sedan lyckas."
+		"sv"	"Inled 10 punkterÃ¶vringar som sedan lyckas."
 	}
 	"TF_SCOUT_BLOCK_CAPS_Title"
 	{
@@ -1326,15 +1326,15 @@
 	}
 	"TF_SCOUT_BLOCK_CAPS_Desc"
 	{
-		"sv"	"Blockera 50 punkterövringar."
+		"sv"	"Blockera 50 punkterÃ¶vringar."
 	}
 	"TF_SCOUT_CARRIER_KILL_CARRIER_Title"
 	{
-		"sv"	"Förringad förrädare"
+		"sv"	"FÃ¶rringad fÃ¶rrÃ¤dare"
 	}
 	"TF_SCOUT_CARRIER_KILL_CARRIER_Desc"
 	{
-		"sv"	"Döda en motståndare som har din information medan du har deras."
+		"sv"	"DÃ¶da en motstÃ¥ndare som har din information medan du har deras."
 	}
 	"TF_SCOUT_CAP_FLAG_WITHOUT_ATTACKING_Title"
 	{
@@ -1342,7 +1342,7 @@
 	}
 	"TF_SCOUT_CAP_FLAG_WITHOUT_ATTACKING_Desc"
 	{
-		"sv"	"Stjäl och erövra sedan fiendens information utan att avlossa något skott."
+		"sv"	"StjÃ¤l och erÃ¶vra sedan fiendens information utan att avlossa nÃ¥got skott."
 	}
 	"TF_SCOUT_LONG_DISTANCE_RUNNER_Title"
 	{
@@ -1354,11 +1354,11 @@
 	}
 	"TF_SCOUT_TAUNT_KILL_Title"
 	{
-		"sv"	"Utanför staketet"
+		"sv"	"UtanfÃ¶r staketet"
 	}
 	"TF_SCOUT_TAUNT_KILL_Desc"
 	{
-		"sv"	"Slå en fiende 25 meter."
+		"sv"	"SlÃ¥ en fiende 25 meter."
 	}
 	"TF_SNIPER_JARATE_DOMINATED_Title"
 	{
@@ -1374,7 +1374,7 @@
 	}
 	"TF_SNIPER_FREEZECAM_HAT_Desc"
 	{
-		"sv"	"Ge en fiende en fryst bild av dig när du lyfter på hatten."
+		"sv"	"Ge en fiende en fryst bild av dig nÃ¤r du lyfter pÃ¥ hatten."
 	}
 	"TF_SNIPER_RIFLE_NO_MISSING_Title"
 	{
@@ -1382,7 +1382,7 @@
 	}
 	"TF_SNIPER_RIFLE_NO_MISSING_Desc"
 	{
-		"sv"	"Döda 3 fiender med krypskyttegeväret utan att missa ett enda skott."
+		"sv"	"DÃ¶da 3 fiender med krypskyttegevÃ¤ret utan att missa ett enda skott."
 	}
 	"TF_SNIPER_CAPTURE_FLAG_Title"
 	{
@@ -1390,15 +1390,15 @@
 	}
 	"TF_SNIPER_CAPTURE_FLAG_Desc"
 	{
-		"sv"	"Erövra flaggan i CTF."
+		"sv"	"ErÃ¶vra flaggan i CTF."
 	}
 	"TF_SNIPER_KILL_GRIND_Title"
 	{
-		"sv"	"Döda alla du möter"
+		"sv"	"DÃ¶da alla du mÃ¶ter"
 	}
 	"TF_SNIPER_KILL_GRIND_Desc"
 	{
-		"sv"	"Döda 1000 fiender."
+		"sv"	"DÃ¶da 1000 fiender."
 	}
 	"TF_SNIPER_KILL_WEAPONS_Title"
 	{
@@ -1406,23 +1406,23 @@
 	}
 	"TF_SNIPER_KILL_WEAPONS_Desc"
 	{
-		"sv"	"Döda en fiende med 3 olika vapen i en och samma omgång."
+		"sv"	"DÃ¶da en fiende med 3 olika vapen i en och samma omgÃ¥ng."
 	}
 	"TF_SNIPER_HEADSHOT_SNIPERS_Title"
 	{
-		"sv"	"Pricksäkert"
+		"sv"	"PricksÃ¤kert"
 	}
 	"TF_SNIPER_HEADSHOT_SNIPERS_Desc"
 	{
-		"sv"	"Döda 10 av fiendens krypskyttar med huvudskott."
+		"sv"	"DÃ¶da 10 av fiendens krypskyttar med huvudskott."
 	}
 	"TF_SNIPER_DESTROY_SENTRYGUNS_Title"
 	{
-		"sv"	"På jakt på vaktgevär"
+		"sv"	"PÃ¥ jakt pÃ¥ vaktgevÃ¤r"
 	}
 	"TF_SNIPER_DESTROY_SENTRYGUNS_Desc"
 	{
-		"sv"	"Förstör 3 teknikers vaktgevär."
+		"sv"	"FÃ¶rstÃ¶r 3 teknikers vaktgevÃ¤r."
 	}
 	"TF_SNIPER_KILL_INVIS_SPY_Title"
 	{
@@ -1430,7 +1430,7 @@
 	}
 	"TF_SNIPER_KILL_INVIS_SPY_Desc"
 	{
-		"sv"	"Döda en helt osynlig spion med en enda träff."
+		"sv"	"DÃ¶da en helt osynlig spion med en enda trÃ¤ff."
 	}
 	"TF_SNIPER_KILL_MIDAIR_SCOUT_Title"
 	{
@@ -1438,7 +1438,7 @@
 	}
 	"TF_SNIPER_KILL_MIDAIR_SCOUT_Desc"
 	{
-		"sv"	"Döda en spanare mitt i luften med krypskyttegeväret eller Huntsman."
+		"sv"	"DÃ¶da en spanare mitt i luften med krypskyttegevÃ¤ret eller Huntsman."
 	}
 	"TF_SNIPER_FREEZECAM_WAVE_Title"
 	{
@@ -1446,7 +1446,7 @@
 	}
 	"TF_SNIPER_FREEZECAM_WAVE_Desc"
 	{
-		"sv"	"Ge en fiende en fryst bild av dig när du vinkar till honom."
+		"sv"	"Ge en fiende en fryst bild av dig nÃ¤r du vinkar till honom."
 	}
 	"TF_SNIPER_DOMINATE_SNIPER_Title"
 	{
@@ -1462,7 +1462,7 @@
 	}
 	"TF_SNIPER_KILL_SPIES_MELEE_Desc"
 	{
-		"sv"	"Döda 10 spioner med din Kukri-kniv."
+		"sv"	"DÃ¶da 10 spioner med din Kukri-kniv."
 	}
 	"TF_SNIPER_HEADSHOT_DEMOMAN_Title"
 	{
@@ -1474,11 +1474,11 @@
 	}
 	"TF_SNIPER_KILL_RJER_Title"
 	{
-		"sv"	"Hopplöst fall"
+		"sv"	"HopplÃ¶st fall"
 	}
 	"TF_SNIPER_KILL_RJER_Desc"
 	{
-		"sv"	"Döda en raket- eller granathoppande fiende i luften med krypskyttegeväret eller Huntsman."
+		"sv"	"DÃ¶da en raket- eller granathoppande fiende i luften med krypskyttegevÃ¤ret eller Huntsman."
 	}
 	"TF_SNIPER_KILL_OBJECTIVES_Title"
 	{
@@ -1486,31 +1486,31 @@
 	}
 	"TF_SNIPER_KILL_OBJECTIVES_Desc"
 	{
-		"sv"	"Döda 3 fiender i ett och samma liv medan de håller på att uppnå ett mål."
+		"sv"	"DÃ¶da 3 fiender i ett och samma liv medan de hÃ¥ller pÃ¥ att uppnÃ¥ ett mÃ¥l."
 	}
 	"TF_SNIPER_KILL_UNSCOPED_Title"
 	{
-		"sv"	"Lita på känslan"
+		"sv"	"Lita pÃ¥ kÃ¤nslan"
 	}
 	"TF_SNIPER_KILL_UNSCOPED_Desc"
 	{
-		"sv"	"Döda 5 fiender med krypskyttegeväret utan siktet."
+		"sv"	"DÃ¶da 5 fiender med krypskyttegevÃ¤ret utan siktet."
 	}
 	"TF_SNIPER_KILL_CHARGED_MEDIC_Title"
 	{
-		"sv"	"Über-aber"
+		"sv"	"Ãœber-aber"
 	}
 	"TF_SNIPER_KILL_CHARGED_MEDIC_Desc"
 	{
-		"sv"	"Döda en sjukvårdare som just ska utföra en överladdning."
+		"sv"	"DÃ¶da en sjukvÃ¥rdare som just ska utfÃ¶ra en Ã¶verladdning."
 	}
 	"TF_SNIPER_GET_BACKSTABBED_Title"
 	{
-		"sv"	"Tröstpris"
+		"sv"	"TrÃ¶stpris"
 	}
 	"TF_SNIPER_GET_BACKSTABBED_Desc"
 	{
-		"sv"	"Bli huggen i ryggen 50 gånger."
+		"sv"	"Bli huggen i ryggen 50 gÃ¥nger."
 	}
 	"TF_SNIPER_KILL_AT_ROUNDSTART_Title"
 	{
@@ -1518,39 +1518,39 @@
 	}
 	"TF_SNIPER_KILL_AT_ROUNDSTART_Desc"
 	{
-		"sv"	"Döda en motståndare inom de första sekunderna av en omgång."
+		"sv"	"DÃ¶da en motstÃ¥ndare inom de fÃ¶rsta sekunderna av en omgÃ¥ng."
 	}
 	"TF_SNIPER_HEADSHOT_POST_INVULN_Title"
 	{
-		"sv"	"I rättan tid"
+		"sv"	"I rÃ¤ttan tid"
 	}
 	"TF_SNIPER_HEADSHOT_POST_INVULN_Desc"
 	{
-		"sv"	"Träffa en fiendespelare med ett huvudskott precis när hans osårbarhet tar slut."
+		"sv"	"TrÃ¤ffa en fiendespelare med ett huvudskott precis nÃ¤r hans osÃ¥rbarhet tar slut."
 	}
 	"TF_SNIPER_TOP_SCOREBOARD_GRIND_Title"
 	{
-		"sv"	"Min lysande karriär"
+		"sv"	"Min lysande karriÃ¤r"
 	}
 	"TF_SNIPER_TOP_SCOREBOARD_GRIND_Desc"
 	{
-		"sv"	"Hamna överst på resultattavlan 10 gånger i lag med 6 spelare eller fler."
+		"sv"	"Hamna Ã¶verst pÃ¥ resultattavlan 10 gÃ¥nger i lag med 6 spelare eller fler."
 	}
 	"TF_SNIPER_KILL_FAILED_SPY_Title"
 	{
-		"sv"	"Stötande beteende"
+		"sv"	"StÃ¶tande beteende"
 	}
 	"TF_SNIPER_KILL_FAILED_SPY_Desc"
 	{
-		"sv"	"Döda en spion vars försök till rygghugg blockerades av din Razorback."
+		"sv"	"DÃ¶da en spion vars fÃ¶rsÃ¶k till rygghugg blockerades av din Razorback."
 	}
 	"TF_SNIPER_JARATE_GROUP_Title"
 	{
-		"sv"	"Spridda strålar"
+		"sv"	"Spridda strÃ¥lar"
 	}
 	"TF_SNIPER_JARATE_GROUP_Desc"
 	{
-		"sv"	"Träffa 4 fiendespelare med ett enda Jarate-kast."
+		"sv"	"TrÃ¤ffa 4 fiendespelare med ett enda Jarate-kast."
 	}
 	"TF_SNIPER_JARATE_MEDIC_PAIR_Title"
 	{
@@ -1558,39 +1558,39 @@
 	}
 	"TF_SNIPER_JARATE_MEDIC_PAIR_Desc"
 	{
-		"sv"	"Använd ett Jarate-kast på en fiende och den sjukvårdare som helar honom."
+		"sv"	"AnvÃ¤nd ett Jarate-kast pÃ¥ en fiende och den sjukvÃ¥rdare som helar honom."
 	}
 	"TF_SNIPER_JARATE_REVEAL_SPY_Title"
 	{
-		"sv"	"Skurk på burk"
+		"sv"	"Skurk pÃ¥ burk"
 	}
 	"TF_SNIPER_JARATE_REVEAL_SPY_Desc"
 	{
-		"sv"	"Använd ett Jarate-kast till att avslöja en dold spion."
+		"sv"	"AnvÃ¤nd ett Jarate-kast till att avslÃ¶ja en dold spion."
 	}
 	"TF_SNIPER_JARATE_EXTINGUISH_Title"
 	{
-		"sv"	"Vänner i vått och torrt"
+		"sv"	"VÃ¤nner i vÃ¥tt och torrt"
 	}
 	"TF_SNIPER_JARATE_EXTINGUISH_Desc"
 	{
-		"sv"	"Släck en brinnande lagmedlem med ett Jarate-kast."
+		"sv"	"SlÃ¤ck en brinnande lagmedlem med ett Jarate-kast."
 	}
 	"TF_SNIPER_BOW_PIN_HEAVY_Title"
 	{
-		"sv"	"Wilhelm Tells övervåld"
+		"sv"	"Wilhelm Tells Ã¶vervÃ¥ld"
 	}
 	"TF_SNIPER_BOW_PIN_HEAVY_Desc"
 	{
-		"sv"	"Nagla fast en tung artillerist-fiende mot en vägg via huvudet."
+		"sv"	"Nagla fast en tung artillerist-fiende mot en vÃ¤gg via huvudet."
 	}
 	"TF_SNIPER_BOW_KILL_MEDIC_PAIR_Title"
 	{
-		"sv"	"Pilgrymsfärd"
+		"sv"	"PilgrymsfÃ¤rd"
 	}
 	"TF_SNIPER_BOW_KILL_MEDIC_PAIR_Desc"
 	{
-		"sv"	"Döda ett par bestående av en tung artillerist och en sjukvårdare med din båge."
+		"sv"	"DÃ¶da ett par bestÃ¥ende av en tung artillerist och en sjukvÃ¥rdare med din bÃ¥ge."
 	}
 	"TF_SNIPER_BOW_KILL_FLAGCARRIER_Title"
 	{
@@ -1598,15 +1598,15 @@
 	}
 	"TF_SNIPER_BOW_KILL_FLAGCARRIER_Desc"
 	{
-		"sv"	"Skjut ned en informationsbärare med en enda pil."
+		"sv"	"Skjut ned en informationsbÃ¤rare med en enda pil."
 	}
 	"TF_SNIPER_BOW_PINCUSHION_Title"
 	{
-		"sv"	"Nåldyna"
+		"sv"	"NÃ¥ldyna"
 	}
 	"TF_SNIPER_BOW_PINCUSHION_Desc"
 	{
-		"sv"	"Träffa en fiende med 3 pilar utan att döda."
+		"sv"	"TrÃ¤ffa en fiende med 3 pilar utan att dÃ¶da."
 	}
 	"TF_SNIPER_JARATE_ASSISTS_Title"
 	{
@@ -1614,7 +1614,7 @@
 	}
 	"TF_SNIPER_JARATE_ASSISTS_Desc"
 	{
-		"sv"	"Få 5 assister med Jarate i en och samma omgång."
+		"sv"	"FÃ¥ 5 assister med Jarate i en och samma omgÃ¥ng."
 	}
 	"TF_SNIPER_JARATE_KILL_MELEE_Title"
 	{
@@ -1622,7 +1622,7 @@
 	}
 	"TF_SNIPER_JARATE_KILL_MELEE_Desc"
 	{
-		"sv"	"Döda 3 fiender genom att göra ett Jarate-kast och sedan använda Kukri-kniven."
+		"sv"	"DÃ¶da 3 fiender genom att gÃ¶ra ett Jarate-kast och sedan anvÃ¤nda Kukri-kniven."
 	}
 	"TF_SNIPER_TAUNT_KILL_Title"
 	{
@@ -1634,11 +1634,11 @@
 	}
 	"TF_SNIPER_BOW_KILL_WHILEDEAD_Title"
 	{
-		"sv"	"Leva och låta dö"
+		"sv"	"Leva och lÃ¥ta dÃ¶"
 	}
 	"TF_SNIPER_BOW_KILL_WHILEDEAD_Desc"
 	{
-		"sv"	"Döda en fiende med en pil medan du är död."
+		"sv"	"DÃ¶da en fiende med en pil medan du Ã¤r dÃ¶d."
 	}
 	"TF_SNIPER_ACHIEVE_PROGRESS1_Title"
 	{
@@ -1646,7 +1646,7 @@
 	}
 	"TF_SNIPER_ACHIEVE_PROGRESS1_Desc"
 	{
-		"sv"	"Tjäna in 5 av framstegen i krypskyttspaketet."
+		"sv"	"TjÃ¤na in 5 av framstegen i krypskyttspaketet."
 	}
 	"TF_SNIPER_ACHIEVE_PROGRESS2_Title"
 	{
@@ -1654,7 +1654,7 @@
 	}
 	"TF_SNIPER_ACHIEVE_PROGRESS2_Desc"
 	{
-		"sv"	"Tjäna in 11 av framstegen i krypskyttspaketet."
+		"sv"	"TjÃ¤na in 11 av framstegen i krypskyttspaketet."
 	}
 	"TF_SNIPER_ACHIEVE_PROGRESS3_Title"
 	{
@@ -1662,11 +1662,11 @@
 	}
 	"TF_SNIPER_ACHIEVE_PROGRESS3_Desc"
 	{
-		"sv"	"Tjäna in 17 av framstegen i krypskyttspaketet."
+		"sv"	"TjÃ¤na in 17 av framstegen i krypskyttspaketet."
 	}
 	"TF_SPY_BACKSTAB_SNIPERS_Title"
 	{
-		"sv"	"Trippelförräderi"
+		"sv"	"TrippelfÃ¶rrÃ¤deri"
 	}
 	"TF_SPY_BACKSTAB_SNIPERS_Desc"
 	{
@@ -1678,7 +1678,7 @@
 	}
 	"TF_SPY_FREEZECAM_FLICK_Desc"
 	{
-		"sv"	"Ge en fiende en fryst bild av dig när du slänger en cigarett på hans döda kropp."
+		"sv"	"Ge en fiende en fryst bild av dig nÃ¤r du slÃ¤nger en cigarett pÃ¥ hans dÃ¶da kropp."
 	}
 	"TF_SPY_BACKSTAB_DISGUISED_SPY_Title"
 	{
@@ -1686,39 +1686,47 @@
 	}
 	"TF_SPY_BACKSTAB_DISGUISED_SPY_Desc"
 	{
-		"sv"	"Hugg en förklädd spion i ryggen."
+		"sv"	"Hugg en fÃ¶rklÃ¤dd spion i ryggen."
 	}
 	"TF_SPY_BACKSTAB_DISGUISE_TARGET_Title"
 	{
-		"sv"	"Identitetsstöld"
+		"sv"	"IdentitetsstÃ¶ld"
 	}
 	"TF_SPY_BACKSTAB_DISGUISE_TARGET_Desc"
 	{
-		"sv"	"Hugg den fiende i ryggen som du är förklädd som."
+		"sv"	"Hugg den fiende i ryggen som du Ã¤r fÃ¶rklÃ¤dd som."
+	}
+	"TF_SPY_TAUNT_KILL_Title"
+	{
+		"sv"	"Mannen frÃ¥n P.U.N.K.T.U.R."
+	}
+	"TF_SPY_TAUNT_KILL_Desc"
+	{
+		"sv"	"Knivhugg en fiende medan du fÃ¤ktas."
 	}
 	"TF_SPY_BACKSTAB_MEDIC_HEALING_YOU_Title"
 	{
-		"sv"	"Så du vet: jag är spion"
+		"sv"	"SÃ¥ du vet: jag Ã¤r spion"
 	}
 	"TF_SPY_BACKSTAB_MEDIC_HEALING_YOU_Desc"
 	{
-		"sv"	"Hugg en sjukvårdare i ryggen som har helat dig under de senaste 5 sekunderna."
+		"sv"	"Hugg en sjukvÃ¥rdare i ryggen som har helat dig under de senaste 5 sekunderna."
 	}
 	"TF_SPY_BACKSTAB_ENGY_SAP_BUILDING_Title"
 	{
-		"sv"	"Åskbollen"
+		"sv"	"Ã…skbollen"
 	}
 	"TF_SPY_BACKSTAB_ENGY_SAP_BUILDING_Desc"
 	{
-		"sv"	"Hugg en tekniker i ryggen, och sätt sedan en sapper på 3 av hans byggnader inom 10 sekunder."
+		"sv"	"Hugg en tekniker i ryggen, och sÃ¤tt sedan en sapper pÃ¥ 3 av hans byggnader inom 10 sekunder."
 	}
 	"TF_SPY_SAP_BUILDING_BACKSTAB_ENGY_Title"
 	{
-		"sv"	"Sappern räcker inte till"
+		"sv"	"Sappern rÃ¤cker inte till"
 	}
 	"TF_SPY_SAP_BUILDING_BACKSTAB_ENGY_Desc"
 	{
-		"sv"	"Sätt en sapper på en fiendebyggnad och hugg sedan teknikern som byggde den i ryggen inom 5 sekunder."
+		"sv"	"SÃ¤tt en sapper pÃ¥ en fiendebyggnad och hugg sedan teknikern som byggde den i ryggen inom 5 sekunder."
 	}
 	"TF_SPY_BACKSTAB_MEDIC_PAIR_Title"
 	{
@@ -1726,15 +1734,15 @@
 	}
 	"TF_SPY_BACKSTAB_MEDIC_PAIR_Desc"
 	{
-		"sv"	"Hugg både en fiende och sjukvårdaren som helar honom i ryggen, inom 10 sekunder."
+		"sv"	"Hugg bÃ¥de en fiende och sjukvÃ¥rdaren som helar honom i ryggen, inom 10 sekunder."
 	}
 	"TF_SPY_BACKSTAB_FRIENDS_Title"
 	{
-		"sv"	"Provocerande vänskap"
+		"sv"	"Provocerande vÃ¤nskap"
 	}
 	"TF_SPY_BACKSTAB_FRIENDS_Desc"
 	{
-		"sv"	"Hugg dina vänner från Steam-gemenskapen i ryggen 10 gånger."
+		"sv"	"Hugg dina vÃ¤nner frÃ¥n Steam-gemenskapen i ryggen 10 gÃ¥nger."
 	}
 	"TF_SPY_DOMINATE_SNIPER_Title"
 	{
@@ -1746,19 +1754,19 @@
 	}
 	"TF_SPY_BUMP_CLOAKED_SPY_Title"
 	{
-		"sv"	"Spioner är vi allihopa"
+		"sv"	"Spioner Ã¤r vi allihopa"
 	}
 	"TF_SPY_BUMP_CLOAKED_SPY_Desc"
 	{
-		"sv"	"Stöt ihop med en dold fiendespion medan du är dold."
+		"sv"	"StÃ¶t ihop med en dold fiendespion medan du Ã¤r dold."
 	}
 	"TF_SPY_KILL_SPY_WITH_KNIFE_Title"
 	{
-		"sv"	"Ett strå vassare"
+		"sv"	"Ett strÃ¥ vassare"
 	}
 	"TF_SPY_KILL_SPY_WITH_KNIFE_Desc"
 	{
-		"sv"	"Döda en gevärsförsedd spion med din kniv."
+		"sv"	"DÃ¶da en gevÃ¤rsfÃ¶rsedd spion med din kniv."
 	}
 	"TF_SPY_SURVIVE_BURNING_Title"
 	{
@@ -1766,15 +1774,15 @@
 	}
 	"TF_SPY_SURVIVE_BURNING_Desc"
 	{
-		"sv"	"Överlev i 30 sekunder efter att någon tänt eld på dig medan du var dold."
+		"sv"	"Ã–verlev i 30 sekunder efter att nÃ¥gon tÃ¤nt eld pÃ¥ dig medan du var dold."
 	}
 	"TF_SPY_BREAK_SHIELD_KILL_SNIPER_Title"
 	{
-		"sv"	"Ur dödlig ryggvinkel"
+		"sv"	"Ur dÃ¶dlig ryggvinkel"
 	}
 	"TF_SPY_BREAK_SHIELD_KILL_SNIPER_Desc"
 	{
-		"sv"	"Döda en krypskytt efter att ha huggit honom i ryggen och förstört hans Razorback."
+		"sv"	"DÃ¶da en krypskytt efter att ha huggit honom i ryggen och fÃ¶rstÃ¶rt hans Razorback."
 	}
 	"TF_SPY_KILL_WORKING_ENGY_Title"
 	{
@@ -1782,15 +1790,23 @@
 	}
 	"TF_SPY_KILL_WORKING_ENGY_Desc"
 	{
-		"sv"	"Döda en tekniker som arbetar på ett vaktgevär."
+		"sv"	"DÃ¶da en tekniker som arbetar pÃ¥ ett vaktgevÃ¤r."
+	}
+	"TF_SPY_FAST_CAP_Title"
+	{
+		"sv"	"Med rÃ¤tt att erÃ¶vra"
+	}
+	"TF_SPY_FAST_CAP_Desc"
+	{
+		"sv"	"BÃ¶rja erÃ¶vra en erÃ¶vringspunkt inom en sekund efter att den blir tillgÃ¤nglig."
 	}
 	"TF_SPY_MEDIC_HEALING_KILL_ENEMY_Title"
 	{
-		"sv"	"Försäkringsbedrägeri"
+		"sv"	"FÃ¶rsÃ¤kringsbedrÃ¤geri"
 	}
 	"TF_SPY_MEDIC_HEALING_KILL_ENEMY_Desc"
 	{
-		"sv"	"Döda en fiende medan du blir helad av en fiendesjukvårdare."
+		"sv"	"DÃ¶da en fiende medan du blir helad av en fiendesjukvÃ¥rdare."
 	}
 	"TF_SPY_KILL_CP_DEFENDERS_Title"
 	{
@@ -1798,11 +1814,11 @@
 	}
 	"TF_SPY_KILL_CP_DEFENDERS_Desc"
 	{
-		"sv"	"Döda 15 fiender som står på en kontrollpunkt de äger."
+		"sv"	"DÃ¶da 15 fiender som stÃ¥r pÃ¥ en kontrollpunkt de Ã¤ger."
 	}
 	"TF_SPY_BACKSTAB_DOMINATING_ENEMY_Title"
 	{
-		"sv"	"Värdefull måltavla"
+		"sv"	"VÃ¤rdefull mÃ¥ltavla"
 	}
 	"TF_SPY_BACKSTAB_DOMINATING_ENEMY_Desc"
 	{
@@ -1810,11 +1826,11 @@
 	}
 	"TF_SPY_REVENGE_WITH_BACKSTAB_Title"
 	{
-		"sv"	"Tid för hämnd"
+		"sv"	"Tid fÃ¶r hÃ¤mnd"
 	}
 	"TF_SPY_REVENGE_WITH_BACKSTAB_Desc"
 	{
-		"sv"	"Utför ett hämndmord med en rygghuggning."
+		"sv"	"UtfÃ¶r ett hÃ¤mndmord med en rygghuggning."
 	}
 	"TF_SPY_KNIFE_KILL_WHILE_JARATED_Title"
 	{
@@ -1822,11 +1838,11 @@
 	}
 	"TF_SPY_KNIFE_KILL_WHILE_JARATED_Desc"
 	{
-		"sv"	"Hugg en fiende till döds medan du är under påverkan av Jarate."
+		"sv"	"Hugg en fiende till dÃ¶ds medan du Ã¤r under pÃ¥verkan av Jarate."
 	}
 	"TF_SPY_BACKSTAB_QUICK_KILLS_Title"
 	{
-		"sv"	"Man hugger bara tre gånger"
+		"sv"	"Man hugger bara tre gÃ¥nger"
 	}
 	"TF_SPY_BACKSTAB_QUICK_KILLS_Desc"
 	{
@@ -1834,7 +1850,7 @@
 	}
 	"TF_SPY_BACKSTAB_GRIND_Title"
 	{
-		"sv"	"Mästerspion"
+		"sv"	"MÃ¤sterspion"
 	}
 	"TF_SPY_BACKSTAB_GRIND_Desc"
 	{
@@ -1846,7 +1862,7 @@
 	}
 	"TF_SPY_SAPPER_GRIND_Desc"
 	{
-		"sv"	"Förstör 1000 teknikerbyggnader med sappers."
+		"sv"	"FÃ¶rstÃ¶r 1000 teknikerbyggnader med sappers."
 	}
 	"TF_SPY_SAPPER_TEAMWORK_Title"
 	{
@@ -1854,7 +1870,7 @@
 	}
 	"TF_SPY_SAPPER_TEAMWORK_Desc"
 	{
-		"sv"	"Sätt en sapper på ett fiendevaktgevär inom 3 sekunder efter att en lagmedlem har satt ut en annan sapper."
+		"sv"	"SÃ¤tt en sapper pÃ¥ ett fiendevaktgevÃ¤r inom 3 sekunder efter att en lagmedlem har satt ut en annan sapper."
 	}
 	"TF_SPY_BACKSTAB_MEDIC_CHARGED_Title"
 	{
@@ -1862,23 +1878,23 @@
 	}
 	"TF_SPY_BACKSTAB_MEDIC_CHARGED_Desc"
 	{
-		"sv"	"Hugg en sjukvårdare i ryggen som just ska utföra en överladdning."
+		"sv"	"Hugg en sjukvÃ¥rdare i ryggen som just ska utfÃ¶ra en Ã¶verladdning."
 	}
 	"TF_SPY_BACKSTAB_CAPPING_ENEMIES_Title"
 	{
-		"sv"	"Är det säkert?"
+		"sv"	"Ã„r det sÃ¤kert?"
 	}
 	"TF_SPY_BACKSTAB_CAPPING_ENEMIES_Desc"
 	{
-		"sv"	"Hugg 50 fiender i ryggen som erövrar kontrollpunkter."
+		"sv"	"Hugg 50 fiender i ryggen som erÃ¶vrar kontrollpunkter."
 	}
 	"TF_SPY_BACKSTAB_ENEMY_SWITCH_PYRO_Title"
 	{
-		"sv"	"Skärselden"
+		"sv"	"SkÃ¤rselden"
 	}
 	"TF_SPY_BACKSTAB_ENEMY_SWITCH_PYRO_Desc"
 	{
-		"sv"	"Hugg en fiende i ryggen som sedan övergår till att bli Pyro innan han återskapas."
+		"sv"	"Hugg en fiende i ryggen som sedan Ã¶vergÃ¥r till att bli Pyro innan han Ã¥terskapas."
 	}
 	"TF_SPY_AMBASSADOR_GRIND_Title"
 	{
@@ -1886,15 +1902,15 @@
 	}
 	"TF_SPY_AMBASSADOR_GRIND_Desc"
 	{
-		"sv"	"Döda 50 fiender med Ambassador."
+		"sv"	"DÃ¶da 50 fiender med Ambassador."
 	}
 	"TF_SPY_AMBASSADOR_SNIPER_GRIND_Title"
 	{
-		"sv"	"Hål i huvudet"
+		"sv"	"HÃ¥l i huvudet"
 	}
 	"TF_SPY_AMBASSADOR_SNIPER_GRIND_Desc"
 	{
-		"sv"	"Döda 20 krypskyttar genom huvudskott med en Ambassador."
+		"sv"	"DÃ¶da 20 krypskyttar genom huvudskott med en Ambassador."
 	}
 	"TF_SPY_FEIGN_DEATH_KILL_Title"
 	{
@@ -1902,23 +1918,23 @@
 	}
 	"TF_SPY_FEIGN_DEATH_KILL_Desc"
 	{
-		"sv"	"Döda en fiende som utlöste din falska död under de senaste 20 sekunderna."
+		"sv"	"DÃ¶da en fiende som utlÃ¶ste din falska dÃ¶d under de senaste 20 sekunderna."
 	}
 	"TF_SPY_AMBASSADOR_SCOUT_GRIND_Title"
 	{
-		"sv"	"Vem är farsan?"
+		"sv"	"Vem Ã¤r farsan?"
 	}
 	"TF_SPY_AMBASSADOR_SCOUT_GRIND_Desc"
 	{
-		"sv"	"Döda 3 spanare genom huvudskott med en Ambassador."
+		"sv"	"DÃ¶da 3 spanare genom huvudskott med en Ambassador."
 	}
 	"TF_SPY_CAMP_POSITION_Title"
 	{
-		"sv"	"Tacksam täckmantel"
+		"sv"	"Tacksam tÃ¤ckmantel"
 	}
 	"TF_SPY_CAMP_POSITION_Desc"
 	{
-		"sv"	"Använd din \"Cloak and Dagger\" och döda samma fiende 3 gånger, i samma område och samma liv."
+		"sv"	" och dÃ¶da samma fiende 3 gÃ¥nger, i samma omrÃ¥de och samma liv."
 	}
 	"TF_SPY_ACHIEVE_PROGRESS1_Title"
 	{
@@ -1926,7 +1942,7 @@
 	}
 	"TF_SPY_ACHIEVE_PROGRESS1_Desc"
 	{
-		"sv"	"Tjäna in 5 av framstegen i spionpaketet."
+		"sv"	"TjÃ¤na in 5 av framstegen i spionpaketet."
 	}
 	"TF_SPY_ACHIEVE_PROGRESS2_Title"
 	{
@@ -1934,7 +1950,7 @@
 	}
 	"TF_SPY_ACHIEVE_PROGRESS2_Desc"
 	{
-		"sv"	"Tjäna in 11 av framstegen i spionpaketet."
+		"sv"	"TjÃ¤na in 11 av framstegen i spionpaketet."
 	}
 	"TF_SPY_ACHIEVE_PROGRESS3_Title"
 	{
@@ -1942,7 +1958,7 @@
 	}
 	"TF_SPY_ACHIEVE_PROGRESS3_Desc"
 	{
-		"sv"	"Tjäna in 17 av framstegen i spionpaketet."
+		"sv"	"TjÃ¤na in 17 av framstegen i spionpaketet."
 	}
 	"TF_HALLOWEEN_COLLECT_PUMPKINS_Title"
 	{
@@ -1950,39 +1966,39 @@
 	}
 	"TF_HALLOWEEN_COLLECT_PUMPKINS_Desc"
 	{
-		"sv"	"Samla in 20 Halloween-pumpor från döda spelare så låser du upp en hatt."
+		"sv"	"Samla in 20 Halloween-pumpor frÃ¥n dÃ¶da spelare sÃ¥ lÃ¥ser du upp en hatt."
 	}
 	"TF_HALLOWEEN_DOMINATE_FOR_HAT_Title"
 	{
-		"sv"	"Stöld av spöklik stormhatt"
+		"sv"	"StÃ¶ld av spÃ¶klik stormhatt"
 	}
 	"TF_HALLOWEEN_DOMINATE_FOR_HAT_Desc"
 	{
-		"sv"	"Dominera en spelare som har en spöklik stormhatt så får du en själv."
+		"sv"	"Dominera en spelare som har en spÃ¶klik stormhatt sÃ¥ fÃ¥r du en sjÃ¤lv."
 	}
 	"TF_HALLOWEEN_KILL_SCARED_PLAYER_Title"
 	{
-		"sv"	"Dödsläskigt"
+		"sv"	"DÃ¶dslÃ¤skigt"
 	}
 	"TF_HALLOWEEN_KILL_SCARED_PLAYER_Desc"
 	{
-		"sv"	"Döda en spelare som skrämts av spöket som hemsöker Herre på täppan-kartan Harvest."
+		"sv"	"DÃ¶da en spelare som skrÃ¤mts av spÃ¶ket som hemsÃ¶ker Herre pÃ¥ tÃ¤ppan-kartan Harvest."
 	}
 	"TF_HALLOWEEN_PUMPKIN_KILL_Title"
 	{
-		"sv"	"Gå på pumpan"
+		"sv"	"GÃ¥ pÃ¥ pumpan"
 	}
 	"TF_HALLOWEEN_PUMPKIN_KILL_Desc"
 	{
-		"sv"	"Orsaka 5 spelares bortgång genom att spränga pumpabomber i närheten av dem."
+		"sv"	"Orsaka 5 spelares bortgÃ¥ng genom att sprÃ¤nga pumpabomber i nÃ¤rheten av dem."
 	}
 	"TF_HALLOWEEN_DISGUISED_SPY_KILL_Title"
 	{
-		"sv"	"Förklädningsförräderi"
+		"sv"	"FÃ¶rklÃ¤dningsfÃ¶rrÃ¤deri"
 	}
 	"TF_HALLOWEEN_DISGUISED_SPY_KILL_Desc"
 	{
-		"sv"	"Döda en spion som förklätt sig till den klass du har."
+		"sv"	"DÃ¶da en spion som fÃ¶rklÃ¤tt sig till den klass du har."
 	}
 	"TF_SOLDIER_ACHIEVE_PROGRESS1_Title"
 	{
@@ -1990,7 +2006,7 @@
 	}
 	"TF_SOLDIER_ACHIEVE_PROGRESS1_Desc"
 	{
-		"sv"	"Tjäna in 5 av framstegen i soldatpaketet."
+		"sv"	"TjÃ¤na in 5 av framstegen i soldatpaketet."
 	}
 	"TF_SOLDIER_ACHIEVE_PROGRESS2_Title"
 	{
@@ -1998,7 +2014,7 @@
 	}
 	"TF_SOLDIER_ACHIEVE_PROGRESS2_Desc"
 	{
-		"sv"	"Tjäna in 11 av framstegen i soldatpaketet."
+		"sv"	"TjÃ¤na in 11 av framstegen i soldatpaketet."
 	}
 	"TF_SOLDIER_ACHIEVE_PROGRESS3_Title"
 	{
@@ -2006,7 +2022,7 @@
 	}
 	"TF_SOLDIER_ACHIEVE_PROGRESS3_Desc"
 	{
-		"sv"	"Tjäna in 17 av framstegen i soldatpaketet."
+		"sv"	"TjÃ¤na in 17 av framstegen i soldatpaketet."
 	}
 	"TF_SOLDIER_KILL_GROUP_WITH_CROCKET_Title"
 	{
@@ -2014,15 +2030,15 @@
 	}
 	"TF_SOLDIER_KILL_GROUP_WITH_CROCKET_Desc"
 	{
-		"sv"	"Döda 3 fiender med en enda kritisk raket."
+		"sv"	"DÃ¶da 3 fiender med en enda kritisk raket."
 	}
 	"TF_SOLDIER_KILL_TWO_DURING_ROCKET_JUMP_Title"
 	{
-		"sv"	"Döden från ovan"
+		"sv"	"DÃ¶den frÃ¥n ovan"
 	}
 	"TF_SOLDIER_KILL_TWO_DURING_ROCKET_JUMP_Desc"
 	{
-		"sv"	"Rakethoppa och döda 2 fiender innan du landar."
+		"sv"	"Rakethoppa och dÃ¶da 2 fiender innan du landar."
 	}
 	"TF_SOLDIER_THREE_DOMINATIONS_Title"
 	{
@@ -2030,7 +2046,7 @@
 	}
 	"TF_SOLDIER_THREE_DOMINATIONS_Desc"
 	{
-		"sv"	"Få 3 domineringar i ett och samma liv."
+		"sv"	"FÃ¥ 3 domineringar i ett och samma liv."
 	}
 	"TF_SOLDIER_DEFEND_MEDIC_Title"
 	{
@@ -2038,7 +2054,7 @@
 	}
 	"TF_SOLDIER_DEFEND_MEDIC_Desc"
 	{
-		"sv"	"I ett och samma liv kan du döda 3 fiender som har skadat en sjukvårdare som helar dig."
+		"sv"	"I ett och samma liv kan du dÃ¶da 3 fiender som har skadat en sjukvÃ¥rdare som helar dig."
 	}
 	"TF_SOLDIER_KILL_TAUNT_Title"
 	{
@@ -2046,31 +2062,31 @@
 	}
 	"TF_SOLDIER_KILL_TAUNT_Desc"
 	{
-		"sv"	"Döda spelare med en granat."
+		"sv"	"DÃ¶da spelare med en granat."
 	}
 	"TF_SOLDIER_DESTROY_SENTRY_OUT_OF_RANGE_Title"
 	{
-		"sv"	"Äg kanonerna"
+		"sv"	"Ã„g kanonerna"
 	}
 	"TF_SOLDIER_DESTROY_SENTRY_OUT_OF_RANGE_Desc"
 	{
-		"sv"	"Döda 5 väktartekniker medan du står utom deras skottlinje."
+		"sv"	"DÃ¶da 5 vÃ¤ktartekniker medan du stÃ¥r utom deras skottlinje."
 	}
 	"TF_SOLDIER_KILL_SNIPER_WHILE_DEAD_Title"
 	{
-		"sv"	"Garanterad ömsesidig förstörelse"
+		"sv"	"Garanterad Ã¶msesidig fÃ¶rstÃ¶relse"
 	}
 	"TF_SOLDIER_KILL_SNIPER_WHILE_DEAD_Desc"
 	{
-		"sv"	"Döda en fiendekrypskytt med en raket efter att han har dödat dig."
+		"sv"	"DÃ¶da en fiendekrypskytt med en raket efter att han har dÃ¶dat dig."
 	}
 	"TF_SOLDIER_KILL_AIRBORNE_TARGET_WHILE_AIRBORNE_Title"
 	{
-		"sv"	"Ärans vingslag"
+		"sv"	"Ã„rans vingslag"
 	}
 	"TF_SOLDIER_KILL_AIRBORNE_TARGET_WHILE_AIRBORNE_Desc"
 	{
-		"sv"	"Döda en fiendesoldat medan både du och din måltavla befinner er i luften."
+		"sv"	"DÃ¶da en fiendesoldat medan bÃ¥de du och din mÃ¥ltavla befinner er i luften."
 	}
 	"TF_SOLDIER_KILL_ENGY_Title"
 	{
@@ -2078,7 +2094,7 @@
 	}
 	"TF_SOLDIER_KILL_ENGY_Desc"
 	{
-		"sv"	"Döda en tekniker medan han reparerar sitt vaktgevär under tiden som det beskjuts."
+		"sv"	"DÃ¶da en tekniker medan han reparerar sitt vaktgevÃ¤r under tiden som det beskjuts."
 	}
 	"TF_SOLDIER_NEMESIS_SHOVEL_KILL_Title"
 	{
@@ -2086,7 +2102,7 @@
 	}
 	"TF_SOLDIER_NEMESIS_SHOVEL_KILL_Desc"
 	{
-		"sv"	"Döda din nemesis med en skyffel."
+		"sv"	"DÃ¶da din nemesis med en skyffel."
 	}
 	"TF_SOLDIER_DESTROY_STICKIES_Title"
 	{
@@ -2094,31 +2110,31 @@
 	}
 	"TF_SOLDIER_DESTROY_STICKIES_Desc"
 	{
-		"sv"	"Förstör 10 klisterbomber med hagelgeväret i ett och samma liv."
+		"sv"	"FÃ¶rstÃ¶r 10 klisterbomber med hagelgevÃ¤ret i ett och samma liv."
 	}
 	"TF_SOLDIER_CROUCH_ROCKET_JUMP_Title"
 	{
-		"sv"	"Bland örnarna"
+		"sv"	"Bland Ã¶rnarna"
 	}
 	"TF_SOLDIER_CROUCH_ROCKET_JUMP_Desc"
 	{
-		"sv"	"Få till det högsta rakethoppet genom att hoppa och krypa ihop."
+		"sv"	"FÃ¥ till det hÃ¶gsta rakethoppet genom att hoppa och krypa ihop."
 	}
 	"TF_SOLDIER_BUFF_FRIENDS_Title"
 	{
-		"sv"	"Brödrabanner"
+		"sv"	"BrÃ¶drabanner"
 	}
 	"TF_SOLDIER_BUFF_FRIENDS_Desc"
 	{
-		"sv"	"Förstärk 5 Steam-vänner samtidigt med Buff Banner."
+		"sv"	"FÃ¶rstÃ¤rk 5 Steam-vÃ¤nner samtidigt med Buff Banner."
 	}
 	"TF_SOLDIER_KILL_TWENTY_FROM_ABOVE_Title"
 	{
-		"sv"	"Skrikande örnen"
+		"sv"	"Skrikande Ã¶rnen"
 	}
 	"TF_SOLDIER_KILL_TWENTY_FROM_ABOVE_Desc"
 	{
-		"sv"	"Döda 20 fiender från ovan."
+		"sv"	"DÃ¶da 20 fiender frÃ¥n ovan."
 	}
 	"TF_SOLDIER_SHOOT_MULT_CRITS_Title"
 	{
@@ -2126,7 +2142,7 @@
 	}
 	"TF_SOLDIER_SHOOT_MULT_CRITS_Desc"
 	{
-		"sv"	"Avfyra två oförstärkta kritiska raketer efter varandra."
+		"sv"	"Avfyra tvÃ¥ ofÃ¶rstÃ¤rkta kritiska raketer efter varandra."
 	}
 	"TF_SOLDIER_KILL_DEFENSELESS_Title"
 	{
@@ -2134,31 +2150,31 @@
 	}
 	"TF_SOLDIER_KILL_DEFENSELESS_Desc"
 	{
-		"sv"	"Döda 5 försvarslösa spelare efter att en omgång har avslutats."
+		"sv"	"DÃ¶da 5 fÃ¶rsvarslÃ¶sa spelare efter att en omgÃ¥ng har avslutats."
 	}
 	"TF_SOLDIER_KILL_ON_FIRE_Title"
 	{
-		"sv"	"Grillat är godast"
+		"sv"	"Grillat Ã¤r godast"
 	}
 	"TF_SOLDIER_KILL_ON_FIRE_Desc"
 	{
-		"sv"	"Döda 20 fiender medan du brinner."
+		"sv"	"DÃ¶da 20 fiender medan du brinner."
 	}
 	"TF_SOLDIER_KILL_FIVE_STUNNED_Title"
 	{
-		"sv"	"Bedöva mina sinnen"
+		"sv"	"BedÃ¶va mina sinnen"
 	}
 	"TF_SOLDIER_KILL_FIVE_STUNNED_Desc"
 	{
-		"sv"	"Döda 5 bedövade spelare."
+		"sv"	"DÃ¶da 5 bedÃ¶vade spelare."
 	}
 	"TF_SOLDIER_FREEZECAM_GIBS_Title"
 	{
-		"sv"	"Håna, håna, håna!"
+		"sv"	"HÃ¥na, hÃ¥na, hÃ¥na!"
 	}
 	"TF_SOLDIER_FREEZECAM_GIBS_Desc"
 	{
-		"sv"	"Ge fienden en fryst bild där du hånar fler än 3 av deras kroppsdelar."
+		"sv"	"Ge fienden en fryst bild dÃ¤r du hÃ¥nar fler Ã¤n 3 av deras kroppsdelar."
 	}
 	"TF_SOLDIER_KILL_SPY_KILLER_Title"
 	{
@@ -2166,7 +2182,7 @@
 	}
 	"TF_SOLDIER_KILL_SPY_KILLER_Desc"
 	{
-		"sv"	"Döda en spion som precis huggit en lagmedlem i ryggen."
+		"sv"	"DÃ¶da en spion som precis huggit en lagmedlem i ryggen."
 	}
 	"TF_SOLDIER_DEFEND_CAP_THIRTY_TIMES_Title"
 	{
@@ -2174,7 +2190,7 @@
 	}
 	"TF_SOLDIER_DEFEND_CAP_THIRTY_TIMES_Desc"
 	{
-		"sv"	"Skydda en punkt 30 gånger."
+		"sv"	"Skydda en punkt 30 gÃ¥nger."
 	}
 	"TF_SOLDIER_GIB_GRIND_Title"
 	{
@@ -2182,7 +2198,7 @@
 	}
 	"TF_SOLDIER_GIB_GRIND_Desc"
 	{
-		"sv"	"Döda 1000 personer."
+		"sv"	"DÃ¶da 1000 personer."
 	}
 	"TF_SOLDIER_RJ_EQUALIZER_KILL_Title"
 	{
@@ -2190,15 +2206,15 @@
 	}
 	"TF_SOLDIER_RJ_EQUALIZER_KILL_Desc"
 	{
-		"sv"	"Gör ett rakethopp och döda en fiende med Equalizer innan du landar."
+		"sv"	"GÃ¶r ett rakethopp och dÃ¶da en fiende med Equalizer innan du landar."
 	}
 	"TF_SOLDIER_BUFF_TEAMMATES_Title"
 	{
-		"sv"	"Tag något förstärkande"
+		"sv"	"Tag nÃ¥got fÃ¶rstÃ¤rkande"
 	}
 	"TF_SOLDIER_BUFF_TEAMMATES_Desc"
 	{
-		"sv"	"Förstärk 15 lagkamrater med Buff Banner under ett liv."
+		"sv"	"FÃ¶rstÃ¤rk 15 lagkamrater med Buff Banner under ett liv."
 	}
 	"TF_SOLDIER_KILL_DEMOMAN_GRIND_Title"
 	{
@@ -2206,7 +2222,7 @@
 	}
 	"TF_SOLDIER_KILL_DEMOMAN_GRIND_Desc"
 	{
-		"sv"	"Döda 500 fiende-Demomen"
+		"sv"	"DÃ¶da 500 fiende-Demomen"
 	}
 	"TF_SOLDIER_KILL_PYRO_Title"
 	{
@@ -2214,23 +2230,23 @@
 	}
 	"TF_SOLDIER_KILL_PYRO_Desc"
 	{
-		"sv"	"Döda en Pyro som har sprängt en av dina raketer i luften under de senaste 10 sekunderna."
+		"sv"	"DÃ¶da en Pyro som har sprÃ¤ngt en av dina raketer i luften under de senaste 10 sekunderna."
 	}
 	"TF_SOLDIER_EQUALIZER_STREAK_Title"
 	{
-		"sv"	"Har inte tid att blöda"
+		"sv"	"Har inte tid att blÃ¶da"
 	}
 	"TF_SOLDIER_EQUALIZER_STREAK_Desc"
 	{
-		"sv"	"Döda 3 spelare med Equalizer i ett liv utan att helas."
+		"sv"	"DÃ¶da 3 spelare med Equalizer i ett liv utan att helas."
 	}
 	"TF_SOLDIER_KILL_WITH_EQUALIZER_WHILE_HURT_Title"
 	{
-		"sv"	"Nära döden-upplevelse"
+		"sv"	"NÃ¤ra dÃ¶den-upplevelse"
 	}
 	"TF_SOLDIER_KILL_WITH_EQUALIZER_WHILE_HURT_Desc"
 	{
-		"sv"	"Döda 20 fiender med din Equalizer när du har mindre än 25 i hälsa."
+		"sv"	"DÃ¶da 20 fiender med din Equalizer nÃ¤r du har mindre Ã¤n 25 i hÃ¤lsa."
 	}
 	"TF_SOLDIER_BOUNCE_THEN_SHOTGUN_Title"
 	{
@@ -2238,31 +2254,31 @@
 	}
 	"TF_SOLDIER_BOUNCE_THEN_SHOTGUN_Desc"
 	{
-		"sv"	"Studsa upp en motståndare i luften med en raket och döda motståndaren med hagelgeväret innan landning."
+		"sv"	"Studsa upp en motstÃ¥ndare i luften med en raket och dÃ¶da motstÃ¥ndaren med hagelgevÃ¤ret innan landning."
 	}
 	"TF_SOLDIER_KILL_AIRBORNE_WITH_DIRECT_HIT_Title"
 	{
-		"sv"	"Döden från nedan"
+		"sv"	"DÃ¶den frÃ¥n nedan"
 	}
 	"TF_SOLDIER_KILL_AIRBORNE_WITH_DIRECT_HIT_Desc"
 	{
-		"sv"	"Döda 10 motståndare i luften med en Direct Hit."
+		"sv"	"DÃ¶da 10 motstÃ¥ndare i luften med en Direct Hit."
 	}
 	"TF_SOLDIER_FREEZECAM_TAUNT_Title"
 	{
-		"sv"	"Värd tusen ord"
+		"sv"	"VÃ¤rd tusen ord"
 	}
 	"TF_SOLDIER_FREEZECAM_TAUNT_Desc"
 	{
-		"sv"	"Ge fienden en fryst bild på din 21-pistolshälsning."
+		"sv"	"Ge fienden en fryst bild pÃ¥ din 21-pistolshÃ¤lsning."
 	}
 	"TF_SOLDIER_DUO_SOLDIER_KILLS_Title"
 	{
-		"sv"	"Blodspillansbröder"
+		"sv"	"BlodspillansbrÃ¶der"
 	}
 	"TF_SOLDIER_DUO_SOLDIER_KILLS_Desc"
 	{
-		"sv"	"Döda 10 fiender medan du hjälper eller blir hjälpt av en annan Soldat."
+		"sv"	"DÃ¶da 10 fiender medan du hjÃ¤lper eller blir hjÃ¤lpt av en annan Soldat."
 	}
 	"TF_SOLDIER_MVP_Title"
 	{
@@ -2270,7 +2286,7 @@
 	}
 	"TF_SOLDIER_MVP_Desc"
 	{
-		"sv"	"Avsluta en omgång som MVP 10 gånger."
+		"sv"	"Avsluta en omgÃ¥ng som MVP 10 gÃ¥nger."
 	}
 	"TF_SOLDIER_RIDE_THE_CART_Title"
 	{
@@ -2278,7 +2294,7 @@
 	}
 	"TF_SOLDIER_RIDE_THE_CART_Desc"
 	{
-		"sv"	"Åk med vagnen i 30 sekunder."
+		"sv"	"Ã…k med vagnen i 30 sekunder."
 	}
 	"TF_SOLDIER_ASSIST_MEDIC_UBER_Title"
 	{
@@ -2286,7 +2302,7 @@
 	}
 	"TF_SOLDIER_ASSIST_MEDIC_UBER_Desc"
 	{
-		"sv"	"Hjälp en Sjukvårdare att spränga 5 fiender med en överladdning."
+		"sv"	"HjÃ¤lp en SjukvÃ¥rdare att sprÃ¤nga 5 fiender med en Ã¶verladdning."
 	}
 	"TF_DEMOMAN_KILL_SOLDIER_GRIND_Title"
 	{
@@ -2294,19 +2310,19 @@
 	}
 	"TF_DEMOMAN_KILL_SOLDIER_GRIND_Desc"
 	{
-		"sv"	"Döda 500 fiendesoldater"
+		"sv"	"DÃ¶da 500 fiendesoldater"
 	}
 	"TF_DEMOMAN_DESTROY_BUILDINGS_WITH_MEDIC_Title"
 	{
-		"sv"	"Riv-i-ärans guldgossar"
+		"sv"	"Riv-i-Ã¤rans guldgossar"
 	}
 	"TF_DEMOMAN_DESTROY_BUILDINGS_WITH_MEDIC_Desc"
 	{
-		"sv"	"Förstör 5 av fiendens teknikerbyggnader under en enda överladdning från en Sjukvårdare."
+		"sv"	"FÃ¶rstÃ¶r 5 av fiendens teknikerbyggnader under en enda Ã¶verladdning frÃ¥n en SjukvÃ¥rdare."
 	}
 	"TF_DEMOMAN_DECAPITATE_CLOAKED_SPY_Title"
 	{
-		"sv"	"Älskade huvudlösa spion"
+		"sv"	"Ã„lskade huvudlÃ¶sa spion"
 	}
 	"TF_DEMOMAN_DECAPITATE_CLOAKED_SPY_Desc"
 	{
@@ -2314,11 +2330,11 @@
 	}
 	"TF_DEMOMAN_KILL_X_WITH_DIRECTPIPE_Title"
 	{
-		"sv"	"Granatsämja"
+		"sv"	"GranatsÃ¤mja"
 	}
 	"TF_DEMOMAN_KILL_X_WITH_DIRECTPIPE_Desc"
 	{
-		"sv"	"Döda 50 fiender med direktträffar från granatkastaren."
+		"sv"	"DÃ¶da 50 fiender med direkttrÃ¤ffar frÃ¥n granatkastaren."
 	}
 	"TF_DEMOMAN_BOUNCE_AND_KILL_Title"
 	{
@@ -2326,11 +2342,11 @@
 	}
 	"TF_DEMOMAN_BOUNCE_AND_KILL_Desc"
 	{
-		"sv"	"Studsa en fiende i luften och döda fienden innan landning."
+		"sv"	"Studsa en fiende i luften och dÃ¶da fienden innan landning."
 	}
 	"TF_DEMOMAN_DECAPITATE_PLAYERS_Title"
 	{
-		"sv"	"Visa upp hjärnan"
+		"sv"	"Visa upp hjÃ¤rnan"
 	}
 	"TF_DEMOMAN_DECAPITATE_PLAYERS_Desc"
 	{
@@ -2338,19 +2354,19 @@
 	}
 	"TF_DEMOMAN_DECAPITATE_PLAYERS_FAST_Title"
 	{
-		"sv"	"Hjärngänget"
+		"sv"	"HjÃ¤rngÃ¤nget"
 	}
 	"TF_DEMOMAN_DECAPITATE_PLAYERS_FAST_Desc"
 	{
-		"sv"	"Halshugg 4 spelare med högst 10 sekunders mellanrum."
+		"sv"	"Halshugg 4 spelare med hÃ¶gst 10 sekunders mellanrum."
 	}
 	"TF_DEMOMAN_DUO_DEMOMAN_KILLS_Title"
 	{
-		"sv"	"Väl rutat!"
+		"sv"	"VÃ¤l rutat!"
 	}
 	"TF_DEMOMAN_DUO_DEMOMAN_KILLS_Desc"
 	{
-		"sv"	"Döda 10 fiender medan du hjälper eller blir hjälpt av en annan demoman."
+		"sv"	"DÃ¶da 10 fiender medan du hjÃ¤lper eller blir hjÃ¤lpt av en annan demoman."
 	}
 	"TF_DEMOMAN_KILL_TWO_DURING_STICKYJUMP_Title"
 	{
@@ -2358,7 +2374,7 @@
 	}
 	"TF_DEMOMAN_KILL_TWO_DURING_STICKYJUMP_Desc"
 	{
-		"sv"	"Döda 2 personer i en klisterbombshoppning."
+		"sv"	"DÃ¶da 2 personer i en klisterbombshoppning."
 	}
 	"TF_DEMOMAN_KILL_PLAYER_AFTER_TP_Title"
 	{
@@ -2366,7 +2382,7 @@
 	}
 	"TF_DEMOMAN_KILL_PLAYER_AFTER_TP_Desc"
 	{
-		"sv"	"Döda en fiendespelare med klisterbomber inom 5 sekunder efter deras teleportering."
+		"sv"	"DÃ¶da en fiendespelare med klisterbomber inom 5 sekunder efter deras teleportering."
 	}
 	"TF_DEMOMAN_DOMINATE_THREE_ENGINEERS_Title"
 	{
@@ -2382,7 +2398,7 @@
 	}
 	"TF_DEMOMAN_KILL_BUILDING_DIRECT_HIT_Desc"
 	{
-		"sv"	"Döda en byggande tekniker som du inte kan se, med en direktträff från din granatkastare."
+		"sv"	"DÃ¶da en byggande tekniker som du inte kan se, med en direkttrÃ¤ff frÃ¥n din granatkastare."
 	}
 	"TF_DEMOMAN_MELEE_KILL_WHILE_STICKYJUMPING_Title"
 	{
@@ -2390,15 +2406,15 @@
 	}
 	"TF_DEMOMAN_MELEE_KILL_WHILE_STICKYJUMPING_Desc"
 	{
-		"sv"	"Döda någon i närstrid medan du klisterbombshoppar."
+		"sv"	"DÃ¶da nÃ¥gon i nÃ¤rstrid medan du klisterbombshoppar."
 	}
 	"TF_DEMOMAN_KILL_ENGI_SENTRY_DISPENSER_Title"
 	{
-		"sv"	"Sprängt var det här"
+		"sv"	"SprÃ¤ngt var det hÃ¤r"
 	}
 	"TF_DEMOMAN_KILL_ENGI_SENTRY_DISPENSER_Desc"
 	{
-		"sv"	"Spräng en tekniker med tillhörande vaktgevär och utmatare med en enda klisterbombsdetonering."
+		"sv"	"SprÃ¤ng en tekniker med tillhÃ¶rande vaktgevÃ¤r och utmatare med en enda klisterbombsdetonering."
 	}
 	"TF_DEMOMAN_DECAPITATE_EQUALIZER_Title"
 	{
@@ -2406,7 +2422,7 @@
 	}
 	"TF_DEMOMAN_DECAPITATE_EQUALIZER_Desc"
 	{
-		"sv"	"Halshugg en fiendesoldat som är beväpnad med Equalizer."
+		"sv"	"Halshugg en fiendesoldat som Ã¤r bevÃ¤pnad med Equalizer."
 	}
 	"TF_DEMOMAN_DECAPITATE_NEMESIS_Title"
 	{
@@ -2418,19 +2434,19 @@
 	}
 	"TF_DEMOMAN_DAMAGE_GRIND_Title"
 	{
-		"sv"	"Sprängande spartan"
+		"sv"	"SprÃ¤ngande spartan"
 	}
 	"TF_DEMOMAN_DAMAGE_GRIND_Desc"
 	{
-		"sv"	"Orsaka 1 miljon poäng total sprängskada."
+		"sv"	"Orsaka 1 miljon poÃ¤ng total sprÃ¤ngskada."
 	}
 	"TF_DEMOMAN_KILL_X_CAPPING_ONEDET_Title"
 	{
-		"sv"	"Whisky-väktare"
+		"sv"	"Whisky-vÃ¤ktare"
 	}
 	"TF_DEMOMAN_KILL_X_CAPPING_ONEDET_Desc"
 	{
-		"sv"	"Döda 3 fiender som erövrar eller flyttar på vagnen i en enda klisterbombsdetonering vid 3 olika tillfällen."
+		"sv"	"DÃ¶da 3 fiender som erÃ¶vrar eller flyttar pÃ¥ vagnen i en enda klisterbombsdetonering vid 3 olika tillfÃ¤llen."
 	}
 	"TF_DEMOMAN_KILL_X_DEFENDING_Title"
 	{
@@ -2438,23 +2454,23 @@
 	}
 	"TF_DEMOMAN_KILL_X_DEFENDING_Desc"
 	{
-		"sv"	"Döda 25 spelare när du försvarar en erövringspunkt eller vagn."
+		"sv"	"DÃ¶da 25 spelare nÃ¤r du fÃ¶rsvarar en erÃ¶vringspunkt eller vagn."
 	}
 	"TF_DEMOMAN_DESTROY_BUILDINGS_GRIND_Title"
 	{
-		"sv"	"Höghus i höglandet!"
+		"sv"	"HÃ¶ghus i hÃ¶glandet!"
 	}
 	"TF_DEMOMAN_DESTROY_BUILDINGS_GRIND_Desc"
 	{
-		"sv"	"Förstör 50 byggnader."
+		"sv"	"FÃ¶rstÃ¶r 50 byggnader."
 	}
 	"TF_DEMOMAN_KILL_X_HEAVIES_FULLHP_ONEDET_Title"
 	{
-		"sv"	"Tung sprängning"
+		"sv"	"Tung sprÃ¤ngning"
 	}
 	"TF_DEMOMAN_KILL_X_HEAVIES_FULLHP_ONEDET_Desc"
 	{
-		"sv"	"Döda 5 tunga artillerister med full hälsa med en enda klisterbombsdetonering."
+		"sv"	"DÃ¶da 5 tunga artillerister med full hÃ¤lsa med en enda klisterbombsdetonering."
 	}
 	"TF_DEMOMAN_KILL_X_SCOUTS_PYROS_Title"
 	{
@@ -2462,7 +2478,7 @@
 	}
 	"TF_DEMOMAN_KILL_X_SCOUTS_PYROS_Desc"
 	{
-		"sv"	"Döda 25 spanare och Pyro med granatkastare."
+		"sv"	"DÃ¶da 25 spanare och Pyro med granatkastare."
 	}
 	"TF_DEMOMAN_TAUNT_KILL_Title"
 	{
@@ -2474,19 +2490,19 @@
 	}
 	"TF_DEMOMAN_CHARGE_KILL_Title"
 	{
-		"sv"	"Sköldknäpp"
+		"sv"	"SkÃ¶ldknÃ¤pp"
 	}
 	"TF_DEMOMAN_CHARGE_KILL_Desc"
 	{
-		"sv"	"Ladda och döda någon med ett sköldslag."
+		"sv"	"Ladda och dÃ¶da nÃ¥gon med ett skÃ¶ldslag."
 	}
 	"TF_DEMOMAN_CRIT_SWORD_KILL_Title"
 	{
-		"sv"	"Skotten står som spön i backen"
+		"sv"	"Skotten stÃ¥r som spÃ¶n i backen"
 	}
 	"TF_DEMOMAN_CRIT_SWORD_KILL_Desc"
 	{
-		"sv"	"Döda 5 fiendespelare genom att använda ett kritiskt slag med Eyelander."
+		"sv"	"DÃ¶da 5 fiendespelare genom att anvÃ¤nda ett kritiskt slag med Eyelander."
 	}
 	"TF_DEMOMAN_AIR_BURST_KILLS_Title"
 	{
@@ -2494,15 +2510,15 @@
 	}
 	"TF_DEMOMAN_AIR_BURST_KILLS_Desc"
 	{
-		"sv"	"Döda 30 spelare med luftdetonerade klisterbomber."
+		"sv"	"DÃ¶da 30 spelare med luftdetonerade klisterbomber."
 	}
 	"TF_DEMOMAN_STICKYJUMP_CAP_Title"
 	{
-		"sv"	"Hoppfull erövring"
+		"sv"	"Hoppfull erÃ¶vring"
 	}
 	"TF_DEMOMAN_STICKYJUMP_CAP_Desc"
 	{
-		"sv"	"Klisterbombshoppa till en punkt och erövra den."
+		"sv"	"Klisterbombshoppa till en punkt och erÃ¶vra den."
 	}
 	"TF_DEMOMAN_FREEZECAM_SMILE_Title"
 	{
@@ -2510,15 +2526,15 @@
 	}
 	"TF_DEMOMAN_FREEZECAM_SMILE_Desc"
 	{
-		"sv"	"Ge en fiendespelare en fryst bild på ditt leende ansikte."
+		"sv"	"Ge en fiendespelare en fryst bild pÃ¥ ditt leende ansikte."
 	}
 	"TF_DEMOMAN_FREEZECAM_RUMP_Title"
 	{
-		"sv"	"Det andra ögat"
+		"sv"	"Det andra Ã¶gat"
 	}
 	"TF_DEMOMAN_FREEZECAM_RUMP_Desc"
 	{
-		"sv"	"Ge en fiendespelare en fryst bild när du skakar på rumpan."
+		"sv"	"Ge en fiendespelare en fryst bild nÃ¤r du skakar pÃ¥ rumpan."
 	}
 	"TF_DEMOMAN_ENVIRONMENTAL_KILL_Title"
 	{
@@ -2526,31 +2542,31 @@
 	}
 	"TF_DEMOMAN_ENVIRONMENTAL_KILL_Desc"
 	{
-		"sv"	"Använd klisterbombskastaren till att döda en fiendespelare via miljöskador."
+		"sv"	"AnvÃ¤nd klisterbombskastaren till att dÃ¶da en fiendespelare via miljÃ¶skador."
 	}
 	"TF_DEMOMAN_DESTROY_X_STICKYBOMBS_Title"
 	{
-		"sv"	"Rojalistiskt rånad"
+		"sv"	"Rojalistiskt rÃ¥nad"
 	}
 	"TF_DEMOMAN_DESTROY_X_STICKYBOMBS_Desc"
 	{
-		"sv"	"Förstör 100 av fiendens klisterbomber med Scottish Resistance."
+		"sv"	"FÃ¶rstÃ¶r 100 av fiendens klisterbomber med Scottish Resistance."
 	}
 	"TF_DEMOMAN_STICKJUMP_DISTANCE_Title"
 	{
-		"sv"	"Höglandshopp"
+		"sv"	"HÃ¶glandshopp"
 	}
 	"TF_DEMOMAN_STICKJUMP_DISTANCE_Desc"
 	{
-		"sv"	"Klisterbombshoppa riktigt långt..."
+		"sv"	"Klisterbombshoppa riktigt lÃ¥ngt..."
 	}
 	"TF_DEMOMAN_KILL3_WITH_DETONATION_Title"
 	{
-		"sv"	"Säcken piper för dig"
+		"sv"	"SÃ¤cken piper fÃ¶r dig"
 	}
 	"TF_DEMOMAN_KILL3_WITH_DETONATION_Desc"
 	{
-		"sv"	"Döda minst tre spelare med en enda klisterbombsdetonering."
+		"sv"	"DÃ¶da minst tre spelare med en enda klisterbombsdetonering."
 	}
 	"TF_DEMOMAN_KILLXSAPPINGSPIES_Title"
 	{
@@ -2558,7 +2574,7 @@
 	}
 	"TF_DEMOMAN_KILLXSAPPINGSPIES_Desc"
 	{
-		"sv"	"Döda 20 spioner inom 5 sekunder efter att de har satt en sapper på en allierad byggnad."
+		"sv"	"DÃ¶da 20 spioner inom 5 sekunder efter att de har satt en sapper pÃ¥ en allierad byggnad."
 	}
 	"TF_DEMOMAN_KILL3_WITH_PIPE_SETUPS_Title"
 	{
@@ -2566,7 +2582,7 @@
 	}
 	"TF_DEMOMAN_KILL3_WITH_PIPE_SETUPS_Desc"
 	{
-		"sv"	"Använd Scottish Resistance till att döda 3 spelare i separata explosioner utan att placera ut nya klisterbomber."
+		"sv"	"AnvÃ¤nd Scottish Resistance till att dÃ¶da 3 spelare i separata explosioner utan att placera ut nya klisterbomber."
 	}
 	"TF_DEMOMAN_ACHIEVE_PROGRESS1_Title"
 	{
@@ -2574,7 +2590,7 @@
 	}
 	"TF_DEMOMAN_ACHIEVE_PROGRESS1_Desc"
 	{
-		"sv"	"Tjäna in 5 av framstegen i demoman-paketet."
+		"sv"	"TjÃ¤na in 5 av framstegen i demoman-paketet."
 	}
 	"TF_DEMOMAN_ACHIEVE_PROGRESS2_Title"
 	{
@@ -2582,7 +2598,7 @@
 	}
 	"TF_DEMOMAN_ACHIEVE_PROGRESS2_Desc"
 	{
-		"sv"	"Tjäna in 11 av framstegen i demoman-paketet."
+		"sv"	"TjÃ¤na in 11 av framstegen i demoman-paketet."
 	}
 	"TF_DEMOMAN_ACHIEVE_PROGRESS3_Title"
 	{
@@ -2590,22 +2606,310 @@
 	}
 	"TF_DEMOMAN_ACHIEVE_PROGRESS3_Desc"
 	{
-		"sv"	"Tjäna in 17 av framstegen i demoman-paketet."
+		"sv"	"TjÃ¤na in 17 av framstegen i demoman-paketet."
 	}
-	"TF_SPY_TAUNT_KILL_Title"
+	"TF_ENGINEER_ACHIEVE_PROGRESS1_Title"
 	{
-		"sv"	"Mannen från P.U.N.K.T.U.R."
+		"sv"	"Milstolpe 1, tekniker"
 	}
-	"TF_SPY_TAUNT_KILL_Desc"
+	"TF_ENGINEER_ACHIEVE_PROGRESS1_Desc"
 	{
-		"sv"	"Knivhugg en fiende medan du fäktas."
+		"sv"	"TjÃ¤na in 5 av framstegen i teknikerpaketet."
 	}
-	"TF_SPY_FAST_CAP_Title"
+	"TF_ENGINEER_ACHIEVE_PROGRESS2_Title"
 	{
-		"sv"	"Med rätt att erövra"
+		"sv"	"Milstolpe 2, tekniker"
 	}
-	"TF_SPY_FAST_CAP_Desc"
+	"TF_ENGINEER_ACHIEVE_PROGRESS2_Desc"
 	{
-		"sv"	"Börja erövra en erövringspunkt inom en sekund efter att den blir tillgänglig."
+		"sv"	"TjÃ¤na in 11 av framstegen i teknikerpaketet."
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS3_Title"
+	{
+		"sv"	"Milstolpe 3, tekniker"
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS3_Desc"
+	{
+		"sv"	"TjÃ¤na in 17 av framstegen i teknikerpaketet."
+	}
+	"TF_ENGINEER_TELEPORT_GRIND_Title"
+	{
+		"sv"	"KofÃ¶saren"
+	}
+	"TF_ENGINEER_TELEPORT_GRIND_Desc"
+	{
+		"sv"	"Teleportera in 100 lagmedlemmar i strid."
+	}
+	"TF_ENGINEER_DISPENSER_EXTINGUISH_Title"
+	{
+		"sv"	"Ã„delt slÃ¤ckte"
+	}
+	"TF_ENGINEER_DISPENSER_EXTINGUISH_Desc"
+	{
+		"sv"	"LÃ¥t utmatare som du har byggt slÃ¤cka 20 brinnande spelare."
+	}
+	"TF_ENGINEER_REVENGE_CRIT_SENTRY_KILLER_Title"
+	{
+		"sv"	"HÃ¤mnden Ã¤r ljuv"
+	}
+	"TF_ENGINEER_REVENGE_CRIT_SENTRY_KILLER_Desc"
+	{
+		"sv"	"AnvÃ¤nd en kritisk hÃ¤mndtrÃ¤ff till att dÃ¶da den fiendespelare som fÃ¶rstÃ¶rde ditt vaktgevÃ¤r."
+	}
+	"TF_ENGINEER_MANUAL_CLOAKED_SPY_KILL_Title"
+	{
+		"sv"	"SÃ¶kmotor"
+	}
+	"TF_ENGINEER_MANUAL_CLOAKED_SPY_KILL_Desc"
+	{
+		"sv"	"DÃ¶da 3 dolda spioner med ett vaktgevÃ¤r som styrs av din Wrangler."
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_KILLS_BEYOND_RANGE_Title"
+	{
+		"sv"	"Lagets lÃ¥nga arm"
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_KILLS_BEYOND_RANGE_Desc"
+	{
+		"sv"	"DÃ¶da 10 fiender bortom den vanliga rÃ¤ckvidden fÃ¶r vaktgevÃ¤ret med hjÃ¤lp av Wrangler."
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_ABSORB_DMG_Title"
+	{
+		"sv"	"SkadeglÃ¤dje"
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_ABSORB_DMG_Desc"
+	{
+		"sv"	"Skydda ett vaktgevÃ¤r med Wranglerns skÃ¶ld och absorbera 500 i skada utan att det fÃ¶rstÃ¶rs."
+	}
+	"TF_ENGINEER_REVENGE_CRIT_LIFE_Title"
+	{
+		"sv"	"De ofÃ¶rsonliga"
+	}
+	"TF_ENGINEER_REVENGE_CRIT_LIFE_Desc"
+	{
+		"sv"	"DÃ¶da 3 fiender med en kritisk hÃ¤mndtrÃ¤ff utan att dÃ¶."
+	}
+	"TF_ENGINEER_KILL_SPY_TWO_SAPPERS_Title"
+	{
+		"sv"	"Dra snabbt"
+	}
+	"TF_ENGINEER_KILL_SPY_TWO_SAPPERS_Desc"
+	{
+		"sv"	"DÃ¶da en spion och fÃ¶rstÃ¶r tvÃ¥ sappers inom 10 sekunder."
+	}
+	"TF_ENGINEER_KILL_DISGUISED_SPY_Title"
+	{
+		"sv"	"Skiftnyckeln till frihet"
+	}
+	"TF_ENGINEER_KILL_DISGUISED_SPY_Desc"
+	{
+		"sv"	"DÃ¶da en fÃ¶rklÃ¤dd spion med skiftnyckeln."
+	}
+	"TF_ENGINEER_UPGRADE_BUILDINGS_Title"
+	{
+		"sv"	"Harmonica â€“ en hjÃ¤lpare"
+	}
+	"TF_ENGINEER_UPGRADE_BUILDINGS_Desc"
+	{
+		"sv"	"Uppgradera 50 byggnader som byggts av andra lagmedlemmar."
+	}
+	"TF_ENGINEER_DESTROY_SAPPERS_Title"
+	{
+		"sv"	"FÃ¶r en handfull sappers"
+	}
+	"TF_ENGINEER_DESTROY_SAPPERS_Desc"
+	{
+		"sv"	"FÃ¶rstÃ¶r 25 sappers pÃ¥ byggnader som byggts av andra lagmedlemmar."
+	}
+	"TF_ENGINEER_REPAIR_SENTRY_W_MEDIC_Title"
+	{
+		"sv"	"Den onde, den gode, den skjutne"
+	}
+	"TF_ENGINEER_REPAIR_SENTRY_W_MEDIC_Desc"
+	{
+		"sv"	"Reparera ett vaktgevÃ¤r under beskjutning medan du helas av en sjukvÃ¥rdare."
+	}
+	"TF_ENGINEER_SENTRY_KILL_LIFETIME_GRIND_Title"
+	{
+		"sv"	"Det bÃ¤sta lilla slakthuset i Texas"
+	}
+	"TF_ENGINEER_SENTRY_KILL_LIFETIME_GRIND_Desc"
+	{
+		"sv"	"Expediera 5000 fiender med dina vaktgevÃ¤r."
+	}
+	"TF_ENGINEER_SENTRY_AVENGES_YOU_Title"
+	{
+		"sv"	"Frontier Justice"
+	}
+	"TF_ENGINEER_SENTRY_AVENGES_YOU_Desc"
+	{
+		"sv"	"LÃ¥t ditt vaktgevÃ¤r dÃ¶da den fiende som just dÃ¶dade dig inom 10 sekunder."
+	}
+	"TF_ENGINEER_FREEZECAM_TAUNT_Title"
+	{
+		"sv"	"Gitarrmongot"
+	}
+	"TF_ENGINEER_FREEZECAM_TAUNT_Desc"
+	{
+		"sv"	"Ge en fiendespelare en fryst bild pÃ¥ din skicklighet som gitarrspelare."
+	}
+	"TF_ENGINEER_FREEZECAM_SENTRY_Title"
+	{
+		"sv"	"OtÃ¤ckniker"
+	}
+	"TF_ENGINEER_FREEZECAM_SENTRY_Desc"
+	{
+		"sv"	"Ge en fiendespelare en fryst bild pÃ¥ dig och det vaktgevÃ¤r som just dÃ¶dade honom eller henne."
+	}
+	"TF_ENGINEER_SHOTGUN_KILL_PREV_SENTRY_TARGET_Title"
+	{
+		"sv"	"Texas Two-Step"
+	}
+	"TF_ENGINEER_SHOTGUN_KILL_PREV_SENTRY_TARGET_Desc"
+	{
+		"sv"	"AnvÃ¤nd hagelgevÃ¤ret till att ta kÃ¥l pÃ¥ en fiende som nyligen skadades av ditt vaktgevÃ¤r."
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GROUP_Title"
+	{
+		"sv"	"Doktorn kan komma"
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GROUP_Desc"
+	{
+		"sv"	"LÃ¥t en utmatare hela 3 lagmedlemmar samtidigt."
+	}
+	"TF_ENGINEER_SENTRY_KILL_CAPS_Title"
+	{
+		"sv"	"Ingenmansland"
+	}
+	"TF_ENGINEER_SENTRY_KILL_CAPS_Desc"
+	{
+		"sv"	"AnvÃ¤nd ett vaktgevÃ¤r till att dÃ¶da 25 fiendespelare som erÃ¶vrar en punkt."
+	}
+	"TF_ENGINEER_KILL_FLAG_CARRIERS_Title"
+	{
+		"sv"	"AffÃ¤rshemligheter"
+	}
+	"TF_ENGINEER_KILL_FLAG_CARRIERS_Desc"
+	{
+		"sv"	"DÃ¶da 20 spelare som bÃ¤r pÃ¥ informationen."
+	}
+	"TF_ENGINEER_WASTE_METAL_GRIND_Title"
+	{
+		"sv"	"DÃ¶dsmetall"
+	}
+	"TF_ENGINEER_WASTE_METAL_GRIND_Desc"
+	{
+		"sv"	"Samla in 10 000 bitar metallskrÃ¤p frÃ¥n fÃ¶rstÃ¶rda byggnader."
+	}
+	"TF_ENGINEER_HELP_BUILD_STRUCTURE_Title"
+	{
+		"sv"	"Nybyggarna"
+	}
+	"TF_ENGINEER_HELP_BUILD_STRUCTURE_Desc"
+	{
+		"sv"	"HjÃ¤lp en lagmedlem att bygga en byggnad."
+	}
+	"TF_ENGINEER_REMOVE_SAPPER_LONG_DIST_Title"
+	{
+		"sv"	"LÃ¥ngt borta och nÃ¤ra"
+	}
+	"TF_ENGINEER_REMOVE_SAPPER_LONG_DIST_Desc"
+	{
+		"sv"	"Lyckas komma fram till och ta bort en sapper som placerats pÃ¥ din byggnad medan du var flera meter bort."
+	}
+	"TF_ENGINEER_DESTROY_STICKIES_Title"
+	{
+		"sv"	"VÃ¤sterns vilda mos"
+	}
+	"TF_ENGINEER_DESTROY_STICKIES_Desc"
+	{
+		"sv"	"FÃ¶rstÃ¶r 50 av fiendens klisterbomber som ligger inom rÃ¤ckvidd fÃ¶r allierade byggnader."
+	}
+	"TF_ENGINEER_TAUNT_KILL_Title"
+	{
+		"sv"	"Ung man med gitarr"
+	}
+	"TF_ENGINEER_TAUNT_KILL_Desc"
+	{
+		"sv"	"Krossa skallen pÃ¥ en fiende med din gitarr."
+	}
+	"TF_ENGINEER_KILL_SNIPERS_SENTRY_Title"
+	{
+		"sv"	"10 tappra mÃ¤n"
+	}
+	"TF_ENGINEER_KILL_SNIPERS_SENTRY_Desc"
+	{
+		"sv"	"DÃ¶da 10 krypskyttar med ett vaktgevÃ¤r som du fjÃ¤rrkontrollerar med din Wrangler."
+	}
+	"TF_ENGINEER_HELP_MANUAL_SENTRY_Title"
+	{
+		"sv"	"Landet bortom lagningen"
+	}
+	"TF_ENGINEER_HELP_MANUAL_SENTRY_Desc"
+	{
+		"sv"	"UtfÃ¶r 50 reparationer och/eller omladdningar pÃ¥ ett vaktgevÃ¤r som styrs av en annan teknikers Wrangler."
+	}
+	"TF_ENGINEER_KILL_SENTRY_WITH_SENTRY_Title"
+	{
+		"sv"	"Patentskydd"
+	}
+	"TF_ENGINEER_KILL_SENTRY_WITH_SENTRY_Desc"
+	{
+		"sv"	"FÃ¶rstÃ¶r en fiendeteknikers vaktgevÃ¤r med ett vaktgevÃ¤r som du kontrollerar med din Wrangler."
+	}
+	"TF_ENGINEER_MOVE_SENTRY_GET_KILL_Title"
+	{
+		"sv"	"DÃ¶dligt lÃ¤ge"
+	}
+	"TF_ENGINEER_MOVE_SENTRY_GET_KILL_Desc"
+	{
+		"sv"	"Dra ett nivÃ¥ 3-vaktgevÃ¤r till en position dÃ¤r det dÃ¶dar en fiende strax efter att Ã¥teraktiverats."
+	}
+	"TF_ENGINEER_BUILDING_CARRY_Title"
+	{
+		"sv"	"Texas Ranger"
+	}
+	"TF_ENGINEER_BUILDING_CARRY_Desc"
+	{
+		"sv"	"Frakta byggnader 1 km under din karriÃ¤r."
+	}
+	"TF_ENGINEER_KILL_ASSIST_Title"
+	{
+		"sv"	"Det vÃ¥ras fÃ¶r assisten"
+	}
+	"TF_ENGINEER_KILL_ASSIST_Desc"
+	{
+		"sv"	"FÃ¥ 10 assists med en annan tekniker dÃ¤r ett vaktgevÃ¤r ingick i likvideringen."
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GRIND_Title"
+	{
+		"sv"	"Drugstore Cowboy"
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GRIND_Desc"
+	{
+		"sv"	"LÃ¥t utmatare som du har byggt mata ut en sammanlagd mÃ¤ngd pÃ¥ 100 000 i hÃ¤lsa under din karriÃ¤r."
+	}
+	"TF_ENGINEER_REPAIR_TEAM_GRIND_Title"
+	{
+		"sv"	"De smÃ¥ husen pÃ¥ prÃ¤rien"
+	}
+	"TF_ENGINEER_REPAIR_TEAM_GRIND_Desc"
+	{
+		"sv"	"Reparera 50 000 i skada pÃ¥ allierade byggnader som byggts av andra spelare."
+	}
+	"TF_ENGINEER_TANK_DAMAGE_Title"
+	{
+		"sv"	"Pang i bygget"
+	}
+	"TF_ENGINEER_TANK_DAMAGE_Desc"
+	{
+		"sv"	"HjÃ¤lp en enda byggnad att ta Ã¶ver 2000 i skada utan att fÃ¶rstÃ¶ras."
+	}
+	"TF_ENGINEER_HEAVY_ASSIST_Title"
+	{
+		"sv"	"Ensam Ã¤r (inte lika) stark"
+	}
+	"TF_ENGINEER_HEAVY_ASSIST_Desc"
+	{
+		"sv"	"HÃ¥ll en tung artillerist helad med din utmatare medan han lyckas dÃ¶da 5 fiender."
 	}
 }

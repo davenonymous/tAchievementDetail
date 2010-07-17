@@ -1,12 +1,12 @@
-"Phrases"
+ï»¿"Phrases"
 {
 	"TF_GET_TURRETKILLS_Title"
 	{
-		"no"	"Sensorvåpen"
+		"no"	"SensorvÃ¥pen"
 	}
 	"TF_GET_TURRETKILLS_Desc"
 	{
-		"no"	"Samle opp 10 sensorvåpen med én enkelt sensor."
+		"no"	"Samle opp 10 sensorvÃ¥pen med Ã©n enkelt sensor."
 	}
 	"TF_KILL_NEMESIS_Title"
 	{
@@ -14,15 +14,15 @@
 	}
 	"TF_KILL_NEMESIS_Desc"
 	{
-		"no"	"Få fem hevndrap."
+		"no"	"FÃ¥ fem hevndrap."
 	}
 	"TF_GET_CONSECUTIVEKILLS_NODEATHS_Title"
 	{
-		"no"	"Vanskelig å drepe"
+		"no"	"Vanskelig Ã¥ drepe"
 	}
 	"TF_GET_CONSECUTIVEKILLS_NODEATHS_Desc"
 	{
-		"no"	"Få fem drap på rad uten å dø."
+		"no"	"FÃ¥ fem drap pÃ¥ rad uten Ã¥ dÃ¸."
 	}
 	"TF_GET_HEALED_BYENEMY_Title"
 	{
@@ -30,19 +30,19 @@
 	}
 	"TF_GET_HEALED_BYENEMY_Desc"
 	{
-		"no"	"Lur en av motstandernes Medicer til å helbrede deg."
+		"no"	"Lur en av motstandernes Saniteter til Ã¥ helbrede deg."
 	}
 	"TF_GET_HEADSHOTS_Title"
 	{
-		"no"	"Grå materie"
+		"no"	"GrÃ¥ materie"
 	}
 	"TF_GET_HEADSHOTS_Desc"
 	{
-		"no"	"Få 25 hodeskudd som Sniper."
+		"no"	"FÃ¥ 25 hodeskudd som Sniper."
 	}
 	"TF_PLAY_GAME_FRIENDSONLY_Title"
 	{
-		"no"	"Med venner som disse ..."
+		"no"	"Med venner som disseÂ ..."
 	}
 	"TF_PLAY_GAME_FRIENDSONLY_Desc"
 	{
@@ -78,7 +78,7 @@
 	}
 	"TF_WIN_WELL_MINIMUMTIME_Desc"
 	{
-		"no"	"Vinn Well på fem minutter eller mindre."
+		"no"	"Vinn Well pÃ¥ fem minutter eller mindre."
 	}
 	"TF_WIN_HYDRO_NOENEMYCAPS_Title"
 	{
@@ -86,7 +86,7 @@
 	}
 	"TF_WIN_HYDRO_NOENEMYCAPS_Desc"
 	{
-		"no"	"Vinn Hydro uten å gi opp en erobring."
+		"no"	"Vinn Hydro uten Ã¥ gi opp en erobring."
 	}
 	"TF_WIN_DUSTBOWL_NOENEMYCAPS_Title"
 	{
@@ -94,7 +94,7 @@
 	}
 	"TF_WIN_DUSTBOWL_NOENEMYCAPS_Desc"
 	{
-		"no"	"Lykkes i å forsvare Dustbowl uten å gi opp en erobring."
+		"no"	"Lykkes i Ã¥ forsvare Dustbowl uten Ã¥ gi opp en erobring."
 	}
 	"TF_WIN_GRAVELPIT_NOENEMYCAPS_Title"
 	{
@@ -102,7 +102,7 @@
 	}
 	"TF_WIN_GRAVELPIT_NOENEMYCAPS_Desc"
 	{
-		"no"	"Lykkes i å forsvare Gravel Pit uten å gi opp en erobring."
+		"no"	"Lykkes i Ã¥ forsvare Gravel Pit uten Ã¥ gi opp en erobring."
 	}
 	"TF_PLAY_GAME_EVERYCLASS_Title"
 	{
@@ -118,7 +118,7 @@
 	}
 	"TF_PLAY_GAME_EVERYMAP_Desc"
 	{
-		"no"	"Spill et fullstendig spill på 2Fort, Dustbowl, Granary, Gravel Pit, Hydro og Well (CP)."
+		"no"	"Spill et fullstendig spill pÃ¥ 2Fort, Dustbowl, Granary, Gravel Pit, Hydro og Well (CP)."
 	}
 	"TF_GET_HEALPOINTS_Title"
 	{
@@ -126,7 +126,7 @@
 	}
 	"TF_GET_HEALPOINTS_Desc"
 	{
-		"no"	"Samle opp 25 000 helbredelsespoeng som Medic."
+		"no"	"Samle opp 25Â 000 helbredelsespoeng som Sanitet."
 	}
 	"TF_BURN_PLAYERSINMINIMUMTIME_Title"
 	{
@@ -134,15 +134,15 @@
 	}
 	"TF_BURN_PLAYERSINMINIMUMTIME_Desc"
 	{
-		"no"	"Sett fyr på fem fiender på 30 sekunder."
+		"no"	"Sett fyr pÃ¥ fem fiender pÃ¥ 30 sekunder."
 	}
 	"TF_MEDIC_TOP_SCOREBOARD_Title"
 	{
-		"no"	"Først – ikke gjør skade"
+		"no"	"FÃ¸rst â€“ ikke gjÃ¸r skade"
 	}
 	"TF_MEDIC_TOP_SCOREBOARD_Desc"
 	{
-		"no"	"Spill en hel runde uten å drepe noen fiender, og få høyeste poengsum på laget som består av seks eller flere spillere."
+		"no"	"Spill en hel runde uten Ã¥ drepe noen fiender, og fÃ¥ hÃ¸yeste poengsum pÃ¥ laget som bestÃ¥r av seks eller flere spillere."
 	}
 	"TF_MEDIC_HEAL_UNDER_FIRE_Title"
 	{
@@ -158,7 +158,7 @@
 	}
 	"TF_MEDIC_SIMUL_CHARGE_Desc"
 	{
-		"no"	"Samarbeid med to andre Medicer for å bruke tre superladinger samtidig."
+		"no"	"Samarbeid med to andre Saniteter for Ã¥ bruke tre superladinger samtidig."
 	}
 	"TF_MEDIC_SETUP_CHARGE_Title"
 	{
@@ -166,7 +166,7 @@
 	}
 	"TF_MEDIC_SETUP_CHARGE_Desc"
 	{
-		"no"	"Ha klar en superlading før oppsettsfasen er over."
+		"no"	"Ha klar en superlading fÃ¸r oppsettsfasen er over."
 	}
 	"TF_MEDIC_RAPID_CHARGE_Title"
 	{
@@ -174,15 +174,15 @@
 	}
 	"TF_MEDIC_RAPID_CHARGE_Desc"
 	{
-		"no"	"Bruk tre superladinger på mindre enn fem minutter, og assister til fem drap i løpet av den tiden."
+		"no"	"Bruk tre superladinger pÃ¥ mindre enn fem minutter, og assister til fem drap i lÃ¸pet av den tiden."
 	}
 	"TF_MEDIC_COUNTER_CHARGE_Title"
 	{
-		"no"	"Dobbel blindprøve"
+		"no"	"Dobbel blindprÃ¸ve"
 	}
 	"TF_MEDIC_COUNTER_CHARGE_Desc"
 	{
-		"no"	"Bruk en superlading innen åtte sekunder fra en fiendtlig Medic bruker sin."
+		"no"	"Bruk en superlading innen Ã¥tte sekunder fra en fiendtlig Sanitet bruker sin."
 	}
 	"TF_MEDIC_SWITCH_TO_MEDIC_Title"
 	{
@@ -190,7 +190,7 @@
 	}
 	"TF_MEDIC_SWITCH_TO_MEDIC_Desc"
 	{
-		"no"	"I lag uten Medicer må du være den første personen som skifter til Medic etter at en lagkamerat roper på en Medic, og deretter må du helbrede 500 helsepoeng."
+		"no"	"I lag uten Saniteter mÃ¥ du vÃ¦re den fÃ¸rste personen som skifter til Sanitet etter at en lagkamerat roper pÃ¥ en Sanitet, og deretter mÃ¥ du helbrede 500 helsepoeng."
 	}
 	"TF_MEDIC_SAVE_TEAMMATE_Title"
 	{
@@ -198,7 +198,7 @@
 	}
 	"TF_MEDIC_SAVE_TEAMMATE_Desc"
 	{
-		"no"	"Bruk en superlading på en lagkamerat mindre enn ett sekund før de blir truffet av en kritisk bombe."
+		"no"	"Bruk en superlading pÃ¥ en lagkamerat mindre enn ett sekund fÃ¸r de blir truffet av en kritisk bombe."
 	}
 	"TF_MEDIC_CHARGE_BLOCKER_Title"
 	{
@@ -206,7 +206,7 @@
 	}
 	"TF_MEDIC_CHARGE_BLOCKER_Desc"
 	{
-		"no"	"Blokker fienden fra å erobre et kontrollpunkt med en superladet lagkamerat."
+		"no"	"Blokker fienden fra Ã¥ erobre et kontrollpunkt med en superladet lagkamerat."
 	}
 	"TF_MEDIC_ASSIST_MEDIC_Title"
 	{
@@ -214,15 +214,15 @@
 	}
 	"TF_MEDIC_ASSIST_MEDIC_Desc"
 	{
-		"no"	"Assister en annen Medic i å drepe fem fiender på ett enkelt liv."
+		"no"	"Assister en annen Sanitet i Ã¥ drepe fem fiender pÃ¥ ett enkelt liv."
 	}
 	"TF_MEDIC_SYRINGE_SCOUTS_Title"
 	{
-		"no"	"Gjør det vondt når jeg gjør dette?"
+		"no"	"GjÃ¸r det vondt nÃ¥r jeg gjÃ¸r dette?"
 	}
 	"TF_MEDIC_SYRINGE_SCOUTS_Desc"
 	{
-		"no"	"Drep 50 Scouter med sprøytepistolen."
+		"no"	"Drep 50 Scouter med sprÃ¸ytepistolen."
 	}
 	"TF_MEDIC_BONESAW_MEDICS_Title"
 	{
@@ -230,23 +230,23 @@
 	}
 	"TF_MEDIC_BONESAW_MEDICS_Desc"
 	{
-		"no"	"Drep 50 Medicer med beinsagen."
+		"no"	"Drep 50 Saniteter med beinsagen."
 	}
 	"TF_MEDIC_ASSIST_HEAVY_LONG_Title"
 	{
-		"no"	"Store farmasøyt"
+		"no"	"Store farmasÃ¸yt"
 	}
 	"TF_MEDIC_ASSIST_HEAVY_LONG_Desc"
 	{
-		"no"	"Assister en Heavy i å drepe 20 fiender, uten at noen av dere dør."
+		"no"	"Assister en Heavy i Ã¥ drepe 20 fiender, uten at noen av dere dÃ¸r."
 	}
 	"TF_MEDIC_ASSIST_SCOUT_Title"
 	{
-		"no"	"Du kommer til å kjenne et lite stikk"
+		"no"	"Du kommer til Ã¥ kjenne et lite stikk"
 	}
 	"TF_MEDIC_ASSIST_SCOUT_Desc"
 	{
-		"no"	"Assister i å drepe 3 fiender med en enkelt superlading mot en Scout."
+		"no"	"Assister i Ã¥ drepe 3 fiender med en enkelt superlading mot en Scout."
 	}
 	"TF_MEDIC_ASSIST_PYRO_Title"
 	{
@@ -254,7 +254,7 @@
 	}
 	"TF_MEDIC_ASSIST_PYRO_Desc"
 	{
-		"no"	"Assister i å brenne 5 fiender med en enkelt superlading mot en Pyro."
+		"no"	"Assister i Ã¥ brenne 5 fiender med en enkelt superlading mot en Pyro."
 	}
 	"TF_MEDIC_ASSIST_HEAVY_Title"
 	{
@@ -262,7 +262,7 @@
 	}
 	"TF_MEDIC_ASSIST_HEAVY_Desc"
 	{
-		"no"	"Assister i å slå ut to fiender med én enkelt superlading mot en Heavy."
+		"no"	"Assister i Ã¥ slÃ¥ ut to fiender med Ã©n enkelt superlading mot en Heavy."
 	}
 	"TF_MEDIC_ASSIST_DEMOMAN_Title"
 	{
@@ -270,7 +270,7 @@
 	}
 	"TF_MEDIC_ASSIST_DEMOMAN_Desc"
 	{
-		"no"	"Assister i å ødelegge 5 fiendtlige Engineer-bygninger med en enkelt superlading mot en Demoman."
+		"no"	"Assister i Ã¥ Ã¸delegge 5 fiendtlige Engineer-bygninger med en enkelt superlading mot en Demoman."
 	}
 	"TF_MEDIC_ASSIST_SOLDIER_Title"
 	{
@@ -278,7 +278,7 @@
 	}
 	"TF_MEDIC_ASSIST_SOLDIER_Desc"
 	{
-		"no"	"Assister i å eksplodere fem fiender med en enkelt superlading mot en Soldier."
+		"no"	"Assister i Ã¥ eksplodere fem fiender med en enkelt superlading mot en Soldier."
 	}
 	"TF_MEDIC_HEAL_ENGINEER_Title"
 	{
@@ -286,7 +286,7 @@
 	}
 	"TF_MEDIC_HEAL_ENGINEER_Desc"
 	{
-		"no"	"Helbred en Engineer idet han reparerer sensorvåpenet sitt mens det blir beskutt av fienden."
+		"no"	"Helbred en Engineer idet han reparerer sensorvÃ¥penet sitt mens det blir beskutt av fienden."
 	}
 	"TF_MEDIC_ASSIST_CAPTURER_Title"
 	{
@@ -294,7 +294,7 @@
 	}
 	"TF_MEDIC_ASSIST_CAPTURER_Desc"
 	{
-		"no"	"Assister i å drepe fem fiender ved et av fiendens kontrollpunkter, i ett enkelt liv."
+		"no"	"Assister i Ã¥ drepe fem fiender ved et av fiendens kontrollpunkter, i ett enkelt liv."
 	}
 	"TF_MEDIC_HEAL_CALLERS_Title"
 	{
@@ -302,7 +302,7 @@
 	}
 	"TF_MEDIC_HEAL_CALLERS_Desc"
 	{
-		"no"	"Helbred 200 lagkamerater etter at de har ropt på en Medic."
+		"no"	"Helbred 200 lagkamerater etter at de har ropt pÃ¥ en Sanitet."
 	}
 	"TF_MEDIC_EXTINGUISH_TEAMMATES_Title"
 	{
@@ -318,7 +318,7 @@
 	}
 	"TF_MEDIC_ASSIST_VS_NEMESES_Desc"
 	{
-		"no"	"Assister i å drepe 20 nemesis-fiender."
+		"no"	"Assister i Ã¥ drepe 20 nemesis-fiender."
 	}
 	"TF_MEDIC_KILL_WHILE_CHARGED_Title"
 	{
@@ -326,7 +326,7 @@
 	}
 	"TF_MEDIC_KILL_WHILE_CHARGED_Desc"
 	{
-		"no"	"Drep fem fiender i ett enkelt liv, mens du har superladingen klar uten å bruke den."
+		"no"	"Drep fem fiender i ett enkelt liv, mens du har superladingen klar uten Ã¥ bruke den."
 	}
 	"TF_MEDIC_BONESAW_NOMISSES_Title"
 	{
@@ -334,7 +334,7 @@
 	}
 	"TF_MEDIC_BONESAW_NOMISSES_Desc"
 	{
-		"no"	"Treff fiender med beinsagen 5 ganger på rad uten å dø eller bomme."
+		"no"	"Treff fiender med beinsagen 5 ganger pÃ¥ rad uten Ã¥ dÃ¸ eller bomme."
 	}
 	"TF_MEDIC_HEAL_LARGE_Title"
 	{
@@ -374,7 +374,7 @@
 	}
 	"TF_MEDIC_SAVE_FALLING_TEAMMATE_Desc"
 	{
-		"no"	"Redd en fallende lagkamerat fra å dø av å treffe bakken."
+		"no"	"Redd en fallende lagkamerat fra Ã¥ dÃ¸ av Ã¥ treffe bakken."
 	}
 	"TF_MEDIC_CHARGE_JUGGLE_Title"
 	{
@@ -390,15 +390,15 @@
 	}
 	"TF_MEDIC_FREEZECAM_RAGDOLL_Desc"
 	{
-		"no"	"Gi en fiende et fryst bilde av deg mens du håner ham over filledukken."
+		"no"	"Gi en fiende et fryst bilde av deg mens du hÃ¥ner ham over filledukken."
 	}
 	"TF_MEDIC_BONESAW_SPY_CALLERS_Title"
 	{
-		"no"	"Førstehjelpsmassakre"
+		"no"	"FÃ¸rstehjelpsmassakre"
 	}
 	"TF_MEDIC_BONESAW_SPY_CALLERS_Desc"
 	{
-		"no"	"Bruk beinsagen til å drepe fem spioner som har ropt på en Medic."
+		"no"	"Bruk beinsagen til Ã¥ drepe fem spioner som har ropt pÃ¥ en Medic."
 	}
 	"TF_MEDIC_CHARGE_FRIENDS_Title"
 	{
@@ -410,11 +410,11 @@
 	}
 	"TF_MEDIC_INVITE_JOIN_CHARGE_Title"
 	{
-		"no"	"Hjemmebesøk"
+		"no"	"HjemmebesÃ¸k"
 	}
 	"TF_MEDIC_INVITE_JOIN_CHARGE_Desc"
 	{
-		"no"	"Bli med i et spill som en av vennene dine er med i, og bruk en superlading på ham."
+		"no"	"Bli med i et spill som en av vennene dine er med i, og bruk en superlading pÃ¥ ham."
 	}
 	"TF_MEDIC_HEAL_ACHIEVER_Title"
 	{
@@ -422,31 +422,31 @@
 	}
 	"TF_MEDIC_HEAL_ACHIEVER_Desc"
 	{
-		"no"	"Helbred en lagkamerat idet han oppnår en prestasjon."
+		"no"	"Helbred en lagkamerat idet han oppnÃ¥r en prestasjon."
 	}
 	"TF_MEDIC_ACHIEVE_PROGRESS1_Title"
 	{
-		"no"	"Medic-milepæl 1"
+		"no"	"Sanitets-milepÃ¦l 1"
 	}
 	"TF_MEDIC_ACHIEVE_PROGRESS1_Desc"
 	{
-		"no"	"Oppnå 10 av prestasjonene i Medic-pakken."
+		"no"	"OppnÃ¥ 10 av prestasjonene i Sanitetspakken."
 	}
 	"TF_MEDIC_ACHIEVE_PROGRESS2_Title"
 	{
-		"no"	"Medic-milepæl 2"
+		"no"	"Sanitets-milepÃ¦l 2"
 	}
 	"TF_MEDIC_ACHIEVE_PROGRESS2_Desc"
 	{
-		"no"	"Oppnå 16 av prestasjonene i Medic-pakken."
+		"no"	"OppnÃ¥ 16 av prestasjonene i Sanitetspakken."
 	}
 	"TF_MEDIC_ACHIEVE_PROGRESS3_Title"
 	{
-		"no"	"Medic-milepæl 3"
+		"no"	"Sanitets-milepÃ¦l 3"
 	}
 	"TF_MEDIC_ACHIEVE_PROGRESS3_Desc"
 	{
-		"no"	"Oppnå 22 av prestasjonene i Medic-pakken."
+		"no"	"OppnÃ¥ 22 av prestasjonene i Sanitetspakken."
 	}
 	"TF_PYRO_KILL_MULTIWEAPONS_Title"
 	{
@@ -454,7 +454,7 @@
 	}
 	"TF_PYRO_KILL_MULTIWEAPONS_Desc"
 	{
-		"no"	"Bruk haglen til å gjøre ende på 20 spillere du har satt fyr på."
+		"no"	"Bruk haglen til Ã¥ gjÃ¸re ende pÃ¥ 20Â spillere du har satt fyr pÃ¥."
 	}
 	"TF_PYRO_SIMULBURN_SCOUTS_Title"
 	{
@@ -462,15 +462,15 @@
 	}
 	"TF_PYRO_SIMULBURN_SCOUTS_Desc"
 	{
-		"no"	"La to Scouter fra fienden stå i brann samtidig."
+		"no"	"La to Scouter fra fienden stÃ¥ i brann samtidig."
 	}
 	"TF_PYRO_FORCE_WATERJUMP_Title"
 	{
-		"no"	"Ilddåp"
+		"no"	"IlddÃ¥p"
 	}
 	"TF_PYRO_FORCE_WATERJUMP_Desc"
 	{
-		"no"	"Tving ti brennende fiender til å hoppe i vannet."
+		"no"	"Tving ti brennende fiender til Ã¥ hoppe i vannet."
 	}
 	"TF_PYRO_KILL_POSTDEATH_Title"
 	{
@@ -478,7 +478,7 @@
 	}
 	"TF_PYRO_KILL_POSTDEATH_Desc"
 	{
-		"no"	"Drep 15 spillere mens du er død."
+		"no"	"Drep 15Â spillere mens du er dÃ¸d."
 	}
 	"TF_PYRO_KILL_SPIES_Title"
 	{
@@ -486,15 +486,15 @@
 	}
 	"TF_PYRO_KILL_SPIES_Desc"
 	{
-		"no"	"Sett fyr på fem spioner som har en Sapper på en alliert bygning."
+		"no"	"Sett fyr pÃ¥ fem spioner som har en Sapper pÃ¥ en alliert bygning."
 	}
 	"TF_PYRO_KILL_CARRIERS_Title"
 	{
-		"no"	"Bokbål"
+		"no"	"BokbÃ¥l"
 	}
 	"TF_PYRO_KILL_CARRIERS_Desc"
 	{
-		"no"	"Sett fyr på fem fiender som bærer på etterretningen din."
+		"no"	"Sett fyr pÃ¥ fem fiender som bÃ¦rer pÃ¥ etterretningen din."
 	}
 	"TF_PYRO_REVEAL_SPIES_Title"
 	{
@@ -502,7 +502,7 @@
 	}
 	"TF_PYRO_REVEAL_SPIES_Desc"
 	{
-		"no"	"Sett fyr på ti skjulte spioner."
+		"no"	"Sett fyr pÃ¥ ti skjulte spioner."
 	}
 	"TF_PYRO_CAMP_TELEPORTERS_Title"
 	{
@@ -510,23 +510,23 @@
 	}
 	"TF_PYRO_CAMP_TELEPORTERS_Desc"
 	{
-		"no"	"Sett fyr på ti fiender som nylig har brukt en teleport."
+		"no"	"Sett fyr pÃ¥ ti fiender som nylig har brukt en teleport."
 	}
 	"TF_PYRO_CAMP_POSITION_Title"
 	{
-		"no"	"Leirbål"
+		"no"	"LeirbÃ¥l"
 	}
 	"TF_PYRO_CAMP_POSITION_Desc"
 	{
-		"no"	"Drep tre fiender på rad, alle i samme område."
+		"no"	"Drep tre fiender pÃ¥ rad, alle i samme omrÃ¥de."
 	}
 	"TF_PYRO_KILL_AXE_SMALL_Title"
 	{
-		"no"	"Tømmerhogger"
+		"no"	"TÃ¸mmerhogger"
 	}
 	"TF_PYRO_KILL_AXE_SMALL_Desc"
 	{
-		"no"	"Drep tre personer med øksen i ett liv."
+		"no"	"Drep tre personer med Ã¸ksen i ett liv."
 	}
 	"TF_PYRO_KILL_AXE_LARGE_Title"
 	{
@@ -534,11 +534,11 @@
 	}
 	"TF_PYRO_KILL_AXE_LARGE_Desc"
 	{
-		"no"	"Drep seks personer med øksen i ett liv."
+		"no"	"Drep seks personer med Ã¸ksen i ett liv."
 	}
 	"TF_PYRO_KILL_FROM_BEHIND_Title"
 	{
-		"no"	"Brann i hælene"
+		"no"	"Brann i hÃ¦lene"
 	}
 	"TF_PYRO_KILL_FROM_BEHIND_Desc"
 	{
@@ -550,7 +550,7 @@
 	}
 	"TF_PYRO_BURN_SPIES_AS_YOU_Desc"
 	{
-		"no"	"Sett fyr på ti forkledde spioner."
+		"no"	"Sett fyr pÃ¥ ti forkledde spioner."
 	}
 	"TF_PYRO_BURN_SNIPERS_ZOOMED_Title"
 	{
@@ -558,7 +558,7 @@
 	}
 	"TF_PYRO_BURN_SNIPERS_ZOOMED_Desc"
 	{
-		"no"	"Sett fyr på 10 snikskyttere mens du har zoomet inn på dem."
+		"no"	"Sett fyr pÃ¥ 10 snikskyttere mens du har zoomet inn pÃ¥ dem."
 	}
 	"TF_PYRO_BURN_MEDICS_CHARGED_Title"
 	{
@@ -566,7 +566,7 @@
 	}
 	"TF_PYRO_BURN_MEDICS_CHARGED_Desc"
 	{
-		"no"	"Sett fyr på tre Medicer som er klare til å bruke en superlading."
+		"no"	"Sett fyr pÃ¥ tre Saniteter som er klare til Ã¥ bruke en superlading."
 	}
 	"TF_PYRO_REFLECT_PROJECTILES_Title"
 	{
@@ -598,7 +598,7 @@
 	}
 	"TF_PYRO_KILL_UBERCHARGE_Desc"
 	{
-		"no"	"Drep tre fiender i én enkelt superlading."
+		"no"	"Drep tre fiender i Ã©n enkelt superlading."
 	}
 	"TF_PYRO_DESTROY_BUILDINGS_Title"
 	{
@@ -606,7 +606,7 @@
 	}
 	"TF_PYRO_DESTROY_BUILDINGS_Desc"
 	{
-		"no"	"Ødelegg 50 Engineer-bygninger."
+		"no"	"Ã˜delegg 50 Engineer-bygninger."
 	}
 	"TF_PYRO_DEFEND_POINTS_Title"
 	{
@@ -614,7 +614,7 @@
 	}
 	"TF_PYRO_DEFEND_POINTS_Desc"
 	{
-		"no"	"Sett fyr på 50 fiender som har erobret et av kontrollpunktene dine."
+		"no"	"Sett fyr pÃ¥ 50 fiender som har erobret et av kontrollpunktene dine."
 	}
 	"TF_PYRO_KILL_GRIND_Title"
 	{
@@ -630,15 +630,15 @@
 	}
 	"TF_PYRO_DAMAGE_GRIND_Desc"
 	{
-		"no"	"Få 1 million punkter med total brannskade."
+		"no"	"FÃ¥ 1 million punkter med total brannskade."
 	}
 	"TF_PYRO_BURN_MEDICPAIR_Title"
 	{
-		"no"	"Nære antenninger"
+		"no"	"NÃ¦re antenninger"
 	}
 	"TF_PYRO_BURN_MEDICPAIR_Desc"
 	{
-		"no"	"Sett fyr på en fiende og Medicen som helbreder ham."
+		"no"	"Sett fyr pÃ¥ en fiende og Saniteten som helbreder ham."
 	}
 	"TF_PYRO_KILL_TAUNT_Title"
 	{
@@ -646,7 +646,7 @@
 	}
 	"TF_PYRO_KILL_TAUNT_Desc"
 	{
-		"no"	"Drep en fiende med håning."
+		"no"	"Drep en fiende med hÃ¥ning."
 	}
 	"TF_PYRO_KILL_TEAMWORK_Title"
 	{
@@ -654,7 +654,7 @@
 	}
 	"TF_PYRO_KILL_TEAMWORK_Desc"
 	{
-		"no"	"Drep en brennende fiende som ble satt fyr på av en annen Pyro."
+		"no"	"Drep en brennende fiende som ble satt fyr pÃ¥ av en annen Pyro."
 	}
 	"TF_PYRO_BURN_SPY_TAUNT_Title"
 	{
@@ -662,15 +662,15 @@
 	}
 	"TF_PYRO_BURN_SPY_TAUNT_Desc"
 	{
-		"no"	"Sett fyr på en Spy fra fienden mens han tenner seg en sigarett."
+		"no"	"Sett fyr pÃ¥ en Spy fra fienden mens han tenner seg en sigarett."
 	}
 	"TF_PYRO_DOMINATE_LEAVESVR_Title"
 	{
-		"no"	"På grillen"
+		"no"	"PÃ¥ grillen"
 	}
 	"TF_PYRO_DOMINATE_LEAVESVR_Desc"
 	{
-		"no"	"Gjør at en dominert spiller må forlate serveren."
+		"no"	"GjÃ¸r at en dominert spiller mÃ¥ forlate serveren."
 	}
 	"TF_PYRO_REFLECT_CROCKET_KILL_Title"
 	{
@@ -686,11 +686,11 @@
 	}
 	"TF_PYRO_KILL_TAUNTERS_Desc"
 	{
-		"no"	"Drep tre fiender mens de håner."
+		"no"	"Drep tre fiender mens de hÃ¥ner."
 	}
 	"TF_PYRO_DOUBLE_KO_Title"
 	{
-		"no"	"Dødelig varme"
+		"no"	"DÃ¸delig varme"
 	}
 	"TF_PYRO_DOUBLE_KO_Desc"
 	{
@@ -702,7 +702,7 @@
 	}
 	"TF_PYRO_BURN_RJ_SOLDIER_Desc"
 	{
-		"no"	"Sett fyr på en Soldier som hopper ut av en rakett, mens han er i luften."
+		"no"	"Sett fyr pÃ¥ en Soldier som hopper ut av en rakett, mens han er i luften."
 	}
 	"TF_PYRO_FREEZECAM_TAUNTS_Title"
 	{
@@ -710,7 +710,7 @@
 	}
 	"TF_PYRO_FREEZECAM_TAUNTS_Desc"
 	{
-		"no"	"Gi fiender fryste bilder av hver av håningene dine."
+		"no"	"Gi fiender fryste bilder av hver av hÃ¥ningene dine."
 	}
 	"TF_PYRO_KILL_GRIND_LARGE_Title"
 	{
@@ -722,35 +722,35 @@
 	}
 	"TF_PYRO_IGNITE_FLAREGUN_Title"
 	{
-		"no"	"Oppmerksomhetssøker"
+		"no"	"OppmerksomhetssÃ¸ker"
 	}
 	"TF_PYRO_IGNITE_FLAREGUN_Desc"
 	{
-		"no"	"Sett fyr på 100 fiender med flammepistolen."
+		"no"	"Sett fyr pÃ¥ 100 fiender med flammepistolen."
 	}
 	"TF_PYRO_ACHIEVE_PROGRESS1_Title"
 	{
-		"no"	"Pyro-milepæl 1"
+		"no"	"Pyro-milepÃ¦l 1"
 	}
 	"TF_PYRO_ACHIEVE_PROGRESS1_Desc"
 	{
-		"no"	"Oppnå 10 av prestasjonene i Pyro-pakken."
+		"no"	"OppnÃ¥ 10 av prestasjonene i Pyro-pakken."
 	}
 	"TF_PYRO_ACHIEVE_PROGRESS2_Title"
 	{
-		"no"	"Pyro-milepæl 2"
+		"no"	"Pyro-milepÃ¦l 2"
 	}
 	"TF_PYRO_ACHIEVE_PROGRESS2_Desc"
 	{
-		"no"	"Oppnå 16 av prestasjonene i Pyro-pakken."
+		"no"	"OppnÃ¥ 16 av prestasjonene i Pyro-pakken."
 	}
 	"TF_PYRO_ACHIEVE_PROGRESS3_Title"
 	{
-		"no"	"Pyro-milepæl 3"
+		"no"	"Pyro-milepÃ¦l 3"
 	}
 	"TF_PYRO_ACHIEVE_PROGRESS3_Desc"
 	{
-		"no"	"Oppnå 22 av prestasjonene i Pyro-pakken."
+		"no"	"OppnÃ¥ 22 av prestasjonene i Pyro-pakken."
 	}
 	"TF_HEAVY_DAMAGE_TAKEN_Title"
 	{
@@ -766,7 +766,7 @@
 	}
 	"TF_HEAVY_DEFEND_MEDIC_Desc"
 	{
-		"no"	"Drep 50 fiender innen 3 sekunder etter at de har angrepet din Medic."
+		"no"	"Drep 50 fiender innen 3 sekunder etter at de har angrepet din Sanitet."
 	}
 	"TF_HEAVY_ASSIST_MEDIC_LARGE_Title"
 	{
@@ -774,23 +774,23 @@
 	}
 	"TF_HEAVY_ASSIST_MEDIC_LARGE_Desc"
 	{
-		"no"	"Drep 20 fiender med hjelp fra en Medic uten at noen av dere dør."
+		"no"	"Drep 20 fiender med hjelp fra en Sanitet uten at noen av dere dÃ¸r."
 	}
 	"TF_HEAVY_EARN_MEDIC_DOMINATION_Title"
 	{
-		"no"	"Rød oktoberfest"
+		"no"	"RÃ¸d oktoberfest"
 	}
 	"TF_HEAVY_EARN_MEDIC_DOMINATION_Desc"
 	{
-		"no"	"Få et herredømme for en Medic som helbreder deg."
+		"no"	"FÃ¥ et herredÃ¸mme for en Sanitet som helbreder deg."
 	}
 	"TF_HEAVY_KILL_TAUNT_Title"
 	{
-		"no"	"Prøvelse"
+		"no"	"PrÃ¸velse"
 	}
 	"TF_HEAVY_KILL_TAUNT_Desc"
 	{
-		"no"	"Drep en fiende med håning."
+		"no"	"Drep en fiende med hÃ¥ning."
 	}
 	"TF_HEAVY_KILL_FLAG_CARRIERS_Title"
 	{
@@ -798,7 +798,7 @@
 	}
 	"TF_HEAVY_KILL_FLAG_CARRIERS_Desc"
 	{
-		"no"	"Drep 10 fiender som bærer på etterretningen din."
+		"no"	"Drep 10 fiender som bÃ¦rer pÃ¥ etterretningen din."
 	}
 	"TF_HEAVY_KILL_MEDIC_PAIR_Title"
 	{
@@ -806,7 +806,7 @@
 	}
 	"TF_HEAVY_KILL_MEDIC_PAIR_Desc"
 	{
-		"no"	"Samarbeid med en alliert Medic om å drepe et fiendtlig par av Heavy og Medic."
+		"no"	"Samarbeid med en alliert Sanitet om Ã¥ drepe et fiendtlig par av Heavy og Sanitet."
 	}
 	"TF_HEAVY_BLOCK_INVULN_HEAVY_Title"
 	{
@@ -814,7 +814,7 @@
 	}
 	"TF_HEAVY_BLOCK_INVULN_HEAVY_Desc"
 	{
-		"no"	"Blokker bevegelsene til en usårbar fiendtlig Heavy mens du er usårbar og i forsvar."
+		"no"	"Blokker bevegelsene til en usÃ¥rbar fiendtlig Heavy mens du er usÃ¥rbar og i forsvar."
 	}
 	"TF_HEAVY_BLOCK_CART_Title"
 	{
@@ -822,15 +822,15 @@
 	}
 	"TF_HEAVY_BLOCK_CART_Desc"
 	{
-		"no"	"Blokker fiendens muligheter til å flytte nyttelastvognen 25 ganger."
+		"no"	"Blokker fiendens muligheter til Ã¥ flytte nyttelastvognen 25 ganger."
 	}
 	"TF_HEAVY_RECEIVE_UBER_GRIND_Title"
 	{
-		"no"	"Enestående"
+		"no"	"EnestÃ¥ende"
 	}
 	"TF_HEAVY_RECEIVE_UBER_GRIND_Desc"
 	{
-		"no"	"Få superlading 50 ganger."
+		"no"	"FÃ¥ superlading 50 ganger."
 	}
 	"TF_HEAVY_STAND_NEAR_DISPENSER_Title"
 	{
@@ -838,7 +838,7 @@
 	}
 	"TF_HEAVY_STAND_NEAR_DISPENSER_Desc"
 	{
-		"no"	"Drep 20 fiender mens du lader opp på en ladestasjon."
+		"no"	"Drep 20 fiender mens du lader opp pÃ¥ en ladestasjon."
 	}
 	"TF_HEAVY_ASSIST_HEAVY_GRIND_Title"
 	{
@@ -846,7 +846,7 @@
 	}
 	"TF_HEAVY_ASSIST_HEAVY_GRIND_Desc"
 	{
-		"no"	"Drep 25 fiender enten ved å hjelpe eller ved å få hjelp av en annen Heavy."
+		"no"	"Drep 25 fiender enten ved Ã¥ hjelpe eller ved Ã¥ fÃ¥ hjelp av en annen Heavy."
 	}
 	"TF_HEAVY_CLEAR_STICKYBOMBS_Title"
 	{
@@ -854,7 +854,7 @@
 	}
 	"TF_HEAVY_CLEAR_STICKYBOMBS_Desc"
 	{
-		"no"	"Fjern 20 klisterbomber ved å drepe Demomennene som produserte dem."
+		"no"	"Fjern 20 klisterbomber ved Ã¥ drepe Demomennene som produserte dem."
 	}
 	"TF_HEAVY_KILL_UNDERWATER_Title"
 	{
@@ -862,7 +862,7 @@
 	}
 	"TF_HEAVY_KILL_UNDERWATER_Desc"
 	{
-		"no"	"Drep 100 fiender mens både du og ofrene er under vann."
+		"no"	"Drep 100 fiender mens bÃ¥de du og ofrene er under vann."
 	}
 	"TF_HEAVY_TAKE_MULTI_DAMAGE_Title"
 	{
@@ -870,7 +870,7 @@
 	}
 	"TF_HEAVY_TAKE_MULTI_DAMAGE_Desc"
 	{
-		"no"	"Bli skutt, brent, klubbet ned og få eksplosjonsskader i ett enkelt liv."
+		"no"	"Bli skutt, brent, klubbet ned og fÃ¥ eksplosjonsskader i ett enkelt liv."
 	}
 	"TF_HEAVY_KILL_DOMINATED_Title"
 	{
@@ -894,7 +894,7 @@
 	}
 	"TF_HEAVY_ASSIST_GRIND_Desc"
 	{
-		"no"	"Få 1000 medvirkninger."
+		"no"	"FÃ¥ 1000 medvirkninger."
 	}
 	"TF_HEAVY_UNCOVER_SPIES_Title"
 	{
@@ -902,7 +902,7 @@
 	}
 	"TF_HEAVY_UNCOVER_SPIES_Desc"
 	{
-		"no"	"Drep eller medvirk til å drepe 10 skjulte spioner."
+		"no"	"Drep eller medvirk til Ã¥ drepe 10 skjulte spioner."
 	}
 	"TF_HEAVY_KILL_WHILE_SPUNUP_Title"
 	{
@@ -910,7 +910,7 @@
 	}
 	"TF_HEAVY_KILL_WHILE_SPUNUP_Desc"
 	{
-		"no"	"Drep 5 fiender uten å spinne ned våpenet ditt."
+		"no"	"Drep 5 fiender uten Ã¥ spinne ned vÃ¥penet ditt."
 	}
 	"TF_HEAVY_FIRE_LOTS_Title"
 	{
@@ -918,7 +918,7 @@
 	}
 	"TF_HEAVY_FIRE_LOTS_Desc"
 	{
-		"no"	"Skyt minivåpenrunder for 200 000 dollar i ett enkelt liv."
+		"no"	"Skyt minivÃ¥penrunder for 200Â 000 dollar i ett enkelt liv."
 	}
 	"TF_HEAVY_KILL_CRIT_PUNCH_Title"
 	{
@@ -934,7 +934,7 @@
 	}
 	"TF_HEAVY_HEAL_MEDIKITS_Desc"
 	{
-		"no"	"Helbred 1000 skader med førstehjelpssett i ett enkelt liv."
+		"no"	"Helbred 1000 skader med fÃ¸rstehjelpssett i ett enkelt liv."
 	}
 	"TF_HEAVY_KILL_SHOTGUN_Title"
 	{
@@ -942,7 +942,7 @@
 	}
 	"TF_HEAVY_KILL_SHOTGUN_Desc"
 	{
-		"no"	"Drep en fiende med haglen mens du er tom for ammunisjon til minivåpenet."
+		"no"	"Drep en fiende med haglen mens du er tom for ammunisjon til minivÃ¥penet."
 	}
 	"TF_HEAVY_FIRST_TO_CAP_Title"
 	{
@@ -950,7 +950,7 @@
 	}
 	"TF_HEAVY_FIRST_TO_CAP_Desc"
 	{
-		"no"	"Vær den første på laget ditt til å begynne å erobre et kontrollpunkt i en runde."
+		"no"	"VÃ¦r den fÃ¸rste pÃ¥ laget ditt til Ã¥ begynne Ã¥ erobre et kontrollpunkt i en runde."
 	}
 	"TF_HEAVY_PAYLOAD_CAP_GRIND_Title"
 	{
@@ -958,15 +958,15 @@
 	}
 	"TF_HEAVY_PAYLOAD_CAP_GRIND_Desc"
 	{
-		"no"	"Få 50 poeng i nyttelastkart."
+		"no"	"FÃ¥ 50 poeng i nyttelastkart."
 	}
 	"TF_HEAVY_KILL_MIDAIR_MINIGUN_Title"
 	{
-		"no"	"Luftig død"
+		"no"	"Luftig dÃ¸d"
 	}
 	"TF_HEAVY_KILL_MIDAIR_MINIGUN_Desc"
 	{
-		"no"	"Drep 10 fiender i luften med minivåpenet."
+		"no"	"Drep 10 fiender i luften med minivÃ¥penet."
 	}
 	"TF_HEAVY_DEFEND_CONTROL_POINT_Title"
 	{
@@ -974,7 +974,7 @@
 	}
 	"TF_HEAVY_DEFEND_CONTROL_POINT_Desc"
 	{
-		"no"	"Drep 25 fiender mens du står på et kontrollpunkt du eier."
+		"no"	"Drep 25 fiender mens du stÃ¥r pÃ¥ et kontrollpunkt du eier."
 	}
 	"TF_HEAVY_KILL_CAPPING_ENEMIES_Title"
 	{
@@ -986,11 +986,11 @@
 	}
 	"TF_HEAVY_REVENGE_ASSIST_Title"
 	{
-		"no"	"En hjelpende hånd"
+		"no"	"En hjelpende hÃ¥nd"
 	}
 	"TF_HEAVY_REVENGE_ASSIST_Desc"
 	{
-		"no"	"Hjelp fem lagkamerater med å ta hevn over nemesisene sine."
+		"no"	"Hjelp fem lagkamerater med Ã¥ ta hevn over nemesisene sine."
 	}
 	"TF_HEAVY_TELEPORT_FAST_KILL_Title"
 	{
@@ -998,7 +998,7 @@
 	}
 	"TF_HEAVY_TELEPORT_FAST_KILL_Desc"
 	{
-		"no"	"Drep en fiende på de fem første sekundene etter at du kommer ut av en teleport."
+		"no"	"Drep en fiende pÃ¥ de fem fÃ¸rste sekundene etter at du kommer ut av en teleport."
 	}
 	"TF_HEAVY_FREEZECAM_TAUNT_Title"
 	{
@@ -1006,7 +1006,7 @@
 	}
 	"TF_HEAVY_FREEZECAM_TAUNT_Desc"
 	{
-		"no"	"Gi en fiende et fryst bilde av deg mens du håner og er usårbar."
+		"no"	"Gi en fiende et fryst bilde av deg mens du hÃ¥ner og er usÃ¥rbar."
 	}
 	"TF_HEAVY_EAT_SANDWICHES_Title"
 	{
@@ -1018,7 +1018,7 @@
 	}
 	"TF_HEAVY_KILL_SCOUTS_Title"
 	{
-		"no"	"Ikke rør Sandvichen"
+		"no"	"Ikke rÃ¸r Sandvichen"
 	}
 	"TF_HEAVY_KILL_SCOUTS_Desc"
 	{
@@ -1034,59 +1034,59 @@
 	}
 	"TF_HEAVY_ACHIEVE_PROGRESS1_Title"
 	{
-		"no"	"Heavy-milepæl 1"
+		"no"	"Heavy-milepÃ¦l 1"
 	}
 	"TF_HEAVY_ACHIEVE_PROGRESS1_Desc"
 	{
-		"no"	"Oppnå 10 av prestasjonene i Heavy-pakken."
+		"no"	"OppnÃ¥ 10 av prestasjonene i Heavy-pakken."
 	}
 	"TF_HEAVY_ACHIEVE_PROGRESS2_Title"
 	{
-		"no"	"Heavy-milepæl 2"
+		"no"	"Heavy-milepÃ¦l 2"
 	}
 	"TF_HEAVY_ACHIEVE_PROGRESS2_Desc"
 	{
-		"no"	"Oppnå 16 av prestasjonene i Heavy-pakken."
+		"no"	"OppnÃ¥ 16 av prestasjonene i Heavy-pakken."
 	}
 	"TF_HEAVY_ACHIEVE_PROGRESS3_Title"
 	{
-		"no"	"Heavy-milepæl 3"
+		"no"	"Heavy-milepÃ¦l 3"
 	}
 	"TF_HEAVY_ACHIEVE_PROGRESS3_Desc"
 	{
-		"no"	"Oppnå 22 av prestasjonene i Heavy-pakken."
+		"no"	"OppnÃ¥ 22 av prestasjonene i Heavy-pakken."
 	}
 	"TF_SCOUT_FIRST_BLOOD_Title"
 	{
-		"no"	"Første blodsdråpe"
+		"no"	"FÃ¸rste blodsdrÃ¥pe"
 	}
 	"TF_SCOUT_FIRST_BLOOD_Desc"
 	{
-		"no"	"Få det første drapet i en Arena-kamp."
+		"no"	"FÃ¥ det fÃ¸rste drapet i en Arena-kamp."
 	}
 	"TF_SCOUT_FIRST_BLOOD_KILL_Title"
 	{
-		"no"	"Første blodsdråpe, del 2"
+		"no"	"FÃ¸rste blodsdrÃ¥pe, del 2"
 	}
 	"TF_SCOUT_FIRST_BLOOD_KILL_Desc"
 	{
-		"no"	"Drep 5 fiender under fulltrefferperioden i Første blodsdråpe"
+		"no"	"Drep 5 fiender under fulltrefferperioden i FÃ¸rste blodsdrÃ¥pe"
 	}
 	"TF_SCOUT_WELL_EARLY_KILL_Title"
 	{
-		"no"	"Slå til raskt"
+		"no"	"SlÃ¥ til raskt"
 	}
 	"TF_SCOUT_WELL_EARLY_KILL_Desc"
 	{
-		"no"	"Drep en spiller i Well før runden starter."
+		"no"	"Drep en spiller i Well fÃ¸r runden starter."
 	}
 	"TF_SCOUT_LIFETIME_KILLS_Title"
 	{
-		"no"	"Et år du sent vil glemme"
+		"no"	"Et Ã¥r du sent vil glemme"
 	}
 	"TF_SCOUT_LIFETIME_KILLS_Desc"
 	{
-		"no"	"Få 2004 levetidsdrap."
+		"no"	"FÃ¥ 2004 levetidsdrap."
 	}
 	"TF_SCOUT_IRON_MAN_KILLS_Title"
 	{
@@ -1094,15 +1094,15 @@
 	}
 	"TF_SCOUT_IRON_MAN_KILLS_Desc"
 	{
-		"no"	"I ett enkelt liv kan du drepe en fiende mens du er på bakken, i luften og i vannet."
+		"no"	"I ett enkelt liv kan du drepe en fiende mens du er pÃ¥ bakken, i luften og i vannet."
 	}
 	"TF_SCOUT_DESTROY_TELEPORTERS_Title"
 	{
-		"no"	"Nærmere"
+		"no"	"NÃ¦rmere"
 	}
 	"TF_SCOUT_DESTROY_TELEPORTERS_Desc"
 	{
-		"no"	"Ødelegg 3 teleportinnganger."
+		"no"	"Ã˜delegg 3 teleportinnganger."
 	}
 	"TF_SCOUT_DESTROY_BUILDINGS_BEING_BUILT_Title"
 	{
@@ -1110,7 +1110,7 @@
 	}
 	"TF_SCOUT_DESTROY_BUILDINGS_BEING_BUILT_Desc"
 	{
-		"no"	"Ødelegg 3 fiendebygninger mens de fremdeles er under oppføring."
+		"no"	"Ã˜delegg 3 fiendebygninger mens de fremdeles er under oppfÃ¸ring."
 	}
 	"TF_SCOUT_DESTROY_SENTRY_WITH_PISTOL_Title"
 	{
@@ -1118,15 +1118,15 @@
 	}
 	"TF_SCOUT_DESTROY_SENTRY_WITH_PISTOL_Desc"
 	{
-		"no"	"Ødelegg et aktivt sensorvåpen med pistolen din."
+		"no"	"Ã˜delegg et aktivt sensorvÃ¥pen med pistolen din."
 	}
 	"TF_SCOUT_DOUBLE_JUMPS_Title"
 	{
-		"no"	"Gjør deg klar"
+		"no"	"GjÃ¸r deg klar"
 	}
 	"TF_SCOUT_DOUBLE_JUMPS_Desc"
 	{
-		"no"	"Utfør 1000 dobbelthopp."
+		"no"	"UtfÃ¸r 1000 dobbelthopp."
 	}
 	"TF_SCOUT_ASSIST_MEDIC_Title"
 	{
@@ -1134,11 +1134,11 @@
 	}
 	"TF_SCOUT_ASSIST_MEDIC_Desc"
 	{
-		"no"	"Drep 3 fiender mens du påvirket av en Medics superlading."
+		"no"	"Drep 3 fiender mens du pÃ¥virket av en Sanitets superlading."
 	}
 	"TF_SCOUT_STEAL_SANDWICH_Title"
 	{
-		"no"	"1–0 over fienden"
+		"no"	"1â€“0 over fienden"
 	}
 	"TF_SCOUT_STEAL_SANDWICH_Desc"
 	{
@@ -1146,27 +1146,27 @@
 	}
 	"TF_SCOUT_ACHIEVE_PROGRESS1_Title"
 	{
-		"no"	"Scout-milepæl 1"
+		"no"	"Scout-milepÃ¦l 1"
 	}
 	"TF_SCOUT_ACHIEVE_PROGRESS1_Desc"
 	{
-		"no"	"Oppnå 10 av prestasjonene i Scout-pakken."
+		"no"	"OppnÃ¥ 10 av prestasjonene i Scout-pakken."
 	}
 	"TF_SCOUT_ACHIEVE_PROGRESS2_Title"
 	{
-		"no"	"Scout-milepæl 2"
+		"no"	"Scout-milepÃ¦l 2"
 	}
 	"TF_SCOUT_ACHIEVE_PROGRESS2_Desc"
 	{
-		"no"	"Oppnå 16 av prestasjonene i Scout-pakken."
+		"no"	"OppnÃ¥ 16 av prestasjonene i Scout-pakken."
 	}
 	"TF_SCOUT_ACHIEVE_PROGRESS3_Title"
 	{
-		"no"	"Scout-milepæl 3"
+		"no"	"Scout-milepÃ¦l 3"
 	}
 	"TF_SCOUT_ACHIEVE_PROGRESS3_Desc"
 	{
-		"no"	"Oppnå 22 av prestasjonene i Scout-pakken."
+		"no"	"OppnÃ¥ 22 av prestasjonene i Scout-pakken."
 	}
 	"TF_SCOUT_KILL_CHARGED_MEDICS_Title"
 	{
@@ -1174,7 +1174,7 @@
 	}
 	"TF_SCOUT_KILL_CHARGED_MEDICS_Desc"
 	{
-		"no"	"Drep en Medic som er klar til å bruke en superlading."
+		"no"	"Drep en Sanitet som er klar til Ã¥ bruke en superlading."
 	}
 	"TF_SCOUT_SURVIVE_DAMAGE_Title"
 	{
@@ -1186,7 +1186,7 @@
 	}
 	"TF_SCOUT_DOUBLEJUMP_KILL_Title"
 	{
-		"no"	"Høy ball"
+		"no"	"HÃ¸y ball"
 	}
 	"TF_SCOUT_DOUBLEJUMP_KILL_Desc"
 	{
@@ -1206,15 +1206,15 @@
 	}
 	"TF_SCOUT_THREE_FLAGCAPS_Desc"
 	{
-		"no"	"Erobre fiendens etterretning 3 ganger i én enkelt CTF-runde."
+		"no"	"Erobre fiendens etterretning 3 ganger i Ã©n enkelt CTF-runde."
 	}
 	"TF_SCOUT_DODGE_DAMAGE_Title"
 	{
-		"no"	"Kunstnerisk unnamanøver"
+		"no"	"Kunstnerisk unnamanÃ¸ver"
 	}
 	"TF_SCOUT_DODGE_DAMAGE_Desc"
 	{
-		"no"	"Unngå 1000 skader i ett enkelt liv ved hjelp av Bonk! Atomic Punch"
+		"no"	"UnngÃ¥ 1000 skader i ett enkelt liv ved hjelp av Bonk! Atomic Punch"
 	}
 	"TF_SCOUT_KNOCK_INTO_TRAIN_Title"
 	{
@@ -1222,7 +1222,7 @@
 	}
 	"TF_SCOUT_KNOCK_INTO_TRAIN_Desc"
 	{
-		"no"	"Forårsak død eller selvmord som følge av omgivelsene ved hjelp av slagkraften til Force-A-Nature."
+		"no"	"ForÃ¥rsak dÃ¸d eller selvmord som fÃ¸lge av omgivelsene ved hjelp av slagkraften til Force-A-Nature."
 	}
 	"TF_SCOUT_KILL_STUNNED_Title"
 	{
@@ -1234,11 +1234,11 @@
 	}
 	"TF_SCOUT_STUN_INTO_TRAIN_Title"
 	{
-		"no"	"Dårlig miljø"
+		"no"	"DÃ¥rlig miljÃ¸"
 	}
 	"TF_SCOUT_STUN_INTO_TRAIN_Desc"
 	{
-		"no"	"Forårsak død som følge av omgivelsene ved å sette en fiende ut av spill."
+		"no"	"ForÃ¥rsak dÃ¸d som fÃ¸lge av omgivelsene ved Ã¥ sette en fiende ut av spill."
 	}
 	"TF_SCOUT_STUN_UBER_ENEMIES_Title"
 	{
@@ -1246,7 +1246,7 @@
 	}
 	"TF_SCOUT_STUN_UBER_ENEMIES_Desc"
 	{
-		"no"	"Sett to Medicer som er klare til å bruke en superlading, ut av spill."
+		"no"	"Sett to Saniteter som er klare til Ã¥ bruke en superlading, ut av spill."
 	}
 	"TF_SCOUT_STUN_CAPPING_ENEMIES_Title"
 	{
@@ -1262,7 +1262,7 @@
 	}
 	"TF_SCOUT_MAX_STUNS_Desc"
 	{
-		"no"	"Sett en fiende ut av spill så lenge som mulig ved å treffe ham med en lang ball."
+		"no"	"Sett en fiende ut av spill sÃ¥ lenge som mulig ved Ã¥ treffe ham med en lang ball."
 	}
 	"TF_SCOUT_STUN_SCOUT_WITH_THEIR_BALL_Title"
 	{
@@ -1274,11 +1274,11 @@
 	}
 	"TF_SCOUT_KILL_IN_DODGE_COOLDOWN_Title"
 	{
-		"no"	"Sett Runneren på benken"
+		"no"	"Sett Runneren pÃ¥ benken"
 	}
 	"TF_SCOUT_KILL_IN_DODGE_COOLDOWN_Desc"
 	{
-		"no"	"Drep en Scout mens han er fanget av forsinkelseseffekten etter en unnamanøver."
+		"no"	"Drep en Scout mens han er fanget av forsinkelseseffekten etter en unnamanÃ¸ver."
 	}
 	"TF_SCOUT_KILL_FROM_BEHIND_Title"
 	{
@@ -1294,7 +1294,7 @@
 	}
 	"TF_SCOUT_CAPTURE_LAST_POINT_Desc"
 	{
-		"no"	"Erobre det siste punktet på et CP-kart."
+		"no"	"Erobre det siste punktet pÃ¥ et CP-kart."
 	}
 	"TF_SCOUT_CAPTURE_THREE_POINTS_Title"
 	{
@@ -1302,7 +1302,7 @@
 	}
 	"TF_SCOUT_CAPTURE_THREE_POINTS_Desc"
 	{
-		"no"	"Erobre tre erobringspunkt på rad i ett liv."
+		"no"	"Erobre tre erobringspunkt pÃ¥ rad i ett liv."
 	}
 	"TF_SCOUT_FAST_CAP_Title"
 	{
@@ -1310,11 +1310,11 @@
 	}
 	"TF_SCOUT_FAST_CAP_Desc"
 	{
-		"no"	"Begynn å ta over et erobringspunkt i samme sekund som det blir tilgjengelig."
+		"no"	"Begynn Ã¥ ta over et erobringspunkt i samme sekund som det blir tilgjengelig."
 	}
 	"TF_SCOUT_START_AND_FINISH_CAP_Title"
 	{
-		"no"	"Dekk på bordet"
+		"no"	"Dekk pÃ¥ bordet"
 	}
 	"TF_SCOUT_START_AND_FINISH_CAP_Desc"
 	{
@@ -1342,15 +1342,15 @@
 	}
 	"TF_SCOUT_CAP_FLAG_WITHOUT_ATTACKING_Desc"
 	{
-		"no"	"Stjel og erobre fiendens etterretning uten å løsne et eneste skudd."
+		"no"	"Stjel og erobre fiendens etterretning uten Ã¥ lÃ¸sne et eneste skudd."
 	}
 	"TF_SCOUT_LONG_DISTANCE_RUNNER_Title"
 	{
-		"no"	"Ut på tur"
+		"no"	"Ut pÃ¥ tur"
 	}
 	"TF_SCOUT_LONG_DISTANCE_RUNNER_Desc"
 	{
-		"no"	"Løp 25 kilometer."
+		"no"	"LÃ¸p 25 kilometer."
 	}
 	"TF_SCOUT_TAUNT_KILL_Title"
 	{
@@ -1358,7 +1358,7 @@
 	}
 	"TF_SCOUT_TAUNT_KILL_Desc"
 	{
-		"no"	"Slå en fiende 25 meter."
+		"no"	"SlÃ¥ en fiende 25 meter."
 	}
 	"TF_SNIPER_JARATE_DOMINATED_Title"
 	{
@@ -1366,11 +1366,11 @@
 	}
 	"TF_SNIPER_JARATE_DOMINATED_Desc"
 	{
-		"no"	"Kast krukker på en fiende du dominerer."
+		"no"	"Kast krukker pÃ¥ en fiende du dominerer."
 	}
 	"TF_SNIPER_FREEZECAM_HAT_Title"
 	{
-		"no"	"Vær høflig"
+		"no"	"VÃ¦r hÃ¸flig"
 	}
 	"TF_SNIPER_FREEZECAM_HAT_Desc"
 	{
@@ -1378,11 +1378,11 @@
 	}
 	"TF_SNIPER_RIFLE_NO_MISSING_Title"
 	{
-		"no"	"Vær effektiv"
+		"no"	"VÃ¦r effektiv"
 	}
 	"TF_SNIPER_RIFLE_NO_MISSING_Desc"
 	{
-		"no"	"Drep tre fiender med snikskytterriflen uten å bomme."
+		"no"	"Drep tre fiender med snikskytterriflen uten Ã¥ bomme."
 	}
 	"TF_SNIPER_CAPTURE_FLAG_Title"
 	{
@@ -1394,7 +1394,7 @@
 	}
 	"TF_SNIPER_KILL_GRIND_Title"
 	{
-		"no"	"Drep alle du møter"
+		"no"	"Drep alle du mÃ¸ter"
 	}
 	"TF_SNIPER_KILL_GRIND_Desc"
 	{
@@ -1406,7 +1406,7 @@
 	}
 	"TF_SNIPER_KILL_WEAPONS_Desc"
 	{
-		"no"	"Drep med tre ulike våpen i én enkelt runde."
+		"no"	"Drep med tre ulike vÃ¥pen i Ã©n enkelt runde."
 	}
 	"TF_SNIPER_HEADSHOT_SNIPERS_Title"
 	{
@@ -1422,7 +1422,7 @@
 	}
 	"TF_SNIPER_DESTROY_SENTRYGUNS_Desc"
 	{
-		"no"	"Ødelegg tre sensorvåpen laget av en Engineer."
+		"no"	"Ã˜delegg tre sensorvÃ¥pen laget av en Engineer."
 	}
 	"TF_SNIPER_KILL_INVIS_SPY_Title"
 	{
@@ -1434,7 +1434,7 @@
 	}
 	"TF_SNIPER_KILL_MIDAIR_SCOUT_Title"
 	{
-		"no"	"Dødsfall"
+		"no"	"DÃ¸dsfall"
 	}
 	"TF_SNIPER_KILL_MIDAIR_SCOUT_Desc"
 	{
@@ -1486,15 +1486,15 @@
 	}
 	"TF_SNIPER_KILL_OBJECTIVES_Desc"
 	{
-		"no"	"Drep tre fiender mens de oppnår et mål, i løpet av ett liv."
+		"no"	"Drep tre fiender mens de oppnÃ¥r et mÃ¥l, i lÃ¸pet av ett liv."
 	}
 	"TF_SNIPER_KILL_UNSCOPED_Title"
 	{
-		"no"	"Stol på instinktene"
+		"no"	"Stol pÃ¥ instinktene"
 	}
 	"TF_SNIPER_KILL_UNSCOPED_Desc"
 	{
-		"no"	"Drep fem fiender med snikskytterriflen uten å bruke siktet."
+		"no"	"Drep fem fiender med snikskytterriflen uten Ã¥ bruke siktet."
 	}
 	"TF_SNIPER_KILL_CHARGED_MEDIC_Title"
 	{
@@ -1502,11 +1502,11 @@
 	}
 	"TF_SNIPER_KILL_CHARGED_MEDIC_Desc"
 	{
-		"no"	"Drep en Medic som er klar til å bruke en superlading."
+		"no"	"Drep en Sanitet som er klar til Ã¥ bruke en superlading."
 	}
 	"TF_SNIPER_GET_BACKSTABBED_Title"
 	{
-		"no"	"Trøstepremie"
+		"no"	"TrÃ¸stepremie"
 	}
 	"TF_SNIPER_GET_BACKSTABBED_Desc"
 	{
@@ -1518,7 +1518,7 @@
 	}
 	"TF_SNIPER_KILL_AT_ROUNDSTART_Desc"
 	{
-		"no"	"Drep en fiende i løpet av de første sekundene i en runde."
+		"no"	"Drep en fiende i lÃ¸pet av de fÃ¸rste sekundene i en runde."
 	}
 	"TF_SNIPER_HEADSHOT_POST_INVULN_Title"
 	{
@@ -1526,7 +1526,7 @@
 	}
 	"TF_SNIPER_HEADSHOT_POST_INVULN_Desc"
 	{
-		"no"	"Skyt en fiende i hodet i det øyeblikket han ikke lenger er usynlig."
+		"no"	"Skyt en fiende i hodet i det Ã¸yeblikket han ikke lenger er usynlig."
 	}
 	"TF_SNIPER_TOP_SCOREBOARD_GRIND_Title"
 	{
@@ -1534,7 +1534,7 @@
 	}
 	"TF_SNIPER_TOP_SCOREBOARD_GRIND_Desc"
 	{
-		"no"	"Vær på toppen av poengoversikten ti ganger på lag med seks eller færre spillere."
+		"no"	"VÃ¦r pÃ¥ toppen av poengoversikten ti ganger pÃ¥ lag med seks eller fÃ¦rre spillere."
 	}
 	"TF_SNIPER_KILL_FAILED_SPY_Title"
 	{
@@ -1542,7 +1542,7 @@
 	}
 	"TF_SNIPER_KILL_FAILED_SPY_Desc"
 	{
-		"no"	"Drep en Spy som ble hindret i å ryggdolke deg på grunn av Razorback-skjoldet ditt."
+		"no"	"Drep en Spy som ble hindret i Ã¥ ryggdolke deg pÃ¥ grunn av Razorback-skjoldet ditt."
 	}
 	"TF_SNIPER_JARATE_GROUP_Title"
 	{
@@ -1554,11 +1554,11 @@
 	}
 	"TF_SNIPER_JARATE_MEDIC_PAIR_Title"
 	{
-		"no"	"Sur nedbør"
+		"no"	"Sur nedbÃ¸r"
 	}
 	"TF_SNIPER_JARATE_MEDIC_PAIR_Desc"
 	{
-		"no"	"Kast krukker på en fiende og Medicen som helbreder ham."
+		"no"	"Kast krukker pÃ¥ en fiende og Saniteten som helbreder ham."
 	}
 	"TF_SNIPER_JARATE_REVEAL_SPY_Title"
 	{
@@ -1566,7 +1566,7 @@
 	}
 	"TF_SNIPER_JARATE_REVEAL_SPY_Desc"
 	{
-		"no"	"Kast krukker for å avsløre en usynlig Spy."
+		"no"	"Kast krukker for Ã¥ avslÃ¸re en usynlig Spy."
 	}
 	"TF_SNIPER_JARATE_EXTINGUISH_Title"
 	{
@@ -1574,7 +1574,7 @@
 	}
 	"TF_SNIPER_JARATE_EXTINGUISH_Desc"
 	{
-		"no"	"Slukk flammene på en brennende lagkamerat med en krukke."
+		"no"	"Slukk flammene pÃ¥ en brennende lagkamerat med en krukke."
 	}
 	"TF_SNIPER_BOW_PIN_HEAVY_Title"
 	{
@@ -1590,7 +1590,7 @@
 	}
 	"TF_SNIPER_BOW_KILL_MEDIC_PAIR_Desc"
 	{
-		"no"	"Drep et Heavy- og Medic-par med en bue."
+		"no"	"Drep et Heavy- og Sanitets-par med en bue."
 	}
 	"TF_SNIPER_BOW_KILL_FLAGCARRIER_Title"
 	{
@@ -1598,23 +1598,23 @@
 	}
 	"TF_SNIPER_BOW_KILL_FLAGCARRIER_Desc"
 	{
-		"no"	"Skyt ned en fiende som bærer på etterretning, med én pil."
+		"no"	"Skyt ned en fiende som bÃ¦rer pÃ¥ etterretning, med Ã©n pil."
 	}
 	"TF_SNIPER_BOW_PINCUSHION_Title"
 	{
-		"no"	"Nålepute"
+		"no"	"NÃ¥lepute"
 	}
 	"TF_SNIPER_BOW_PINCUSHION_Desc"
 	{
-		"no"	"Treff en fiende med tre piler uten å drepe dem."
+		"no"	"Treff en fiende med tre piler uten Ã¥ drepe dem."
 	}
 	"TF_SNIPER_JARATE_ASSISTS_Title"
 	{
-		"no"	"Medvirkende årsak"
+		"no"	"Medvirkende Ã¥rsak"
 	}
 	"TF_SNIPER_JARATE_ASSISTS_Desc"
 	{
-		"no"	"Få fem medvirkninger med krukker i løpet av én runde."
+		"no"	"FÃ¥ fem medvirkninger med krukker i lÃ¸pet av Ã©n runde."
 	}
 	"TF_SNIPER_JARATE_KILL_MELEE_Title"
 	{
@@ -1622,11 +1622,11 @@
 	}
 	"TF_SNIPER_JARATE_KILL_MELEE_Desc"
 	{
-		"no"	"Kast en krukke på og drep deretter tre fiender med en kukri."
+		"no"	"Kast en krukke pÃ¥ og drep deretter tre fiender med en kukri."
 	}
 	"TF_SNIPER_TAUNT_KILL_Title"
 	{
-		"no"	"Gå av skaftet"
+		"no"	"GÃ¥ av skaftet"
 	}
 	"TF_SNIPER_TAUNT_KILL_Desc"
 	{
@@ -1634,35 +1634,35 @@
 	}
 	"TF_SNIPER_BOW_KILL_WHILEDEAD_Title"
 	{
-		"no"	"Dødelig nøyaktighet"
+		"no"	"DÃ¸delig nÃ¸yaktighet"
 	}
 	"TF_SNIPER_BOW_KILL_WHILEDEAD_Desc"
 	{
-		"no"	"Drep en fiende med en pil mens du er død."
+		"no"	"Drep en fiende med en pil mens du er dÃ¸d."
 	}
 	"TF_SNIPER_ACHIEVE_PROGRESS1_Title"
 	{
-		"no"	"Sniper-milepæl 1"
+		"no"	"Sniper-milepÃ¦l 1"
 	}
 	"TF_SNIPER_ACHIEVE_PROGRESS1_Desc"
 	{
-		"no"	"Oppnå 5 av prestasjonene i Sniper-pakken."
+		"no"	"OppnÃ¥ 5 av prestasjonene i Sniper-pakken."
 	}
 	"TF_SNIPER_ACHIEVE_PROGRESS2_Title"
 	{
-		"no"	"Sniper-milepæl 2"
+		"no"	"Sniper-milepÃ¦l 2"
 	}
 	"TF_SNIPER_ACHIEVE_PROGRESS2_Desc"
 	{
-		"no"	"Oppnå 11 av prestasjonene i Sniper-pakken."
+		"no"	"OppnÃ¥ 11 av prestasjonene i Sniper-pakken."
 	}
 	"TF_SNIPER_ACHIEVE_PROGRESS3_Title"
 	{
-		"no"	"Sniper-milepæl 3"
+		"no"	"Sniper-milepÃ¦l 3"
 	}
 	"TF_SNIPER_ACHIEVE_PROGRESS3_Desc"
 	{
-		"no"	"Oppnå 17 av prestasjonene i Sniper-pakken."
+		"no"	"OppnÃ¥ 17 av prestasjonene i Sniper-pakken."
 	}
 	"TF_SPY_BACKSTAB_SNIPERS_Title"
 	{
@@ -1670,15 +1670,15 @@
 	}
 	"TF_SPY_BACKSTAB_SNIPERS_Desc"
 	{
-		"no"	"Dolk tre Snipere i ryggen i løpet av ett liv."
+		"no"	"Dolk tre Snipere i ryggen i lÃ¸pet av ett liv."
 	}
 	"TF_SPY_FREEZECAM_FLICK_Title"
 	{
-		"no"	"Kun for dine øyne"
+		"no"	"Kun for dine Ã¸yne"
 	}
 	"TF_SPY_FREEZECAM_FLICK_Desc"
 	{
-		"no"	"Gi en fiende et fryst bilde av deg mens du knipser en sigarett på liket hans."
+		"no"	"Gi en fiende et fryst bilde av deg mens du knipser en sigarett pÃ¥ liket hans."
 	}
 	"TF_SPY_BACKSTAB_DISGUISED_SPY_Title"
 	{
@@ -1696,21 +1696,29 @@
 	{
 		"no"	"Dolk fienden som du er forkledd som, i ryggen."
 	}
+	"TF_SPY_TAUNT_KILL_Title"
+	{
+		"no"	"Siste stikk"
+	}
+	"TF_SPY_TAUNT_KILL_Desc"
+	{
+		"no"	"Dolk en fiende mens du fekter."
+	}
 	"TF_SPY_BACKSTAB_MEDIC_HEALING_YOU_Title"
 	{
 		"no"	"Forresten, jeg er en Spy"
 	}
 	"TF_SPY_BACKSTAB_MEDIC_HEALING_YOU_Desc"
 	{
-		"no"	"Dolk en Medic som har helbredet deg i løpet av de siste fem sekundene, i ryggen."
+		"no"	"Dolk en Sanitet som har helbredet deg i lÃ¸pet av de siste fem sekundene, i ryggen."
 	}
 	"TF_SPY_BACKSTAB_ENGY_SAP_BUILDING_Title"
 	{
-		"no"	"Mannen med den ødelagte pistol"
+		"no"	"Mannen med den Ã¸delagte pistol"
 	}
 	"TF_SPY_BACKSTAB_ENGY_SAP_BUILDING_Desc"
 	{
-		"no"	"Dolk en Engineer i ryggen, og plasser deretter en Sapper på tre av bygningene hans innen ti sekunder."
+		"no"	"Dolk en Engineer i ryggen, og plasser deretter en Sapper pÃ¥ tre av bygningene hans innen ti sekunder."
 	}
 	"TF_SPY_SAP_BUILDING_BACKSTAB_ENGY_Title"
 	{
@@ -1718,7 +1726,7 @@
 	}
 	"TF_SPY_SAP_BUILDING_BACKSTAB_ENGY_Desc"
 	{
-		"no"	"Plasser en Sapper på en av fiendens bygninger, og dolk deretter Engineeren som bygde den, i løpet av fem sekunder."
+		"no"	"Plasser en Sapper pÃ¥ en av fiendens bygninger, og dolk deretter Engineeren som bygde den, i lÃ¸pet av fem sekunder."
 	}
 	"TF_SPY_BACKSTAB_MEDIC_PAIR_Title"
 	{
@@ -1726,11 +1734,11 @@
 	}
 	"TF_SPY_BACKSTAB_MEDIC_PAIR_Desc"
 	{
-		"no"	"Dolk både en fiende og Medicen som helbreder ham, med ti sekunders mellomrom."
+		"no"	"Dolk bÃ¥de en fiende og Saniteten som helbreder ham, med ti sekunders mellomrom."
 	}
 	"TF_SPY_BACKSTAB_FRIENDS_Title"
 	{
-		"no"	"Nære venner"
+		"no"	"NÃ¦re venner"
 	}
 	"TF_SPY_BACKSTAB_FRIENDS_Desc"
 	{
@@ -1758,7 +1766,7 @@
 	}
 	"TF_SPY_KILL_SPY_WITH_KNIFE_Desc"
 	{
-		"no"	"Drep en Spy som er bevæpnet med skytevåpen, med kniv."
+		"no"	"Drep en Spy som er bevÃ¦pnet med skytevÃ¥pen, med kniv."
 	}
 	"TF_SPY_SURVIVE_BURNING_Title"
 	{
@@ -1766,15 +1774,15 @@
 	}
 	"TF_SPY_SURVIVE_BURNING_Desc"
 	{
-		"no"	"Overlev i 30 sekunder etter at noen har satt fyr på deg mens du er usynlig."
+		"no"	"Overlev i 30 sekunder etter at noen har satt fyr pÃ¥ deg mens du er usynlig."
 	}
 	"TF_SPY_BREAK_SHIELD_KILL_SNIPER_Title"
 	{
-		"no"	"Dødelige variasjoner"
+		"no"	"DÃ¸delige variasjoner"
 	}
 	"TF_SPY_BREAK_SHIELD_KILL_SNIPER_Desc"
 	{
-		"no"	"Drep en Sniper etter at du har ødelagt Razorback-skjoldet hans."
+		"no"	"Drep en Sniper etter at du har Ã¸delagt Razorback-skjoldet hans."
 	}
 	"TF_SPY_KILL_WORKING_ENGY_Title"
 	{
@@ -1782,7 +1790,15 @@
 	}
 	"TF_SPY_KILL_WORKING_ENGY_Desc"
 	{
-		"no"	"Drep en Engineer som bygger et sensorvåpen."
+		"no"	"Drep en Engineer som bygger et sensorvÃ¥pen."
+	}
+	"TF_SPY_FAST_CAP_Title"
+	{
+		"no"	"Fullstendig overtak"
+	}
+	"TF_SPY_FAST_CAP_Desc"
+	{
+		"no"	"Begynn Ã¥ ta over et erobringspunkt i samme sekund som det blir tilgjengelig."
 	}
 	"TF_SPY_MEDIC_HEALING_KILL_ENEMY_Title"
 	{
@@ -1790,7 +1806,7 @@
 	}
 	"TF_SPY_MEDIC_HEALING_KILL_ENEMY_Desc"
 	{
-		"no"	"Drep en fiende mens du blir helbredet av en fiendtlig Medic."
+		"no"	"Drep en fiende mens du blir helbredet av en fiendtlig Sanitet."
 	}
 	"TF_SPY_KILL_CP_DEFENDERS_Title"
 	{
@@ -1798,11 +1814,11 @@
 	}
 	"TF_SPY_KILL_CP_DEFENDERS_Desc"
 	{
-		"no"	"Drep 15 fiender som står på et kontrollpunkt de eier."
+		"no"	"Drep 15 fiender som stÃ¥r pÃ¥ et kontrollpunkt de eier."
 	}
 	"TF_SPY_BACKSTAB_DOMINATING_ENEMY_Title"
 	{
-		"no"	"Verdifullt mål"
+		"no"	"Verdifullt mÃ¥l"
 	}
 	"TF_SPY_BACKSTAB_DOMINATING_ENEMY_Desc"
 	{
@@ -1814,11 +1830,11 @@
 	}
 	"TF_SPY_REVENGE_WITH_BACKSTAB_Desc"
 	{
-		"no"	"Ta hevndrap ved å dolke noen i ryggen."
+		"no"	"Ta hevndrap ved Ã¥ dolke noen i ryggen."
 	}
 	"TF_SPY_KNIFE_KILL_WHILE_JARATED_Title"
 	{
-		"no"	"Våte arbeidsforhold"
+		"no"	"VÃ¥te arbeidsforhold"
 	}
 	"TF_SPY_KNIFE_KILL_WHILE_JARATED_Desc"
 	{
@@ -1830,7 +1846,7 @@
 	}
 	"TF_SPY_BACKSTAB_QUICK_KILLS_Desc"
 	{
-		"no"	"Dolk tre fiender i ryggen i løpet av ti sekunder."
+		"no"	"Dolk tre fiender i ryggen i lÃ¸pet av ti sekunder."
 	}
 	"TF_SPY_BACKSTAB_GRIND_Title"
 	{
@@ -1846,7 +1862,7 @@
 	}
 	"TF_SPY_SAPPER_GRIND_Desc"
 	{
-		"no"	"Ødelegg 1000 Engineer-bygninger med Sappere."
+		"no"	"Ã˜delegg 1000 Engineer-bygninger med Sappere."
 	}
 	"TF_SPY_SAPPER_TEAMWORK_Title"
 	{
@@ -1854,7 +1870,7 @@
 	}
 	"TF_SPY_SAPPER_TEAMWORK_Desc"
 	{
-		"no"	"Plasser en sapper på et fiendtlig sensorvåpen i løpet av tre sekunder etter at en lagkamerat har plassert en sapper på et annet sensorvåpen."
+		"no"	"Plasser en sapper pÃ¥ et fiendtlig sensorvÃ¥pen i lÃ¸pet av tre sekunder etter at en lagkamerat har plassert en sapper pÃ¥ et annet sensorvÃ¥pen."
 	}
 	"TF_SPY_BACKSTAB_MEDIC_CHARGED_Title"
 	{
@@ -1862,11 +1878,11 @@
 	}
 	"TF_SPY_BACKSTAB_MEDIC_CHARGED_Desc"
 	{
-		"no"	"Dolk en Medic som er klar til å bruke en superlading, i ryggen."
+		"no"	"Dolk en Sanitet som er klar til Ã¥ bruke en superlading, i ryggen."
 	}
 	"TF_SPY_BACKSTAB_CAPPING_ENEMIES_Title"
 	{
-		"no"	"Er vi trygge nå?"
+		"no"	"Er vi trygge nÃ¥?"
 	}
 	"TF_SPY_BACKSTAB_CAPPING_ENEMIES_Desc"
 	{
@@ -1878,7 +1894,7 @@
 	}
 	"TF_SPY_BACKSTAB_ENEMY_SWITCH_PYRO_Desc"
 	{
-		"no"	"En fiende du dolker i ryggen, kommer tilbake som Pyro før han blir gjenopplivet."
+		"no"	"En fiende du dolker i ryggen, kommer tilbake som Pyro fÃ¸r han blir gjenopplivet."
 	}
 	"TF_SPY_AMBASSADOR_GRIND_Title"
 	{
@@ -1902,7 +1918,7 @@
 	}
 	"TF_SPY_FEIGN_DEATH_KILL_Desc"
 	{
-		"no"	"Drep en fiende som gjorde deg skinndød i løpet av de siste 20 sekundene."
+		"no"	"Drep en fiende som gjorde deg skinndÃ¸d i lÃ¸pet av de siste 20 sekundene."
 	}
 	"TF_SPY_AMBASSADOR_SCOUT_GRIND_Title"
 	{
@@ -1918,39 +1934,39 @@
 	}
 	"TF_SPY_CAMP_POSITION_Desc"
 	{
-		"no"	"Drep samme fiende tre ganger i ett liv når du bruker Cloak and Dagger."
+		"no"	"Drep samme fiende tre ganger i ett liv nÃ¥r du bruker Cloak and Dagger."
 	}
 	"TF_SPY_ACHIEVE_PROGRESS1_Title"
 	{
-		"no"	"Spy-milepæl 1"
+		"no"	"Spy-milepÃ¦l 1"
 	}
 	"TF_SPY_ACHIEVE_PROGRESS1_Desc"
 	{
-		"no"	"Oppnå 5 av prestasjonene i Spy-pakken."
+		"no"	"OppnÃ¥ 5 av prestasjonene i Spy-pakken."
 	}
 	"TF_SPY_ACHIEVE_PROGRESS2_Title"
 	{
-		"no"	"Spy-milepæl 2"
+		"no"	"Spy-milepÃ¦l 2"
 	}
 	"TF_SPY_ACHIEVE_PROGRESS2_Desc"
 	{
-		"no"	"Oppnå 11 av prestasjonene i Spy-pakken."
+		"no"	"OppnÃ¥ 11 av prestasjonene i Spy-pakken."
 	}
 	"TF_SPY_ACHIEVE_PROGRESS3_Title"
 	{
-		"no"	"Spy-milepæl 3"
+		"no"	"Spy-milepÃ¦l 3"
 	}
 	"TF_SPY_ACHIEVE_PROGRESS3_Desc"
 	{
-		"no"	"Oppnå 17 av prestasjonene i Spy-pakken."
+		"no"	"OppnÃ¥ 17 av prestasjonene i Spy-pakken."
 	}
 	"TF_HALLOWEEN_COLLECT_PUMPKINS_Title"
 	{
-		"no"	"Sukkertøy fra de døde"
+		"no"	"SukkertÃ¸y fra de dÃ¸de"
 	}
 	"TF_HALLOWEEN_COLLECT_PUMPKINS_Desc"
 	{
-		"no"	"Samle 20 Halloween-gresskar fra døde spillere for å låse opp en hatt."
+		"no"	"Samle 20 Halloween-gresskar fra dÃ¸de spillere for Ã¥ lÃ¥se opp en hatt."
 	}
 	"TF_HALLOWEEN_DOMINATE_FOR_HAT_Title"
 	{
@@ -1958,7 +1974,7 @@
 	}
 	"TF_HALLOWEEN_DOMINATE_FOR_HAT_Desc"
 	{
-		"no"	"Dominer en spiller som har på seg den grusomme flosshatten, for å få en selv."
+		"no"	"Dominer en spiller som har pÃ¥ seg den grusomme flosshatten, for Ã¥ fÃ¥ en selv."
 	}
 	"TF_HALLOWEEN_KILL_SCARED_PLAYER_Title"
 	{
@@ -1966,7 +1982,7 @@
 	}
 	"TF_HALLOWEEN_KILL_SCARED_PLAYER_Desc"
 	{
-		"no"	"Drep en spiller som er skremt av spøkelset som hjemsøker KOTH-avlingen."
+		"no"	"Drep en spiller som er skremt av spÃ¸kelset som hjemsÃ¸ker KOTH-avlingen."
 	}
 	"TF_HALLOWEEN_PUMPKIN_KILL_Title"
 	{
@@ -1974,7 +1990,7 @@
 	}
 	"TF_HALLOWEEN_PUMPKIN_KILL_Desc"
 	{
-		"no"	"Forårsak fem spilleres død ved å sprenge bomber i nærliggende gresskar."
+		"no"	"ForÃ¥rsak fem spilleres dÃ¸d ved Ã¥ sprenge bomber i nÃ¦rliggende gresskar."
 	}
 	"TF_HALLOWEEN_DISGUISED_SPY_KILL_Title"
 	{
@@ -1986,27 +2002,27 @@
 	}
 	"TF_SOLDIER_ACHIEVE_PROGRESS1_Title"
 	{
-		"no"	"Soldier-milepæl 1"
+		"no"	"Soldier-milepÃ¦l 1"
 	}
 	"TF_SOLDIER_ACHIEVE_PROGRESS1_Desc"
 	{
-		"no"	"Oppnå 5 av prestasjonene i Soldier-pakken."
+		"no"	"OppnÃ¥ 5 av prestasjonene i Soldier-pakken."
 	}
 	"TF_SOLDIER_ACHIEVE_PROGRESS2_Title"
 	{
-		"no"	"Soldier-milepæl 2"
+		"no"	"Soldier-milepÃ¦l 2"
 	}
 	"TF_SOLDIER_ACHIEVE_PROGRESS2_Desc"
 	{
-		"no"	"Oppnå 11 av prestasjonene i Soldier-pakken."
+		"no"	"OppnÃ¥ 11 av prestasjonene i Soldier-pakken."
 	}
 	"TF_SOLDIER_ACHIEVE_PROGRESS3_Title"
 	{
-		"no"	"Soldier-milepæl 3"
+		"no"	"Soldier-milepÃ¦l 3"
 	}
 	"TF_SOLDIER_ACHIEVE_PROGRESS3_Desc"
 	{
-		"no"	"Oppnå 17 av prestasjonene i Soldier-pakken."
+		"no"	"OppnÃ¥ 17 av prestasjonene i Soldier-pakken."
 	}
 	"TF_SOLDIER_KILL_GROUP_WITH_CROCKET_Title"
 	{
@@ -2014,15 +2030,15 @@
 	}
 	"TF_SOLDIER_KILL_GROUP_WITH_CROCKET_Desc"
 	{
-		"no"	"Drep tre fiender med én enkelt kritisk rakett."
+		"no"	"Drep tre fiender med Ã©n enkelt kritisk rakett."
 	}
 	"TF_SOLDIER_KILL_TWO_DURING_ROCKET_JUMP_Title"
 	{
-		"no"	"Døden ovenfra"
+		"no"	"DÃ¸den ovenfra"
 	}
 	"TF_SOLDIER_KILL_TWO_DURING_ROCKET_JUMP_Desc"
 	{
-		"no"	"Ta et raketthopp, og drep to fiender før du lander."
+		"no"	"Ta et raketthopp, og drep to fiender fÃ¸r du lander."
 	}
 	"TF_SOLDIER_THREE_DOMINATIONS_Title"
 	{
@@ -2030,7 +2046,7 @@
 	}
 	"TF_SOLDIER_THREE_DOMINATIONS_Desc"
 	{
-		"no"	"Oppnå tre domineringer i løpet av ett liv."
+		"no"	"OppnÃ¥ tre domineringer i lÃ¸pet av ett liv."
 	}
 	"TF_SOLDIER_DEFEND_MEDIC_Title"
 	{
@@ -2038,7 +2054,7 @@
 	}
 	"TF_SOLDIER_DEFEND_MEDIC_Desc"
 	{
-		"no"	"Drep tre fiender som har skadet en Medic som helbreder deg, i løpet av ett liv."
+		"no"	"Drep tre fiender som har skadet en Sanitet som helbreder deg, i lÃ¸pet av ett liv."
 	}
 	"TF_SOLDIER_KILL_TAUNT_Title"
 	{
@@ -2046,7 +2062,7 @@
 	}
 	"TF_SOLDIER_KILL_TAUNT_Desc"
 	{
-		"no"	"Bruk en granat til å sprenge en spiller i fillebiter."
+		"no"	"Bruk en granat til Ã¥ sprenge en spiller i fillebiter."
 	}
 	"TF_SOLDIER_DESTROY_SENTRY_OUT_OF_RANGE_Title"
 	{
@@ -2054,7 +2070,7 @@
 	}
 	"TF_SOLDIER_DESTROY_SENTRY_OUT_OF_RANGE_Desc"
 	{
-		"no"	"Drep fem Engineer-sensorvåpen mens du står utenfor rekkevidden deres."
+		"no"	"Drep fem Engineer-sensorvÃ¥pen mens du stÃ¥r utenfor rekkevidden deres."
 	}
 	"TF_SOLDIER_KILL_SNIPER_WHILE_DEAD_Title"
 	{
@@ -2074,11 +2090,11 @@
 	}
 	"TF_SOLDIER_KILL_ENGY_Title"
 	{
-		"no"	"En gang Engineer ..."
+		"no"	"En gang EngineerÂ ..."
 	}
 	"TF_SOLDIER_KILL_ENGY_Desc"
 	{
-		"no"	"Drep en Engineer idet han reparerer sensorvåpenet sitt mens det blir beskutt av fienden."
+		"no"	"Drep en Engineer idet han reparerer sensorvÃ¥penet sitt mens det blir beskutt av fienden."
 	}
 	"TF_SOLDIER_NEMESIS_SHOVEL_KILL_Title"
 	{
@@ -2094,15 +2110,15 @@
 	}
 	"TF_SOLDIER_DESTROY_STICKIES_Desc"
 	{
-		"no"	"Ødelegg ti klisterbomber med haglen i løpet av ett liv."
+		"no"	"Ã˜delegg ti klisterbomber med haglen i lÃ¸pet av ett liv."
 	}
 	"TF_SOLDIER_CROUCH_ROCKET_JUMP_Title"
 	{
-		"no"	"Ørneredet"
+		"no"	"Ã˜rneredet"
 	}
 	"TF_SOLDIER_CROUCH_ROCKET_JUMP_Desc"
 	{
-		"no"	"Raketthopp så høyt som mulig ved hjelp av hopp og sammenkrøking."
+		"no"	"Raketthopp sÃ¥ hÃ¸yt som mulig ved hjelp av hopp og sammenkrÃ¸king."
 	}
 	"TF_SOLDIER_BUFF_FRIENDS_Title"
 	{
@@ -2110,15 +2126,15 @@
 	}
 	"TF_SOLDIER_BUFF_FRIENDS_Desc"
 	{
-		"no"	"Bruk Økningsflagget til å styrke fem Steam-venner på én gang."
+		"no"	"Bruk Ã˜kningsflagget til Ã¥ styrke fem Steam-venner pÃ¥ Ã©n gang."
 	}
 	"TF_SOLDIER_KILL_TWENTY_FROM_ABOVE_Title"
 	{
-		"no"	"Ørneskriket"
+		"no"	"Ã˜rneskriket"
 	}
 	"TF_SOLDIER_KILL_TWENTY_FROM_ABOVE_Desc"
 	{
-		"no"	"Drep 20 fiender ovenfra."
+		"no"	"Drep 20Â fiender ovenfra."
 	}
 	"TF_SOLDIER_SHOOT_MULT_CRITS_Title"
 	{
@@ -2134,7 +2150,7 @@
 	}
 	"TF_SOLDIER_KILL_DEFENSELESS_Desc"
 	{
-		"no"	"Drep fem forsvarsløse spillere etter at en enkeltkamp er avsluttet."
+		"no"	"Drep fem forsvarslÃ¸se spillere etter at en enkeltkamp er avsluttet."
 	}
 	"TF_SOLDIER_KILL_ON_FIRE_Title"
 	{
@@ -2142,7 +2158,7 @@
 	}
 	"TF_SOLDIER_KILL_ON_FIRE_Desc"
 	{
-		"no"	"Drep 20 fiender mens du står i brann."
+		"no"	"Drep 20Â fiender mens du stÃ¥r i brann."
 	}
 	"TF_SOLDIER_KILL_FIVE_STUNNED_Title"
 	{
@@ -2154,11 +2170,11 @@
 	}
 	"TF_SOLDIER_FREEZECAM_GIBS_Title"
 	{
-		"no"	"Blod, gørr og årer"
+		"no"	"Blod, gÃ¸rr og Ã¥rer"
 	}
 	"TF_SOLDIER_FREEZECAM_GIBS_Desc"
 	{
-		"no"	"Gi fienden et fryst bilde av deg mens du håner ham over tre av kroppsdelene hans."
+		"no"	"Gi fienden et fryst bilde av deg mens du hÃ¥ner ham over tre av kroppsdelene hans."
 	}
 	"TF_SOLDIER_KILL_SPY_KILLER_Title"
 	{
@@ -2174,39 +2190,39 @@
 	}
 	"TF_SOLDIER_DEFEND_CAP_THIRTY_TIMES_Desc"
 	{
-		"no"	"Forsvar et erobringspunkt 30 ganger."
+		"no"	"Forsvar et erobringspunkt 30Â ganger."
 	}
 	"TF_SOLDIER_GIB_GRIND_Title"
 	{
-		"no"	"Revet i småbiter"
+		"no"	"Revet i smÃ¥biter"
 	}
 	"TF_SOLDIER_GIB_GRIND_Desc"
 	{
-		"no"	"Spreng 1000 personer i fillebiter."
+		"no"	"Spreng 1000Â personer i fillebiter."
 	}
 	"TF_SOLDIER_RJ_EQUALIZER_KILL_Title"
 	{
-		"no"	"Pliktfølelse"
+		"no"	"PliktfÃ¸lelse"
 	}
 	"TF_SOLDIER_RJ_EQUALIZER_KILL_Desc"
 	{
-		"no"	"Ta et raketthopp, og drep en fiende med Equalizeren før du lander."
+		"no"	"Ta et raketthopp, og drep en fiende med Equalizeren fÃ¸r du lander."
 	}
 	"TF_SOLDIER_BUFF_TEAMMATES_Title"
 	{
-		"no"	"Styrkedråper"
+		"no"	"StyrkedrÃ¥per"
 	}
 	"TF_SOLDIER_BUFF_TEAMMATES_Desc"
 	{
-		"no"	"Bruk økningsflagget til å styrke 15 lagkamerater i løpet av ett liv."
+		"no"	"Bruk Ã¸kningsflagget til Ã¥ styrke 15Â lagkamerater i lÃ¸pet av ett liv."
 	}
 	"TF_SOLDIER_KILL_DEMOMAN_GRIND_Title"
 	{
-		"no"	"Vekk med deg, fordømte skotte!"
+		"no"	"Vekk med deg, fordÃ¸mte skotte!"
 	}
 	"TF_SOLDIER_KILL_DEMOMAN_GRIND_Desc"
 	{
-		"no"	"Drep 500 fiendtlige Demomen"
+		"no"	"Drep 500Â fiendtlige Demomen"
 	}
 	"TF_SOLDIER_KILL_PYRO_Title"
 	{
@@ -2214,23 +2230,23 @@
 	}
 	"TF_SOLDIER_KILL_PYRO_Desc"
 	{
-		"no"	"Drep en Pyro som har kastet tilbake en av rakettene dine i løpet av de siste ti sekundene."
+		"no"	"Drep en Pyro som har kastet tilbake en av rakettene dine i lÃ¸pet av de siste ti sekundene."
 	}
 	"TF_SOLDIER_EQUALIZER_STREAK_Title"
 	{
-		"no"	"Har ikke tid til å blø"
+		"no"	"Har ikke tid til Ã¥ blÃ¸"
 	}
 	"TF_SOLDIER_EQUALIZER_STREAK_Desc"
 	{
-		"no"	"Drep tre spillere med Equalizeren i løpet av ett liv uten å bli helbredet."
+		"no"	"Drep tre spillere med Equalizeren i lÃ¸pet av ett liv uten Ã¥ bli helbredet."
 	}
 	"TF_SOLDIER_KILL_WITH_EQUALIZER_WHILE_HURT_Title"
 	{
-		"no"	"Nær døden-opplevelse"
+		"no"	"NÃ¦r dÃ¸den-opplevelse"
 	}
 	"TF_SOLDIER_KILL_WITH_EQUALIZER_WHILE_HURT_Desc"
 	{
-		"no"	"Drep 20 fiender med Equalizeren mens du har mindre enn 25 i helse."
+		"no"	"Drep 20Â fiender med Equalizeren mens du har mindre enn 25 i helse."
 	}
 	"TF_SOLDIER_BOUNCE_THEN_SHOTGUN_Title"
 	{
@@ -2238,15 +2254,15 @@
 	}
 	"TF_SOLDIER_BOUNCE_THEN_SHOTGUN_Desc"
 	{
-		"no"	"Kast en motstander i været ved hjelp av en rakett, og drep ham deretter med haglen før han lander."
+		"no"	"Kast en motstander i vÃ¦ret ved hjelp av en rakett, og drep ham deretter med haglen fÃ¸r han lander."
 	}
 	"TF_SOLDIER_KILL_AIRBORNE_WITH_DIRECT_HIT_Title"
 	{
-		"no"	"Døden nedenfra"
+		"no"	"DÃ¸den nedenfra"
 	}
 	"TF_SOLDIER_KILL_AIRBORNE_WITH_DIRECT_HIT_Desc"
 	{
-		"no"	"Drep ti motstandere mens de er i luften, ved hjelp av våpenet Direct Hit."
+		"no"	"Drep ti motstandere mens de er i luften, ved hjelp av vÃ¥penet Direct Hit."
 	}
 	"TF_SOLDIER_FREEZECAM_TAUNT_Title"
 	{
@@ -2258,15 +2274,15 @@
 	}
 	"TF_SOLDIER_DUO_SOLDIER_KILLS_Title"
 	{
-		"no"	"Våpenbrødre"
+		"no"	"VÃ¥penbrÃ¸dre"
 	}
 	"TF_SOLDIER_DUO_SOLDIER_KILLS_Desc"
 	{
-		"no"	"Drep ti fiender mens du hjelper eller får hjelp av en annen Soldier."
+		"no"	"Drep ti fiender mens du hjelper eller fÃ¥r hjelp av en annen Soldier."
 	}
 	"TF_SOLDIER_MVP_Title"
 	{
-		"no"	"Æresmedaljer"
+		"no"	"Ã†resmedaljer"
 	}
 	"TF_SOLDIER_MVP_Desc"
 	{
@@ -2278,7 +2294,7 @@
 	}
 	"TF_SOLDIER_RIDE_THE_CART_Desc"
 	{
-		"no"	"Dytt vognen i 30 sekunder."
+		"no"	"Dytt vognen i 30Â sekunder."
 	}
 	"TF_SOLDIER_ASSIST_MEDIC_UBER_Title"
 	{
@@ -2286,7 +2302,7 @@
 	}
 	"TF_SOLDIER_ASSIST_MEDIC_UBER_Desc"
 	{
-		"no"	"Hjelp en Medic med å sprenge fem fiender med én enkelt superlading."
+		"no"	"Hjelp en Sanitet med Ã¥ sprenge fem fiender med Ã©n enkelt superlading."
 	}
 	"TF_DEMOMAN_KILL_SOLDIER_GRIND_Title"
 	{
@@ -2294,7 +2310,7 @@
 	}
 	"TF_DEMOMAN_KILL_SOLDIER_GRIND_Desc"
 	{
-		"no"	"Drep 500 fiendtlige Soldiers"
+		"no"	"Drep 500Â fiendtlige Soldiers"
 	}
 	"TF_DEMOMAN_DESTROY_BUILDINGS_WITH_MEDIC_Title"
 	{
@@ -2302,7 +2318,7 @@
 	}
 	"TF_DEMOMAN_DESTROY_BUILDINGS_WITH_MEDIC_Desc"
 	{
-		"no"	"Ødelegg fem av fiendens Engineer-bygninger i løpet av én enkelt superlading fra en Medic."
+		"no"	"Ã˜delegg fem av fiendens Engineer-bygninger i lÃ¸pet av Ã©n enkelt superlading fra en Sanitet."
 	}
 	"TF_DEMOMAN_DECAPITATE_CLOAKED_SPY_Title"
 	{
@@ -2318,7 +2334,7 @@
 	}
 	"TF_DEMOMAN_KILL_X_WITH_DIRECTPIPE_Desc"
 	{
-		"no"	"Drep 50 fiender med direktetreff fra granatutskyteren."
+		"no"	"Drep 50Â fiender med direktetreff fra granatutskyteren."
 	}
 	"TF_DEMOMAN_BOUNCE_AND_KILL_Title"
 	{
@@ -2326,15 +2342,15 @@
 	}
 	"TF_DEMOMAN_BOUNCE_AND_KILL_Desc"
 	{
-		"no"	"Kast en fiende i været, og drep ham før han lander."
+		"no"	"Kast en fiende i vÃ¦ret, og drep ham fÃ¸r han lander."
 	}
 	"TF_DEMOMAN_DECAPITATE_PLAYERS_Title"
 	{
-		"no"	"Hodeløst"
+		"no"	"HodelÃ¸st"
 	}
 	"TF_DEMOMAN_DECAPITATE_PLAYERS_Desc"
 	{
-		"no"	"Kapp hodet av 50 fiendtlige spillere."
+		"no"	"Kapp hodet av 50Â fiendtlige spillere."
 	}
 	"TF_DEMOMAN_DECAPITATE_PLAYERS_FAST_Title"
 	{
@@ -2350,19 +2366,19 @@
 	}
 	"TF_DEMOMAN_DUO_DEMOMAN_KILLS_Desc"
 	{
-		"no"	"Drep ti fiender mens du hjelper eller får hjelp av en annen Demoman."
+		"no"	"Drep ti fiender mens du hjelper eller fÃ¥r hjelp av en annen Demoman."
 	}
 	"TF_DEMOMAN_KILL_TWO_DURING_STICKYJUMP_Title"
 	{
-		"no"	"Dobbelt så klissete"
+		"no"	"Dobbelt sÃ¥ klissete"
 	}
 	"TF_DEMOMAN_KILL_TWO_DURING_STICKYJUMP_Desc"
 	{
-		"no"	"Drep to personer i løpet av ett enkelt klisterhopp."
+		"no"	"Drep to personer i lÃ¸pet av ett enkelt klisterhopp."
 	}
 	"TF_DEMOMAN_KILL_PLAYER_AFTER_TP_Title"
 	{
-		"no"	"Nå sitter du i klisteret"
+		"no"	"NÃ¥ sitter du i klisteret"
 	}
 	"TF_DEMOMAN_KILL_PLAYER_AFTER_TP_Desc"
 	{
@@ -2370,11 +2386,11 @@
 	}
 	"TF_DEMOMAN_DOMINATE_THREE_ENGINEERS_Title"
 	{
-		"no"	"Tre ganger så tøff"
+		"no"	"Tre ganger sÃ¥ tÃ¸ff"
 	}
 	"TF_DEMOMAN_DOMINATE_THREE_ENGINEERS_Desc"
 	{
-		"no"	"Dominér tre Engineerer."
+		"no"	"DominÃ©r tre Engineerer."
 	}
 	"TF_DEMOMAN_KILL_BUILDING_DIRECT_HIT_Title"
 	{
@@ -2382,15 +2398,15 @@
 	}
 	"TF_DEMOMAN_KILL_BUILDING_DIRECT_HIT_Desc"
 	{
-		"no"	"Ødelegg en Engineer-bygning som du ikke kan se, med et direktetreff fra granatutskyteren."
+		"no"	"Ã˜delegg en Engineer-bygning som du ikke kan se, med et direktetreff fra granatutskyteren."
 	}
 	"TF_DEMOMAN_MELEE_KILL_WHILE_STICKYJUMPING_Title"
 	{
-		"no"	"Høylandsleker"
+		"no"	"HÃ¸ylandsleker"
 	}
 	"TF_DEMOMAN_MELEE_KILL_WHILE_STICKYJUMPING_Desc"
 	{
-		"no"	"Oppnå et nærkampdrap mens du klisterhopper."
+		"no"	"OppnÃ¥ et nÃ¦rkampdrap mens du klisterhopper."
 	}
 	"TF_DEMOMAN_KILL_ENGI_SENTRY_DISPENSER_Title"
 	{
@@ -2398,7 +2414,7 @@
 	}
 	"TF_DEMOMAN_KILL_ENGI_SENTRY_DISPENSER_Desc"
 	{
-		"no"	"Spreng en Engineer, sensorvåpenet og ladestasjonen hans med én enkelt klisterbombedetonasjon."
+		"no"	"Spreng en Engineer, sensorvÃ¥penet og ladestasjonen hans med Ã©n enkelt klisterbombedetonasjon."
 	}
 	"TF_DEMOMAN_DECAPITATE_EQUALIZER_Title"
 	{
@@ -2410,7 +2426,7 @@
 	}
 	"TF_DEMOMAN_DECAPITATE_NEMESIS_Title"
 	{
-		"no"	"Det kan bare finnes én"
+		"no"	"Det kan bare finnes Ã©n"
 	}
 	"TF_DEMOMAN_DECAPITATE_NEMESIS_Desc"
 	{
@@ -2422,7 +2438,7 @@
 	}
 	"TF_DEMOMAN_DAMAGE_GRIND_Desc"
 	{
-		"no"	"Få 1 million punkter med total eksplosjonsskade."
+		"no"	"FÃ¥ 1Â million punkter med total eksplosjonsskade."
 	}
 	"TF_DEMOMAN_KILL_X_CAPPING_ONEDET_Title"
 	{
@@ -2438,7 +2454,7 @@
 	}
 	"TF_DEMOMAN_KILL_X_DEFENDING_Desc"
 	{
-		"no"	"Drep 25 spillere som forsvarer et erobringspunkt eller en vogn."
+		"no"	"Drep 25Â spillere som forsvarer et erobringspunkt eller en vogn."
 	}
 	"TF_DEMOMAN_DESTROY_BUILDINGS_GRIND_Title"
 	{
@@ -2446,7 +2462,7 @@
 	}
 	"TF_DEMOMAN_DESTROY_BUILDINGS_GRIND_Desc"
 	{
-		"no"	"Ødelegg 50 bygninger."
+		"no"	"Ã˜delegg 50Â bygninger."
 	}
 	"TF_DEMOMAN_KILL_X_HEAVIES_FULLHP_ONEDET_Title"
 	{
@@ -2462,7 +2478,7 @@
 	}
 	"TF_DEMOMAN_KILL_X_SCOUTS_PYROS_Desc"
 	{
-		"no"	"Drep 25 Scouter og Pyroer med granatutskyteren."
+		"no"	"Drep 25Â Scouter og Pyroer med granatutskyteren."
 	}
 	"TF_DEMOMAN_TAUNT_KILL_Title"
 	{
@@ -2470,7 +2486,7 @@
 	}
 	"TF_DEMOMAN_TAUNT_KILL_Desc"
 	{
-		"no"	"Triumfér over fiender du har slaktet ned med Eyelanderen."
+		"no"	"TriumfÃ©r over fiender du har slaktet ned med Eyelanderen."
 	}
 	"TF_DEMOMAN_CHARGE_KILL_Title"
 	{
@@ -2494,7 +2510,7 @@
 	}
 	"TF_DEMOMAN_AIR_BURST_KILLS_Desc"
 	{
-		"no"	"Drep 30 spillere med klisterbomber som sprenger i luften."
+		"no"	"Drep 30Â spillere med klisterbomber som sprenger i luften."
 	}
 	"TF_DEMOMAN_STICKYJUMP_CAP_Title"
 	{
@@ -2514,11 +2530,11 @@
 	}
 	"TF_DEMOMAN_FREEZECAM_RUMP_Title"
 	{
-		"no"	"Det andre øyet"
+		"no"	"Det andre Ã¸yet"
 	}
 	"TF_DEMOMAN_FREEZECAM_RUMP_Desc"
 	{
-		"no"	"Gi en fiendtlig spiller et fryst bilde av at du rister på rumpa."
+		"no"	"Gi en fiendtlig spiller et fryst bilde av at du rister pÃ¥ rumpa."
 	}
 	"TF_DEMOMAN_ENVIRONMENTAL_KILL_Title"
 	{
@@ -2526,23 +2542,23 @@
 	}
 	"TF_DEMOMAN_ENVIRONMENTAL_KILL_Desc"
 	{
-		"no"	"Bruk klisterbombeutskyteren til å drepe en fiendtlig spiller via skade på omgivelsene."
+		"no"	"Bruk klisterbombeutskyteren til Ã¥ drepe en fiendtlig spiller via skade pÃ¥ omgivelsene."
 	}
 	"TF_DEMOMAN_DESTROY_X_STICKYBOMBS_Title"
 	{
-		"no"	"Et førsteklasses ran"
+		"no"	"Et fÃ¸rsteklasses ran"
 	}
 	"TF_DEMOMAN_DESTROY_X_STICKYBOMBS_Desc"
 	{
-		"no"	"Ødelegg 100 av fiendens klisterbomber ved hjelp av Scottish Resistance."
+		"no"	"Ã˜delegg 100 av fiendens klisterbomber ved hjelp av Scottish Resistance."
 	}
 	"TF_DEMOMAN_STICKJUMP_DISTANCE_Title"
 	{
-		"no"	"Høylandskastet"
+		"no"	"HÃ¸ylandskastet"
 	}
 	"TF_DEMOMAN_STICKJUMP_DISTANCE_Desc"
 	{
-		"no"	"Klisterhopp kjempelangt ..."
+		"no"	"Klisterhopp kjempelangtÂ ..."
 	}
 	"TF_DEMOMAN_KILL3_WITH_DETONATION_Title"
 	{
@@ -2558,7 +2574,7 @@
 	}
 	"TF_DEMOMAN_KILLXSAPPINGSPIES_Desc"
 	{
-		"no"	"Drep 20 spioner innen fem sekunder etter at de har plassert en Sapper på en alliert bygning."
+		"no"	"Drep 20Â spioner innen fem sekunder etter at de har plassert en Sapper pÃ¥ en alliert bygning."
 	}
 	"TF_DEMOMAN_KILL3_WITH_PIPE_SETUPS_Title"
 	{
@@ -2566,46 +2582,334 @@
 	}
 	"TF_DEMOMAN_KILL3_WITH_PIPE_SETUPS_Desc"
 	{
-		"no"	"Bruk Scottish Resistance til å drepe tre spillere i separate eksplosjoner uten å plassere nye klisterbomber."
+		"no"	"Bruk Scottish Resistance til Ã¥ drepe tre spillere i separate eksplosjoner uten Ã¥ plassere nye klisterbomber."
 	}
 	"TF_DEMOMAN_ACHIEVE_PROGRESS1_Title"
 	{
-		"no"	"Demoman-milepæl 1"
+		"no"	"Demoman-milepÃ¦l 1"
 	}
 	"TF_DEMOMAN_ACHIEVE_PROGRESS1_Desc"
 	{
-		"no"	"Oppnå 5 av prestasjonene i Demoman-pakken."
+		"no"	"OppnÃ¥ 5 av prestasjonene i Demoman-pakken."
 	}
 	"TF_DEMOMAN_ACHIEVE_PROGRESS2_Title"
 	{
-		"no"	"Demoman-milepæl 2"
+		"no"	"Demoman-milepÃ¦l 2"
 	}
 	"TF_DEMOMAN_ACHIEVE_PROGRESS2_Desc"
 	{
-		"no"	"Oppnå 11 av prestasjonene i Demoman-pakken."
+		"no"	"OppnÃ¥ 11 av prestasjonene i Demoman-pakken."
 	}
 	"TF_DEMOMAN_ACHIEVE_PROGRESS3_Title"
 	{
-		"no"	"Demoman-milepæl 3"
+		"no"	"Demoman-milepÃ¦l 3"
 	}
 	"TF_DEMOMAN_ACHIEVE_PROGRESS3_Desc"
 	{
-		"no"	"Oppnå 17 av prestasjonene i Demoman-pakken."
+		"no"	"OppnÃ¥ 17 av prestasjonene i Demoman-pakken."
 	}
-	"TF_SPY_TAUNT_KILL_Title"
+	"TF_ENGINEER_ACHIEVE_PROGRESS1_Title"
 	{
-		"no"	"Siste stikk"
+		"no"	"Engineer-milepÃ¦l 1"
 	}
-	"TF_SPY_TAUNT_KILL_Desc"
+	"TF_ENGINEER_ACHIEVE_PROGRESS1_Desc"
 	{
-		"no"	"Dolk en fiende mens du fekter."
+		"no"	"OppnÃ¥ 5 av prestasjonene i Engineer-pakken."
 	}
-	"TF_SPY_FAST_CAP_Title"
+	"TF_ENGINEER_ACHIEVE_PROGRESS2_Title"
 	{
-		"no"	"Fullstendig overtak"
+		"no"	"Engineer-milepÃ¦l 2"
 	}
-	"TF_SPY_FAST_CAP_Desc"
+	"TF_ENGINEER_ACHIEVE_PROGRESS2_Desc"
 	{
-		"no"	"Begynn å ta over et erobringspunkt i samme sekund som det blir tilgjengelig."
+		"no"	"OppnÃ¥ 11 av prestasjonene i Engineer-pakken."
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS3_Title"
+	{
+		"no"	"Engineer-milepÃ¦l 3"
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS3_Desc"
+	{
+		"no"	"OppnÃ¥ 17 av prestasjonene i Engineer-pakken."
+	}
+	"TF_ENGINEER_TELEPORT_GRIND_Title"
+	{
+		"no"	"Kamprekruttering"
+	}
+	"TF_ENGINEER_TELEPORT_GRIND_Desc"
+	{
+		"no"	"Teleporter 100Â lagmedlemmer inn i kamp."
+	}
+	"TF_ENGINEER_DISPENSER_EXTINGUISH_Title"
+	{
+		"no"	"Brannslukkeren"
+	}
+	"TF_ENGINEER_DISPENSER_EXTINGUISH_Desc"
+	{
+		"no"	"SÃ¸rg for at ladestasjoner du har bygget, slukker 20Â brennende spillere."
+	}
+	"TF_ENGINEER_REVENGE_CRIT_SENTRY_KILLER_Title"
+	{
+		"no"	"Engineer-hevn"
+	}
+	"TF_ENGINEER_REVENGE_CRIT_SENTRY_KILLER_Desc"
+	{
+		"no"	"Bruk en hevnfulltreffer til Ã¥ drepe fienden som Ã¸dela sensorvÃ¥penet ditt."
+	}
+	"TF_ENGINEER_MANUAL_CLOAKED_SPY_KILL_Title"
+	{
+		"no"	"SÃ¸kemotoren"
+	}
+	"TF_ENGINEER_MANUAL_CLOAKED_SPY_KILL_Desc"
+	{
+		"no"	"Drep tre skjulte Spyer med et sensorvÃ¥pen mens det kontrolleres av Wrangleren din."
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_KILLS_BEYOND_RANGE_Title"
+	{
+		"no"	"Utenfor skuddhold"
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_KILLS_BEYOND_RANGE_Desc"
+	{
+		"no"	"Bruk Wrangleren til Ã¥ drepe ti fiender utenfor normalrekkevidden til sensorvÃ¥penet."
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_ABSORB_DMG_Title"
+	{
+		"no"	"Utenfor fare"
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_ABSORB_DMG_Desc"
+	{
+		"no"	"La et sensorvÃ¥pen som er beskyttet av Wrangleren, absorbere 500Â skader uten Ã¥ bli Ã¸delagt."
+	}
+	"TF_ENGINEER_REVENGE_CRIT_LIFE_Title"
+	{
+		"no"	"NÃ¥delÃ¸st"
+	}
+	"TF_ENGINEER_REVENGE_CRIT_LIFE_Desc"
+	{
+		"no"	"Drep tre fiender med hevnfulltreffere uten Ã¥ dÃ¸."
+	}
+	"TF_ENGINEER_KILL_SPY_TWO_SAPPERS_Title"
+	{
+		"no"	"Rask pÃ¥ avtrekkeren"
+	}
+	"TF_ENGINEER_KILL_SPY_TWO_SAPPERS_Desc"
+	{
+		"no"	"Drep en Spy og to Sappere i lÃ¸pet av ti sekunder."
+	}
+	"TF_ENGINEER_KILL_DISGUISED_SPY_Title"
+	{
+		"no"	"SkiftenÃ¸kkelens hevn"
+	}
+	"TF_ENGINEER_KILL_DISGUISED_SPY_Desc"
+	{
+		"no"	"Drep en forkledd Spy med skiftenÃ¸kkelen."
+	}
+	"TF_ENGINEER_UPGRADE_BUILDINGS_Title"
+	{
+		"no"	"Passiv deleier"
+	}
+	"TF_ENGINEER_UPGRADE_BUILDINGS_Desc"
+	{
+		"no"	"Oppgrader 50Â bygninger som er bygget av andre lagmedlemmer."
+	}
+	"TF_ENGINEER_DESTROY_SAPPERS_Title"
+	{
+		"no"	"For en neve Sappere"
+	}
+	"TF_ENGINEER_DESTROY_SAPPERS_Desc"
+	{
+		"no"	"Ã˜delegg 25Â Sappere pÃ¥ bygninger som er bygget av andre lagmedlemmer."
+	}
+	"TF_ENGINEER_REPAIR_SENTRY_W_MEDIC_Title"
+	{
+		"no"	"Rubb og rake"
+	}
+	"TF_ENGINEER_REPAIR_SENTRY_W_MEDIC_Desc"
+	{
+		"no"	"Reparer et sensorvÃ¥pen som blir beskutt, mens du helbredes av en Medic."
+	}
+	"TF_ENGINEER_SENTRY_KILL_LIFETIME_GRIND_Title"
+	{
+		"no"	"Masseslakt"
+	}
+	"TF_ENGINEER_SENTRY_KILL_LIFETIME_GRIND_Desc"
+	{
+		"no"	"Samle opp 5000Â drap med sensorvÃ¥pnene dine."
+	}
+	"TF_ENGINEER_SENTRY_AVENGES_YOU_Title"
+	{
+		"no"	"Rettferdigheten seirer"
+	}
+	"TF_ENGINEER_SENTRY_AVENGES_YOU_Desc"
+	{
+		"no"	"SÃ¸rg for at sensorvÃ¥penet ditt dreper en fiende som nettopp har drept deg, i lÃ¸pet av ti sekunder."
+	}
+	"TF_ENGINEER_FREEZECAM_TAUNT_Title"
+	{
+		"no"	"Gitarsolo"
+	}
+	"TF_ENGINEER_FREEZECAM_TAUNT_Desc"
+	{
+		"no"	"Gi en fiende et fryst bilde av gitarferdighetene dine."
+	}
+	"TF_ENGINEER_FREEZECAM_SENTRY_Title"
+	{
+		"no"	"Usiv.ing."
+	}
+	"TF_ENGINEER_FREEZECAM_SENTRY_Desc"
+	{
+		"no"	"Gi en fiende et fryst bilde av deg og sensorvÃ¥penet som nettopp har drept vedkommende."
+	}
+	"TF_ENGINEER_SHOTGUN_KILL_PREV_SENTRY_TARGET_Title"
+	{
+		"no"	"Totrinnsdansen"
+	}
+	"TF_ENGINEER_SHOTGUN_KILL_PREV_SENTRY_TARGET_Desc"
+	{
+		"no"	"Bruk haglen til Ã¥ gjÃ¸re ende pÃ¥ en fiende som nylig har tatt skade av sensorvÃ¥penet ditt."
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GROUP_Title"
+	{
+		"no"	"Legevikaren"
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GROUP_Desc"
+	{
+		"no"	"La en ladestasjon helbrede tre lagkamerater samtidig."
+	}
+	"TF_ENGINEER_SENTRY_KILL_CAPS_Title"
+	{
+		"no"	"Ingenmannsland"
+	}
+	"TF_ENGINEER_SENTRY_KILL_CAPS_Desc"
+	{
+		"no"	"Bruk et sensorvÃ¥pen til Ã¥ drepe 25Â fiender som erobrer et punkt."
+	}
+	"TF_ENGINEER_KILL_FLAG_CARRIERS_Title"
+	{
+		"no"	"Yrkeshemmeligheter"
+	}
+	"TF_ENGINEER_KILL_FLAG_CARRIERS_Desc"
+	{
+		"no"	"Drep 20Â spillere som bÃ¦rer pÃ¥ etterretningen."
+	}
+	"TF_ENGINEER_WASTE_METAL_GRIND_Title"
+	{
+		"no"	"Death Metal"
+	}
+	"TF_ENGINEER_WASTE_METAL_GRIND_Desc"
+	{
+		"no"	"Plukk opp 10Â 000Â biter med metallavfall fra Ã¸delagte bygninger."
+	}
+	"TF_ENGINEER_HELP_BUILD_STRUCTURE_Title"
+	{
+		"no"	"VÃ¥rt jordstykke"
+	}
+	"TF_ENGINEER_HELP_BUILD_STRUCTURE_Desc"
+	{
+		"no"	"Hjelp en lagkamerat med Ã¥ bygge en bygning."
+	}
+	"TF_ENGINEER_REMOVE_SAPPER_LONG_DIST_Title"
+	{
+		"no"	"Skynd deg!"
+	}
+	"TF_ENGINEER_REMOVE_SAPPER_LONG_DIST_Desc"
+	{
+		"no"	"Kom deg bort til og fjern en Sapper som ble plassert pÃ¥ bygningen din mens du var flere meter unna."
+	}
+	"TF_ENGINEER_DESTROY_STICKIES_Title"
+	{
+		"no"	"Opprydding"
+	}
+	"TF_ENGINEER_DESTROY_STICKIES_Desc"
+	{
+		"no"	"Ã˜delegg 50 av fiendens klisterbomber som ligger innenfor rekkevidde av allierte bygninger."
+	}
+	"TF_ENGINEER_TAUNT_KILL_Title"
+	{
+		"no"	"Honkytonk-mann"
+	}
+	"TF_ENGINEER_TAUNT_KILL_Desc"
+	{
+		"no"	"Knus hodet pÃ¥ en fiende med gitaren din."
+	}
+	"TF_ENGINEER_KILL_SNIPERS_SENTRY_Title"
+	{
+		"no"	"Sniperfelling"
+	}
+	"TF_ENGINEER_KILL_SNIPERS_SENTRY_Desc"
+	{
+		"no"	"Drep ti Snipere med et sensorvÃ¥pen som kontrolleres av Wrangleren din."
+	}
+	"TF_ENGINEER_HELP_MANUAL_SENTRY_Title"
+	{
+		"no"	"Hardt arbeid"
+	}
+	"TF_ENGINEER_HELP_MANUAL_SENTRY_Desc"
+	{
+		"no"	"UtfÃ¸r 50Â reparasjoner og/eller omladinger av et sensorvÃ¥pen mens det kontrolleres av Wrangleren til en annen Engineer."
+	}
+	"TF_ENGINEER_KILL_SENTRY_WITH_SENTRY_Title"
+	{
+		"no"	"Patentbeskyttelse"
+	}
+	"TF_ENGINEER_KILL_SENTRY_WITH_SENTRY_Desc"
+	{
+		"no"	"Ã˜delegg sensorvÃ¥penet til en fiendtlig Engineer med et sensorvÃ¥pen som kontrolleres av Wrangleren din."
+	}
+	"TF_ENGINEER_MOVE_SENTRY_GET_KILL_Title"
+	{
+		"no"	"Bygget for Ã¥ drepe"
+	}
+	"TF_ENGINEER_MOVE_SENTRY_GET_KILL_Desc"
+	{
+		"no"	"Dra et sensorvÃ¥pen pÃ¥ nivÃ¥ 3 til en stilling hvor det oppnÃ¥r et drap kort tid etter at det er gjenaktivert."
+	}
+	"TF_ENGINEER_BUILDING_CARRY_Title"
+	{
+		"no"	"Texas Ranger"
+	}
+	"TF_ENGINEER_BUILDING_CARRY_Desc"
+	{
+		"no"	"Flytt bygninger 1Â km i lÃ¸pet av karrieren din."
+	}
+	"TF_ENGINEER_KILL_ASSIST_Title"
+	{
+		"no"	"Medhjelperen"
+	}
+	"TF_ENGINEER_KILL_ASSIST_Desc"
+	{
+		"no"	"OppnÃ¥ ti medvirkninger sammen med en annen Engineer. Et sensorvÃ¥pen mÃ¥ vÃ¦re innblandet i drapet."
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GRIND_Title"
+	{
+		"no"	"FarmasÃ¸yten"
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GRIND_Desc"
+	{
+		"no"	"SÃ¸rg for at ladestasjoner du har laget, deler ut til sammen 100Â 000Â helsepoeng i lÃ¸pet av karrieren din."
+	}
+	"TF_ENGINEER_REPAIR_TEAM_GRIND_Title"
+	{
+		"no"	"ReparatÃ¸ren kommer"
+	}
+	"TF_ENGINEER_REPAIR_TEAM_GRIND_Desc"
+	{
+		"no"	"Reparer 50Â 000Â skader pÃ¥ allierte bygninger som er bygget av andre spillere."
+	}
+	"TF_ENGINEER_TANK_DAMAGE_Title"
+	{
+		"no"	"Solid hÃ¥ndverk"
+	}
+	"TF_ENGINEER_TANK_DAMAGE_Desc"
+	{
+		"no"	"Hjelp en enkelt bygning med Ã¥ ta imot 2000Â skader uten Ã¥ bli Ã¸delagt."
+	}
+	"TF_ENGINEER_HEAVY_ASSIST_Title"
+	{
+		"no"	"Lykken stÃ¥r den tapre bi"
+	}
+	"TF_ENGINEER_HEAVY_ASSIST_Desc"
+	{
+		"no"	"Bruk ladestasjonen til Ã¥ holde en Heavy helbredet mens han oppnÃ¥r fem drap."
 	}
 }

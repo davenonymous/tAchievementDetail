@@ -1,0 +1,2611 @@
+﻿"Phrases"
+{
+	"TF_GET_TURRETKILLS_Title"
+	{
+		"ru"	"Часовой"
+	}
+	"TF_GET_TURRETKILLS_Desc"
+	{
+		"ru"	"Убейте десятерых врагов из одной пушки."
+	}
+	"TF_KILL_NEMESIS_Title"
+	{
+		"ru"	"Мститель"
+	}
+	"TF_KILL_NEMESIS_Desc"
+	{
+		"ru"	"Отомстите пятерым врагам."
+	}
+	"TF_GET_CONSECUTIVEKILLS_NODEATHS_Title"
+	{
+		"ru"	"Крепкий орешек"
+	}
+	"TF_GET_CONSECUTIVEKILLS_NODEATHS_Desc"
+	{
+		"ru"	"Убейте пятерых врагов подряд, не умирая."
+	}
+	"TF_GET_HEALED_BYENEMY_Title"
+	{
+		"ru"	"Мастер маскировки"
+	}
+	"TF_GET_HEALED_BYENEMY_Desc"
+	{
+		"ru"	"Обманите вражеского медика и заставьте его вылечить вас."
+	}
+	"TF_GET_HEADSHOTS_Title"
+	{
+		"ru"	"Серое вещество"
+	}
+	"TF_GET_HEADSHOTS_Desc"
+	{
+		"ru"	"Проведите 25 выстрелов в голову."
+	}
+	"TF_PLAY_GAME_FRIENDSONLY_Title"
+	{
+		"ru"	"Друзья навек"
+	}
+	"TF_PLAY_GAME_FRIENDSONLY_Desc"
+	{
+		"ru"	"Сыграйте в команде из 8 человек, каждый из которых входит в ваш список друзей."
+	}
+	"TF_WIN_MULTIPLEGAMES_Title"
+	{
+		"ru"	"Династия"
+	}
+	"TF_WIN_MULTIPLEGAMES_Desc"
+	{
+		"ru"	"Выиграйте 20 игр."
+	}
+	"TF_GET_MULTIPLEKILLS_Title"
+	{
+		"ru"	"Хардкор"
+	}
+	"TF_GET_MULTIPLEKILLS_Desc"
+	{
+		"ru"	"Наберите 1000 убитых врагов."
+	}
+	"TF_WIN_2FORT_NOENEMYCAPS_Title"
+	{
+		"ru"	"Граница на замке"
+	}
+	"TF_WIN_2FORT_NOENEMYCAPS_Desc"
+	{
+		"ru"	"Выиграйте карту 2Fort всухую."
+	}
+	"TF_WIN_WELL_MINIMUMTIME_Title"
+	{
+		"ru"	"Молниеносная атака"
+	}
+	"TF_WIN_WELL_MINIMUMTIME_Desc"
+	{
+		"ru"	"Выиграйте карту Well менее чем за 5 минут."
+	}
+	"TF_WIN_HYDRO_NOENEMYCAPS_Title"
+	{
+		"ru"	"Ни шагу назад"
+	}
+	"TF_WIN_HYDRO_NOENEMYCAPS_Desc"
+	{
+		"ru"	"Выиграйте карту Hydro, не сдавая ни единой позиции."
+	}
+	"TF_WIN_DUSTBOWL_NOENEMYCAPS_Title"
+	{
+		"ru"	"Несгибаемая защита"
+	}
+	"TF_WIN_DUSTBOWL_NOENEMYCAPS_Desc"
+	{
+		"ru"	"Выиграйте карту Dustbowl, не сдавая ни единой позиции."
+	}
+	"TF_WIN_GRAVELPIT_NOENEMYCAPS_Title"
+	{
+		"ru"	"Идеальная защита"
+	}
+	"TF_WIN_GRAVELPIT_NOENEMYCAPS_Desc"
+	{
+		"ru"	"Выиграйте карту Gravel Pit, не сдавая ни единой позиции."
+	}
+	"TF_PLAY_GAME_EVERYCLASS_Title"
+	{
+		"ru"	"Мастер-класс"
+	}
+	"TF_PLAY_GAME_EVERYCLASS_Desc"
+	{
+		"ru"	"Сыграйте полный раунд за каждый класс."
+	}
+	"TF_PLAY_GAME_EVERYMAP_Title"
+	{
+		"ru"	"Путешественник"
+	}
+	"TF_PLAY_GAME_EVERYMAP_Desc"
+	{
+		"ru"	"Пройдите полностью каждую карту."
+	}
+	"TF_GET_HEALPOINTS_Title"
+	{
+		"ru"	"Военврач"
+	}
+	"TF_GET_HEALPOINTS_Desc"
+	{
+		"ru"	"Наберите 25000 очков за лечение."
+	}
+	"TF_BURN_PLAYERSINMINIMUMTIME_Title"
+	{
+		"ru"	"Адский поджигатель"
+	}
+	"TF_BURN_PLAYERSINMINIMUMTIME_Desc"
+	{
+		"ru"	"Подожгите пять врагов за 30 секунд."
+	}
+	"TF_MEDIC_TOP_SCOREBOARD_Title"
+	{
+		"ru"	"Не навреди"
+	}
+	"TF_MEDIC_TOP_SCOREBOARD_Desc"
+	{
+		"ru"	"Сыграйте полный раунд, не убив никого из соперников, и наберите больше всех очков в команде из 6 человек и более."
+	}
+	"TF_MEDIC_HEAL_UNDER_FIRE_Title"
+	{
+		"ru"	"Четырехкратный обход"
+	}
+	"TF_MEDIC_HEAL_UNDER_FIRE_Desc"
+	{
+		"ru"	"Лечите товарища, в которого стреляют сразу 4 врага одновременно."
+	}
+	"TF_MEDIC_SIMUL_CHARGE_Title"
+	{
+		"ru"	"Групповое лечение"
+	}
+	"TF_MEDIC_SIMUL_CHARGE_Desc"
+	{
+		"ru"	"Вместе с 2 другими Медиками включите 3 убер-заряда одновременно."
+	}
+	"TF_MEDIC_SETUP_CHARGE_Title"
+	{
+		"ru"	"Готовность к операции"
+	}
+	"TF_MEDIC_SETUP_CHARGE_Desc"
+	{
+		"ru"	"Наберите убер-заряд до того, как закончится этап подготовки."
+	}
+	"TF_MEDIC_RAPID_CHARGE_Title"
+	{
+		"ru"	"Король травм"
+	}
+	"TF_MEDIC_RAPID_CHARGE_Desc"
+	{
+		"ru"	"Включите 3 убер-заряда менее, чем за 5 минут и помогите товарищам 5 раз за это время."
+	}
+	"TF_MEDIC_COUNTER_CHARGE_Title"
+	{
+		"ru"	"Двойное испытание"
+	}
+	"TF_MEDIC_COUNTER_CHARGE_Desc"
+	{
+		"ru"	"Примените убер-заряд около другого Медика, включившего убер, в течение 8 секунд."
+	}
+	"TF_MEDIC_SWITCH_TO_MEDIC_Title"
+	{
+		"ru"	"Игра в доктора"
+	}
+	"TF_MEDIC_SWITCH_TO_MEDIC_Desc"
+	{
+		"ru"	"В команде без Медиков, первым сыграйте за Медика, после того, как товарищи позовут медика и восстановите 500 здоровья."
+	}
+	"TF_MEDIC_SAVE_TEAMMATE_Title"
+	{
+		"ru"	"Вовремя"
+	}
+	"TF_MEDIC_SAVE_TEAMMATE_Desc"
+	{
+		"ru"	"Дайте убер-заряд товарищу, за секунду до того, как он получит критический удар."
+	}
+	"TF_MEDIC_CHARGE_BLOCKER_Title"
+	{
+		"ru"	"Профилактическая медицина"
+	}
+	"TF_MEDIC_CHARGE_BLOCKER_Desc"
+	{
+		"ru"	"Не дайте врагу захватить контрольную точку, дав убер-заряд товарищу."
+	}
+	"TF_MEDIC_ASSIST_MEDIC_Title"
+	{
+		"ru"	"Консультация"
+	}
+	"TF_MEDIC_ASSIST_MEDIC_Desc"
+	{
+		"ru"	"Помогите своему товарищу Медику убить 5 врагов за одну жизнь."
+	}
+	"TF_MEDIC_SYRINGE_SCOUTS_Title"
+	{
+		"ru"	"Больно, когда я так делаю?"
+	}
+	"TF_MEDIC_SYRINGE_SCOUTS_Desc"
+	{
+		"ru"	"Убейте 50 Разведчиков шприцевым пистолетом."
+	}
+	"TF_MEDIC_BONESAW_MEDICS_Title"
+	{
+		"ru"	"Такие же, как ты"
+	}
+	"TF_MEDIC_BONESAW_MEDICS_Desc"
+	{
+		"ru"	"Убейте 50 Медиков вашей медицинской пилой."
+	}
+	"TF_MEDIC_ASSIST_HEAVY_LONG_Title"
+	{
+		"ru"	"Большое лекарство!"
+	}
+	"TF_MEDIC_ASSIST_HEAVY_LONG_Desc"
+	{
+		"ru"	"Помогите пулеметчику убить 20 врагов, чтобы ни он, ни вы не умерли."
+	}
+	"TF_MEDIC_ASSIST_SCOUT_Title"
+	{
+		"ru"	"Будет немного больно"
+	}
+	"TF_MEDIC_ASSIST_SCOUT_Desc"
+	{
+		"ru"	"Помогите Разведчику убить 3 врагов за время действия одного убер-заряда."
+	}
+	"TF_MEDIC_ASSIST_PYRO_Title"
+	{
+		"ru"	"Автоподжиг"
+	}
+	"TF_MEDIC_ASSIST_PYRO_Desc"
+	{
+		"ru"	"Помогите Поджигателю убить 5 врагов за время действия одного убер-заряда."
+	}
+	"TF_MEDIC_ASSIST_HEAVY_Title"
+	{
+		"ru"	"Удар тупым предметом"
+	}
+	"TF_MEDIC_ASSIST_HEAVY_Desc"
+	{
+		"ru"	"Помогите Пулеметчику убить кулаками 2 врагов за время действия одного убер-заряда."
+	}
+	"TF_MEDIC_ASSIST_DEMOMAN_Title"
+	{
+		"ru"	"Медицинский прорыв"
+	}
+	"TF_MEDIC_ASSIST_DEMOMAN_Desc"
+	{
+		"ru"	"Помогите Подрывнику уничтожить 5 построек Инженера за время действия одного убер-заряда."
+	}
+	"TF_MEDIC_ASSIST_SOLDIER_Title"
+	{
+		"ru"	"Учащенное дыхание"
+	}
+	"TF_MEDIC_ASSIST_SOLDIER_Desc"
+	{
+		"ru"	"Помогите Солдату убить 5 врагов за время действия одного убер-заряда."
+	}
+	"TF_MEDIC_HEAL_ENGINEER_Title"
+	{
+		"ru"	"Акушерский кризис"
+	}
+	"TF_MEDIC_HEAL_ENGINEER_Desc"
+	{
+		"ru"	"Лечите Инженера, пока он чинит свою Пушку, находящуюся под огнем соперника."
+	}
+	"TF_MEDIC_ASSIST_CAPTURER_Title"
+	{
+		"ru"	"Где согласие, там победа"
+	}
+	"TF_MEDIC_ASSIST_CAPTURER_Desc"
+	{
+		"ru"	"Помогите уничтожить 5 врагов на вражеской контрольной точке за одну жизнь."
+	}
+	"TF_MEDIC_HEAL_CALLERS_Title"
+	{
+		"ru"	"Длинный раунд"
+	}
+	"TF_MEDIC_HEAL_CALLERS_Desc"
+	{
+		"ru"	"Вылечите 200 товарищей, после того, как они позовут медика."
+	}
+	"TF_MEDIC_EXTINGUISH_TEAMMATES_Title"
+	{
+		"ru"	"Адская медицина"
+	}
+	"TF_MEDIC_EXTINGUISH_TEAMMATES_Desc"
+	{
+		"ru"	"Затушите 100 горящих товарищей."
+	}
+	"TF_MEDIC_ASSIST_VS_NEMESES_Title"
+	{
+		"ru"	"Эвтаназия"
+	}
+	"TF_MEDIC_ASSIST_VS_NEMESES_Desc"
+	{
+		"ru"	"Помогите убить 20 злодеев."
+	}
+	"TF_MEDIC_KILL_WHILE_CHARGED_Title"
+	{
+		"ru"	"Эффект плацебо"
+	}
+	"TF_MEDIC_KILL_WHILE_CHARGED_Desc"
+	{
+		"ru"	"Убейте 5 врагов за одну жизнь, набрав убер-заряд, но не использовав его."
+	}
+	"TF_MEDIC_BONESAW_NOMISSES_Title"
+	{
+		"ru"	"Косторез"
+	}
+	"TF_MEDIC_BONESAW_NOMISSES_Desc"
+	{
+		"ru"	"Ударьте врагов вашей медицинской пилой 5 раз подряд, не умирая и не промахиваясь."
+	}
+	"TF_MEDIC_HEAL_LARGE_Title"
+	{
+		"ru"	"Интерн"
+	}
+	"TF_MEDIC_HEAL_LARGE_Desc"
+	{
+		"ru"	"Восстановите 7000 очков здоровья за одну жизнь."
+	}
+	"TF_MEDIC_HEAL_HUGE_Title"
+	{
+		"ru"	"Специалист"
+	}
+	"TF_MEDIC_HEAL_HUGE_Desc"
+	{
+		"ru"	"Восстановите 10000 очков здоровья за одну жизнь."
+	}
+	"TF_MEDIC_HEAL_GRIND_Title"
+	{
+		"ru"	"Главврач"
+	}
+	"TF_MEDIC_HEAL_GRIND_Desc"
+	{
+		"ru"	"Восстановите 1 миллион очков здоровья."
+	}
+	"TF_MEDIC_KILL_HEALED_SPY_Title"
+	{
+		"ru"	"Клятва Гиппократа"
+	}
+	"TF_MEDIC_KILL_HEALED_SPY_Desc"
+	{
+		"ru"	"Убейте вражеского шпиона, которого вы лечили."
+	}
+	"TF_MEDIC_SAVE_FALLING_TEAMMATE_Title"
+	{
+		"ru"	"Медицинское вмешательство"
+	}
+	"TF_MEDIC_SAVE_FALLING_TEAMMATE_Desc"
+	{
+		"ru"	"Не дайте разбиться падающему товарищу по команде."
+	}
+	"TF_MEDIC_CHARGE_JUGGLE_Title"
+	{
+		"ru"	"Другое мнение"
+	}
+	"TF_MEDIC_CHARGE_JUGGLE_Desc"
+	{
+		"ru"	"Дайте убер-заряд двум товарищам одновременно."
+	}
+	"TF_MEDIC_FREEZECAM_RAGDOLL_Title"
+	{
+		"ru"	"Вскрытие покажет"
+	}
+	"TF_MEDIC_FREEZECAM_RAGDOLL_Desc"
+	{
+		"ru"	"Позвольте сопернику запечатлеть мгновение, когда вы, убив его, смеетесь над его трупом."
+	}
+	"TF_MEDIC_BONESAW_SPY_CALLERS_Title"
+	{
+		"ru"	"Между прочим, я - Медик!"
+	}
+	"TF_MEDIC_BONESAW_SPY_CALLERS_Desc"
+	{
+		"ru"	"Убейте пилой 5 вражеских шпионов, зовущих медика."
+	}
+	"TF_MEDIC_CHARGE_FRIENDS_Title"
+	{
+		"ru"	"Семейный доктор"
+	}
+	"TF_MEDIC_CHARGE_FRIENDS_Desc"
+	{
+		"ru"	"Активируйте убер-заряд на 10 ваших друзьях в Steam."
+	}
+	"TF_MEDIC_INVITE_JOIN_CHARGE_Title"
+	{
+		"ru"	"Вызов на дом"
+	}
+	"TF_MEDIC_INVITE_JOIN_CHARGE_Desc"
+	{
+		"ru"	"Присоединитесь к одному из ваших играющих друзей и активируйте на нем убер-заряд."
+	}
+	"TF_MEDIC_HEAL_ACHIEVER_Title"
+	{
+		"ru"	"Уход за больным"
+	}
+	"TF_MEDIC_HEAL_ACHIEVER_Desc"
+	{
+		"ru"	"Лечите товарища по команде в тот момент, когда он получает достижение."
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS1_Title"
+	{
+		"ru"	"Медик - Этап 1"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS1_Desc"
+	{
+		"ru"	"Наберите 10 достижений из набора Медика."
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS2_Title"
+	{
+		"ru"	"Медик - Этап 2"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS2_Desc"
+	{
+		"ru"	"Наберите 16 достижений из набора Медика."
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS3_Title"
+	{
+		"ru"	"Медик - Этап 3"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS3_Desc"
+	{
+		"ru"	"Наберите 22 достижения из набора Медика."
+	}
+	"TF_PYRO_KILL_MULTIWEAPONS_Title"
+	{
+		"ru"	"Комбинированный удар"
+	}
+	"TF_PYRO_KILL_MULTIWEAPONS_Desc"
+	{
+		"ru"	"Используйте ваш дробовик, чтобы добить 20 подожженных вами врагов."
+	}
+	"TF_PYRO_SIMULBURN_SCOUTS_Title"
+	{
+		"ru"	"Вечеринка"
+	}
+	"TF_PYRO_SIMULBURN_SCOUTS_Desc"
+	{
+		"ru"	"Подожгите 2 скаутов, чтобы они оба горели в одно время."
+	}
+	"TF_PYRO_FORCE_WATERJUMP_Title"
+	{
+		"ru"	"Крещение огнем"
+	}
+	"TF_PYRO_FORCE_WATERJUMP_Desc"
+	{
+		"ru"	"Заставьте 10 горящих врагов прыгнуть в воду."
+	}
+	"TF_PYRO_KILL_POSTDEATH_Title"
+	{
+		"ru"	"Поджег и забыл"
+	}
+	"TF_PYRO_KILL_POSTDEATH_Desc"
+	{
+		"ru"	"Убейте 15 врагов, в тот момент, когда вы уже мертвы."
+	}
+	"TF_PYRO_KILL_SPIES_Title"
+	{
+		"ru"	"Огненная стена"
+	}
+	"TF_PYRO_KILL_SPIES_Desc"
+	{
+		"ru"	"Подожгите 5 шпионов, которые поставили жучки на постройки команды."
+	}
+	"TF_PYRO_KILL_CARRIERS_Title"
+	{
+		"ru"	"Украденный рецепт"
+	}
+	"TF_PYRO_KILL_CARRIERS_Desc"
+	{
+		"ru"	"Подожгите 5 врагов, уносящих ваши разведданные."
+	}
+	"TF_PYRO_REVEAL_SPIES_Title"
+	{
+		"ru"	"Самовозгорание"
+	}
+	"TF_PYRO_REVEAL_SPIES_Desc"
+	{
+		"ru"	"Подожгите 10 невидимых шпионов."
+	}
+	"TF_PYRO_CAMP_TELEPORTERS_Title"
+	{
+		"ru"	"Следопыт"
+	}
+	"TF_PYRO_CAMP_TELEPORTERS_Desc"
+	{
+		"ru"	"Подожгите 10 врагов, которые недавно использовали телепорт."
+	}
+	"TF_PYRO_CAMP_POSITION_Title"
+	{
+		"ru"	"Закрытое помещение"
+	}
+	"TF_PYRO_CAMP_POSITION_Desc"
+	{
+		"ru"	"Убейте 3 врагов подряд, всех - на одном и том же месте."
+	}
+	"TF_PYRO_KILL_AXE_SMALL_Title"
+	{
+		"ru"	"Дровосек"
+	}
+	"TF_PYRO_KILL_AXE_SMALL_Desc"
+	{
+		"ru"	"Убейте своим топориком 3 врагов за одну жизнь."
+	}
+	"TF_PYRO_KILL_AXE_LARGE_Title"
+	{
+		"ru"	"Зачистка"
+	}
+	"TF_PYRO_KILL_AXE_LARGE_Desc"
+	{
+		"ru"	"Убейте своим топориком 6 врагов за одну жизнь."
+	}
+	"TF_PYRO_KILL_FROM_BEHIND_Title"
+	{
+		"ru"	"Горячие выхлопные трубы"
+	}
+	"TF_PYRO_KILL_FROM_BEHIND_Desc"
+	{
+		"ru"	"Убейте 50 врагов, поджигая их сзади с помощью огнемета."
+	}
+	"TF_PYRO_BURN_SPIES_AS_YOU_Title"
+	{
+		"ru"	"Жаркое"
+	}
+	"TF_PYRO_BURN_SPIES_AS_YOU_Desc"
+	{
+		"ru"	"Подожгите 10 переодетых шпионов."
+	}
+	"TF_PYRO_BURN_SNIPERS_ZOOMED_Title"
+	{
+		"ru"	"Наблюдатель"
+	}
+	"TF_PYRO_BURN_SNIPERS_ZOOMED_Desc"
+	{
+		"ru"	"Подожгите 10 снайперов, пока они смотрят в оптический прицел."
+	}
+	"TF_PYRO_BURN_MEDICS_CHARGED_Title"
+	{
+		"ru"	"Пожар в больнице"
+	}
+	"TF_PYRO_BURN_MEDICS_CHARGED_Desc"
+	{
+		"ru"	"Подожгите 3 медиков, которые накопили, но не использовали убер-заряд."
+	}
+	"TF_PYRO_REFLECT_PROJECTILES_Title"
+	{
+		"ru"	"Горячая картошка"
+	}
+	"TF_PYRO_REFLECT_PROJECTILES_Desc"
+	{
+		"ru"	"Отразите 100 снарядов с помощью сжатого воздуха."
+	}
+	"TF_PYRO_KILL_HEAVIES_Title"
+	{
+		"ru"	"Жареный бекон"
+	}
+	"TF_PYRO_KILL_HEAVIES_Desc"
+	{
+		"ru"	"Сожгите 50 пулеметчиков вашим огнеметом."
+	}
+	"TF_PYRO_KILL_UNDERWATER_Title"
+	{
+		"ru"	"План Б"
+	}
+	"TF_PYRO_KILL_UNDERWATER_Desc"
+	{
+		"ru"	"Убейте 10 врагов, в тот момент, когда вы оба находитесь под водой."
+	}
+	"TF_PYRO_KILL_UBERCHARGE_Title"
+	{
+		"ru"	"Пиротехника"
+	}
+	"TF_PYRO_KILL_UBERCHARGE_Desc"
+	{
+		"ru"	"Убейте 3 врагов за время действия действия одного убер-заряда."
+	}
+	"TF_PYRO_DESTROY_BUILDINGS_Title"
+	{
+		"ru"	"Поджигатель"
+	}
+	"TF_PYRO_DESTROY_BUILDINGS_Desc"
+	{
+		"ru"	"Уничтожьте 50 построек инженера."
+	}
+	"TF_PYRO_DEFEND_POINTS_Title"
+	{
+		"ru"	"Контрольный поджог"
+	}
+	"TF_PYRO_DEFEND_POINTS_Desc"
+	{
+		"ru"	"Подожгите 50 врагов, захватывающих вашу контрольную точку."
+	}
+	"TF_PYRO_KILL_GRIND_Title"
+	{
+		"ru"	"Огнеметчик"
+	}
+	"TF_PYRO_KILL_GRIND_Desc"
+	{
+		"ru"	"Убейте 500 врагов."
+	}
+	"TF_PYRO_DAMAGE_GRIND_Title"
+	{
+		"ru"	"Пироман"
+	}
+	"TF_PYRO_DAMAGE_GRIND_Desc"
+	{
+		"ru"	"Нанесите 1 миллион ущерба своими поджогами."
+	}
+	"TF_PYRO_BURN_MEDICPAIR_Title"
+	{
+		"ru"	"Очередь за поджиганием"
+	}
+	"TF_PYRO_BURN_MEDICPAIR_Desc"
+	{
+		"ru"	"Подожгите врага и медика, который его лечит."
+	}
+	"TF_PYRO_KILL_TAUNT_Title"
+	{
+		"ru"	"OMGWTFBBQ"
+	}
+	"TF_PYRO_KILL_TAUNT_Desc"
+	{
+		"ru"	"Убейте врага насмешкой поджигателя."
+	}
+	"TF_PYRO_KILL_TEAMWORK_Title"
+	{
+		"ru"	"Поджигание по кругу"
+	}
+	"TF_PYRO_KILL_TEAMWORK_Desc"
+	{
+		"ru"	"Убейте горящего противника, которого поджег другой поджигатель."
+	}
+	"TF_PYRO_BURN_SPY_TAUNT_Title"
+	{
+		"ru"	"Есть прикурить?"
+	}
+	"TF_PYRO_BURN_SPY_TAUNT_Desc"
+	{
+		"ru"	"Подожгите вражеского шпиона, в момент, когда он достает сигарету."
+	}
+	"TF_PYRO_DOMINATE_LEAVESVR_Title"
+	{
+		"ru"	"Барбекю"
+	}
+	"TF_PYRO_DOMINATE_LEAVESVR_Desc"
+	{
+		"ru"	"Заставьте игрока, над которым у вас превосходство, покинуть сервер."
+	}
+	"TF_PYRO_REFLECT_CROCKET_KILL_Title"
+	{
+		"ru"	"Горячий удар"
+	}
+	"TF_PYRO_REFLECT_CROCKET_KILL_Desc"
+	{
+		"ru"	"Убейте солдата, отразив его ракету с критическим ударом."
+	}
+	"TF_PYRO_KILL_TAUNTERS_Title"
+	{
+		"ru"	"Танцевальное жертвоприношение"
+	}
+	"TF_PYRO_KILL_TAUNTERS_Desc"
+	{
+		"ru"	"Убейте 3 врагов, пока они совершают насмешки."
+	}
+	"TF_PYRO_DOUBLE_KO_Title"
+	{
+		"ru"	"Убийственная жара"
+	}
+	"TF_PYRO_DOUBLE_KO_Desc"
+	{
+		"ru"	"Убейте врага в ту же секунду, когда он убивает вас."
+	}
+	"TF_PYRO_BURN_RJ_SOLDIER_Title"
+	{
+		"ru"	"Сигнальная лампа"
+	}
+	"TF_PYRO_BURN_RJ_SOLDIER_Desc"
+	{
+		"ru"	"Подожгите солдата, находящегося в полете после прыжка с ракетой."
+	}
+	"TF_PYRO_FREEZECAM_TAUNTS_Title"
+	{
+		"ru"	"Застывший, но горячий"
+	}
+	"TF_PYRO_FREEZECAM_TAUNTS_Desc"
+	{
+		"ru"	"Позвольте противникам запечатлеть все виды ваших насмешек."
+	}
+	"TF_PYRO_KILL_GRIND_LARGE_Title"
+	{
+		"ru"	"Мастер огня"
+	}
+	"TF_PYRO_KILL_GRIND_LARGE_Desc"
+	{
+		"ru"	"Убейте 1000 врагов."
+	}
+	"TF_PYRO_IGNITE_FLAREGUN_Title"
+	{
+		"ru"	"В центре внимания"
+	}
+	"TF_PYRO_IGNITE_FLAREGUN_Desc"
+	{
+		"ru"	"Подожгите 100 врагов, используя ракетницу."
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS1_Title"
+	{
+		"ru"	"Поджигатель - Этап 1"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS1_Desc"
+	{
+		"ru"	"Наберите 10 достижений из набора достижений поджигателя."
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS2_Title"
+	{
+		"ru"	"Поджигатель - Этап 2"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS2_Desc"
+	{
+		"ru"	"Наберите 16 достижений из набора достижений поджигателя."
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS3_Title"
+	{
+		"ru"	"Поджигатель - Этап 3"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS3_Desc"
+	{
+		"ru"	"Наберите 22 достижения из набора достижений поджигателя."
+	}
+	"TF_HEAVY_DAMAGE_TAKEN_Title"
+	{
+		"ru"	"Железный занавес"
+	}
+	"TF_HEAVY_DAMAGE_TAKEN_Desc"
+	{
+		"ru"	"Останьтесь в живых, получив 1000 очков урона за одну жизнь."
+	}
+	"TF_HEAVY_DEFEND_MEDIC_Title"
+	{
+		"ru"	"Верность партии"
+	}
+	"TF_HEAVY_DEFEND_MEDIC_Desc"
+	{
+		"ru"	"Убейте 50 врагов через 3 секунды после их атаки на вашего медика."
+	}
+	"TF_HEAVY_ASSIST_MEDIC_LARGE_Title"
+	{
+		"ru"	"Разделение труда"
+	}
+	"TF_HEAVY_ASSIST_MEDIC_LARGE_Desc"
+	{
+		"ru"	"Убейте 20 врагов на пару с медиком, чтобы никто из вас не умер."
+	}
+	"TF_HEAVY_EARN_MEDIC_DOMINATION_Title"
+	{
+		"ru"	"Красный Октоберфест"
+	}
+	"TF_HEAVY_EARN_MEDIC_DOMINATION_Desc"
+	{
+		"ru"	"Сделайте так, чтобы медик, лечащий вас, стал злодеем для соперника."
+	}
+	"TF_HEAVY_KILL_TAUNT_Title"
+	{
+		"ru"	"Показательный процесс"
+	}
+	"TF_HEAVY_KILL_TAUNT_Desc"
+	{
+		"ru"	"Убейте врага насмешкой."
+	}
+	"TF_HEAVY_KILL_FLAG_CARRIERS_Title"
+	{
+		"ru"	"Преступление и наказание"
+	}
+	"TF_HEAVY_KILL_FLAG_CARRIERS_Desc"
+	{
+		"ru"	"Убейте 10 врагов, уносящих ваши разведданные."
+	}
+	"TF_HEAVY_KILL_MEDIC_PAIR_Title"
+	{
+		"ru"	"Классовая борьба"
+	}
+	"TF_HEAVY_KILL_MEDIC_PAIR_Desc"
+	{
+		"ru"	"Вместе с вашим медиком убейте вражескую пару пулеметчика и медика."
+	}
+	"TF_HEAVY_BLOCK_INVULN_HEAVY_Title"
+	{
+		"ru"	"Варшавский блок"
+	}
+	"TF_HEAVY_BLOCK_INVULN_HEAVY_Desc"
+	{
+		"ru"	"Защищаясь и будучи неуязвимым, не дайте пройти атакующему неуязвимому пулеметчику."
+	}
+	"TF_HEAVY_BLOCK_CART_Title"
+	{
+		"ru"	"Тележка имени Сталина"
+	}
+	"TF_HEAVY_BLOCK_CART_Desc"
+	{
+		"ru"	"Остановите продвижение тележки 25 раз."
+	}
+	"TF_HEAVY_RECEIVE_UBER_GRIND_Title"
+	{
+		"ru"	"Верховный Совет"
+	}
+	"TF_HEAVY_RECEIVE_UBER_GRIND_Desc"
+	{
+		"ru"	"Получите убер-заряд 50 раз."
+	}
+	"TF_HEAVY_STAND_NEAR_DISPENSER_Title"
+	{
+		"ru"	"Заводской рабочий"
+	}
+	"TF_HEAVY_STAND_NEAR_DISPENSER_Desc"
+	{
+		"ru"	"Находясь около раздатчика, убейте 20 врагов."
+	}
+	"TF_HEAVY_ASSIST_HEAVY_GRIND_Title"
+	{
+		"ru"	"Советский Союз"
+	}
+	"TF_HEAVY_ASSIST_HEAVY_GRIND_Desc"
+	{
+		"ru"	"В паре с другим пулеметчиком, помогая друг другу, убейте 25 врагов."
+	}
+	"TF_HEAVY_CLEAR_STICKYBOMBS_Title"
+	{
+		"ru"	"Средства производства"
+	}
+	"TF_HEAVY_CLEAR_STICKYBOMBS_Desc"
+	{
+		"ru"	"Уничтожьте 20 бомб-липучек, убив подрывника, установившего их."
+	}
+	"TF_HEAVY_KILL_UNDERWATER_Title"
+	{
+		"ru"	"Сумасшедший Иван"
+	}
+	"TF_HEAVY_KILL_UNDERWATER_Desc"
+	{
+		"ru"	"Убейте 100 врагов, когда вы оба находитесь под водой."
+	}
+	"TF_HEAVY_TAKE_MULTI_DAMAGE_Title"
+	{
+		"ru"	"Распутин"
+	}
+	"TF_HEAVY_TAKE_MULTI_DAMAGE_Desc"
+	{
+		"ru"	"За одну жизнь получите урон от выстрела, огня, удара и взрыва."
+	}
+	"TF_HEAVY_KILL_DOMINATED_Title"
+	{
+		"ru"	"Самые сливки"
+	}
+	"TF_HEAVY_KILL_DOMINATED_Desc"
+	{
+		"ru"	"20 раз убейте врагов, ставших вашими жертвами."
+	}
+	"TF_HEAVY_SURVIVE_CROCKET_Title"
+	{
+		"ru"	"За каменной стеной"
+	}
+	"TF_HEAVY_SURVIVE_CROCKET_Desc"
+	{
+		"ru"	"Останьтесь в живых после попадания критической ракеты."
+	}
+	"TF_HEAVY_ASSIST_GRIND_Title"
+	{
+		"ru"	"Коллективизация"
+	}
+	"TF_HEAVY_ASSIST_GRIND_Desc"
+	{
+		"ru"	"Помогите товарищам по команде 1000 раз."
+	}
+	"TF_HEAVY_UNCOVER_SPIES_Title"
+	{
+		"ru"	"Шпионический материализм"
+	}
+	"TF_HEAVY_UNCOVER_SPIES_Desc"
+	{
+		"ru"	"Убейте или помогите убить 10 невидимых шпионов."
+	}
+	"TF_HEAVY_KILL_WHILE_SPUNUP_Title"
+	{
+		"ru"	"Перманентная революция"
+	}
+	"TF_HEAVY_KILL_WHILE_SPUNUP_Desc"
+	{
+		"ru"	"Убейте 5 врагов, не прекращая раскручивать свой пулемет."
+	}
+	"TF_HEAVY_FIRE_LOTS_Title"
+	{
+		"ru"	"Тяжелая промышленность"
+	}
+	"TF_HEAVY_FIRE_LOTS_Desc"
+	{
+		"ru"	"За одну жизнь настреляйте пуль на $200,000."
+	}
+	"TF_HEAVY_KILL_CRIT_PUNCH_Title"
+	{
+		"ru"	"Манифест Коммунистической партии"
+	}
+	"TF_HEAVY_KILL_CRIT_PUNCH_Desc"
+	{
+		"ru"	"Убейте врага критическим ударом кулаков."
+	}
+	"TF_HEAVY_HEAL_MEDIKITS_Title"
+	{
+		"ru"	"Передел здоровья"
+	}
+	"TF_HEAVY_HEAL_MEDIKITS_Desc"
+	{
+		"ru"	"Вылечите 1000 здоровья за одну жизнь, используя только аптечки."
+	}
+	"TF_HEAVY_KILL_SHOTGUN_Title"
+	{
+		"ru"	"Нормирование"
+	}
+	"TF_HEAVY_KILL_SHOTGUN_Desc"
+	{
+		"ru"	"Убейте врага из дробовика, в то время как патроны для пулемёта уже закончились."
+	}
+	"TF_HEAVY_FIRST_TO_CAP_Title"
+	{
+		"ru"	"Авангард"
+	}
+	"TF_HEAVY_FIRST_TO_CAP_Desc"
+	{
+		"ru"	"Первым среди всей команды начните захватывать контрольную точку на карте."
+	}
+	"TF_HEAVY_PAYLOAD_CAP_GRIND_Title"
+	{
+		"ru"	"Тележка имени Пушкина"
+	}
+	"TF_HEAVY_PAYLOAD_CAP_GRIND_Desc"
+	{
+		"ru"	"Захватите 50 точек на картах сопровождения груза."
+	}
+	"TF_HEAVY_KILL_MIDAIR_MINIGUN_Title"
+	{
+		"ru"	"Ворошиловский стрелок"
+	}
+	"TF_HEAVY_KILL_MIDAIR_MINIGUN_Desc"
+	{
+		"ru"	"Застрелите из пулемета 10 врагов, находящихся в воздухе."
+	}
+	"TF_HEAVY_DEFEND_CONTROL_POINT_Title"
+	{
+		"ru"	"Парк Горького"
+	}
+	"TF_HEAVY_DEFEND_CONTROL_POINT_Desc"
+	{
+		"ru"	"Убейте 25 врагов, стоя на вашей контрольной точке."
+	}
+	"TF_HEAVY_KILL_CAPPING_ENEMIES_Title"
+	{
+		"ru"	"Зачистка"
+	}
+	"TF_HEAVY_KILL_CAPPING_ENEMIES_Desc"
+	{
+		"ru"	"Убейте 15 врагов, захватывающих вашу контрольную точку."
+	}
+	"TF_HEAVY_REVENGE_ASSIST_Title"
+	{
+		"ru"	"Верной дорогой идёте, товарищи!"
+	}
+	"TF_HEAVY_REVENGE_ASSIST_Desc"
+	{
+		"ru"	"Помогите 5 товарищам по команде отомстить своим злодеям."
+	}
+	"TF_HEAVY_TELEPORT_FAST_KILL_Title"
+	{
+		"ru"	"Пятисекундка"
+	}
+	"TF_HEAVY_TELEPORT_FAST_KILL_Desc"
+	{
+		"ru"	"Убейте врага в течение 5 секунд после того, как вы вышли из телепорта."
+	}
+	"TF_HEAVY_FREEZECAM_TAUNT_Title"
+	{
+		"ru"	"Фотостройка"
+	}
+	"TF_HEAVY_FREEZECAM_TAUNT_Desc"
+	{
+		"ru"	"Используйте насмешку убив врага и будучи неуязвимым."
+	}
+	"TF_HEAVY_EAT_SANDWICHES_Title"
+	{
+		"ru"	"Расточительное потребление"
+	}
+	"TF_HEAVY_EAT_SANDWICHES_Desc"
+	{
+		"ru"	"Съешьте 100 бутербродов."
+	}
+	"TF_HEAVY_KILL_SCOUTS_Title"
+	{
+		"ru"	"Не трогай бутерброд!"
+	}
+	"TF_HEAVY_KILL_SCOUTS_Desc"
+	{
+		"ru"	"Убейте 50 разведчиков используя Наташу."
+	}
+	"TF_HEAVY_KILL_HEAVIES_GLOVES_Title"
+	{
+		"ru"	"Борщ"
+	}
+	"TF_HEAVY_KILL_HEAVIES_GLOVES_Desc"
+	{
+		"ru"	"Убейте 10 пулемётчиков используя ФСБ."
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS1_Title"
+	{
+		"ru"	"Пулеметчик - Этап 1"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS1_Desc"
+	{
+		"ru"	"Наберите 10 достижений из набора Пулемётчика."
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS2_Title"
+	{
+		"ru"	"Пулеметчик - Этап 2"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS2_Desc"
+	{
+		"ru"	"Наберите 16 достижений из набора Пулемётчика."
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS3_Title"
+	{
+		"ru"	"Пулеметчик - Этап 3"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS3_Desc"
+	{
+		"ru"	"Наберите 22 достижения из набора Пулемётчика."
+	}
+	"TF_SCOUT_FIRST_BLOOD_Title"
+	{
+		"ru"	"Первая кровь"
+	}
+	"TF_SCOUT_FIRST_BLOOD_Desc"
+	{
+		"ru"	"Совершите первое убийство на Арене."
+	}
+	"TF_SCOUT_FIRST_BLOOD_KILL_Title"
+	{
+		"ru"	"Первая кровь, часть 2"
+	}
+	"TF_SCOUT_FIRST_BLOOD_KILL_Desc"
+	{
+		"ru"	"Убейте 5 врагов с использованием бонуса «Первая кровь»."
+	}
+	"TF_SCOUT_WELL_EARLY_KILL_Title"
+	{
+		"ru"	"Быстрый удар"
+	}
+	"TF_SCOUT_WELL_EARLY_KILL_Desc"
+	{
+		"ru"	"Убейте врага на карте Well до начала раунда."
+	}
+	"TF_SCOUT_LIFETIME_KILLS_Title"
+	{
+		"ru"	"Памятный год"
+	}
+	"TF_SCOUT_LIFETIME_KILLS_Desc"
+	{
+		"ru"	"Убейте 2004 врага."
+	}
+	"TF_SCOUT_IRON_MAN_KILLS_Title"
+	{
+		"ru"	"Цикл"
+	}
+	"TF_SCOUT_IRON_MAN_KILLS_Desc"
+	{
+		"ru"	"За одну жизнь убейте врага, находясь в воздухе, на земле и под водой."
+	}
+	"TF_SCOUT_DESTROY_TELEPORTERS_Title"
+	{
+		"ru"	"Замыкатель"
+	}
+	"TF_SCOUT_DESTROY_TELEPORTERS_Desc"
+	{
+		"ru"	"Уничтожьте 3 входа телепортов."
+	}
+	"TF_SCOUT_DESTROY_BUILDINGS_BEING_BUILT_Title"
+	{
+		"ru"	"Построй, если сможешь"
+	}
+	"TF_SCOUT_DESTROY_BUILDINGS_BEING_BUILT_Desc"
+	{
+		"ru"	"Уничтожьте 3 вражеских объекта в процессе постройки."
+	}
+	"TF_SCOUT_DESTROY_SENTRY_WITH_PISTOL_Title"
+	{
+		"ru"	"Диверсант"
+	}
+	"TF_SCOUT_DESTROY_SENTRY_WITH_PISTOL_Desc"
+	{
+		"ru"	"Уничтожьте активную вражескую пушку, используя только пистолет."
+	}
+	"TF_SCOUT_DOUBLE_JUMPS_Title"
+	{
+		"ru"	"Притяжения нет!"
+	}
+	"TF_SCOUT_DOUBLE_JUMPS_Desc"
+	{
+		"ru"	"Совершите 1000 двойных прыжков."
+	}
+	"TF_SCOUT_ASSIST_MEDIC_Title"
+	{
+		"ru"	"Адреналин"
+	}
+	"TF_SCOUT_ASSIST_MEDIC_Desc"
+	{
+		"ru"	"Убейте 3 врагов, находясь под Убер-зарядом медика."
+	}
+	"TF_SCOUT_STEAL_SANDWICH_Title"
+	{
+		"ru"	"Проныры 1, Громилы 0"
+	}
+	"TF_SCOUT_STEAL_SANDWICH_Desc"
+	{
+		"ru"	"Убейте пулеметчика и заберите его бутерброд."
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS1_Title"
+	{
+		"ru"	"Разведчик - Этап 1"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS1_Desc"
+	{
+		"ru"	"Наберите 10 достижений из набора Разведчика."
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS2_Title"
+	{
+		"ru"	"Разведчик - Этап 2"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS2_Desc"
+	{
+		"ru"	"Наберите 16 достижений из набора Разведчика."
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS3_Title"
+	{
+		"ru"	"Разведчик - Этап 3"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS3_Desc"
+	{
+		"ru"	"Наберите 22 достижений из набора Разведчика."
+	}
+	"TF_SCOUT_KILL_CHARGED_MEDICS_Title"
+	{
+		"ru"	"Забей медика!"
+	}
+	"TF_SCOUT_KILL_CHARGED_MEDICS_Desc"
+	{
+		"ru"	"Убейте медика, готового применить Убер-заряд."
+	}
+	"TF_SCOUT_SURVIVE_DAMAGE_Title"
+	{
+		"ru"	"Остаться в живых"
+	}
+	"TF_SCOUT_SURVIVE_DAMAGE_Desc"
+	{
+		"ru"	"Останьтесь в живых, получив 500 очков урона в течение одной жизни."
+	}
+	"TF_SCOUT_DOUBLEJUMP_KILL_Title"
+	{
+		"ru"	"Акробат"
+	}
+	"TF_SCOUT_DOUBLEJUMP_KILL_Desc"
+	{
+		"ru"	"Убейте 20 врагов, выполняя двойной прыжок."
+	}
+	"TF_SCOUT_FLAG_CAP_GRIND_Title"
+	{
+		"ru"	"Маневр"
+	}
+	"TF_SCOUT_FLAG_CAP_GRIND_Desc"
+	{
+		"ru"	"Захватите вражеские разведданные 25 раз."
+	}
+	"TF_SCOUT_THREE_FLAGCAPS_Title"
+	{
+		"ru"	"Тройной маневр"
+	}
+	"TF_SCOUT_THREE_FLAGCAPS_Desc"
+	{
+		"ru"	"Захватите разведданные 3 раза за один раунд."
+	}
+	"TF_SCOUT_DODGE_DAMAGE_Title"
+	{
+		"ru"	"Неуловимый"
+	}
+	"TF_SCOUT_DODGE_DAMAGE_Desc"
+	{
+		"ru"	"Увернитесь от суммарного ущерба в 1000 единиц за одну жизнь, используя Бонк! Атомный залп."
+	}
+	"TF_SCOUT_KNOCK_INTO_TRAIN_Title"
+	{
+		"ru"	"Смертник"
+	}
+	"TF_SCOUT_KNOCK_INTO_TRAIN_Desc"
+	{
+		"ru"	"Спровоцируйте самоубийство отдачей от «Неумолимой силы»."
+	}
+	"TF_SCOUT_KILL_STUNNED_Title"
+	{
+		"ru"	"Зона страйка"
+	}
+	"TF_SCOUT_KILL_STUNNED_Desc"
+	{
+		"ru"	"Убейте 50 врагов пока они оглушены."
+	}
+	"TF_SCOUT_STUN_INTO_TRAIN_Title"
+	{
+		"ru"	"Зона фола"
+	}
+	"TF_SCOUT_STUN_INTO_TRAIN_Desc"
+	{
+		"ru"	"Спровоцируйте смерть врага оглушением."
+	}
+	"TF_SCOUT_STUN_UBER_ENEMIES_Title"
+	{
+		"ru"	"Большая потеря"
+	}
+	"TF_SCOUT_STUN_UBER_ENEMIES_Desc"
+	{
+		"ru"	"Оглушите 25 врагов, находящихся под Убер-зарядом."
+	}
+	"TF_SCOUT_STUN_CAPPING_ENEMIES_Title"
+	{
+		"ru"	"Засада"
+	}
+	"TF_SCOUT_STUN_CAPPING_ENEMIES_Desc"
+	{
+		"ru"	"Оглушите 50 врагов, пока они захватывают точку или толкают вагонетку."
+	}
+	"TF_SCOUT_MAX_STUNS_Title"
+	{
+		"ru"	"Полёт на луну"
+	}
+	"TF_SCOUT_MAX_STUNS_Desc"
+	{
+		"ru"	"Оглушите врага на максимальное время, ударив мячом издалека."
+	}
+	"TF_SCOUT_STUN_SCOUT_WITH_THEIR_BALL_Title"
+	{
+		"ru"	"Пинг-понг"
+	}
+	"TF_SCOUT_STUN_SCOUT_WITH_THEIR_BALL_Desc"
+	{
+		"ru"	"Оглушите разведчика его же мячом."
+	}
+	"TF_SCOUT_KILL_IN_DODGE_COOLDOWN_Title"
+	{
+		"ru"	"Поймать беглеца"
+	}
+	"TF_SCOUT_KILL_IN_DODGE_COOLDOWN_Desc"
+	{
+		"ru"	"Убейте разведчика, находящегося под эффектом Крит-о-Колы."
+	}
+	"TF_SCOUT_KILL_FROM_BEHIND_Title"
+	{
+		"ru"	"Не спать!"
+	}
+	"TF_SCOUT_KILL_FROM_BEHIND_Desc"
+	{
+		"ru"	"Убейте 50 врагов выстрелом в спину из «Неумолимой силы»."
+	}
+	"TF_SCOUT_CAPTURE_LAST_POINT_Title"
+	{
+		"ru"	"Решающий штурм"
+	}
+	"TF_SCOUT_CAPTURE_LAST_POINT_Desc"
+	{
+		"ru"	"Захватите последнюю точку на CP карте."
+	}
+	"TF_SCOUT_CAPTURE_THREE_POINTS_Title"
+	{
+		"ru"	"Тройной захват"
+	}
+	"TF_SCOUT_CAPTURE_THREE_POINTS_Desc"
+	{
+		"ru"	"Захватите 3 точки подряд в одном раунде, ни разу не погибнув."
+	}
+	"TF_SCOUT_FAST_CAP_Title"
+	{
+		"ru"	"Быстрый захват"
+	}
+	"TF_SCOUT_FAST_CAP_Desc"
+	{
+		"ru"	"Начните захват точки в течение секунды, когда он станет возможным."
+	}
+	"TF_SCOUT_START_AND_FINISH_CAP_Title"
+	{
+		"ru"	"Стратег"
+	}
+	"TF_SCOUT_START_AND_FINISH_CAP_Desc"
+	{
+		"ru"	"Начните 10 захватов точек, которые успешно закончатся."
+	}
+	"TF_SCOUT_BLOCK_CAPS_Title"
+	{
+		"ru"	"Блок"
+	}
+	"TF_SCOUT_BLOCK_CAPS_Desc"
+	{
+		"ru"	"Предотвратите захват точки 50 раз."
+	}
+	"TF_SCOUT_CARRIER_KILL_CARRIER_Title"
+	{
+		"ru"	"Униженный курьер"
+	}
+	"TF_SCOUT_CARRIER_KILL_CARRIER_Desc"
+	{
+		"ru"	"Убейте врага, несущего ваши разведданные, удерживая при этом портфель противника."
+	}
+	"TF_SCOUT_CAP_FLAG_WITHOUT_ATTACKING_Title"
+	{
+		"ru"	"Без жертв"
+	}
+	"TF_SCOUT_CAP_FLAG_WITHOUT_ATTACKING_Desc"
+	{
+		"ru"	"Украдите и захватите вражеские разведданные, не выстрелив ни разу."
+	}
+	"TF_SCOUT_LONG_DISTANCE_RUNNER_Title"
+	{
+		"ru"	"Чемпионский марафон"
+	}
+	"TF_SCOUT_LONG_DISTANCE_RUNNER_Desc"
+	{
+		"ru"	"Пробегите 25 километров."
+	}
+	"TF_SCOUT_TAUNT_KILL_Title"
+	{
+		"ru"	"Аут!"
+	}
+	"TF_SCOUT_TAUNT_KILL_Desc"
+	{
+		"ru"	"Ударьте врага битой так, чтобы он пролетел 25 метров."
+	}
+	"TF_SNIPER_JARATE_DOMINATED_Title"
+	{
+		"ru"	"Скакал сурово, свалился мокрым"
+	}
+	"TF_SNIPER_JARATE_DOMINATED_Desc"
+	{
+		"ru"	"Примените банкате к вашей жертве."
+	}
+	"TF_SNIPER_FREEZECAM_HAT_Title"
+	{
+		"ru"	"Будьте вежливы"
+	}
+	"TF_SNIPER_FREEZECAM_HAT_Desc"
+	{
+		"ru"	"Убив врага, снимите шляпу."
+	}
+	"TF_SNIPER_RIFLE_NO_MISSING_Title"
+	{
+		"ru"	"Будьте результативны"
+	}
+	"TF_SNIPER_RIFLE_NO_MISSING_Desc"
+	{
+		"ru"	"Убейте троих из снайперской винтовки без единого промаха."
+	}
+	"TF_SNIPER_CAPTURE_FLAG_Title"
+	{
+		"ru"	"Действуйте по плану"
+	}
+	"TF_SNIPER_CAPTURE_FLAG_Desc"
+	{
+		"ru"	"Захватывайте флаг."
+	}
+	"TF_SNIPER_KILL_GRIND_Title"
+	{
+		"ru"	"Убивайте всех на своем пути"
+	}
+	"TF_SNIPER_KILL_GRIND_Desc"
+	{
+		"ru"	"Убейте 1000 врагов"
+	}
+	"TF_SNIPER_KILL_WEAPONS_Title"
+	{
+		"ru"	"Тройная добыча"
+	}
+	"TF_SNIPER_KILL_WEAPONS_Desc"
+	{
+		"ru"	"За один раунд убейте одного и того же противника из 3-х видов вооружения."
+	}
+	"TF_SNIPER_HEADSHOT_SNIPERS_Title"
+	{
+		"ru"	"Убей себе подобных"
+	}
+	"TF_SNIPER_HEADSHOT_SNIPERS_Desc"
+	{
+		"ru"	"10 попаданий в голову снайперам"
+	}
+	"TF_SNIPER_DESTROY_SENTRYGUNS_Title"
+	{
+		"ru"	"Демонтаж"
+	}
+	"TF_SNIPER_DESTROY_SENTRYGUNS_Desc"
+	{
+		"ru"	"Уничтожьте 3 пушки, построенных инженером."
+	}
+	"TF_SNIPER_KILL_INVIS_SPY_Title"
+	{
+		"ru"	"Выстрел в пустоту"
+	}
+	"TF_SNIPER_KILL_INVIS_SPY_Desc"
+	{
+		"ru"	"Убейте с одного выстрела полностью невидимого шпиона."
+	}
+	"TF_SNIPER_KILL_MIDAIR_SCOUT_Title"
+	{
+		"ru"	"Внезапная смерть"
+	}
+	"TF_SNIPER_KILL_MIDAIR_SCOUT_Desc"
+	{
+		"ru"	"Убейте в воздухе разведчика из снайперской винтовки или из лука."
+	}
+	"TF_SNIPER_FREEZECAM_WAVE_Title"
+	{
+		"ru"	"Помахать на прощание"
+	}
+	"TF_SNIPER_FREEZECAM_WAVE_Desc"
+	{
+		"ru"	"Убивая врага, помашите ему на прощание."
+	}
+	"TF_SNIPER_DOMINATE_SNIPER_Title"
+	{
+		"ru"	"Австралийцы круче"
+	}
+	"TF_SNIPER_DOMINATE_SNIPER_Desc"
+	{
+		"ru"	"Получите превосходство над снайпером противника"
+	}
+	"TF_SNIPER_KILL_SPIES_MELEE_Title"
+	{
+		"ru"	"Шинковка"
+	}
+	"TF_SNIPER_KILL_SPIES_MELEE_Desc"
+	{
+		"ru"	"Убейте 10 шпионов своим Кукри."
+	}
+	"TF_SNIPER_HEADSHOT_DEMOMAN_Title"
+	{
+		"ru"	"Влепи ему!"
+	}
+	"TF_SNIPER_HEADSHOT_DEMOMAN_Desc"
+	{
+		"ru"	"Попадание в голову подрывнику."
+	}
+	"TF_SNIPER_KILL_RJER_Title"
+	{
+		"ru"	"Прыг-хлоп"
+	}
+	"TF_SNIPER_KILL_RJER_Desc"
+	{
+		"ru"	"Убейте из снайперской винтовки или из лука врага, использующего реактивный прыжок, пока он в воздухе"
+	}
+	"TF_SNIPER_KILL_OBJECTIVES_Title"
+	{
+		"ru"	"Я не чокнутый стрелок, папа"
+	}
+	"TF_SNIPER_KILL_OBJECTIVES_Desc"
+	{
+		"ru"	"За одну жизнь убейте 3-х врагов в момент, когда они выполняют задания."
+	}
+	"TF_SNIPER_KILL_UNSCOPED_Title"
+	{
+		"ru"	"Слушай свои чувства"
+	}
+	"TF_SNIPER_KILL_UNSCOPED_Desc"
+	{
+		"ru"	"Совершите 5 убийств из снайперской винтовки, не пользуясь оптикой."
+	}
+	"TF_SNIPER_KILL_CHARGED_MEDIC_Title"
+	{
+		"ru"	"Уберектомия"
+	}
+	"TF_SNIPER_KILL_CHARGED_MEDIC_Desc"
+	{
+		"ru"	"Убейте медика, который готов применить убер-заряд."
+	}
+	"TF_SNIPER_GET_BACKSTABBED_Title"
+	{
+		"ru"	"Утешительный приз"
+	}
+	"TF_SNIPER_GET_BACKSTABBED_Desc"
+	{
+		"ru"	"Умрите от удара в спину 50 раз."
+	}
+	"TF_SNIPER_KILL_AT_ROUNDSTART_Title"
+	{
+		"ru"	"Враг у ворот"
+	}
+	"TF_SNIPER_KILL_AT_ROUNDSTART_Desc"
+	{
+		"ru"	"Убейте соперника в течении первой секунды раунда."
+	}
+	"TF_SNIPER_HEADSHOT_POST_INVULN_Title"
+	{
+		"ru"	"Смертельный момент"
+	}
+	"TF_SNIPER_HEADSHOT_POST_INVULN_Desc"
+	{
+		"ru"	"Выстрел в голову противнику в тот самый момент, когда его неуязвимость закончилась."
+	}
+	"TF_SNIPER_TOP_SCOREBOARD_GRIND_Title"
+	{
+		"ru"	"Блестящая карьера"
+	}
+	"TF_SNIPER_TOP_SCOREBOARD_GRIND_Desc"
+	{
+		"ru"	"Возглавьте таблицу результатов у команды, состоящей из 6 и более игроков, 10 раз."
+	}
+	"TF_SNIPER_KILL_FAILED_SPY_Title"
+	{
+		"ru"	"Шоковая терапия"
+	}
+	"TF_SNIPER_KILL_FAILED_SPY_Desc"
+	{
+		"ru"	"Убейте шпиона, подкравшегося из-за спины и остановленного «Бронепанцирем»."
+	}
+	"TF_SNIPER_JARATE_GROUP_Title"
+	{
+		"ru"	"Ковровая бомбардировка"
+	}
+	"TF_SNIPER_JARATE_GROUP_Desc"
+	{
+		"ru"	"Поразите банкате 4-х противников одним броском."
+	}
+	"TF_SNIPER_JARATE_MEDIC_PAIR_Title"
+	{
+		"ru"	"Дождь на их параде"
+	}
+	"TF_SNIPER_JARATE_MEDIC_PAIR_Desc"
+	{
+		"ru"	"Используйте банкате против врага и медика, который его лечит."
+	}
+	"TF_SNIPER_JARATE_REVEAL_SPY_Title"
+	{
+		"ru"	"Разоблачение банкате"
+	}
+	"TF_SNIPER_JARATE_REVEAL_SPY_Desc"
+	{
+		"ru"	"Используйте банкате, чтобы раскрыть замаскированного шпиона."
+	}
+	"TF_SNIPER_JARATE_EXTINGUISH_Title"
+	{
+		"ru"	"Дружба - золото"
+	}
+	"TF_SNIPER_JARATE_EXTINGUISH_Desc"
+	{
+		"ru"	"Потушите горящего соратника, используя банкате."
+	}
+	"TF_SNIPER_BOW_PIN_HEAVY_Title"
+	{
+		"ru"	"Перебор с Вильгельмом Теллем"
+	}
+	"TF_SNIPER_BOW_PIN_HEAVY_Desc"
+	{
+		"ru"	"Пригвоздите голову вражеского пулеметчика к стене."
+	}
+	"TF_SNIPER_BOW_KILL_MEDIC_PAIR_Title"
+	{
+		"ru"	"Влюбленные и стрелы"
+	}
+	"TF_SNIPER_BOW_KILL_MEDIC_PAIR_Desc"
+	{
+		"ru"	"С помощью лука убейте пару пулеметчик и медик."
+	}
+	"TF_SNIPER_BOW_KILL_FLAGCARRIER_Title"
+	{
+		"ru"	"Робин Гуд"
+	}
+	"TF_SNIPER_BOW_KILL_FLAGCARRIER_Desc"
+	{
+		"ru"	"Снимите противника, несущего разведданные одной стрелой."
+	}
+	"TF_SNIPER_BOW_PINCUSHION_Title"
+	{
+		"ru"	"Булавочный ежик"
+	}
+	"TF_SNIPER_BOW_PINCUSHION_Desc"
+	{
+		"ru"	"Поразите противника 3-мя стрелами, но не убивайте его."
+	}
+	"TF_SNIPER_JARATE_ASSISTS_Title"
+	{
+		"ru"	"Помощник номер один"
+	}
+	"TF_SNIPER_JARATE_ASSISTS_Desc"
+	{
+		"ru"	"Используйте в качестве помощи банкате 5 раз за раунд."
+	}
+	"TF_SNIPER_JARATE_KILL_MELEE_Title"
+	{
+		"ru"	"Удар банкате"
+	}
+	"TF_SNIPER_JARATE_KILL_MELEE_Desc"
+	{
+		"ru"	"Убейте 3-х врагов своим Кукри, применив на них Банкате."
+	}
+	"TF_SNIPER_TAUNT_KILL_Title"
+	{
+		"ru"	"Наживка"
+	}
+	"TF_SNIPER_TAUNT_KILL_Desc"
+	{
+		"ru"	"Убейте врага стрелой."
+	}
+	"TF_SNIPER_BOW_KILL_WHILEDEAD_Title"
+	{
+		"ru"	"Смертельно точный расчет"
+	}
+	"TF_SNIPER_BOW_KILL_WHILEDEAD_Desc"
+	{
+		"ru"	"Будучи мертвы, убейте врага."
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS1_Title"
+	{
+		"ru"	"Снайпер - Этап 1"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS1_Desc"
+	{
+		"ru"	"Наберите 5 достижений из набора снайпера."
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS2_Title"
+	{
+		"ru"	"Снайпер - Этап 2"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS2_Desc"
+	{
+		"ru"	"Наберите 11 достижений из набора снайпера."
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS3_Title"
+	{
+		"ru"	"Снайпер - Этап 3"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS3_Desc"
+	{
+		"ru"	"Наберите 17 достижений из набора снайпера."
+	}
+	"TF_SPY_BACKSTAB_SNIPERS_Title"
+	{
+		"ru"	"Тройной росчерк"
+	}
+	"TF_SPY_BACKSTAB_SNIPERS_Desc"
+	{
+		"ru"	"В течение одной жизни убейте ударом в спину 3 снайперов."
+	}
+	"TF_SPY_FREEZECAM_FLICK_Title"
+	{
+		"ru"	"Не для всех"
+	}
+	"TF_SPY_FREEZECAM_FLICK_Desc"
+	{
+		"ru"	"Позвольте сопернику запечатлеть мгновенье, когда вы прикуриваете сигарету над его трупом."
+	}
+	"TF_SPY_BACKSTAB_DISGUISED_SPY_Title"
+	{
+		"ru"	"Контршпионаж"
+	}
+	"TF_SPY_BACKSTAB_DISGUISED_SPY_Desc"
+	{
+		"ru"	"Ударом в спину убейте переодетого шпиона."
+	}
+	"TF_SPY_BACKSTAB_DISGUISE_TARGET_Title"
+	{
+		"ru"	"Кража личности"
+	}
+	"TF_SPY_BACKSTAB_DISGUISE_TARGET_Desc"
+	{
+		"ru"	"Ударом в спину убейте врага, чью личину вы теперь носите."
+	}
+	"TF_SPY_TAUNT_KILL_Title"
+	{
+		"ru"	"Смеющийся человек"
+	}
+	"TF_SPY_TAUNT_KILL_Desc"
+	{
+		"ru"	"Насмехаясь над врагом, убейте его."
+	}
+	"TF_SPY_BACKSTAB_MEDIC_HEALING_YOU_Title"
+	{
+		"ru"	"Кстати, я шпион"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_HEALING_YOU_Desc"
+	{
+		"ru"	"Ударом в спину убейте медика, который лечил вас 5 секунд назад."
+	}
+	"TF_SPY_BACKSTAB_ENGY_SAP_BUILDING_Title"
+	{
+		"ru"	"Человек со сломанными стволами"
+	}
+	"TF_SPY_BACKSTAB_ENGY_SAP_BUILDING_Desc"
+	{
+		"ru"	"За 10 секунд ударом в спину убейте инженера, затем подбросьте жучков на 3 его постройки."
+	}
+	"TF_SPY_SAP_BUILDING_BACKSTAB_ENGY_Title"
+	{
+		"ru"	"Жукосос"
+	}
+	"TF_SPY_SAP_BUILDING_BACKSTAB_ENGY_Desc"
+	{
+		"ru"	"За 5 секунд подбросьте жучок на постройку врага, затем ударом со спины убейте строящего ее инженера."
+	}
+	"TF_SPY_BACKSTAB_MEDIC_PAIR_Title"
+	{
+		"ru"	"Можно вас перебить?"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_PAIR_Desc"
+	{
+		"ru"	"За 10 секунд убейте ударом в спину врага и медика, который его лечит."
+	}
+	"TF_SPY_BACKSTAB_FRIENDS_Title"
+	{
+		"ru"	"Агент-провокатор"
+	}
+	"TF_SPY_BACKSTAB_FRIENDS_Desc"
+	{
+		"ru"	"Ударом со спины 10 раз убейте своего друга в Steam."
+	}
+	"TF_SPY_DOMINATE_SNIPER_Title"
+	{
+		"ru"	"Превосходство Мельбурна"
+	}
+	"TF_SPY_DOMINATE_SNIPER_Desc"
+	{
+		"ru"	"Победите снайпера."
+	}
+	"TF_SPY_BUMP_CLOAKED_SPY_Title"
+	{
+		"ru"	"Шпионы как мы"
+	}
+	"TF_SPY_BUMP_CLOAKED_SPY_Desc"
+	{
+		"ru"	"Будучи под плащом, убейте укрытого вражеского шпиона."
+	}
+	"TF_SPY_KILL_SPY_WITH_KNIFE_Title"
+	{
+		"ru"	"Высший класс"
+	}
+	"TF_SPY_KILL_SPY_WITH_KNIFE_Desc"
+	{
+		"ru"	"Убейте ножом шпиона, использующего пистолет."
+	}
+	"TF_SPY_SURVIVE_BURNING_Title"
+	{
+		"ru"	"Горящее извещение"
+	}
+	"TF_SPY_SURVIVE_BURNING_Desc"
+	{
+		"ru"	"Переживите 30 секунд, после того, как вас подожгут, пока вы под плащом."
+	}
+	"TF_SPY_BREAK_SHIELD_KILL_SNIPER_Title"
+	{
+		"ru"	"Умри, но не так"
+	}
+	"TF_SPY_BREAK_SHIELD_KILL_SNIPER_Desc"
+	{
+		"ru"	"Убейте снайпера после того, как ваш удар в спину сломает его бронепанцирь."
+	}
+	"TF_SPY_KILL_WORKING_ENGY_Title"
+	{
+		"ru"	"Отмененное строительство"
+	}
+	"TF_SPY_KILL_WORKING_ENGY_Desc"
+	{
+		"ru"	"Убейте инженера, который работает над пушкой."
+	}
+	"TF_SPY_FAST_CAP_Title"
+	{
+		"ru"	"На тайном обнаружении Ее Величества"
+	}
+	"TF_SPY_FAST_CAP_Desc"
+	{
+		"ru"	"Начните захватывать контрольную точку через секунду после ее появления."
+	}
+	"TF_SPY_MEDIC_HEALING_KILL_ENEMY_Title"
+	{
+		"ru"	"Страховое мошенничество"
+	}
+	"TF_SPY_MEDIC_HEALING_KILL_ENEMY_Desc"
+	{
+		"ru"	"Убейте врага, пока вас лечит вражеский медик."
+	}
+	"TF_SPY_KILL_CP_DEFENDERS_Title"
+	{
+		"ru"	"На точке стоять запрещено"
+	}
+	"TF_SPY_KILL_CP_DEFENDERS_Desc"
+	{
+		"ru"	"Убейте 15 врагов, стоящих на удерживаемой ими контрольной точке."
+	}
+	"TF_SPY_BACKSTAB_DOMINATING_ENEMY_Title"
+	{
+		"ru"	"Ценная мишень"
+	}
+	"TF_SPY_BACKSTAB_DOMINATING_ENEMY_Desc"
+	{
+		"ru"	"Ударом в спину убейте врага, который удерживает превосходство более чем над 3 вашими соратниками."
+	}
+	"TF_SPY_REVENGE_WITH_BACKSTAB_Title"
+	{
+		"ru"	"Человек с улицы"
+	}
+	"TF_SPY_REVENGE_WITH_BACKSTAB_Desc"
+	{
+		"ru"	"Отомстите врагу, убив его ударом в спину."
+	}
+	"TF_SPY_KNIFE_KILL_WHILE_JARATED_Title"
+	{
+		"ru"	"Мокрое дело"
+	}
+	"TF_SPY_KNIFE_KILL_WHILE_JARATED_Desc"
+	{
+		"ru"	"Забейте врага до смерти, будучи покрытым брызгами Банкате."
+	}
+	"TF_SPY_BACKSTAB_QUICK_KILLS_Title"
+	{
+		"ru"	"Тройной удар"
+	}
+	"TF_SPY_BACKSTAB_QUICK_KILLS_Desc"
+	{
+		"ru"	"Убейте ударом в спину 3 врагов за 10 секунд."
+	}
+	"TF_SPY_BACKSTAB_GRIND_Title"
+	{
+		"ru"	"Мастер-шпион"
+	}
+	"TF_SPY_BACKSTAB_GRIND_Desc"
+	{
+		"ru"	"Убейте ударом в спину 1000 врагов."
+	}
+	"TF_SPY_SAPPER_GRIND_Title"
+	{
+		"ru"	"Повелитель жучков"
+	}
+	"TF_SPY_SAPPER_GRIND_Desc"
+	{
+		"ru"	"С помощью жучков уничтожьте 1000 построек инженера."
+	}
+	"TF_SPY_SAPPER_TEAMWORK_Title"
+	{
+		"ru"	"Совместная операция"
+	}
+	"TF_SPY_SAPPER_TEAMWORK_Desc"
+	{
+		"ru"	"За 3 секунды подбросьте вместе с соратником по жучку к вражеским пушкам."
+	}
+	"TF_SPY_BACKSTAB_MEDIC_CHARGED_Title"
+	{
+		"ru"	"Др. Нееет"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_CHARGED_Desc"
+	{
+		"ru"	"Убейте ударом в спину медика, который готов разместить убер-заряд."
+	}
+	"TF_SPY_BACKSTAB_CAPPING_ENEMIES_Title"
+	{
+		"ru"	"Это безопасно?"
+	}
+	"TF_SPY_BACKSTAB_CAPPING_ENEMIES_Desc"
+	{
+		"ru"	"Убейте ударом в спину 50 врагов, захватывающих контрольные точки."
+	}
+	"TF_SPY_BACKSTAB_ENEMY_SWITCH_PYRO_Title"
+	{
+		"ru"	"Режь и жги"
+	}
+	"TF_SPY_BACKSTAB_ENEMY_SWITCH_PYRO_Desc"
+	{
+		"ru"	"Убейте ударом в спину врага, который в следующей жизни превратится в поджигателя."
+	}
+	"TF_SPY_AMBASSADOR_GRIND_Title"
+	{
+		"ru"	"Дипломатия"
+	}
+	"TF_SPY_AMBASSADOR_GRIND_Desc"
+	{
+		"ru"	"С помощью Амбассадора убейте 50 врагов."
+	}
+	"TF_SPY_AMBASSADOR_SNIPER_GRIND_Title"
+	{
+		"ru"	"Стрельба по черепам"
+	}
+	"TF_SPY_AMBASSADOR_SNIPER_GRIND_Desc"
+	{
+		"ru"	"С помощью Амбассадора выстрелами в голову убейте 20 снайперов."
+	}
+	"TF_SPY_FEIGN_DEATH_KILL_Title"
+	{
+		"ru"	"Спящий агент"
+	}
+	"TF_SPY_FEIGN_DEATH_KILL_Desc"
+	{
+		"ru"	"За 20 секунд убейте врага, который спровоцировал вашу ложную смерть."
+	}
+	"TF_SPY_AMBASSADOR_SCOUT_GRIND_Title"
+	{
+		"ru"	"Кто твой папочка?"
+	}
+	"TF_SPY_AMBASSADOR_SCOUT_GRIND_Desc"
+	{
+		"ru"	"С помощью Амбассадора выстрелами в голову убейте 3 скаутов."
+	}
+	"TF_SPY_CAMP_POSITION_Title"
+	{
+		"ru"	"Глубокое прикрытие"
+	}
+	"TF_SPY_CAMP_POSITION_Desc"
+	{
+		"ru"	"Используя невидимый кинжал, убейте одного и того же врага 3 раза на одном и том же месте."
+	}
+	"TF_SPY_ACHIEVE_PROGRESS1_Title"
+	{
+		"ru"	"Шпион - Этап 1"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS1_Desc"
+	{
+		"ru"	"Наберите 5 достижений из набора шпиона."
+	}
+	"TF_SPY_ACHIEVE_PROGRESS2_Title"
+	{
+		"ru"	"Шпион - Этап 2"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS2_Desc"
+	{
+		"ru"	"Наберите 11 достижений из набора шпиона."
+	}
+	"TF_SPY_ACHIEVE_PROGRESS3_Title"
+	{
+		"ru"	"Шпион - Этап 3"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS3_Desc"
+	{
+		"ru"	"Наберите 17 достижений из набора шпиона."
+	}
+	"TF_HALLOWEEN_COLLECT_PUMPKINS_Title"
+	{
+		"ru"	"Леденцовый коронер"
+	}
+	"TF_HALLOWEEN_COLLECT_PUMPKINS_Desc"
+	{
+		"ru"	"Соберите 20 тыкв с трупов игроков, чтобы получить шляпу."
+	}
+	"TF_HALLOWEEN_DOMINATE_FOR_HAT_Title"
+	{
+		"ru"	"Захват Жуткого шапокляка"
+	}
+	"TF_HALLOWEEN_DOMINATE_FOR_HAT_Desc"
+	{
+		"ru"	"Одолейте игрока, носящего Жуткий шапокляк, чтобы получить такой же."
+	}
+	"TF_HALLOWEEN_KILL_SCARED_PLAYER_Title"
+	{
+		"ru"	"Онемение от ужаса"
+	}
+	"TF_HALLOWEEN_KILL_SCARED_PLAYER_Desc"
+	{
+		"ru"	"Убейте игрока, напуганного призраком, который обитает на @@@KOTH Harvest."
+	}
+	"TF_HALLOWEEN_PUMPKIN_KILL_Title"
+	{
+		"ru"	"Тыквенные фонари смерти"
+	}
+	"TF_HALLOWEEN_PUMPKIN_KILL_Desc"
+	{
+		"ru"	"Убейте 5 игроков, взрывая рядом с ними тыквенные бомбы."
+	}
+	"TF_HALLOWEEN_DISGUISED_SPY_KILL_Title"
+	{
+		"ru"	"Конкурс костюмов"
+	}
+	"TF_HALLOWEEN_DISGUISED_SPY_KILL_Desc"
+	{
+		"ru"	"Убейте шпиона, переодетого в игрока одного с вами класса."
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS1_Title"
+	{
+		"ru"	"Солдат, 1-й этап"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS1_Desc"
+	{
+		"ru"	"Выполните 5 заданий из набора Солдата."
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS2_Title"
+	{
+		"ru"	"Солдат, 2-й этап"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS2_Desc"
+	{
+		"ru"	"Выполните 11 заданий из набора Солдата."
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS3_Title"
+	{
+		"ru"	"Солдат, 3-й этап"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS3_Desc"
+	{
+		"ru"	"Выполните 17 заданий из набора Солдата."
+	}
+	"TF_SOLDIER_KILL_GROUP_WITH_CROCKET_Title"
+	{
+		"ru"	"Троих одним махом"
+	}
+	"TF_SOLDIER_KILL_GROUP_WITH_CROCKET_Desc"
+	{
+		"ru"	"Убейте своих врагов одной критической ракетой."
+	}
+	"TF_SOLDIER_KILL_TWO_DURING_ROCKET_JUMP_Title"
+	{
+		"ru"	"Смерть с небес"
+	}
+	"TF_SOLDIER_KILL_TWO_DURING_ROCKET_JUMP_Desc"
+	{
+		"ru"	"Сделайте реактивный прыжок и убейте 2 врагов до приземления."
+	}
+	"TF_SOLDIER_THREE_DOMINATIONS_Title"
+	{
+		"ru"	"Покоритель"
+	}
+	"TF_SOLDIER_THREE_DOMINATIONS_Desc"
+	{
+		"ru"	"Покорите 3 врагов за одну жизнь."
+	}
+	"TF_SOLDIER_DEFEND_MEDIC_Title"
+	{
+		"ru"	"Военное преступление и наказание"
+	}
+	"TF_SOLDIER_DEFEND_MEDIC_Desc"
+	{
+		"ru"	"В течение одной жизни убейте 3 врагов, ранивших Медика, который вас лечил."
+	}
+	"TF_SOLDIER_KILL_TAUNT_Title"
+	{
+		"ru"	"Брызги поражения"
+	}
+	"TF_SOLDIER_KILL_TAUNT_Desc"
+	{
+		"ru"	"Расчлените игрока при помощи гранаты."
+	}
+	"TF_SOLDIER_DESTROY_SENTRY_OUT_OF_RANGE_Title"
+	{
+		"ru"	"Пушки острова Невладеевоне"
+	}
+	"TF_SOLDIER_DESTROY_SENTRY_OUT_OF_RANGE_Desc"
+	{
+		"ru"	"Убейте 5 Инженеров-часовых, не приближаясь к ним."
+	}
+	"TF_SOLDIER_KILL_SNIPER_WHILE_DEAD_Title"
+	{
+		"ru"	"Обоюдное уничтожение"
+	}
+	"TF_SOLDIER_KILL_SNIPER_WHILE_DEAD_Desc"
+	{
+		"ru"	"Убейте вражеского снайпера ракетой после того, как он убьет вас."
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_TARGET_WHILE_AIRBORNE_Title"
+	{
+		"ru"	"На крыльях славы"
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_TARGET_WHILE_AIRBORNE_Desc"
+	{
+		"ru"	"Убейте вражеского солдата, будучи вместе с ним в воздухе."
+	}
+	"TF_SOLDIER_KILL_ENGY_Title"
+	{
+		"ru"	"Бесконечный ремонт"
+	}
+	"TF_SOLDIER_KILL_ENGY_Desc"
+	{
+		"ru"	"Убейте Инженера, пока он ремонтирует свою автоматическую пушку под вражеским огнем."
+	}
+	"TF_SOLDIER_NEMESIS_SHOVEL_KILL_Title"
+	{
+		"ru"	"Окопная война"
+	}
+	"TF_SOLDIER_NEMESIS_SHOVEL_KILL_Desc"
+	{
+		"ru"	"Убейте своего заклятого врага саперной лопаткой."
+	}
+	"TF_SOLDIER_DESTROY_STICKIES_Title"
+	{
+		"ru"	"Сапер"
+	}
+	"TF_SOLDIER_DESTROY_STICKIES_Desc"
+	{
+		"ru"	"В течение одной жизни уничтожьте 10 бомб с помощью дробовика."
+	}
+	"TF_SOLDIER_CROUCH_ROCKET_JUMP_Title"
+	{
+		"ru"	"К снежным вершинам"
+	}
+	"TF_SOLDIER_CROUCH_ROCKET_JUMP_Desc"
+	{
+		"ru"	"Совершите реактивный прыжок на максимальную высоту, используя приседание."
+	}
+	"TF_SOLDIER_BUFF_FRIENDS_Title"
+	{
+		"ru"	"Знамя побратимов"
+	}
+	"TF_SOLDIER_BUFF_FRIENDS_Desc"
+	{
+		"ru"	"Помогите одновременно 5 друзьям по Steam при помощи Воодушевляющего знамени."
+	}
+	"TF_SOLDIER_KILL_TWENTY_FROM_ABOVE_Title"
+	{
+		"ru"	"Клекочущий орел"
+	}
+	"TF_SOLDIER_KILL_TWENTY_FROM_ABOVE_Desc"
+	{
+		"ru"	"Убейте 20 врагов, напав сверху."
+	}
+	"TF_SOLDIER_SHOOT_MULT_CRITS_Title"
+	{
+		"ru"	"Критические ракеты - ерунда"
+	}
+	"TF_SOLDIER_SHOOT_MULT_CRITS_Desc"
+	{
+		"ru"	"Выпустите две неусиленные критические ракеты подряд."
+	}
+	"TF_SOLDIER_KILL_DEFENSELESS_Title"
+	{
+		"ru"	"Отход от Женевской конвенции"
+	}
+	"TF_SOLDIER_KILL_DEFENSELESS_Desc"
+	{
+		"ru"	"Убейте 5 беззащитных игроков после завершения матча."
+	}
+	"TF_SOLDIER_KILL_ON_FIRE_Title"
+	{
+		"ru"	"Морпех с хрустящей корочкой"
+	}
+	"TF_SOLDIER_KILL_ON_FIRE_Desc"
+	{
+		"ru"	"Будучи объятым пламенем, убейте 20 врагов."
+	}
+	"TF_SOLDIER_KILL_FIVE_STUNNED_Title"
+	{
+		"ru"	"Вечная контузия"
+	}
+	"TF_SOLDIER_KILL_FIVE_STUNNED_Desc"
+	{
+		"ru"	"Убейте 5 оглушенных врагов."
+	}
+	"TF_SOLDIER_FREEZECAM_GIBS_Title"
+	{
+		"ru"	"Кровища-а! Кровища-а! Кровища-а!"
+	}
+	"TF_SOLDIER_FREEZECAM_GIBS_Desc"
+	{
+		"ru"	"Подарите противнику последний кадр, на котором вы насмехаетесь над 3-мя частями его тела."
+	}
+	"TF_SOLDIER_KILL_SPY_KILLER_Title"
+	{
+		"ru"	"Военный шпибунал"
+	}
+	"TF_SOLDIER_KILL_SPY_KILLER_Desc"
+	{
+		"ru"	"Убейте шпиона, который только что ударил вашего товарища в спину."
+	}
+	"TF_SOLDIER_DEFEND_CAP_THIRTY_TIMES_Title"
+	{
+		"ru"	"Гамбургский холм"
+	}
+	"TF_SOLDIER_DEFEND_CAP_THIRTY_TIMES_Desc"
+	{
+		"ru"	"Отбейте нападение на точку защиты 30 раз."
+	}
+	"TF_SOLDIER_GIB_GRIND_Title"
+	{
+		"ru"	"Фраги наших отцов"
+	}
+	"TF_SOLDIER_GIB_GRIND_Desc"
+	{
+		"ru"	"Расчлените 1000 людей."
+	}
+	"TF_SOLDIER_RJ_EQUALIZER_KILL_Title"
+	{
+		"ru"	"Долговые связи"
+	}
+	"TF_SOLDIER_RJ_EQUALIZER_KILL_Desc"
+	{
+		"ru"	"Выполняя реактивный прыжок, убейте врага Уравнителем до приземления."
+	}
+	"TF_SOLDIER_BUFF_TEAMMATES_Title"
+	{
+		"ru"	"Добрынюшки Интернешнл"
+	}
+	"TF_SOLDIER_BUFF_TEAMMATES_Desc"
+	{
+		"ru"	"В течение одной жизни усильте 15 товарищей по команде при помощи Воодушевляющего знамени."
+	}
+	"TF_SOLDIER_KILL_DEMOMAN_GRIND_Title"
+	{
+		"ru"	"Шотландоцид"
+	}
+	"TF_SOLDIER_KILL_DEMOMAN_GRIND_Desc"
+	{
+		"ru"	"Убейте 500 вражеских Подрывников."
+	}
+	"TF_SOLDIER_KILL_PYRO_Title"
+	{
+		"ru"	"Обратная тяга для ловкача"
+	}
+	"TF_SOLDIER_KILL_PYRO_Desc"
+	{
+		"ru"	"Убейте Поджигателя, который в последние 10 секунд отбил вашу ракету."
+	}
+	"TF_SOLDIER_EQUALIZER_STREAK_Title"
+	{
+		"ru"	"Некогда проливать кровь"
+	}
+	"TF_SOLDIER_EQUALIZER_STREAK_Desc"
+	{
+		"ru"	"Убейте 3 игроков Эквалайзером в течение одной жизни, не прибегая к лечению."
+	}
+	"TF_SOLDIER_KILL_WITH_EQUALIZER_WHILE_HURT_Title"
+	{
+		"ru"	"На грани смерти"
+	}
+	"TF_SOLDIER_KILL_WITH_EQUALIZER_WHILE_HURT_Desc"
+	{
+		"ru"	"Убейте 20 врагов Эквалайзером, имея при этом меньше 25 единиц здоровья."
+	}
+	"TF_SOLDIER_BOUNCE_THEN_SHOTGUN_Title"
+	{
+		"ru"	"По ком звенят гильзы"
+	}
+	"TF_SOLDIER_BOUNCE_THEN_SHOTGUN_Desc"
+	{
+		"ru"	"Подбросьте врага в воздух ракетой и подстрелите из дробовика, пока он не приземлился."
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_WITH_DIRECT_HIT_Title"
+	{
+		"ru"	"Смерть из глубин"
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_WITH_DIRECT_HIT_Desc"
+	{
+		"ru"	"Убейте 10 врагов в воздухе при помощи Прямого удара."
+	}
+	"TF_SOLDIER_FREEZECAM_TAUNT_Title"
+	{
+		"ru"	"Лучше один раз увидеть"
+	}
+	"TF_SOLDIER_FREEZECAM_TAUNT_Desc"
+	{
+		"ru"	"Подарите врагу последний кадр, на котором вы производите почетный салют."
+	}
+	"TF_SOLDIER_DUO_SOLDIER_KILLS_Title"
+	{
+		"ru"	"Братья по вредительству"
+	}
+	"TF_SOLDIER_DUO_SOLDIER_KILLS_Desc"
+	{
+		"ru"	"Убейте 10 врагов, сотрудничая с другим Солдатом."
+	}
+	"TF_SOLDIER_MVP_Title"
+	{
+		"ru"	"Медали Почета"
+	}
+	"TF_SOLDIER_MVP_Desc"
+	{
+		"ru"	"Завершите раунд как НЦИ в команде из 6 или более игроков 10 раз"
+	}
+	"TF_SOLDIER_RIDE_THE_CART_Title"
+	{
+		"ru"	"Полет колькирии"
+	}
+	"TF_SOLDIER_RIDE_THE_CART_Desc"
+	{
+		"ru"	"Удержитесь на едущей вагонетке в течение 30 секунд."
+	}
+	"TF_SOLDIER_ASSIST_MEDIC_UBER_Title"
+	{
+		"ru"	"S*M*A*S*H"
+	}
+	"TF_SOLDIER_ASSIST_MEDIC_UBER_Desc"
+	{
+		"ru"	"Помогите Медику взорвать 5 врагов одним уберзарядом."
+	}
+	"TF_DEMOMAN_KILL_SOLDIER_GRIND_Title"
+	{
+		"ru"	"Смертокилты"
+	}
+	"TF_DEMOMAN_KILL_SOLDIER_GRIND_Desc"
+	{
+		"ru"	"Убейте 500 вражеских солдат."
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_WITH_MEDIC_Title"
+	{
+		"ru"	"Тэм-о-сколтер"
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_WITH_MEDIC_Desc"
+	{
+		"ru"	"Уничтожьте 5 построек вражеского Инженера за время действия одного Уберзаряда Медика."
+	}
+	"TF_DEMOMAN_DECAPITATE_CLOAKED_SPY_Title"
+	{
+		"ru"	"Шорн Коннери"
+	}
+	"TF_DEMOMAN_DECAPITATE_CLOAKED_SPY_Desc"
+	{
+		"ru"	"Обезглавьте невидимого Шпиона."
+	}
+	"TF_DEMOMAN_KILL_X_WITH_DIRECTPIPE_Title"
+	{
+		"ru"	"Леди Макдет"
+	}
+	"TF_DEMOMAN_KILL_X_WITH_DIRECTPIPE_Desc"
+	{
+		"ru"	"Убейте 50 врагов прямыми попаданиями из гранатомета."
+	}
+	"TF_DEMOMAN_BOUNCE_AND_KILL_Title"
+	{
+		"ru"	"Метание бревна"
+	}
+	"TF_DEMOMAN_BOUNCE_AND_KILL_Desc"
+	{
+		"ru"	"Подбросьте врага в воздух и убейте его еще до приземления."
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_Title"
+	{
+		"ru"	"Охота за головами"
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_Desc"
+	{
+		"ru"	"Обезглавьте 50 игроков противника."
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_FAST_Title"
+	{
+		"ru"	"Безбашенные"
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_FAST_Desc"
+	{
+		"ru"	"Обезглавьте 4 игроков с интервалами не больше 10 секунд."
+	}
+	"TF_DEMOMAN_DUO_DEMOMAN_KILLS_Title"
+	{
+		"ru"	"Отличная шотландка!"
+	}
+	"TF_DEMOMAN_DUO_DEMOMAN_KILLS_Desc"
+	{
+		"ru"	"Убейте 10 игроков, сотрудничая с другим Подрывником."
+	}
+	"TF_DEMOMAN_KILL_TWO_DURING_STICKYJUMP_Title"
+	{
+		"ru"	"Двухударный шотландец"
+	}
+	"TF_DEMOMAN_KILL_TWO_DURING_STICKYJUMP_Desc"
+	{
+		"ru"	"Убейте 2 людей, совершив один прыжок на липучке."
+	}
+	"TF_DEMOMAN_KILL_PLAYER_AFTER_TP_Title"
+	{
+		"ru"	"Лохнесский бомбист"
+	}
+	"TF_DEMOMAN_KILL_PLAYER_AFTER_TP_Desc"
+	{
+		"ru"	"Убейте вражеского игрока при помощи бомб в течение 5 секунд после его телепортации."
+	}
+	"TF_DEMOMAN_DOMINATE_THREE_ENGINEERS_Title"
+	{
+		"ru"	"Три раза в дамках"
+	}
+	"TF_DEMOMAN_DOMINATE_THREE_ENGINEERS_Desc"
+	{
+		"ru"	"Победите 3 Инженеров"
+	}
+	"TF_DEMOMAN_KILL_BUILDING_DIRECT_HIT_Title"
+	{
+		"ru"	"Выстрел вслепую"
+	}
+	"TF_DEMOMAN_KILL_BUILDING_DIRECT_HIT_Desc"
+	{
+		"ru"	"Уничтожьте постройку Инженера, которую вы не видите, прямым попаданием из гранатомета."
+	}
+	"TF_DEMOMAN_MELEE_KILL_WHILE_STICKYJUMPING_Title"
+	{
+		"ru"	"Шотландское развлечение"
+	}
+	"TF_DEMOMAN_MELEE_KILL_WHILE_STICKYJUMPING_Desc"
+	{
+		"ru"	"Убейте кого-нибудь холодным оружием, выполняя прыжок на липучке."
+	}
+	"TF_DEMOMAN_KILL_ENGI_SENTRY_DISPENSER_Title"
+	{
+		"ru"	"Аргил сапера"
+	}
+	"TF_DEMOMAN_KILL_ENGI_SENTRY_DISPENSER_Desc"
+	{
+		"ru"	"Взорвите Инженера, его охранную пушку и раздатчик при помощи взрыва одной мины."
+	}
+	"TF_DEMOMAN_DECAPITATE_EQUALIZER_Title"
+	{
+		"ru"	"Убийство как танец"
+	}
+	"TF_DEMOMAN_DECAPITATE_EQUALIZER_Desc"
+	{
+		"ru"	"Обезглавьте вражеского Солдата, размахивающего Эквалайзером."
+	}
+	"TF_DEMOMAN_DECAPITATE_NEMESIS_Title"
+	{
+		"ru"	"Должен остаться только один"
+	}
+	"TF_DEMOMAN_DECAPITATE_NEMESIS_Desc"
+	{
+		"ru"	"Обезглавьте своего заклятого врага."
+	}
+	"TF_DEMOMAN_DAMAGE_GRIND_Title"
+	{
+		"ru"	"Нас мало, но мы в килтах"
+	}
+	"TF_DEMOMAN_DAMAGE_GRIND_Desc"
+	{
+		"ru"	"Нанесите взрывом общий урон в 1 миллион очков."
+	}
+	"TF_DEMOMAN_KILL_X_CAPPING_ONEDET_Title"
+	{
+		"ru"	"Шотландская оборона"
+	}
+	"TF_DEMOMAN_KILL_X_CAPPING_ONEDET_Desc"
+	{
+		"ru"	"3 раза подорвите одним взрывом 3 врагов, толкающих тележку."
+	}
+	"TF_DEMOMAN_KILL_X_DEFENDING_Title"
+	{
+		"ru"	"Храброе с перцем"
+	}
+	"TF_DEMOMAN_KILL_X_DEFENDING_Desc"
+	{
+		"ru"	"Убейте 25 игроков, защищая точку или вагонетку."
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_GRIND_Title"
+	{
+		"ru"	"Раскройка территории"
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_GRIND_Desc"
+	{
+		"ru"	"Уничтожьте 50 зданий."
+	}
+	"TF_DEMOMAN_KILL_X_HEAVIES_FULLHP_ONEDET_Title"
+	{
+		"ru"	"Обомбление"
+	}
+	"TF_DEMOMAN_KILL_X_HEAVIES_FULLHP_ONEDET_Desc"
+	{
+		"ru"	"5 раз убейте одним взрывом пулеметчика с полным здоровьем."
+	}
+	"TF_DEMOMAN_KILL_X_SCOUTS_PYROS_Title"
+	{
+		"ru"	"По-глазгОвски"
+	}
+	"TF_DEMOMAN_KILL_X_SCOUTS_PYROS_Desc"
+	{
+		"ru"	"Убейте 25 Разведчиков и Поджигателей из гранатомета."
+	}
+	"TF_DEMOMAN_TAUNT_KILL_Title"
+	{
+		"ru"	"Шотлобойня"
+	}
+	"TF_DEMOMAN_TAUNT_KILL_Desc"
+	{
+		"ru"	"Порадуйте себя избиением противников при помощи Горца."
+	}
+	"TF_DEMOMAN_CHARGE_KILL_Title"
+	{
+		"ru"	"Энергия щита"
+	}
+	"TF_DEMOMAN_CHARGE_KILL_Desc"
+	{
+		"ru"	"Забейте кого-нибудь своим щитом."
+	}
+	"TF_DEMOMAN_CRIT_SWORD_KILL_Title"
+	{
+		"ru"	"Поколоти меня, шотлашка"
+	}
+	"TF_DEMOMAN_CRIT_SWORD_KILL_Desc"
+	{
+		"ru"	"Убейте 5 вражеских игроков критическими ударами Горца."
+	}
+	"TF_DEMOMAN_AIR_BURST_KILLS_Title"
+	{
+		"ru"	"Взрывы так и витают в воздухе"
+	}
+	"TF_DEMOMAN_AIR_BURST_KILLS_Desc"
+	{
+		"ru"	"Убейте 30 игроков минами, взрывающимися в воздухе."
+	}
+	"TF_DEMOMAN_STICKYJUMP_CAP_Title"
+	{
+		"ru"	"Пороховая дорога"
+	}
+	"TF_DEMOMAN_STICKYJUMP_CAP_Desc"
+	{
+		"ru"	"Прыгните на липучке к точке и захватите ее."
+	}
+	"TF_DEMOMAN_FREEZECAM_SMILE_Title"
+	{
+		"ru"	"Кровавая Мэри"
+	}
+	"TF_DEMOMAN_FREEZECAM_SMILE_Desc"
+	{
+		"ru"	"Подарите врагу последний кадр, на котором видно вашу улыбку."
+	}
+	"TF_DEMOMAN_FREEZECAM_RUMP_Title"
+	{
+		"ru"	"Второй глаз"
+	}
+	"TF_DEMOMAN_FREEZECAM_RUMP_Desc"
+	{
+		"ru"	"Подарите врагу последний кадр, на котором вы виляете задом."
+	}
+	"TF_DEMOMAN_ENVIRONMENTAL_KILL_Title"
+	{
+		"ru"	"Отправляющий к кельтам"
+	}
+	"TF_DEMOMAN_ENVIRONMENTAL_KILL_Desc"
+	{
+		"ru"	"Убейте врага, создав Липучкометом взрывные волны."
+	}
+	"TF_DEMOMAN_DESTROY_X_STICKYBOMBS_Title"
+	{
+		"ru"	"Ограбленная корона"
+	}
+	"TF_DEMOMAN_DESTROY_X_STICKYBOMBS_Desc"
+	{
+		"ru"	"Уничтожьте 100 вражеских бомб при помощи Шотландского Сопротивления."
+	}
+	"TF_DEMOMAN_STICKJUMP_DISTANCE_Title"
+	{
+		"ru"	"Летучий шотландец"
+	}
+	"TF_DEMOMAN_STICKJUMP_DISTANCE_Desc"
+	{
+		"ru"	"Прыгните на липучке на очень большое расстояние..."
+	}
+	"TF_DEMOMAN_KILL3_WITH_DETONATION_Title"
+	{
+		"ru"	"Упаковщик взрывов"
+	}
+	"TF_DEMOMAN_KILL3_WITH_DETONATION_Desc"
+	{
+		"ru"	"Убейте хотя бы трех игроков единым взрывом бомб-липучек."
+	}
+	"TF_DEMOMAN_KILLXSAPPINGSPIES_Title"
+	{
+		"ru"	"Шпионоотвод"
+	}
+	"TF_DEMOMAN_KILLXSAPPINGSPIES_Desc"
+	{
+		"ru"	"20 раз убейте шпиона в течение 5 секунд после того, как он установит жучок."
+	}
+	"TF_DEMOMAN_KILL3_WITH_PIPE_SETUPS_Title"
+	{
+		"ru"	"Трудное дело"
+	}
+	"TF_DEMOMAN_KILL3_WITH_PIPE_SETUPS_Desc"
+	{
+		"ru"	"Используя Шотландское Сопротивление, убейте 3 врагов отдельными взрывами, не устанавливая новых мин."
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS1_Title"
+	{
+		"ru"	"Подрывник, 1-й этап"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS1_Desc"
+	{
+		"ru"	"Выполните 5 заданий из набора Подрывника."
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS2_Title"
+	{
+		"ru"	"Подрывник, 2-й этап"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS2_Desc"
+	{
+		"ru"	"Выполните 11 заданий из набора Подрывника."
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS3_Title"
+	{
+		"ru"	"Подрывник, 3-й этап"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS3_Desc"
+	{
+		"ru"	"Выполните 17 заданий из набора Подрывника"
+	}
+}

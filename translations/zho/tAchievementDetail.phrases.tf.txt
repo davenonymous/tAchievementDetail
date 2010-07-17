@@ -1,0 +1,2915 @@
+﻿"Phrases"
+{
+	"TF_GET_TURRETKILLS_Title"
+	{
+		"zho"	"步哨防禦槍兵"
+	}
+	"TF_GET_TURRETKILLS_Desc"
+	{
+		"zho"	"利用一個步哨累積 10 次步哨防禦槍殺敵數。"
+	}
+	"TF_KILL_NEMESIS_Title"
+	{
+		"zho"	"復仇者"
+	}
+	"TF_KILL_NEMESIS_Desc"
+	{
+		"zho"	"成功復仇殺敵五次。"
+	}
+	"TF_GET_CONSECUTIVEKILLS_NODEATHS_Title"
+	{
+		"zho"	"不死之身"
+	}
+	"TF_GET_CONSECUTIVEKILLS_NODEATHS_Desc"
+	{
+		"zho"	"連續殺掉五名敵人並保持不死之身。"
+	}
+	"TF_GET_HEALED_BYENEMY_Title"
+	{
+		"zho"	"偽裝大師"
+	}
+	"TF_GET_HEALED_BYENEMY_Desc"
+	{
+		"zho"	"欺騙敵方 Medic 治療你。"
+	}
+	"TF_GET_HEADSHOTS_Title"
+	{
+		"zho"	"獵頭族"
+	}
+	"TF_GET_HEADSHOTS_Desc"
+	{
+		"zho"	"扮演 Sniper 時射中敵人頭部 25 次。"
+	}
+	"TF_PLAY_GAME_FRIENDSONLY_Title"
+	{
+		"zho"	"可貴的友誼…"
+	}
+	"TF_PLAY_GAME_FRIENDSONLY_Desc"
+	{
+		"zho"	"從好友名單中挑選 7 名以上的玩家一同進行遊戲。"
+	}
+	"TF_WIN_MULTIPLEGAMES_Title"
+	{
+		"zho"	"王朝"
+	}
+	"TF_WIN_MULTIPLEGAMES_Desc"
+	{
+		"zho"	"贏得 20 場遊戲。"
+	}
+	"TF_GET_MULTIPLEKILLS_Title"
+	{
+		"zho"	"高手"
+	}
+	"TF_GET_MULTIPLEKILLS_Desc"
+	{
+		"zho"	"累積 1000 殺敵數。"
+	}
+	"TF_WIN_2FORT_NOENEMYCAPS_Title"
+	{
+		"zho"	"神風特攻隊"
+	}
+	"TF_WIN_2FORT_NOENEMYCAPS_Desc"
+	{
+		"zho"	"敵人未得分的狀態下贏得 2Fort。"
+	}
+	"TF_WIN_WELL_MINIMUMTIME_Title"
+	{
+		"zho"	"閃電攻擊"
+	}
+	"TF_WIN_WELL_MINIMUMTIME_Desc"
+	{
+		"zho"	"在 5 分鐘內贏得 Well。"
+	}
+	"TF_WIN_HYDRO_NOENEMYCAPS_Title"
+	{
+		"zho"	"殘酷攻擊"
+	}
+	"TF_WIN_HYDRO_NOENEMYCAPS_Desc"
+	{
+		"zho"	"沒有失去據點的情況下贏得 Hydro。"
+	}
+	"TF_WIN_DUSTBOWL_NOENEMYCAPS_Title"
+	{
+		"zho"	"無懈可擊"
+	}
+	"TF_WIN_DUSTBOWL_NOENEMYCAPS_Desc"
+	{
+		"zho"	"成功防守 Dustbowl，未失去任何據點。"
+	}
+	"TF_WIN_GRAVELPIT_NOENEMYCAPS_Title"
+	{
+		"zho"	"超強防禦"
+	}
+	"TF_WIN_GRAVELPIT_NOENEMYCAPS_Desc"
+	{
+		"zho"	"成功防守 Gravel Pit，未失去任何據點。"
+	}
+	"TF_PLAY_GAME_EVERYCLASS_Title"
+	{
+		"zho"	"兵種王者"
+	}
+	"TF_PLAY_GAME_EVERYCLASS_Desc"
+	{
+		"zho"	"扮演每個兵種完成一輪完整回合。"
+	}
+	"TF_PLAY_GAME_EVERYMAP_Title"
+	{
+		"zho"	"環遊世界"
+	}
+	"TF_PLAY_GAME_EVERYMAP_Desc"
+	{
+		"zho"	"完整玩過以下遊戲一輪：2Fort、Dustbowl、Granary、Gravel Pit、Hydro 和 Well (CP)。"
+	}
+	"TF_GET_HEALPOINTS_Title"
+	{
+		"zho"	"團隊醫生"
+	}
+	"TF_GET_HEALPOINTS_Desc"
+	{
+		"zho"	"扮演 Medic 累積 25000 治療點數。"
+	}
+	"TF_BURN_PLAYERSINMINIMUMTIME_Title"
+	{
+		"zho"	"火焰噴射器高手"
+	}
+	"TF_BURN_PLAYERSINMINIMUMTIME_Desc"
+	{
+		"zho"	"30 秒內讓五個敵人著火。"
+	}
+	"TF_MEDIC_TOP_SCOREBOARD_Title"
+	{
+		"zho"	"未有任何死傷"
+	}
+	"TF_MEDIC_TOP_SCOREBOARD_Desc"
+	{
+		"zho"	"在一個回合結束後未殺死任何敵人，而且是 6 人 (含) 以上的隊伍中，得分最高的。"
+	}
+	"TF_MEDIC_HEAL_UNDER_FIRE_Title"
+	{
+		"zho"	"四重分流術"
+	}
+	"TF_MEDIC_HEAL_UNDER_FIRE_Desc"
+	{
+		"zho"	"治療一次同時被 4 個敵人火攻的隊友。"
+	}
+	"TF_MEDIC_SIMUL_CHARGE_Title"
+	{
+		"zho"	"小組健康"
+	}
+	"TF_MEDIC_SIMUL_CHARGE_Desc"
+	{
+		"zho"	"與 2 位其他 Medic 一起部署 3 個同步的 ÜberCharges。"
+	}
+	"TF_MEDIC_SETUP_CHARGE_Title"
+	{
+		"zho"	"外科手術準備"
+	}
+	"TF_MEDIC_SETUP_CHARGE_Desc"
+	{
+		"zho"	"在「設定」階段結束前備妥 ÜberCharge。"
+	}
+	"TF_MEDIC_RAPID_CHARGE_Title"
+	{
+		"zho"	"受傷皇后"
+	}
+	"TF_MEDIC_RAPID_CHARGE_Desc"
+	{
+		"zho"	"5 分鐘內部署 3 個 ÜberCharges，並在此期間內協助殺掉 5 個敵人。"
+	}
+	"TF_MEDIC_COUNTER_CHARGE_Title"
+	{
+		"zho"	"雙盲試驗"
+	}
+	"TF_MEDIC_COUNTER_CHARGE_Desc"
+	{
+		"zho"	"於 8 秒內在靠近敵方 Medic 部署 ÜberCharge 的地方部署你的 ÜberCharge。"
+	}
+	"TF_MEDIC_SWITCH_TO_MEDIC_Title"
+	{
+		"zho"	"扮演醫生"
+	}
+	"TF_MEDIC_SWITCH_TO_MEDIC_Desc"
+	{
+		"zho"	"在沒有 Medic 的隊伍中，第一個呼叫「Medic！」的人會轉換成 Medic，然後恢復 500 的健康。"
+	}
+	"TF_MEDIC_SAVE_TEAMMATE_Title"
+	{
+		"zho"	"分級處理"
+	}
+	"TF_MEDIC_SAVE_TEAMMATE_Desc"
+	{
+		"zho"	"隊友被爆裂物炸傷前，於一秒前在他們身上部署 ÜberCharge。"
+	}
+	"TF_MEDIC_CHARGE_BLOCKER_Title"
+	{
+		"zho"	"預防藥"
+	}
+	"TF_MEDIC_CHARGE_BLOCKER_Desc"
+	{
+		"zho"	"與經過 ÜberCharge 的隊友一起阻止敵人佔領控制點。"
+	}
+	"TF_MEDIC_ASSIST_MEDIC_Title"
+	{
+		"zho"	"會診"
+	}
+	"TF_MEDIC_ASSIST_MEDIC_Desc"
+	{
+		"zho"	"只用一條命協助我方 Medic 殺死 5 個敵人"
+	}
+	"TF_MEDIC_SYRINGE_SCOUTS_Title"
+	{
+		"zho"	"我這樣做會造成傷害嗎？"
+	}
+	"TF_MEDIC_SYRINGE_SCOUTS_Desc"
+	{
+		"zho"	"用注射槍殺死 50 個 Scout。"
+	}
+	"TF_MEDIC_BONESAW_MEDICS_Title"
+	{
+		"zho"	"同仁審查"
+	}
+	"TF_MEDIC_BONESAW_MEDICS_Desc"
+	{
+		"zho"	"用骨鋸殺死 50 個 Medic。"
+	}
+	"TF_MEDIC_ASSIST_HEAVY_LONG_Title"
+	{
+		"zho"	"大藥廠"
+	}
+	"TF_MEDIC_ASSIST_HEAVY_LONG_Desc"
+	{
+		"zho"	"在你們兩個都還活著時，協助 Heavy 殺死 20 個敵人。"
+	}
+	"TF_MEDIC_ASSIST_SCOUT_Title"
+	{
+		"zho"	"你會感到有一點刺痛"
+	}
+	"TF_MEDIC_ASSIST_SCOUT_Desc"
+	{
+		"zho"	"使用單一 ÜberCharge 協助殺死 3 個 Scout 兵種的敵人。"
+	}
+	"TF_MEDIC_ASSIST_PYRO_Title"
+	{
+		"zho"	"高壓滅菌器"
+	}
+	"TF_MEDIC_ASSIST_PYRO_Desc"
+	{
+		"zho"	"使用單一 ÜberCharge 協助燒死 5 個 Pyro 兵種的敵人。"
+	}
+	"TF_MEDIC_ASSIST_HEAVY_Title"
+	{
+		"zho"	"挫傷"
+	}
+	"TF_MEDIC_ASSIST_HEAVY_Desc"
+	{
+		"zho"	"使用單一 ÜberCharge 協助擊斃 2 個 Heavy 兵種的敵人。"
+	}
+	"TF_MEDIC_ASSIST_DEMOMAN_Title"
+	{
+		"zho"	"醫療突破"
+	}
+	"TF_MEDIC_ASSIST_DEMOMAN_Desc"
+	{
+		"zho"	"使用單一 ÜberCharge 協助摧毀 5 棟隸屬  Demoman 兵種的敵方 Engineer 建築物。"
+	}
+	"TF_MEDIC_ASSIST_SOLDIER_Title"
+	{
+		"zho"	"爆破助攻"
+	}
+	"TF_MEDIC_ASSIST_SOLDIER_Desc"
+	{
+		"zho"	"使用單一 ÜberCharge協助炸死 5 個 Soldier 兵種的敵人。"
+	}
+	"TF_MEDIC_HEAL_ENGINEER_Title"
+	{
+		"zho"	"助產士危機"
+	}
+	"TF_MEDIC_HEAL_ENGINEER_Desc"
+	{
+		"zho"	"當 Engineer 正在修復被敵火攻擊的步哨防禦槍時提供治療。"
+	}
+	"TF_MEDIC_ASSIST_CAPTURER_Title"
+	{
+		"zho"	"Ubi concordia，ibi victoria"
+	}
+	"TF_MEDIC_ASSIST_CAPTURER_Desc"
+	{
+		"zho"	"只用一條命協助殺死敵方控制點中的 5 個敵人。"
+	}
+	"TF_MEDIC_HEAL_CALLERS_Title"
+	{
+		"zho"	"精采的回合"
+	}
+	"TF_MEDIC_HEAL_CALLERS_Desc"
+	{
+		"zho"	"治療 200 位呼叫「Medic！」的隊友。"
+	}
+	"TF_MEDIC_EXTINGUISH_TEAMMATES_Title"
+	{
+		"zho"	"地獄之藥"
+	}
+	"TF_MEDIC_EXTINGUISH_TEAMMATES_Desc"
+	{
+		"zho"	"幫忙 100 位著火的隊友滅火"
+	}
+	"TF_MEDIC_ASSIST_VS_NEMESES_Title"
+	{
+		"zho"	"安樂死"
+	}
+	"TF_MEDIC_ASSIST_VS_NEMESES_Desc"
+	{
+		"zho"	"協助殺死 20 個復仇者。"
+	}
+	"TF_MEDIC_KILL_WHILE_CHARGED_Title"
+	{
+		"zho"	"安慰劑成效"
+	}
+	"TF_MEDIC_KILL_WHILE_CHARGED_Desc"
+	{
+		"zho"	"只用一條命殺死 5 個敵人，並備妥但未部署 ÜberCharge。"
+	}
+	"TF_MEDIC_BONESAW_NOMISSES_Title"
+	{
+		"zho"	"外科醫師"
+	}
+	"TF_MEDIC_BONESAW_NOMISSES_Desc"
+	{
+		"zho"	"使用骨鋸連續 5 次攻擊敵人，未有傷亡或失手。"
+	}
+	"TF_MEDIC_HEAL_LARGE_Title"
+	{
+		"zho"	"實習醫生"
+	}
+	"TF_MEDIC_HEAL_LARGE_Desc"
+	{
+		"zho"	"只用一條命累積 7000 治療點數。"
+	}
+	"TF_MEDIC_HEAL_HUGE_Title"
+	{
+		"zho"	"專科醫生"
+	}
+	"TF_MEDIC_HEAL_HUGE_Desc"
+	{
+		"zho"	"只用一條命累積 10000 治療點數。"
+	}
+	"TF_MEDIC_HEAL_GRIND_Title"
+	{
+		"zho"	"參謀長"
+	}
+	"TF_MEDIC_HEAL_GRIND_Desc"
+	{
+		"zho"	"累積一百萬總治療點數。"
+	}
+	"TF_MEDIC_KILL_HEALED_SPY_Title"
+	{
+		"zho"	"虛偽誓言"
+	}
+	"TF_MEDIC_KILL_HEALED_SPY_Desc"
+	{
+		"zho"	"殺死你在治療的敵方 Spy。"
+	}
+	"TF_MEDIC_SAVE_FALLING_TEAMMATE_Title"
+	{
+		"zho"	"醫療介入"
+	}
+	"TF_MEDIC_SAVE_FALLING_TEAMMATE_Desc"
+	{
+		"zho"	"拯救快要由高處墜下的隊友"
+	}
+	"TF_MEDIC_CHARGE_JUGGLE_Title"
+	{
+		"zho"	"其他意見"
+	}
+	"TF_MEDIC_CHARGE_JUGGLE_Desc"
+	{
+		"zho"	"一次幫 2 位隊友補充 ÜberCharge"
+	}
+	"TF_MEDIC_FREEZECAM_RAGDOLL_Title"
+	{
+		"zho"	"驗屍報告"
+	}
+	"TF_MEDIC_FREEZECAM_RAGDOLL_Desc"
+	{
+		"zho"	"提供敵人一張你在他們的 ragdoll 上譏笑的畫面快照。"
+	}
+	"TF_MEDIC_BONESAW_SPY_CALLERS_Title"
+	{
+		"zho"	"供你參考，我是一名 Medic"
+	}
+	"TF_MEDIC_BONESAW_SPY_CALLERS_Desc"
+	{
+		"zho"	"使用你的骨鋸殺死 5 個呼叫「Medic！」的 Spy。"
+	}
+	"TF_MEDIC_CHARGE_FRIENDS_Title"
+	{
+		"zho"	"家族練習"
+	}
+	"TF_MEDIC_CHARGE_FRIENDS_Desc"
+	{
+		"zho"	"ÜberCharge 你的 10 個 Steam 社群好友。"
+	}
+	"TF_MEDIC_INVITE_JOIN_CHARGE_Title"
+	{
+		"zho"	"House Call"
+	}
+	"TF_MEDIC_INVITE_JOIN_CHARGE_Desc"
+	{
+		"zho"	"加入你的好友所在之一的遊戲，然後幫他補充 ÜberCharge。"
+	}
+	"TF_MEDIC_HEAL_ACHIEVER_Title"
+	{
+		"zho"	"臨床禮儀"
+	}
+	"TF_MEDIC_HEAL_ACHIEVER_Desc"
+	{
+		"zho"	"務必治療達成成就的隊友。"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS1_Title"
+	{
+		"zho"	"Medic 里程碑 1"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS1_Desc"
+	{
+		"zho"	"達成 Medic Pack 中的 10 項成就。"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS2_Title"
+	{
+		"zho"	"Medic 里程碑 2"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS2_Desc"
+	{
+		"zho"	"達成 Medic Pack 中的 16 項成就。"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS3_Title"
+	{
+		"zho"	"Medic 里程碑 3"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS3_Desc"
+	{
+		"zho"	"達成 Medic Pack 中的 22 項成就。"
+	}
+	"TF_PYRO_KILL_MULTIWEAPONS_Title"
+	{
+		"zho"	"聯合開火"
+	}
+	"TF_PYRO_KILL_MULTIWEAPONS_Desc"
+	{
+		"zho"	"使用霰彈槍解決 20 名已被你燒起來的玩家。"
+	}
+	"TF_PYRO_SIMULBURN_SCOUTS_Title"
+	{
+		"zho"	"廢物"
+	}
+	"TF_PYRO_SIMULBURN_SCOUTS_Desc"
+	{
+		"zho"	"讓敵方 2 名 Scout 同時著火。"
+	}
+	"TF_PYRO_FORCE_WATERJUMP_Title"
+	{
+		"zho"	"火之洗禮"
+	}
+	"TF_PYRO_FORCE_WATERJUMP_Desc"
+	{
+		"zho"	"迫使 10 名燒起來的敵人跳到水裏。"
+	}
+	"TF_PYRO_KILL_POSTDEATH_Title"
+	{
+		"zho"	"射後不理"
+	}
+	"TF_PYRO_KILL_POSTDEATH_Desc"
+	{
+		"zho"	"與 15 名玩家同歸於盡。"
+	}
+	"TF_PYRO_KILL_SPIES_Title"
+	{
+		"zho"	"防火牆"
+	}
+	"TF_PYRO_KILL_SPIES_Desc"
+	{
+		"zho"	"火燒 5 名在我方建物上引進 Sapper 的 Spy。"
+	}
+	"TF_PYRO_KILL_CARRIERS_Title"
+	{
+		"zho"	"作假資料"
+	}
+	"TF_PYRO_KILL_CARRIERS_Desc"
+	{
+		"zho"	"火燒 5 名帶著你的情報的敵人。"
+	}
+	"TF_PYRO_REVEAL_SPIES_Title"
+	{
+		"zho"	"自燃"
+	}
+	"TF_PYRO_REVEAL_SPIES_Desc"
+	{
+		"zho"	"火燒 10 名隱形的 Spy。"
+	}
+	"TF_PYRO_CAMP_TELEPORTERS_Title"
+	{
+		"zho"	"先驅者"
+	}
+	"TF_PYRO_CAMP_TELEPORTERS_Desc"
+	{
+		"zho"	"火燒最近使用傳送裝置的 10 名敵人。"
+	}
+	"TF_PYRO_CAMP_POSITION_Title"
+	{
+		"zho"	"營火"
+	}
+	"TF_PYRO_CAMP_POSITION_Desc"
+	{
+		"zho"	"在同一地區連續殺掉 3 名敵人。"
+	}
+	"TF_PYRO_KILL_AXE_SMALL_Title"
+	{
+		"zho"	"伐木工"
+	}
+	"TF_PYRO_KILL_AXE_SMALL_Desc"
+	{
+		"zho"	"使用隨身斧頭殺掉 3 人，且只用一條命。"
+	}
+	"TF_PYRO_KILL_AXE_LARGE_Title"
+	{
+		"zho"	"切割專家"
+	}
+	"TF_PYRO_KILL_AXE_LARGE_Desc"
+	{
+		"zho"	"使用隨身斧頭宰掉 6 人，且只用一條命。"
+	}
+	"TF_PYRO_KILL_FROM_BEHIND_Title"
+	{
+		"zho"	"緊迫盯人"
+	}
+	"TF_PYRO_KILL_FROM_BEHIND_Desc"
+	{
+		"zho"	"使用火燄噴射器從背後殺掉 50 名敵人。"
+	}
+	"TF_PYRO_BURN_SPIES_AS_YOU_Title"
+	{
+		"zho"	"下油鍋"
+	}
+	"TF_PYRO_BURN_SPIES_AS_YOU_Desc"
+	{
+		"zho"	"火燒 10 名偽裝的 Spy。"
+	}
+	"TF_PYRO_BURN_SNIPERS_ZOOMED_Title"
+	{
+		"zho"	"消防巡守"
+	}
+	"TF_PYRO_BURN_SNIPERS_ZOOMED_Desc"
+	{
+		"zho"	"火燒 10 名在調整射程的 Sniper。"
+	}
+	"TF_PYRO_BURN_MEDICS_CHARGED_Title"
+	{
+		"zho"	"放火燒病房"
+	}
+	"TF_PYRO_BURN_MEDICS_CHARGED_Desc"
+	{
+		"zho"	"火燒 3 名準備好部署 ÜberCharge 的 Medic。"
+	}
+	"TF_PYRO_REFLECT_PROJECTILES_Title"
+	{
+		"zho"	"燙手山芋"
+	}
+	"TF_PYRO_REFLECT_PROJECTILES_Desc"
+	{
+		"zho"	"使用壓縮氣爆反彈 100 個火箭彈。"
+	}
+	"TF_PYRO_KILL_HEAVIES_Title"
+	{
+		"zho"	"煎培根"
+	}
+	"TF_PYRO_KILL_HEAVIES_Desc"
+	{
+		"zho"	"使用火燄噴射器解決 50 名 Heavy。"
+	}
+	"TF_PYRO_KILL_UNDERWATER_Title"
+	{
+		"zho"	"B 計畫"
+	}
+	"TF_PYRO_KILL_UNDERWATER_Desc"
+	{
+		"zho"	"殺掉同在水面下的 10 名敵人。"
+	}
+	"TF_PYRO_KILL_UBERCHARGE_Title"
+	{
+		"zho"	"煙火秀"
+	}
+	"TF_PYRO_KILL_UBERCHARGE_Desc"
+	{
+		"zho"	"在單一 ÜberCharge 中殺掉 3 名敵人。"
+	}
+	"TF_PYRO_DESTROY_BUILDINGS_Title"
+	{
+		"zho"	"縱火犯"
+	}
+	"TF_PYRO_DESTROY_BUILDINGS_Desc"
+	{
+		"zho"	"摧毀 50 個 Engineer 建築物。"
+	}
+	"TF_PYRO_DEFEND_POINTS_Title"
+	{
+		"zho"	"可控燃燒"
+	}
+	"TF_PYRO_DEFEND_POINTS_Desc"
+	{
+		"zho"	"火燒 50 名正在佔領控制點的敵人。"
+	}
+	"TF_PYRO_KILL_GRIND_Title"
+	{
+		"zho"	"打火英雄"
+	}
+	"TF_PYRO_KILL_GRIND_Desc"
+	{
+		"zho"	"殺掉 500 名敵人。"
+	}
+	"TF_PYRO_DAMAGE_GRIND_Title"
+	{
+		"zho"	"火占者"
+	}
+	"TF_PYRO_DAMAGE_GRIND_Desc"
+	{
+		"zho"	"總計達 1 百萬點的火燄傷害點數。"
+	}
+	"TF_PYRO_BURN_MEDICPAIR_Title"
+	{
+		"zho"	"連環火燒"
+	}
+	"TF_PYRO_BURN_MEDICPAIR_Desc"
+	{
+		"zho"	"火燒敵人，而 Medic 正在治療他。"
+	}
+	"TF_PYRO_KILL_TAUNT_Title"
+	{
+		"zho"	"我的天阿！多麼畸形的烤肉。"
+	}
+	"TF_PYRO_KILL_TAUNT_Desc"
+	{
+		"zho"	"挑釁敵人。"
+	}
+	"TF_PYRO_KILL_TEAMWORK_Title"
+	{
+		"zho"	"二度燒傷"
+	}
+	"TF_PYRO_KILL_TEAMWORK_Desc"
+	{
+		"zho"	"殺死遭到其他 Pyro 火燒的敵人。"
+	}
+	"TF_PYRO_BURN_SPY_TAUNT_Title"
+	{
+		"zho"	"要借個火？"
+	}
+	"TF_PYRO_BURN_SPY_TAUNT_Desc"
+	{
+		"zho"	"火燒正在彈香煙的敵方 Spy。"
+	}
+	"TF_PYRO_DOMINATE_LEAVESVR_Title"
+	{
+		"zho"	"烤肉"
+	}
+	"TF_PYRO_DOMINATE_LEAVESVR_Desc"
+	{
+		"zho"	"使被壓制玩家離開伺服器。"
+	}
+	"TF_PYRO_REFLECT_CROCKET_KILL_Title"
+	{
+		"zho"	"藝高人膽大"
+	}
+	"TF_PYRO_REFLECT_CROCKET_KILL_Desc"
+	{
+		"zho"	"利用反彈的爆擊火箭殺掉 Soldier。"
+	}
+	"TF_PYRO_KILL_TAUNTERS_Title"
+	{
+		"zho"	"舞蹈祭品"
+	}
+	"TF_PYRO_KILL_TAUNTERS_Desc"
+	{
+		"zho"	"殺死 3 名在做嘲笑動作的敵人。"
+	}
+	"TF_PYRO_DOUBLE_KO_Title"
+	{
+		"zho"	"平手"
+	}
+	"TF_PYRO_DOUBLE_KO_Desc"
+	{
+		"zho"	"殺掉敵人的同時自己也被殺掉。"
+	}
+	"TF_PYRO_BURN_RJ_SOLDIER_Title"
+	{
+		"zho"	"領航指示燈"
+	}
+	"TF_PYRO_BURN_RJ_SOLDIER_Desc"
+	{
+		"zho"	"火燒在半空中做火箭跳躍的 Soldier。"
+	}
+	"TF_PYRO_FREEZECAM_TAUNTS_Title"
+	{
+		"zho"	"凍傷"
+	}
+	"TF_PYRO_FREEZECAM_TAUNTS_Desc"
+	{
+		"zho"	"提供敵人有你每一個嘲笑動作的畫面快照。"
+	}
+	"TF_PYRO_KILL_GRIND_LARGE_Title"
+	{
+		"zho"	"消防隊長"
+	}
+	"TF_PYRO_KILL_GRIND_LARGE_Desc"
+	{
+		"zho"	"殺掉 1000 名敵人。"
+	}
+	"TF_PYRO_IGNITE_FLAREGUN_Title"
+	{
+		"zho"	"吸引注意者"
+	}
+	"TF_PYRO_IGNITE_FLAREGUN_Desc"
+	{
+		"zho"	"使用信號槍火燒 100 名敵人。"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS1_Title"
+	{
+		"zho"	"Pyro 里程碑 1"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS1_Desc"
+	{
+		"zho"	"達成在 Pyro Pack 中的 10 項成就。"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS2_Title"
+	{
+		"zho"	"Pyro 里程碑 2"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS2_Desc"
+	{
+		"zho"	"達成在 Pyro Pack 中的 16 項成就。"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS3_Title"
+	{
+		"zho"	"Pyro 里程碑 3"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS3_Desc"
+	{
+		"zho"	"達成在 Pyro Pack 中的 22 項成就。"
+	}
+	"TF_HEAVY_DAMAGE_TAKEN_Title"
+	{
+		"zho"	"鐵幕"
+	}
+	"TF_HEAVY_DAMAGE_TAKEN_Desc"
+	{
+		"zho"	"只用一條命造成 1000 點傷害。"
+	}
+	"TF_HEAVY_DEFEND_MEDIC_Title"
+	{
+		"zho"	"效忠團隊"
+	}
+	"TF_HEAVY_DEFEND_MEDIC_Desc"
+	{
+		"zho"	"在敵人攻擊己方 Medic 的 3 秒內，殺死 50 名敵人。"
+	}
+	"TF_HEAVY_ASSIST_MEDIC_LARGE_Title"
+	{
+		"zho"	"分工合作"
+	}
+	"TF_HEAVY_ASSIST_MEDIC_LARGE_Desc"
+	{
+		"zho"	"在 Medic 協助下殺死 20 名敵人，而且你和 Medic 都必須存活。"
+	}
+	"TF_HEAVY_EARN_MEDIC_DOMINATION_Title"
+	{
+		"zho"	"紅色十月節"
+	}
+	"TF_HEAVY_EARN_MEDIC_DOMINATION_Desc"
+	{
+		"zho"	"讓正在治療你的 Medic 取得優勢。"
+	}
+	"TF_HEAVY_KILL_TAUNT_Title"
+	{
+		"zho"	"公開審判"
+	}
+	"TF_HEAVY_KILL_TAUNT_Desc"
+	{
+		"zho"	"冷眼殺掉敵人。"
+	}
+	"TF_HEAVY_KILL_FLAG_CARRIERS_Title"
+	{
+		"zho"	"罪與罰"
+	}
+	"TF_HEAVY_KILL_FLAG_CARRIERS_Desc"
+	{
+		"zho"	"殺死 10 名帶著己方情報的敵人。"
+	}
+	"TF_HEAVY_KILL_MEDIC_PAIR_Title"
+	{
+		"zho"	"兵種角力"
+	}
+	"TF_HEAVY_KILL_MEDIC_PAIR_Desc"
+	{
+		"zho"	"與友方 Medic 合作殺死敵方的 Heavy 和 Medic 搭檔。"
+	}
+	"TF_HEAVY_BLOCK_INVULN_HEAVY_Title"
+	{
+		"zho"	"蘇維埃鐵幕"
+	}
+	"TF_HEAVY_BLOCK_INVULN_HEAVY_Desc"
+	{
+		"zho"	"在無敵防禦狀態時，阻擋無敵的敵方 Heavy 移動。"
+	}
+	"TF_HEAVY_BLOCK_CART_Title"
+	{
+		"zho"	"史達林專車"
+	}
+	"TF_HEAVY_BLOCK_CART_Desc"
+	{
+		"zho"	"阻擋敵方移動彈頭車 25 次。"
+	}
+	"TF_HEAVY_RECEIVE_UBER_GRIND_Title"
+	{
+		"zho"	"蘇維埃萬歲"
+	}
+	"TF_HEAVY_RECEIVE_UBER_GRIND_Desc"
+	{
+		"zho"	"獲得 ÜberCharged 50 次。"
+	}
+	"TF_HEAVY_STAND_NEAR_DISPENSER_Title"
+	{
+		"zho"	"廠房工人"
+	}
+	"TF_HEAVY_STAND_NEAR_DISPENSER_Desc"
+	{
+		"zho"	"使用補給器補充時，殺死 20 名敵人。"
+	}
+	"TF_HEAVY_ASSIST_HEAVY_GRIND_Title"
+	{
+		"zho"	"蘇維埃聯盟"
+	}
+	"TF_HEAVY_ASSIST_HEAVY_GRIND_Desc"
+	{
+		"zho"	"協助另一名 Heavy，或在其協助之下，殺死 25 名敵人。"
+	}
+	"TF_HEAVY_CLEAR_STICKYBOMBS_Title"
+	{
+		"zho"	"殺死生產工具"
+	}
+	"TF_HEAVY_CLEAR_STICKYBOMBS_Desc"
+	{
+		"zho"	"殺死製作黏性炸彈的 Demoman 以拆除 20 枚黏性炸彈。"
+	}
+	"TF_HEAVY_KILL_UNDERWATER_Title"
+	{
+		"zho"	"瘋狂依凡"
+	}
+	"TF_HEAVY_KILL_UNDERWATER_Desc"
+	{
+		"zho"	"和敵人在水中時，殺死 100 名敵人。"
+	}
+	"TF_HEAVY_TAKE_MULTI_DAMAGE_Title"
+	{
+		"zho"	"拉斯普京"
+	}
+	"TF_HEAVY_TAKE_MULTI_DAMAGE_Desc"
+	{
+		"zho"	"只用一條命，被敵人射中、被火燒、被棍棒打，而且受到爆炸傷害。"
+	}
+	"TF_HEAVY_KILL_DOMINATED_Title"
+	{
+		"zho"	"錦上添花"
+	}
+	"TF_HEAVY_KILL_DOMINATED_Desc"
+	{
+		"zho"	"佔優勢時殺死 20 名敵人。"
+	}
+	"TF_HEAVY_SURVIVE_CROCKET_Title"
+	{
+		"zho"	"千鈞一髮"
+	}
+	"TF_HEAVY_SURVIVE_CROCKET_Desc"
+	{
+		"zho"	"遭爆擊火箭直接擊中後存活下來。"
+	}
+	"TF_HEAVY_ASSIST_GRIND_Title"
+	{
+		"zho"	"集體合作"
+	}
+	"TF_HEAVY_ASSIST_GRIND_Desc"
+	{
+		"zho"	"得到 1000 次協助。"
+	}
+	"TF_HEAVY_UNCOVER_SPIES_Title"
+	{
+		"zho"	"間諜唯物論"
+	}
+	"TF_HEAVY_UNCOVER_SPIES_Desc"
+	{
+		"zho"	"殺死或協助殺死 10 名偽裝的 Spy。"
+	}
+	"TF_HEAVY_KILL_WHILE_SPUNUP_Title"
+	{
+		"zho"	"永恆革命"
+	}
+	"TF_HEAVY_KILL_WHILE_SPUNUP_Desc"
+	{
+		"zho"	"完全沒放下槍，連續殺死 5 名敵人。"
+	}
+	"TF_HEAVY_FIRE_LOTS_Title"
+	{
+		"zho"	"重工業"
+	}
+	"TF_HEAVY_FIRE_LOTS_Desc"
+	{
+		"zho"	"只用一條命，發射價值 $200,000 的格林機槍子彈。"
+	}
+	"TF_HEAVY_KILL_CRIT_PUNCH_Title"
+	{
+		"zho"	"共產主義宣言"
+	}
+	"TF_HEAVY_KILL_CRIT_PUNCH_Desc"
+	{
+		"zho"	"對敵人發出爆擊，殺死敵人。"
+	}
+	"TF_HEAVY_HEAL_MEDIKITS_Title"
+	{
+		"zho"	"死裡逃生"
+	}
+	"TF_HEAVY_HEAL_MEDIKITS_Desc"
+	{
+		"zho"	"只用一條命，利用急救包治療 1000 傷害。"
+	}
+	"TF_HEAVY_KILL_SHOTGUN_Title"
+	{
+		"zho"	"限量配給"
+	}
+	"TF_HEAVY_KILL_SHOTGUN_Desc"
+	{
+		"zho"	"用完格林機槍子彈後，以霰彈槍殺死敵人。"
+	}
+	"TF_HEAVY_FIRST_TO_CAP_Title"
+	{
+		"zho"	"先鋒部隊"
+	}
+	"TF_HEAVY_FIRST_TO_CAP_Desc"
+	{
+		"zho"	"在回合中成為隊伍中佔領據點的第一人。"
+	}
+	"TF_HEAVY_PAYLOAD_CAP_GRIND_Title"
+	{
+		"zho"	"王者普希金"
+	}
+	"TF_HEAVY_PAYLOAD_CAP_GRIND_Desc"
+	{
+		"zho"	"在彈頭車地圖中取得 50 個據點。"
+	}
+	"TF_HEAVY_KILL_MIDAIR_MINIGUN_Title"
+	{
+		"zho"	"馬克斯信徒"
+	}
+	"TF_HEAVY_KILL_MIDAIR_MINIGUN_Desc"
+	{
+		"zho"	"使用格林機槍殺死空中 10 名敵人。"
+	}
+	"TF_HEAVY_DEFEND_CONTROL_POINT_Title"
+	{
+		"zho"	"血灑紅場"
+	}
+	"TF_HEAVY_DEFEND_CONTROL_POINT_Desc"
+	{
+		"zho"	"站在己方的佔領據點上，殺死 25 名敵人。"
+	}
+	"TF_HEAVY_KILL_CAPPING_ENEMIES_Title"
+	{
+		"zho"	"掃除"
+	}
+	"TF_HEAVY_KILL_CAPPING_ENEMIES_Desc"
+	{
+		"zho"	"殺死 15 名想要佔領己方佔領據點的敵人。"
+	}
+	"TF_HEAVY_REVENGE_ASSIST_Title"
+	{
+		"zho"	"劊子手列寧"
+	}
+	"TF_HEAVY_REVENGE_ASSIST_Desc"
+	{
+		"zho"	"幫助 5 名隊友復仇。"
+	}
+	"TF_HEAVY_TELEPORT_FAST_KILL_Title"
+	{
+		"zho"	"五秒計劃"
+	}
+	"TF_HEAVY_TELEPORT_FAST_KILL_Desc"
+	{
+		"zho"	"離開傳送裝置後，在前 5 秒內殺死一名敵人。"
+	}
+	"TF_HEAVY_FREEZECAM_TAUNT_Title"
+	{
+		"zho"	"快照攻擊"
+	}
+	"TF_HEAVY_FREEZECAM_TAUNT_Desc"
+	{
+		"zho"	"送敵人一張你在無敵時譏笑他們的畫面快照。"
+	}
+	"TF_HEAVY_EAT_SANDWICHES_Title"
+	{
+		"zho"	"大胃王"
+	}
+	"TF_HEAVY_EAT_SANDWICHES_Desc"
+	{
+		"zho"	"吃掉 100 個三明治。"
+	}
+	"TF_HEAVY_KILL_SCOUTS_Title"
+	{
+		"zho"	"別碰三明治"
+	}
+	"TF_HEAVY_KILL_SCOUTS_Desc"
+	{
+		"zho"	"使用殺殺格林機槍殺死 50 名 Scout。"
+	}
+	"TF_HEAVY_KILL_HEAVIES_GLOVES_Title"
+	{
+		"zho"	"羅宋湯腰帶"
+	}
+	"TF_HEAVY_KILL_HEAVIES_GLOVES_Desc"
+	{
+		"zho"	"使用 K.G.B. (致命拳擊手套) 殺死 10 名 Heavy。"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS1_Title"
+	{
+		"zho"	"Heavy 里程碑 1"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS1_Desc"
+	{
+		"zho"	"達成在 Heavy Pack 中的 10 項成就。"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS2_Title"
+	{
+		"zho"	"Heavy 里程碑 2"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS2_Desc"
+	{
+		"zho"	"達成在 Heavy Pack 中的 16 項成就。"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS3_Title"
+	{
+		"zho"	"Heavy 里程碑 3"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS3_Desc"
+	{
+		"zho"	"達成在 Heavy Pack 中的 22 項成就。"
+	}
+	"TF_SCOUT_FIRST_BLOOD_Title"
+	{
+		"zho"	"第一滴血"
+	}
+	"TF_SCOUT_FIRST_BLOOD_Desc"
+	{
+		"zho"	"在競技場模式中搶先殺敵。"
+	}
+	"TF_SCOUT_FIRST_BLOOD_KILL_Title"
+	{
+		"zho"	"第一滴血續集"
+	}
+	"TF_SCOUT_FIRST_BLOOD_KILL_Desc"
+	{
+		"zho"	"以「第一滴血」爆擊加成殺死 5 名敵人。"
+	}
+	"TF_SCOUT_WELL_EARLY_KILL_Title"
+	{
+		"zho"	"快速曲球"
+	}
+	"TF_SCOUT_WELL_EARLY_KILL_Desc"
+	{
+		"zho"	"在 Well 中，搶先在回合開始前殺死一名玩家。"
+	}
+	"TF_SCOUT_LIFETIME_KILLS_Title"
+	{
+		"zho"	"值得紀念的一年"
+	}
+	"TF_SCOUT_LIFETIME_KILLS_Desc"
+	{
+		"zho"	"獲得 2004 年終身殺手頭銜。"
+	}
+	"TF_SCOUT_IRON_MAN_KILLS_Title"
+	{
+		"zho"	"鐵人三項"
+	}
+	"TF_SCOUT_IRON_MAN_KILLS_Desc"
+	{
+		"zho"	"只用一條命，在陸地上、空中、水中分別殺死一個敵人。"
+	}
+	"TF_SCOUT_DESTROY_TELEPORTERS_Title"
+	{
+		"zho"	"關門大吉"
+	}
+	"TF_SCOUT_DESTROY_TELEPORTERS_Desc"
+	{
+		"zho"	"摧毀 3 個傳送裝置入口。"
+	}
+	"TF_SCOUT_DESTROY_BUILDINGS_BEING_BUILT_Title"
+	{
+		"zho"	"你蓋我拆"
+	}
+	"TF_SCOUT_DESTROY_BUILDINGS_BEING_BUILT_Desc"
+	{
+		"zho"	"摧毀 3 座建造中的敵方建築。"
+	}
+	"TF_SCOUT_DESTROY_SENTRY_WITH_PISTOL_Title"
+	{
+		"zho"	"以小博大"
+	}
+	"TF_SCOUT_DESTROY_SENTRY_WITH_PISTOL_Desc"
+	{
+		"zho"	"使用手槍摧毀攻擊中的步哨防禦槍。"
+	}
+	"TF_SCOUT_DOUBLE_JUMPS_Title"
+	{
+		"zho"	"連環跳"
+	}
+	"TF_SCOUT_DOUBLE_JUMPS_Desc"
+	{
+		"zho"	"使出 1000 次雙重跳躍。"
+	}
+	"TF_SCOUT_ASSIST_MEDIC_Title"
+	{
+		"zho"	"神力加持"
+	}
+	"TF_SCOUT_ASSIST_MEDIC_Desc"
+	{
+		"zho"	"在 Medic 的 ÜberCharge 作用下，殺死 3 名敵軍。"
+	}
+	"TF_SCOUT_STEAL_SANDWICH_Title"
+	{
+		"zho"	"道奇 1 分，巨人 0 分"
+	}
+	"TF_SCOUT_STEAL_SANDWICH_Desc"
+	{
+		"zho"	"殺掉一名敵方的 Heavy，奪走他的三明治。"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS1_Title"
+	{
+		"zho"	"Scout 里程碑 1"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS1_Desc"
+	{
+		"zho"	"達成在 Scout Pack 中的 10 項成就。"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS2_Title"
+	{
+		"zho"	"Scout 里程碑 2"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS2_Desc"
+	{
+		"zho"	"達成在 Scout Pack 中的 16 項成就。"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS3_Title"
+	{
+		"zho"	"Scout 里程碑 3"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS3_Desc"
+	{
+		"zho"	"達成在 Scout Pack 中的 22 項成就。"
+	}
+	"TF_SCOUT_KILL_CHARGED_MEDICS_Title"
+	{
+		"zho"	"海扁醫生"
+	}
+	"TF_SCOUT_KILL_CHARGED_MEDICS_Desc"
+	{
+		"zho"	"殺死一名正準備部署 ÜberCharge 的 Medic。"
+	}
+	"TF_SCOUT_SURVIVE_DAMAGE_Title"
+	{
+		"zho"	"我是蝙蝠俠"
+	}
+	"TF_SCOUT_SURVIVE_DAMAGE_Desc"
+	{
+		"zho"	"一條命承受住 500 點傷害。"
+	}
+	"TF_SCOUT_DOUBLEJUMP_KILL_Title"
+	{
+		"zho"	"內野高飛球"
+	}
+	"TF_SCOUT_DOUBLEJUMP_KILL_Desc"
+	{
+		"zho"	"以雙重跳躍殺掉 20 名玩家。"
+	}
+	"TF_SCOUT_FLAG_CAP_GRIND_Title"
+	{
+		"zho"	"全壘打"
+	}
+	"TF_SCOUT_FLAG_CAP_GRIND_Desc"
+	{
+		"zho"	"奪取敵方情報 25 次。"
+	}
+	"TF_SCOUT_THREE_FLAGCAPS_Title"
+	{
+		"zho"	"三盜壘"
+	}
+	"TF_SCOUT_THREE_FLAGCAPS_Desc"
+	{
+		"zho"	"在單場搶旗回合中 3 次奪取敵方情報。"
+	}
+	"TF_SCOUT_DODGE_DAMAGE_Title"
+	{
+		"zho"	"凌波微步"
+	}
+	"TF_SCOUT_DODGE_DAMAGE_Desc"
+	{
+		"zho"	"只用一條命使用 Bonk！原子擊閃躲 1000 點傷害。"
+	}
+	"TF_SCOUT_KNOCK_INTO_TRAIN_Title"
+	{
+		"zho"	"秋季經典賽"
+	}
+	"TF_SCOUT_KNOCK_INTO_TRAIN_Desc"
+	{
+		"zho"	"使用自然力量將敵人震飛，造成敵人因環境喪命或自殺。"
+	}
+	"TF_SCOUT_KILL_STUNNED_Title"
+	{
+		"zho"	"好球帶"
+	}
+	"TF_SCOUT_KILL_STUNNED_Desc"
+	{
+		"zho"	"殺掉 50 名昏迷中的敵人。"
+	}
+	"TF_SCOUT_STUN_INTO_TRAIN_Title"
+	{
+		"zho"	"界外區"
+	}
+	"TF_SCOUT_STUN_INTO_TRAIN_Desc"
+	{
+		"zho"	"擊昏敵人，使敵人因環境喪命。"
+	}
+	"TF_SCOUT_STUN_UBER_ENEMIES_Title"
+	{
+		"zho"	"重傷害"
+	}
+	"TF_SCOUT_STUN_UBER_ENEMIES_Desc"
+	{
+		"zho"	"擊昏 2 名準備好部署 ÜberCharge 的 Medic。"
+	}
+	"TF_SCOUT_STUN_CAPPING_ENEMIES_Title"
+	{
+		"zho"	"近身球"
+	}
+	"TF_SCOUT_STUN_CAPPING_ENEMIES_Desc"
+	{
+		"zho"	"擊昏 50 名正在佔領據點或推動推車的敵人。"
+	}
+	"TF_SCOUT_MAX_STUNS_Title"
+	{
+		"zho"	"特大號全壘打"
+	}
+	"TF_SCOUT_MAX_STUNS_Desc"
+	{
+		"zho"	"以遠距球擊昏敵人，使敵人昏迷時間達到最長。"
+	}
+	"TF_SCOUT_STUN_SCOUT_WITH_THEIR_BALL_Title"
+	{
+		"zho"	"觸身球"
+	}
+	"TF_SCOUT_STUN_SCOUT_WITH_THEIR_BALL_Desc"
+	{
+		"zho"	"用自己的球將 Scout 擊昏。"
+	}
+	"TF_SCOUT_KILL_IN_DODGE_COOLDOWN_Title"
+	{
+		"zho"	"跑者出局"
+	}
+	"TF_SCOUT_KILL_IN_DODGE_COOLDOWN_Desc"
+	{
+		"zho"	"殺掉剛作完閃躲動作而行動緩慢的 Scout。"
+	}
+	"TF_SCOUT_KILL_FROM_BEHIND_Title"
+	{
+		"zho"	"攻其不備"
+	}
+	"TF_SCOUT_KILL_FROM_BEHIND_Desc"
+	{
+		"zho"	"使用自然力量從背後殺死 50 名敵軍。"
+	}
+	"TF_SCOUT_CAPTURE_LAST_POINT_Title"
+	{
+		"zho"	"三人出局"
+	}
+	"TF_SCOUT_CAPTURE_LAST_POINT_Desc"
+	{
+		"zho"	"佔領 CP 地圖中的最後一個據點。"
+	}
+	"TF_SCOUT_CAPTURE_THREE_POINTS_Title"
+	{
+		"zho"	"三殺打"
+	}
+	"TF_SCOUT_CAPTURE_THREE_POINTS_Desc"
+	{
+		"zho"	"只用一條命連續佔領三個據點。"
+	}
+	"TF_SCOUT_FAST_CAP_Title"
+	{
+		"zho"	"盜本壘"
+	}
+	"TF_SCOUT_FAST_CAP_Desc"
+	{
+		"zho"	"據點出現後一秒鐘內開始佔領據點。"
+	}
+	"TF_SCOUT_START_AND_FINISH_CAP_Title"
+	{
+		"zho"	"心想事成"
+	}
+	"TF_SCOUT_START_AND_FINISH_CAP_Desc"
+	{
+		"zho"	"前 10 次嘗試佔領據點都成功。"
+	}
+	"TF_SCOUT_BLOCK_CAPS_Title"
+	{
+		"zho"	"捍衛本壘"
+	}
+	"TF_SCOUT_BLOCK_CAPS_Desc"
+	{
+		"zho"	"阻擋敵方攻佔據點 50 次。"
+	}
+	"TF_SCOUT_CARRIER_KILL_CARRIER_Title"
+	{
+		"zho"	"以其人之道還治其人之身"
+	}
+	"TF_SCOUT_CARRIER_KILL_CARRIER_Desc"
+	{
+		"zho"	"殺掉一名擁有我方情報的敵隊玩家，並奪取對手的情報。"
+	}
+	"TF_SCOUT_CAP_FLAG_WITHOUT_ATTACKING_Title"
+	{
+		"zho"	"無安打比賽"
+	}
+	"TF_SCOUT_CAP_FLAG_WITHOUT_ATTACKING_Desc"
+	{
+		"zho"	"不費一顆子彈，偷偷摸摸奪取敵方情報。"
+	}
+	"TF_SCOUT_LONG_DISTANCE_RUNNER_Title"
+	{
+		"zho"	"馬拉松"
+	}
+	"TF_SCOUT_LONG_DISTANCE_RUNNER_Desc"
+	{
+		"zho"	"奔跑 25 公里。"
+	}
+	"TF_SCOUT_TAUNT_KILL_Title"
+	{
+		"zho"	"場外全壘打"
+	}
+	"TF_SCOUT_TAUNT_KILL_Desc"
+	{
+		"zho"	"把敵人打飛 25 公尺。"
+	}
+	"TF_SNIPER_JARATE_DOMINATED_Title"
+	{
+		"zho"	"精疲力竭"
+	}
+	"TF_SNIPER_JARATE_DOMINATED_Desc"
+	{
+		"zho"	"用罐子丟你壓制的敵人。"
+	}
+	"TF_SNIPER_FREEZECAM_HAT_Title"
+	{
+		"zho"	"注意禮節"
+	}
+	"TF_SNIPER_FREEZECAM_HAT_Desc"
+	{
+		"zho"	"送敵人一張你脫帽致意的畫面快照。"
+	}
+	"TF_SNIPER_RIFLE_NO_MISSING_Title"
+	{
+		"zho"	"注重效率"
+	}
+	"TF_SNIPER_RIFLE_NO_MISSING_Desc"
+	{
+		"zho"	"使用狙擊槍殺死 3 名敵人，槍槍命中。"
+	}
+	"TF_SNIPER_CAPTURE_FLAG_Title"
+	{
+		"zho"	"擬訂計畫"
+	}
+	"TF_SNIPER_CAPTURE_FLAG_Desc"
+	{
+		"zho"	"在搶旗賽中取得旗幟。"
+	}
+	"TF_SNIPER_KILL_GRIND_Title"
+	{
+		"zho"	"格殺勿論"
+	}
+	"TF_SNIPER_KILL_GRIND_Desc"
+	{
+		"zho"	"殺掉 1000 名敵人。"
+	}
+	"TF_SNIPER_KILL_WEAPONS_Title"
+	{
+		"zho"	"無三不成禮"
+	}
+	"TF_SNIPER_KILL_WEAPONS_Desc"
+	{
+		"zho"	"在單一回合中，使用 3 種不同的武器殺掉一名敵人。"
+	}
+	"TF_SNIPER_HEADSHOT_SNIPERS_Title"
+	{
+		"zho"	"連續自爆"
+	}
+	"TF_SNIPER_HEADSHOT_SNIPERS_Desc"
+	{
+		"zho"	"射中 10 名敵方 Sniper 的頭部。"
+	}
+	"TF_SNIPER_DESTROY_SENTRYGUNS_Title"
+	{
+		"zho"	"撤哨"
+	}
+	"TF_SNIPER_DESTROY_SENTRYGUNS_Desc"
+	{
+		"zho"	"摧毀 3 座 Engineer 步哨防禦槍。"
+	}
+	"TF_SNIPER_KILL_INVIS_SPY_Title"
+	{
+		"zho"	"對空鳴槍"
+	}
+	"TF_SNIPER_KILL_INVIS_SPY_Desc"
+	{
+		"zho"	"單發射殺一名完全隱形的 Spy。"
+	}
+	"TF_SNIPER_KILL_MIDAIR_SCOUT_Title"
+	{
+		"zho"	"摔死"
+	}
+	"TF_SNIPER_KILL_MIDAIR_SCOUT_Desc"
+	{
+		"zho"	"使用狙擊槍或獵槍射殺半空中的 Scout。"
+	}
+	"TF_SNIPER_FREEZECAM_WAVE_Title"
+	{
+		"zho"	"揮手永別"
+	}
+	"TF_SNIPER_FREEZECAM_WAVE_Desc"
+	{
+		"zho"	"送敵人一張你向他們揮手的畫面快照。"
+	}
+	"TF_SNIPER_DOMINATE_SNIPER_Title"
+	{
+		"zho"	"澳洲規則"
+	}
+	"TF_SNIPER_DOMINATE_SNIPER_Desc"
+	{
+		"zho"	"壓制敵方 Sniper。"
+	}
+	"TF_SNIPER_KILL_SPIES_MELEE_Title"
+	{
+		"zho"	"瘋狂砍殺"
+	}
+	"TF_SNIPER_KILL_SPIES_MELEE_Desc"
+	{
+		"zho"	"使用喀爾克大彎刀殺死 10 名 Spy。"
+	}
+	"TF_SNIPER_HEADSHOT_DEMOMAN_Title"
+	{
+		"zho"	"正中紅心"
+	}
+	"TF_SNIPER_HEADSHOT_DEMOMAN_Desc"
+	{
+		"zho"	"射中敵方 Demoman 的頭部。"
+	}
+	"TF_SNIPER_KILL_RJER_Title"
+	{
+		"zho"	"空中攔截"
+	}
+	"TF_SNIPER_KILL_RJER_Desc"
+	{
+		"zho"	"使用狙擊槍或獵槍射殺拿著火箭筒或手榴彈在半空中跳躍的敵人。"
+	}
+	"TF_SNIPER_KILL_OBJECTIVES_Title"
+	{
+		"zho"	"誰是老大"
+	}
+	"TF_SNIPER_KILL_OBJECTIVES_Desc"
+	{
+		"zho"	"只用一條命就把即將達到目標的 3 名敵人殺死。"
+	}
+	"TF_SNIPER_KILL_UNSCOPED_Title"
+	{
+		"zho"	"相信直覺"
+	}
+	"TF_SNIPER_KILL_UNSCOPED_Desc"
+	{
+		"zho"	"使用狙擊槍但不用狙擊鏡，殺掉 5 名敵人。"
+	}
+	"TF_SNIPER_KILL_CHARGED_MEDIC_Title"
+	{
+		"zho"	"ÜberCharge 剋星"
+	}
+	"TF_SNIPER_KILL_CHARGED_MEDIC_Desc"
+	{
+		"zho"	"殺死一名正準備部署 ÜberCharge 的 Medic。"
+	}
+	"TF_SNIPER_GET_BACKSTABBED_Title"
+	{
+		"zho"	"安慰獎"
+	}
+	"TF_SNIPER_GET_BACKSTABBED_Desc"
+	{
+		"zho"	"遭背刺 50 次。"
+	}
+	"TF_SNIPER_KILL_AT_ROUNDSTART_Title"
+	{
+		"zho"	"大敵當前"
+	}
+	"TF_SNIPER_KILL_AT_ROUNDSTART_Desc"
+	{
+		"zho"	"在回合開始的第一秒內殺死敵人。"
+	}
+	"TF_SNIPER_HEADSHOT_POST_INVULN_Title"
+	{
+		"zho"	"臨別感言"
+	}
+	"TF_SNIPER_HEADSHOT_POST_INVULN_Desc"
+	{
+		"zho"	"在敵人的無敵狀態消退的當下，射中敵人頭部。"
+	}
+	"TF_SNIPER_TOP_SCOREBOARD_GRIND_Title"
+	{
+		"zho"	"輝煌的職業生涯"
+	}
+	"TF_SNIPER_TOP_SCOREBOARD_GRIND_Desc"
+	{
+		"zho"	"在六名以上的玩家隊伍中，10度雄據計分板冠軍。"
+	}
+	"TF_SNIPER_KILL_FAILED_SPY_Title"
+	{
+		"zho"	"震撼治療"
+	}
+	"TF_SNIPER_KILL_FAILED_SPY_Desc"
+	{
+		"zho"	"殺死試圖背刺你的 Spy，其背刺攻擊剛好被你的刀背檔下。"
+	}
+	"TF_SNIPER_JARATE_GROUP_Title"
+	{
+		"zho"	"滲透轟炸"
+	}
+	"TF_SNIPER_JARATE_GROUP_Desc"
+	{
+		"zho"	"只丟一個罐子就擊中 4 名敵人。"
+	}
+	"TF_SNIPER_JARATE_MEDIC_PAIR_Title"
+	{
+		"zho"	"從中破壞"
+	}
+	"TF_SNIPER_JARATE_MEDIC_PAIR_Desc"
+	{
+		"zho"	"用罐子攻擊敵人，而 Medic 正在治療他。"
+	}
+	"TF_SNIPER_JARATE_REVEAL_SPY_Title"
+	{
+		"zho"	"罐子戲法"
+	}
+	"TF_SNIPER_JARATE_REVEAL_SPY_Desc"
+	{
+		"zho"	"使用罐子讓隱形的 Spy 現身。"
+	}
+	"TF_SNIPER_JARATE_EXTINGUISH_Title"
+	{
+		"zho"	"友誼金堅"
+	}
+	"TF_SNIPER_JARATE_EXTINGUISH_Desc"
+	{
+		"zho"	"使用罐子幫著火的隊友滅火。"
+	}
+	"TF_SNIPER_BOW_PIN_HEAVY_Title"
+	{
+		"zho"	"暴虐英雄"
+	}
+	"TF_SNIPER_BOW_PIN_HEAVY_Desc"
+	{
+		"zho"	"將武器穿過敵方 Heavy 的頭部，將他釘在牆上。"
+	}
+	"TF_SNIPER_BOW_KILL_MEDIC_PAIR_Title"
+	{
+		"zho"	"百步穿楊"
+	}
+	"TF_SNIPER_BOW_KILL_MEDIC_PAIR_Desc"
+	{
+		"zho"	"使用十字弓殺死一對 Heavy 與 Medic 搭檔。"
+	}
+	"TF_SNIPER_BOW_KILL_FLAGCARRIER_Title"
+	{
+		"zho"	"俠盜羅賓漢"
+	}
+	"TF_SNIPER_BOW_KILL_FLAGCARRIER_Desc"
+	{
+		"zho"	"單箭制伏攜帶情報的敵人。"
+	}
+	"TF_SNIPER_BOW_PINCUSHION_Title"
+	{
+		"zho"	"座如針氈"
+	}
+	"TF_SNIPER_BOW_PINCUSHION_Desc"
+	{
+		"zho"	"使用 3 枝箭擊中敵人，但不殺死敵人。"
+	}
+	"TF_SNIPER_JARATE_ASSISTS_Title"
+	{
+		"zho"	"助攻王"
+	}
+	"TF_SNIPER_JARATE_ASSISTS_Desc"
+	{
+		"zho"	"在單一回合中使用罐子成功助攻 5 次。"
+	}
+	"TF_SNIPER_JARATE_KILL_MELEE_Title"
+	{
+		"zho"	"罐刀合一"
+	}
+	"TF_SNIPER_JARATE_KILL_MELEE_Desc"
+	{
+		"zho"	"丟罐子然後使用喀爾克大彎刀殺死 3 名敵人。"
+	}
+	"TF_SNIPER_TAUNT_KILL_Title"
+	{
+		"zho"	"箭擊"
+	}
+	"TF_SNIPER_TAUNT_KILL_Desc"
+	{
+		"zho"	"使用弓箭刺殺敵人。"
+	}
+	"TF_SNIPER_BOW_KILL_WHILEDEAD_Title"
+	{
+		"zho"	"死亡復仇"
+	}
+	"TF_SNIPER_BOW_KILL_WHILEDEAD_Desc"
+	{
+		"zho"	"在你死亡的同時以弓箭殺死敵人。"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS1_Title"
+	{
+		"zho"	"Sniper 里程碑 1"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS1_Desc"
+	{
+		"zho"	"達成在 Sniper Pack 中的 5 項成就。"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS2_Title"
+	{
+		"zho"	"Sniper 里程碑 2"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS2_Desc"
+	{
+		"zho"	"達成在 Sniper Pack 中的 11 項成就。"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS3_Title"
+	{
+		"zho"	"Sniper 里程碑 3"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS3_Desc"
+	{
+		"zho"	"達成在 Sniper Pack 中的 17 項成就。"
+	}
+	"TF_SPY_BACKSTAB_SNIPERS_Title"
+	{
+		"zho"	"以一擋三"
+	}
+	"TF_SPY_BACKSTAB_SNIPERS_Desc"
+	{
+		"zho"	"只用一條命背刺 3 名 Sniper。"
+	}
+	"TF_SPY_FREEZECAM_FLICK_Title"
+	{
+		"zho"	"賞心悅目"
+	}
+	"TF_SPY_FREEZECAM_FLICK_Desc"
+	{
+		"zho"	"送敵人一張你在他們屍體上彈煙灰的畫面快照。"
+	}
+	"TF_SPY_BACKSTAB_DISGUISED_SPY_Title"
+	{
+		"zho"	"反間諜"
+	}
+	"TF_SPY_BACKSTAB_DISGUISED_SPY_Desc"
+	{
+		"zho"	"背刺偽裝的 Spy。"
+	}
+	"TF_SPY_BACKSTAB_DISGUISE_TARGET_Title"
+	{
+		"zho"	"盜取身份"
+	}
+	"TF_SPY_BACKSTAB_DISGUISE_TARGET_Desc"
+	{
+		"zho"	"背刺你正在偽裝的敵人。"
+	}
+	"TF_SPY_TAUNT_KILL_Title"
+	{
+		"zho"	"擊劍高手"
+	}
+	"TF_SPY_TAUNT_KILL_Desc"
+	{
+		"zho"	"使用擊劍時刺中敵人。"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_HEALING_YOU_Title"
+	{
+		"zho"	"對了，我是 Spy"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_HEALING_YOU_Desc"
+	{
+		"zho"	"在最後 5 秒背刺還在治療你的 Medic。"
+	}
+	"TF_SPY_BACKSTAB_ENGY_SAP_BUILDING_Title"
+	{
+		"zho"	"爛槍俠"
+	}
+	"TF_SPY_BACKSTAB_ENGY_SAP_BUILDING_Desc"
+	{
+		"zho"	"在 10 秒內背刺 Engineer，然後破壞 3 棟他的建築。"
+	}
+	"TF_SPY_SAP_BUILDING_BACKSTAB_ENGY_Title"
+	{
+		"zho"	"破壞者"
+	}
+	"TF_SPY_SAP_BUILDING_BACKSTAB_ENGY_Desc"
+	{
+		"zho"	"在 5 秒內破壞敵方建築，然後背刺建造該建築的 Engineer。"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_PAIR_Title"
+	{
+		"zho"	"我可以插一腳嗎？"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_PAIR_Desc"
+	{
+		"zho"	"分別在在十秒內背刺敵人以及正在治療該名敵人的 Medic。"
+	}
+	"TF_SPY_BACKSTAB_FRIENDS_Title"
+	{
+		"zho"	"超級間諜"
+	}
+	"TF_SPY_BACKSTAB_FRIENDS_Desc"
+	{
+		"zho"	"背刺你的 Steam 社群好友 10 次。"
+	}
+	"TF_SPY_DOMINATE_SNIPER_Title"
+	{
+		"zho"	"狙擊剋星"
+	}
+	"TF_SPY_DOMINATE_SNIPER_Desc"
+	{
+		"zho"	"壓制 Sniper。"
+	}
+	"TF_SPY_BUMP_CLOAKED_SPY_Title"
+	{
+		"zho"	"諜諜撞撞"
+	}
+	"TF_SPY_BUMP_CLOAKED_SPY_Desc"
+	{
+		"zho"	"隱形時，撞見敵方的隱形 Spy。"
+	}
+	"TF_SPY_KILL_SPY_WITH_KNIFE_Title"
+	{
+		"zho"	"刀起人亡"
+	}
+	"TF_SPY_KILL_SPY_WITH_KNIFE_Desc"
+	{
+		"zho"	"使用刀子殺死持槍的 Spy。"
+	}
+	"TF_SPY_SURVIVE_BURNING_Title"
+	{
+		"zho"	"燙傷須知"
+	}
+	"TF_SPY_SURVIVE_BURNING_Desc"
+	{
+		"zho"	"隱形時遭受火燒但存活了 30 秒。"
+	}
+	"TF_SPY_BREAK_SHIELD_KILL_SNIPER_Title"
+	{
+		"zho"	"另類死法"
+	}
+	"TF_SPY_BREAK_SHIELD_KILL_SNIPER_Desc"
+	{
+		"zho"	"用背刺砍穿 Sniper 的刀背，殺死 Sniper。"
+	}
+	"TF_SPY_KILL_WORKING_ENGY_Title"
+	{
+		"zho"	"破壞建設"
+	}
+	"TF_SPY_KILL_WORKING_ENGY_Desc"
+	{
+		"zho"	"殺死正在建造步哨防禦槍的 Engineer。"
+	}
+	"TF_SPY_FAST_CAP_Title"
+	{
+		"zho"	"秘密據點"
+	}
+	"TF_SPY_FAST_CAP_Desc"
+	{
+		"zho"	"據點出現後一秒鐘內開始佔領據點。"
+	}
+	"TF_SPY_MEDIC_HEALING_KILL_ENEMY_Title"
+	{
+		"zho"	"保險詐騙"
+	}
+	"TF_SPY_MEDIC_HEALING_KILL_ENEMY_Desc"
+	{
+		"zho"	"你接受敵方 Medic 治療時，殺死一名敵人。"
+	}
+	"TF_SPY_KILL_CP_DEFENDERS_Title"
+	{
+		"zho"	"據點終結者"
+	}
+	"TF_SPY_KILL_CP_DEFENDERS_Desc"
+	{
+		"zho"	"殺死 15 名站在敵方控制點的敵人。"
+	}
+	"TF_SPY_BACKSTAB_DOMINATING_ENEMY_Title"
+	{
+		"zho"	"高價目標"
+	}
+	"TF_SPY_BACKSTAB_DOMINATING_ENEMY_Desc"
+	{
+		"zho"	"背刺正壓制己方 3 名以上隊友的敵人。"
+	}
+	"TF_SPY_REVENGE_WITH_BACKSTAB_Title"
+	{
+		"zho"	"死神復仇"
+	}
+	"TF_SPY_REVENGE_WITH_BACKSTAB_Desc"
+	{
+		"zho"	"使用背刺復仇殺敵。"
+	}
+	"TF_SPY_KNIFE_KILL_WHILE_JARATED_Title"
+	{
+		"zho"	"濕殺"
+	}
+	"TF_SPY_KNIFE_KILL_WHILE_JARATED_Desc"
+	{
+		"zho"	"在罐子武器的加持下刺殺敵人至死。"
+	}
+	"TF_SPY_BACKSTAB_QUICK_KILLS_Title"
+	{
+		"zho"	"連續背刺"
+	}
+	"TF_SPY_BACKSTAB_QUICK_KILLS_Desc"
+	{
+		"zho"	"10 秒內背刺 3 名敵人。"
+	}
+	"TF_SPY_BACKSTAB_GRIND_Title"
+	{
+		"zho"	"間諜大師"
+	}
+	"TF_SPY_BACKSTAB_GRIND_Desc"
+	{
+		"zho"	"背刺 1000 名敵人。"
+	}
+	"TF_SPY_SAPPER_GRIND_Title"
+	{
+		"zho"	"破壞大師"
+	}
+	"TF_SPY_SAPPER_GRIND_Desc"
+	{
+		"zho"	"使用電子破壞器摧毀 1000 棟 Engineer 建築。"
+	}
+	"TF_SPY_SAPPER_TEAMWORK_Title"
+	{
+		"zho"	"聯合行動"
+	}
+	"TF_SPY_SAPPER_TEAMWORK_Desc"
+	{
+		"zho"	"在隊友攻擊其他防禦槍的 3 秒內，攻擊敵方步哨防禦槍。"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_CHARGED_Title"
+	{
+		"zho"	"不不博士"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_CHARGED_Desc"
+	{
+		"zho"	"背刺一名正準備部署 ÜberCharge 的 Medic。"
+	}
+	"TF_SPY_BACKSTAB_CAPPING_ENEMIES_Title"
+	{
+		"zho"	"安全了嗎？"
+	}
+	"TF_SPY_BACKSTAB_CAPPING_ENEMIES_Desc"
+	{
+		"zho"	"背刺 50 名想要佔領控制點的敵人。"
+	}
+	"TF_SPY_BACKSTAB_ENEMY_SWITCH_PYRO_Title"
+	{
+		"zho"	"刺殺轉生"
+	}
+	"TF_SPY_BACKSTAB_ENEMY_SWITCH_PYRO_Desc"
+	{
+		"zho"	"背刺敵人，接著對方重生前會變成 Pyro。"
+	}
+	"TF_SPY_AMBASSADOR_GRIND_Title"
+	{
+		"zho"	"外交手腕"
+	}
+	"TF_SPY_AMBASSADOR_GRIND_Desc"
+	{
+		"zho"	"使用 Ambassador 殺死 50 名敵人。"
+	}
+	"TF_SPY_AMBASSADOR_SNIPER_GRIND_Title"
+	{
+		"zho"	"獵頭高手"
+	}
+	"TF_SPY_AMBASSADOR_SNIPER_GRIND_Desc"
+	{
+		"zho"	"使用 Ambassador 射中 20 名 Sniper 的頭部。"
+	}
+	"TF_SPY_FEIGN_DEATH_KILL_Title"
+	{
+		"zho"	"守衛殺手"
+	}
+	"TF_SPY_FEIGN_DEATH_KILL_Desc"
+	{
+		"zho"	"在最後 20 秒殺死讓你裝死的敵人。"
+	}
+	"TF_SPY_AMBASSADOR_SCOUT_GRIND_Title"
+	{
+		"zho"	"誰是老大？"
+	}
+	"TF_SPY_AMBASSADOR_SCOUT_GRIND_Desc"
+	{
+		"zho"	"使用 Ambassador 射中 3 名 Scout 的頭部。"
+	}
+	"TF_SPY_CAMP_POSITION_Title"
+	{
+		"zho"	"臥底高手"
+	}
+	"TF_SPY_CAMP_POSITION_Desc"
+	{
+		"zho"	"使用隱形與匕首時，在相同區域中只用一條命就殺死同一名敵人 3 次。"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS1_Title"
+	{
+		"zho"	"Spy 里程碑 1"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS1_Desc"
+	{
+		"zho"	"達成在 Spy Pack 中的 5 項成就。"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS2_Title"
+	{
+		"zho"	"Spy 里程碑 2"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS2_Desc"
+	{
+		"zho"	"達成在 Spy Pack 中的 11 項成就。"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS3_Title"
+	{
+		"zho"	"Spy 里程碑 3"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS3_Desc"
+	{
+		"zho"	"達成在 Spy Pack 中的 17 項成就。"
+	}
+	"TF_HALLOWEEN_COLLECT_PUMPKINS_Title"
+	{
+		"zho"	"糖果驗屍官"
+	}
+	"TF_HALLOWEEN_COLLECT_PUMPKINS_Desc"
+	{
+		"zho"	"從死去玩家的身上搜刮 20 個萬聖節南瓜以獲得帽子。"
+	}
+	"TF_HALLOWEEN_DOMINATE_FOR_HAT_Title"
+	{
+		"zho"	"搶奪驚悚大禮帽"
+	}
+	"TF_HALLOWEEN_DOMINATE_FOR_HAT_Desc"
+	{
+		"zho"	"壓制戴上驚悚大禮帽的玩家以獲得該頂帽子。"
+	}
+	"TF_HALLOWEEN_KILL_SCARED_PLAYER_Title"
+	{
+		"zho"	"小生夢驚魂"
+	}
+	"TF_HALLOWEEN_KILL_SCARED_PLAYER_Desc"
+	{
+		"zho"	"殺死一名被 KOTH Harvest 遊魂嚇到的玩家。"
+	}
+	"TF_HALLOWEEN_PUMPKIN_KILL_Title"
+	{
+		"zho"	"南瓜燈的逆襲"
+	}
+	"TF_HALLOWEEN_PUMPKIN_KILL_Desc"
+	{
+		"zho"	"引爆南瓜炸彈並炸死周圍的 5 名玩家。"
+	}
+	"TF_HALLOWEEN_DISGUISED_SPY_KILL_Title"
+	{
+		"zho"	"超級名模生死鬥"
+	}
+	"TF_HALLOWEEN_DISGUISED_SPY_KILL_Desc"
+	{
+		"zho"	"殺死偽裝成你目前兵種的 Spy。"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS1_Title"
+	{
+		"zho"	"Soldier 里程碑 1"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS1_Desc"
+	{
+		"zho"	"達成在 Soldier Pack 中的 5 項成就。"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS2_Title"
+	{
+		"zho"	"Soldier 里程碑 2"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS2_Desc"
+	{
+		"zho"	"達成在 Soldier Pack 中的 11 項成就。"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS3_Title"
+	{
+		"zho"	"Soldier 里程碑 3"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS3_Desc"
+	{
+		"zho"	"達成在 Soldier Pack 中的 17 項成就。"
+	}
+	"TF_SOLDIER_KILL_GROUP_WITH_CROCKET_Title"
+	{
+		"zho"	"一石三鳥"
+	}
+	"TF_SOLDIER_KILL_GROUP_WITH_CROCKET_Desc"
+	{
+		"zho"	"利用一發爆擊火箭殺死 3 名敵人。"
+	}
+	"TF_SOLDIER_KILL_TWO_DURING_ROCKET_JUMP_Title"
+	{
+		"zho"	"死神降臨"
+	}
+	"TF_SOLDIER_KILL_TWO_DURING_ROCKET_JUMP_Desc"
+	{
+		"zho"	"使用火箭跳躍並在著地前殺死 2 名敵人。"
+	}
+	"TF_SOLDIER_THREE_DOMINATIONS_Title"
+	{
+		"zho"	"霸主"
+	}
+	"TF_SOLDIER_THREE_DOMINATIONS_Desc"
+	{
+		"zho"	"只用一條命便取得 3 次壓制次數。"
+	}
+	"TF_SOLDIER_DEFEND_MEDIC_Title"
+	{
+		"zho"	"戰犯懲處"
+	}
+	"TF_SOLDIER_DEFEND_MEDIC_Desc"
+	{
+		"zho"	"只用一條命便殺死 3 名敵人，這些敵人都曾傷害為你治療的 Medic。"
+	}
+	"TF_SOLDIER_KILL_TAUNT_Title"
+	{
+		"zho"	"炸翻天"
+	}
+	"TF_SOLDIER_KILL_TAUNT_Desc"
+	{
+		"zho"	"使用手榴彈炸翻玩家。"
+	}
+	"TF_SOLDIER_DESTROY_SENTRY_OUT_OF_RANGE_Title"
+	{
+		"zho"	"謎之槍"
+	}
+	"TF_SOLDIER_DESTROY_SENTRY_OUT_OF_RANGE_Desc"
+	{
+		"zho"	"你站在 Engineer 步哨的射程範圍外，卻摧毀 5 座 Engineer 步哨。"
+	}
+	"TF_SOLDIER_KILL_SNIPER_WHILE_DEAD_Title"
+	{
+		"zho"	"同歸於盡"
+	}
+	"TF_SOLDIER_KILL_SNIPER_WHILE_DEAD_Desc"
+	{
+		"zho"	"在敵方 Sniper 殺了你之後，以火箭殺死對方。"
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_TARGET_WHILE_AIRBORNE_Title"
+	{
+		"zho"	"榮光之翼"
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_TARGET_WHILE_AIRBORNE_Desc"
+	{
+		"zho"	"你和對方都在空中時，殺死敵方 Soldier。"
+	}
+	"TF_SOLDIER_KILL_ENGY_Title"
+	{
+		"zho"	"Engineer 不死"
+	}
+	"TF_SOLDIER_KILL_ENGY_Desc"
+	{
+		"zho"	"在 Engineer 修復遭敵火攻擊的步哨防禦槍時殺死他。"
+	}
+	"TF_SOLDIER_NEMESIS_SHOVEL_KILL_Title"
+	{
+		"zho"	"壕溝挖土戰"
+	}
+	"TF_SOLDIER_NEMESIS_SHOVEL_KILL_Desc"
+	{
+		"zho"	"用鐵鍬坑殺你的復仇者。"
+	}
+	"TF_SOLDIER_DESTROY_STICKIES_Title"
+	{
+		"zho"	"炸彈新兵"
+	}
+	"TF_SOLDIER_DESTROY_STICKIES_Desc"
+	{
+		"zho"	"只用一條命便以散彈槍摧毀 10 個黏性炸彈。"
+	}
+	"TF_SOLDIER_CROUCH_ROCKET_JUMP_Title"
+	{
+		"zho"	"遨翔天際"
+	}
+	"TF_SOLDIER_CROUCH_ROCKET_JUMP_Desc"
+	{
+		"zho"	"使用蹲跳，跳出最高的火箭跳躍。"
+	}
+	"TF_SOLDIER_BUFF_FRIENDS_Title"
+	{
+		"zho"	"眾志成城"
+	}
+	"TF_SOLDIER_BUFF_FRIENDS_Desc"
+	{
+		"zho"	"使用暗黃旗幟一次同時讓 5 名 Steam 好友爆氣。"
+	}
+	"TF_SOLDIER_KILL_TWENTY_FROM_ABOVE_Title"
+	{
+		"zho"	"嘯鷹"
+	}
+	"TF_SOLDIER_KILL_TWENTY_FROM_ABOVE_Desc"
+	{
+		"zho"	"從空中殺死 20 名敵人。"
+	}
+	"TF_SOLDIER_SHOOT_MULT_CRITS_Title"
+	{
+		"zho"	"爆擊火箭無路用"
+	}
+	"TF_SOLDIER_SHOOT_MULT_CRITS_Desc"
+	{
+		"zho"	"連續射中兩發未加速的爆擊火箭。"
+	}
+	"TF_SOLDIER_KILL_DEFENSELESS_Title"
+	{
+		"zho"	"踐踏日內瓦協議"
+	}
+	"TF_SOLDIER_KILL_DEFENSELESS_Desc"
+	{
+		"zho"	"在單一競賽結束後，殺死 5 名無防備能力的玩家。"
+	}
+	"TF_SOLDIER_KILL_ON_FIRE_Title"
+	{
+		"zho"	"烤肉串"
+	}
+	"TF_SOLDIER_KILL_ON_FIRE_Desc"
+	{
+		"zho"	"著火時殺死 20 名 敵人。"
+	}
+	"TF_SOLDIER_KILL_FIVE_STUNNED_Title"
+	{
+		"zho"	"暈頭轉向"
+	}
+	"TF_SOLDIER_KILL_FIVE_STUNNED_Desc"
+	{
+		"zho"	"殺死 5 名暈眩的敵人。"
+	}
+	"TF_SOLDIER_FREEZECAM_GIBS_Title"
+	{
+		"zho"	"血！血！血！"
+	}
+	"TF_SOLDIER_FREEZECAM_GIBS_Desc"
+	{
+		"zho"	"送敵人一張你嘲笑他們 3 個屍體部位的畫面快照。"
+	}
+	"TF_SOLDIER_KILL_SPY_KILLER_Title"
+	{
+		"zho"	"揪出戰犯"
+	}
+	"TF_SOLDIER_KILL_SPY_KILLER_Desc"
+	{
+		"zho"	"殺死一名剛剛背刺隊友的 Spy。"
+	}
+	"TF_SOLDIER_DEFEND_CAP_THIRTY_TIMES_Title"
+	{
+		"zho"	"漢堡之丘"
+	}
+	"TF_SOLDIER_DEFEND_CAP_THIRTY_TIMES_Desc"
+	{
+		"zho"	"守住佔領據點 30 次。"
+	}
+	"TF_SOLDIER_GIB_GRIND_Title"
+	{
+		"zho"	"硫磺島的英雄們"
+	}
+	"TF_SOLDIER_GIB_GRIND_Desc"
+	{
+		"zho"	"炸翻 1000 人。"
+	}
+	"TF_SOLDIER_RJ_EQUALIZER_KILL_Title"
+	{
+		"zho"	"完美落地"
+	}
+	"TF_SOLDIER_RJ_EQUALIZER_KILL_Desc"
+	{
+		"zho"	"進行火箭跳躍時，在落地前以十字鎬殺死敵人。"
+	}
+	"TF_SOLDIER_BUFF_TEAMMATES_Title"
+	{
+		"zho"	"機動組男孩"
+	}
+	"TF_SOLDIER_BUFF_TEAMMATES_Desc"
+	{
+		"zho"	"使用暗黃旗幟並只用一條命便使 15 名隊友爆氣。"
+	}
+	"TF_SOLDIER_KILL_DEMOMAN_GRIND_Title"
+	{
+		"zho"	"死吧，該死的 Scot！"
+	}
+	"TF_SOLDIER_KILL_DEMOMAN_GRIND_Desc"
+	{
+		"zho"	"殺死 500 名敵方 Demomen"
+	}
+	"TF_SOLDIER_KILL_PYRO_Title"
+	{
+		"zho"	"浴火終結者"
+	}
+	"TF_SOLDIER_KILL_PYRO_Desc"
+	{
+		"zho"	"殺死在過去 10 秒內以空壓氣流阻擋你的火箭的 Pyro。"
+	}
+	"TF_SOLDIER_EQUALIZER_STREAK_Title"
+	{
+		"zho"	"沒空流血"
+	}
+	"TF_SOLDIER_EQUALIZER_STREAK_Desc"
+	{
+		"zho"	"只用一條命便以十字鎬殺死 3 名玩家，且未接受任何治療。"
+	}
+	"TF_SOLDIER_KILL_WITH_EQUALIZER_WHILE_HURT_Title"
+	{
+		"zho"	"瀕死體驗"
+	}
+	"TF_SOLDIER_KILL_WITH_EQUALIZER_WHILE_HURT_Desc"
+	{
+		"zho"	"於生命值小於 25 時使用十字鎬殺死 20 名敵人。"
+	}
+	"TF_SOLDIER_BOUNCE_THEN_SHOTGUN_Title"
+	{
+		"zho"	"槍聲響徹雲霄"
+	}
+	"TF_SOLDIER_BOUNCE_THEN_SHOTGUN_Desc"
+	{
+		"zho"	"以火箭將敵人彈到空中並在對方落地前以散彈槍殺光。"
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_WITH_DIRECT_HIT_Title"
+	{
+		"zho"	"地底死神"
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_WITH_DIRECT_HIT_Desc"
+	{
+		"zho"	"使用 Direct Hit 殺死 10 名在空中的對手。"
+	}
+	"TF_SOLDIER_FREEZECAM_TAUNT_Title"
+	{
+		"zho"	"盡在不言中"
+	}
+	"TF_SOLDIER_FREEZECAM_TAUNT_Desc"
+	{
+		"zho"	"送敵人一張你為他們發 21 響禮炮的畫面快照。"
+	}
+	"TF_SOLDIER_DUO_SOLDIER_KILLS_Title"
+	{
+		"zho"	"兄弟同心，其力斷金"
+	}
+	"TF_SOLDIER_DUO_SOLDIER_KILLS_Desc"
+	{
+		"zho"	"助攻給其他 Soldier、或獲得其他 Soldier 的助攻，殺死 10 名敵人"
+	}
+	"TF_SOLDIER_MVP_Title"
+	{
+		"zho"	"榮譽勳章"
+	}
+	"TF_SOLDIER_MVP_Desc"
+	{
+		"zho"	"當選 10 次 MVP。"
+	}
+	"TF_SOLDIER_RIDE_THE_CART_Title"
+	{
+		"zho"	"飆風部隊"
+	}
+	"TF_SOLDIER_RIDE_THE_CART_Desc"
+	{
+		"zho"	"開推車 30 秒。"
+	}
+	"TF_SOLDIER_ASSIST_MEDIC_UBER_Title"
+	{
+		"zho"	"S*M*A*S*H"
+	}
+	"TF_SOLDIER_ASSIST_MEDIC_UBER_Desc"
+	{
+		"zho"	"協助 Medic 以單發 ÜberCharge 炸死 5 名敵人。"
+	}
+	"TF_DEMOMAN_KILL_SOLDIER_GRIND_Title"
+	{
+		"zho"	"就地正法"
+	}
+	"TF_DEMOMAN_KILL_SOLDIER_GRIND_Desc"
+	{
+		"zho"	"殺死 500 名敵方 Soldier"
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_WITH_MEDIC_Title"
+	{
+		"zho"	"拆除大隊"
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_WITH_MEDIC_Desc"
+	{
+		"zho"	"透過 Medic 的單發 ÜberCharge 摧毀 5 座敵方 Engineer 建築。"
+	}
+	"TF_DEMOMAN_DECAPITATE_CLOAKED_SPY_Title"
+	{
+		"zho"	"獵頭專家"
+	}
+	"TF_DEMOMAN_DECAPITATE_CLOAKED_SPY_Desc"
+	{
+		"zho"	"將隱形 Spy 斬首。"
+	}
+	"TF_DEMOMAN_KILL_X_WITH_DIRECTPIPE_Title"
+	{
+		"zho"	"命中紅心"
+	}
+	"TF_DEMOMAN_KILL_X_WITH_DIRECTPIPE_Desc"
+	{
+		"zho"	"使用榴彈發射器的 Direct Hit 殺死 50 名敵人。"
+	}
+	"TF_DEMOMAN_BOUNCE_AND_KILL_Title"
+	{
+		"zho"	"高空肉靶"
+	}
+	"TF_DEMOMAN_BOUNCE_AND_KILL_Desc"
+	{
+		"zho"	"將敵人炸飛，並在敵人落地殺死他們。"
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_Title"
+	{
+		"zho"	"斬立決"
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_Desc"
+	{
+		"zho"	"斬首 50 名敵方玩家。"
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_FAST_Title"
+	{
+		"zho"	"惡靈 4 粒"
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_FAST_Desc"
+	{
+		"zho"	"斬首 4 名敵人，間隔不到 10 秒。"
+	}
+	"TF_DEMOMAN_DUO_DEMOMAN_KILLS_Title"
+	{
+		"zho"	"相輔相成"
+	}
+	"TF_DEMOMAN_DUO_DEMOMAN_KILLS_Desc"
+	{
+		"zho"	"助攻給其他 Demoman、或獲得其他 Demoman 的助攻，殺死 10 名敵人"
+	}
+	"TF_DEMOMAN_KILL_TWO_DURING_STICKYJUMP_Title"
+	{
+		"zho"	"一石二鳥"
+	}
+	"TF_DEMOMAN_KILL_TWO_DURING_STICKYJUMP_Desc"
+	{
+		"zho"	"以單發黏性炸彈殺死 2 個人。"
+	}
+	"TF_DEMOMAN_KILL_PLAYER_AFTER_TP_Title"
+	{
+		"zho"	"尼斯湖炸彈客"
+	}
+	"TF_DEMOMAN_KILL_PLAYER_AFTER_TP_Desc"
+	{
+		"zho"	"在敵人剛傳送的 5 秒內，以黏性炸彈殺死一名敵方玩家。"
+	}
+	"TF_DEMOMAN_DOMINATE_THREE_ENGINEERS_Title"
+	{
+		"zho"	"三人行不行"
+	}
+	"TF_DEMOMAN_DOMINATE_THREE_ENGINEERS_Desc"
+	{
+		"zho"	"壓制 3 名 Engineer。"
+	}
+	"TF_DEMOMAN_KILL_BUILDING_DIRECT_HIT_Title"
+	{
+		"zho"	"誤打誤撞"
+	}
+	"TF_DEMOMAN_KILL_BUILDING_DIRECT_HIT_Desc"
+	{
+		"zho"	"使用榴彈發射器的 Direct Hit 摧毀你看不見的 Engineer 建築。"
+	}
+	"TF_DEMOMAN_MELEE_KILL_WHILE_STICKYJUMPING_Title"
+	{
+		"zho"	"蘇格蘭旋風"
+	}
+	"TF_DEMOMAN_MELEE_KILL_WHILE_STICKYJUMPING_Desc"
+	{
+		"zho"	"使用黏性炸彈跳躍時以近戰方式殺死敵人。"
+	}
+	"TF_DEMOMAN_KILL_ENGI_SENTRY_DISPENSER_Title"
+	{
+		"zho"	"偷天換日"
+	}
+	"TF_DEMOMAN_KILL_ENGI_SENTRY_DISPENSER_Desc"
+	{
+		"zho"	"引爆單發黏性炸彈，炸飛 Engineer、他的步哨防禦槍和補給器。"
+	}
+	"TF_DEMOMAN_DECAPITATE_EQUALIZER_Title"
+	{
+		"zho"	"出草砍劈"
+	}
+	"TF_DEMOMAN_DECAPITATE_EQUALIZER_Desc"
+	{
+		"zho"	"將揮舞著十字鎬的敵方 Soldier 斬首。"
+	}
+	"TF_DEMOMAN_DECAPITATE_NEMESIS_Title"
+	{
+		"zho"	"不能有你"
+	}
+	"TF_DEMOMAN_DECAPITATE_NEMESIS_Desc"
+	{
+		"zho"	"將你的復仇者斬首。"
+	}
+	"TF_DEMOMAN_DAMAGE_GRIND_Title"
+	{
+		"zho"	"斯巴達將軍"
+	}
+	"TF_DEMOMAN_DAMAGE_GRIND_Desc"
+	{
+		"zho"	"達成 1 百萬點的總爆破傷害。"
+	}
+	"TF_DEMOMAN_KILL_X_CAPPING_ONEDET_Title"
+	{
+		"zho"	"防撞保險桿"
+	}
+	"TF_DEMOMAN_KILL_X_CAPPING_ONEDET_Desc"
+	{
+		"zho"	"引爆一發黏性炸彈，分三次殺死 3 名佔據或推動推車的敵人。"
+	}
+	"TF_DEMOMAN_KILL_X_DEFENDING_Title"
+	{
+		"zho"	"英勇之心"
+	}
+	"TF_DEMOMAN_KILL_X_DEFENDING_Desc"
+	{
+		"zho"	"防守據點或推車時殺死 25 名玩家。"
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_GRIND_Title"
+	{
+		"zho"	"大肆破壞！"
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_GRIND_Desc"
+	{
+		"zho"	"摧毀 50 座建築。"
+	}
+	"TF_DEMOMAN_KILL_X_HEAVIES_FULLHP_ONEDET_Title"
+	{
+		"zho"	"至死方休"
+	}
+	"TF_DEMOMAN_KILL_X_HEAVIES_FULLHP_ONEDET_Desc"
+	{
+		"zho"	"引爆單發黏性炸彈，殺死 5 名滿血的 Heavy。"
+	}
+	"TF_DEMOMAN_KILL_X_SCOUTS_PYROS_Title"
+	{
+		"zho"	"榴彈死神"
+	}
+	"TF_DEMOMAN_KILL_X_SCOUTS_PYROS_Desc"
+	{
+		"zho"	"使用榴彈發射器殺死 25 名 Scout 和 Pyro。"
+	}
+	"TF_DEMOMAN_TAUNT_KILL_Title"
+	{
+		"zho"	"騎士精神"
+	}
+	"TF_DEMOMAN_TAUNT_KILL_Desc"
+	{
+		"zho"	"使用 Eyelander 光榮地殺死敵人。"
+	}
+	"TF_DEMOMAN_CHARGE_KILL_Title"
+	{
+		"zho"	"衝鋒陷陣"
+	}
+	"TF_DEMOMAN_CHARGE_KILL_Desc"
+	{
+		"zho"	"使用盾牌猛擊衝鋒並殺死對方。"
+	}
+	"TF_DEMOMAN_CRIT_SWORD_KILL_Title"
+	{
+		"zho"	"送上西天"
+	}
+	"TF_DEMOMAN_CRIT_SWORD_KILL_Desc"
+	{
+		"zho"	"使用 Eyelander 的全滿爆擊掃除 5 名敵方玩家。"
+	}
+	"TF_DEMOMAN_AIR_BURST_KILLS_Title"
+	{
+		"zho"	"吃炸風雲"
+	}
+	"TF_DEMOMAN_AIR_BURST_KILLS_Desc"
+	{
+		"zho"	"使用空中引爆的黏性炸彈殺死 30 名對手。"
+	}
+	"TF_DEMOMAN_STICKYJUMP_CAP_Title"
+	{
+		"zho"	"空中突襲"
+	}
+	"TF_DEMOMAN_STICKYJUMP_CAP_Desc"
+	{
+		"zho"	"使用黏性炸彈跳躍跳到據點並將其佔領。"
+	}
+	"TF_DEMOMAN_FREEZECAM_SMILE_Title"
+	{
+		"zho"	"笑一個"
+	}
+	"TF_DEMOMAN_FREEZECAM_SMILE_Desc"
+	{
+		"zho"	"送敵人一張有你的笑臉的畫面快照。"
+	}
+	"TF_DEMOMAN_FREEZECAM_RUMP_Title"
+	{
+		"zho"	"第二隻眼"
+	}
+	"TF_DEMOMAN_FREEZECAM_RUMP_Desc"
+	{
+		"zho"	"送敵人一張你搖屁股的畫面快照。"
+	}
+	"TF_DEMOMAN_ENVIRONMENTAL_KILL_Title"
+	{
+		"zho"	"借力使力"
+	}
+	"TF_DEMOMAN_ENVIRONMENTAL_KILL_Desc"
+	{
+		"zho"	"藉由環境外力使用黏性炸彈發射器殺死一名敵方玩家。"
+	}
+	"TF_DEMOMAN_DESTROY_X_STICKYBOMBS_Title"
+	{
+		"zho"	"皇家搶案"
+	}
+	"TF_DEMOMAN_DESTROY_X_STICKYBOMBS_Desc"
+	{
+		"zho"	"使用 Scottish Resistance 拆掉敵方 100 顆黏性炸彈。"
+	}
+	"TF_DEMOMAN_STICKJUMP_DISTANCE_Title"
+	{
+		"zho"	"高空彈跳"
+	}
+	"TF_DEMOMAN_STICKJUMP_DISTANCE_Desc"
+	{
+		"zho"	"使用黏性炸彈跳躍，跳了非常遠的距離..."
+	}
+	"TF_DEMOMAN_KILL3_WITH_DETONATION_Title"
+	{
+		"zho"	"炸你全家"
+	}
+	"TF_DEMOMAN_KILL3_WITH_DETONATION_Desc"
+	{
+		"zho"	"單次引爆黏性炸彈殺死至少三名敵人。"
+	}
+	"TF_DEMOMAN_KILLXSAPPINGSPIES_Title"
+	{
+		"zho"	"間諜剋星"
+	}
+	"TF_DEMOMAN_KILLXSAPPINGSPIES_Desc"
+	{
+		"zho"	"在 Spy 破壞友方建築的 5 秒內，殺死 20 名 Spy。"
+	}
+	"TF_DEMOMAN_KILL3_WITH_PIPE_SETUPS_Title"
+	{
+		"zho"	"黏環報"
+	}
+	"TF_DEMOMAN_KILL3_WITH_PIPE_SETUPS_Desc"
+	{
+		"zho"	"使用 Scottish Resistance 分次炸死 3 名敵人，且未放置新的黏性炸彈。"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS1_Title"
+	{
+		"zho"	"Demoman 里程碑 1"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS1_Desc"
+	{
+		"zho"	"達成在 Demoman Pack 中的 5 項成就。"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS2_Title"
+	{
+		"zho"	"Demoman 里程碑 2"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS2_Desc"
+	{
+		"zho"	"達成在 Demoman Pack 中的 11 項成就。"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS3_Title"
+	{
+		"zho"	"Demoman 里程碑 3"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS3_Desc"
+	{
+		"zho"	"達成在 Demoman Pack 中的 17 項成就。"
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS1_Title"
+	{
+		"zho"	"Engineer 里程碑 1"
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS1_Desc"
+	{
+		"zho"	"達成在 Engineer Pack 中的 5 項成就。"
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS2_Title"
+	{
+		"zho"	"Engineer 里程碑 2"
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS2_Desc"
+	{
+		"zho"	"達成在 Engineer Pack 中的 11 項成就。"
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS3_Title"
+	{
+		"zho"	"Engineer 里程碑 3"
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS3_Desc"
+	{
+		"zho"	"達成在 Engineer Pack 中的 17 項成就。"
+	}
+	"TF_ENGINEER_TELEPORT_GRIND_Title"
+	{
+		"zho"	"戰鬥號召能手"
+	}
+	"TF_ENGINEER_TELEPORT_GRIND_Desc"
+	{
+		"zho"	"傳送 100 位隊員進入戰場。"
+	}
+	"TF_ENGINEER_DISPENSER_EXTINGUISH_Title"
+	{
+		"zho"	"滅火帥將"
+	}
+	"TF_ENGINEER_DISPENSER_EXTINGUISH_Desc"
+	{
+		"zho"	"以你所建造的補給器為 20 名著火的玩家滅火。"
+	}
+	"TF_ENGINEER_REVENGE_CRIT_SENTRY_KILLER_Title"
+	{
+		"zho"	"復仇者"
+	}
+	"TF_ENGINEER_REVENGE_CRIT_SENTRY_KILLER_Desc"
+	{
+		"zho"	"以復仇爆擊殺死摧毀你的步哨防禦槍的敵方玩家。"
+	}
+	"TF_ENGINEER_MANUAL_CLOAKED_SPY_KILL_Title"
+	{
+		"zho"	"搜尋引擎"
+	}
+	"TF_ENGINEER_MANUAL_CLOAKED_SPY_KILL_Desc"
+	{
+		"zho"	"使用 Wrangler 控制下的步哨防禦槍殺死 3 個隱形 Spy。"
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_KILLS_BEYOND_RANGE_Title"
+	{
+		"zho"	"突破射程"
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_KILLS_BEYOND_RANGE_Desc"
+	{
+		"zho"	"用 Wrangler 殺死步哨防禦槍正常射程以外的 10 個敵人。"
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_ABSORB_DMG_Title"
+	{
+		"zho"	"中流砥柱"
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_ABSORB_DMG_Desc"
+	{
+		"zho"	"用 Wrangler 防護步哨槍，吸收 500 個傷害值而未被摧毀。"
+	}
+	"TF_ENGINEER_REVENGE_CRIT_LIFE_Title"
+	{
+		"zho"	"殺無赦"
+	}
+	"TF_ENGINEER_REVENGE_CRIT_LIFE_Desc"
+	{
+		"zho"	"以復仇爆擊殺死 3 個敵人而未死亡。"
+	}
+	"TF_ENGINEER_KILL_SPY_TWO_SAPPERS_Title"
+	{
+		"zho"	"快槍俠"
+	}
+	"TF_ENGINEER_KILL_SPY_TWO_SAPPERS_Desc"
+	{
+		"zho"	"10 秒內殺死 1 名 Spy 和 2 個破壞器。"
+	}
+	"TF_ENGINEER_KILL_DISGUISED_SPY_Title"
+	{
+		"zho"	"扳手妙用"
+	}
+	"TF_ENGINEER_KILL_DISGUISED_SPY_Desc"
+	{
+		"zho"	"用扳手殺死偽裝的 Spy。"
+	}
+	"TF_ENGINEER_UPGRADE_BUILDINGS_Title"
+	{
+		"zho"	"暗中相助好夥伴"
+	}
+	"TF_ENGINEER_UPGRADE_BUILDINGS_Desc"
+	{
+		"zho"	"升級其他隊員所造的 50 棟建築。"
+	}
+	"TF_ENGINEER_DESTROY_SAPPERS_Title"
+	{
+		"zho"	"破壞器大豐收"
+	}
+	"TF_ENGINEER_DESTROY_SAPPERS_Desc"
+	{
+		"zho"	"摧毀其他隊員所造建築上的 25 個電子破壞器。"
+	}
+	"TF_ENGINEER_REPAIR_SENTRY_W_MEDIC_Title"
+	{
+		"zho"	"醫生、補給加槍管"
+	}
+	"TF_ENGINEER_REPAIR_SENTRY_W_MEDIC_Desc"
+	{
+		"zho"	"受敵火攻擊下，一邊接受 Medic 治療，一邊修復步哨防禦槍。"
+	}
+	"TF_ENGINEER_SENTRY_KILL_LIFETIME_GRIND_Title"
+	{
+		"zho"	"德州最佳小型屠宰場"
+	}
+	"TF_ENGINEER_SENTRY_KILL_LIFETIME_GRIND_Desc"
+	{
+		"zho"	"以步哨防禦槍累計殺死 5000 人。"
+	}
+	"TF_ENGINEER_SENTRY_AVENGES_YOU_Title"
+	{
+		"zho"	"前線正義使者"
+	}
+	"TF_ENGINEER_SENTRY_AVENGES_YOU_Desc"
+	{
+		"zho"	"以你的步哨槍在 10 秒內殺死剛才殺你的敵人。"
+	}
+	"TF_ENGINEER_FREEZECAM_TAUNT_Title"
+	{
+		"zho"	"六弦吉他手"
+	}
+	"TF_ENGINEER_FREEZECAM_TAUNT_Desc"
+	{
+		"zho"	"送敵人一張你大秀吉他神技的畫面快照。"
+	}
+	"TF_ENGINEER_FREEZECAM_SENTRY_Title"
+	{
+		"zho"	"野蠻工程師"
+	}
+	"TF_ENGINEER_FREEZECAM_SENTRY_Desc"
+	{
+		"zho"	"送敵人一張你帶著剛才殺敵所用步哨槍的畫面快照。"
+	}
+	"TF_ENGINEER_SHOTGUN_KILL_PREV_SENTRY_TARGET_Title"
+	{
+		"zho"	"德州兩步起舞"
+	}
+	"TF_ENGINEER_SHOTGUN_KILL_PREV_SENTRY_TARGET_Desc"
+	{
+		"zho"	"先以步哨防禦槍傷敵，再用霰彈槍了結對方。"
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GROUP_Title"
+	{
+		"zho"	"醫生休假"
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GROUP_Desc"
+	{
+		"zho"	"以補給器同時治療 3 位隊友。"
+	}
+	"TF_ENGINEER_SENTRY_KILL_CAPS_Title"
+	{
+		"zho"	"無主之地"
+	}
+	"TF_ENGINEER_SENTRY_KILL_CAPS_Desc"
+	{
+		"zho"	"以步哨防禦槍殺死正要佔領據點的 25 名敵方玩家。"
+	}
+	"TF_ENGINEER_KILL_FLAG_CARRIERS_Title"
+	{
+		"zho"	"商業機密"
+	}
+	"TF_ENGINEER_KILL_FLAG_CARRIERS_Desc"
+	{
+		"zho"	"殺死攜帶情報的 20 名玩家。"
+	}
+	"TF_ENGINEER_WASTE_METAL_GRIND_Title"
+	{
+		"zho"	"廢五金"
+	}
+	"TF_ENGINEER_WASTE_METAL_GRIND_Desc"
+	{
+		"zho"	"從毀壞建築的碎片中收集到 10,000 點廢金屬值。"
+	}
+	"TF_ENGINEER_HELP_BUILD_STRUCTURE_Title"
+	{
+		"zho"	"佔地為王"
+	}
+	"TF_ENGINEER_HELP_BUILD_STRUCTURE_Desc"
+	{
+		"zho"	"協助隊友造建築物。"
+	}
+	"TF_ENGINEER_REMOVE_SAPPER_LONG_DIST_Title"
+	{
+		"zho"	"靠過來！"
+	}
+	"TF_ENGINEER_REMOVE_SAPPER_LONG_DIST_Desc"
+	{
+		"zho"	"從數公尺以外設法回到你的建築，並拆除被人放置的破壞器。"
+	}
+	"TF_ENGINEER_DESTROY_STICKIES_Title"
+	{
+		"zho"	"撲滅害蟲"
+	}
+	"TF_ENGINEER_DESTROY_STICKIES_Desc"
+	{
+		"zho"	"摧毀敵方在友方建築範圍內部署的 50 個黏性炸彈。"
+	}
+	"TF_ENGINEER_TAUNT_KILL_Title"
+	{
+		"zho"	"音樂酒吧常客"
+	}
+	"TF_ENGINEER_TAUNT_KILL_Desc"
+	{
+		"zho"	"以吉他砸爛敵方玩家的頭。"
+	}
+	"TF_ENGINEER_KILL_SNIPERS_SENTRY_Title"
+	{
+		"zho"	"殘酷任務"
+	}
+	"TF_ENGINEER_KILL_SNIPERS_SENTRY_Desc"
+	{
+		"zho"	"使用 Wrangler 控制下的步哨防禦槍殺死 10 個 Sniper。"
+	}
+	"TF_ENGINEER_HELP_MANUAL_SENTRY_Title"
+	{
+		"zho"	"大英雄"
+	}
+	"TF_ENGINEER_HELP_MANUAL_SENTRY_Desc"
+	{
+		"zho"	"對由另一位 Engineer 所控制的 Wrangler 步哨防禦槍，執行 50 次修復及/或裝填彈藥。"
+	}
+	"TF_ENGINEER_KILL_SENTRY_WITH_SENTRY_Title"
+	{
+		"zho"	"專利保護"
+	}
+	"TF_ENGINEER_KILL_SENTRY_WITH_SENTRY_Desc"
+	{
+		"zho"	"使用 Wrangler 控制的步哨槍摧毀敵方 Engineer 的步哨防禦槍。"
+	}
+	"TF_ENGINEER_MOVE_SENTRY_GET_KILL_Title"
+	{
+		"zho"	"必殺技"
+	}
+	"TF_ENGINEER_MOVE_SENTRY_GET_KILL_Desc"
+	{
+		"zho"	"將第 3 級步哨防禦槍架設到位，一重新部署完成便殺死一名敵人。"
+	}
+	"TF_ENGINEER_BUILDING_CARRY_Title"
+	{
+		"zho"	"德州騎警"
+	}
+	"TF_ENGINEER_BUILDING_CARRY_Desc"
+	{
+		"zho"	"生涯中拖行建築物的距離超過 1 公里。"
+	}
+	"TF_ENGINEER_KILL_ASSIST_Title"
+	{
+		"zho"	"左右手"
+	}
+	"TF_ENGINEER_KILL_ASSIST_Desc"
+	{
+		"zho"	"殺戮中有用到步哨防禦槍的狀況下，幫助另一位 Engineer，達成 10 次助攻。"
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GRIND_Title"
+	{
+		"zho"	"藥局小子"
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GRIND_Desc"
+	{
+		"zho"	"讓你所建造的補給器在你的生涯中總共補給 100,000 點生命值。"
+	}
+	"TF_ENGINEER_REPAIR_TEAM_GRIND_Title"
+	{
+		"zho"	"團結一致"
+	}
+	"TF_ENGINEER_REPAIR_TEAM_GRIND_Desc"
+	{
+		"zho"	"為其他玩家所建造的友方建築修復 50,000 點傷害值。"
+	}
+	"TF_ENGINEER_TANK_DAMAGE_Title"
+	{
+		"zho"	"堅固耐用"
+	}
+	"TF_ENGINEER_TANK_DAMAGE_Desc"
+	{
+		"zho"	"協助一個建築槽抵擋 2000 點傷害值而未被摧毀。"
+	}
+	"TF_ENGINEER_HEAVY_ASSIST_Title"
+	{
+		"zho"	"英雄 (未必) 多寂寞"
+	}
+	"TF_ENGINEER_HEAVY_ASSIST_Desc"
+	{
+		"zho"	"Heavy 接受你的補給器治療，這段時間殺了 5 人。"
+	}
+}

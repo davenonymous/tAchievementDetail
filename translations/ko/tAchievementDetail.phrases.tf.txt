@@ -1,0 +1,2915 @@
+﻿"Phrases"
+{
+	"TF_GET_TURRETKILLS_Title"
+	{
+		"ko"	"센트리 거너"
+	}
+	"TF_GET_TURRETKILLS_Desc"
+	{
+		"ko"	"하나의 센트리로 센트리 건 킬을 10회 기록하십시오."
+	}
+	"TF_KILL_NEMESIS_Title"
+	{
+		"ko"	"적수"
+	}
+	"TF_KILL_NEMESIS_Desc"
+	{
+		"ko"	"복수 킬 5회 성공."
+	}
+	"TF_GET_CONSECUTIVEKILLS_NODEATHS_Title"
+	{
+		"ko"	"킬 하드"
+	}
+	"TF_GET_CONSECUTIVEKILLS_NODEATHS_Desc"
+	{
+		"ko"	"죽지 않고 5킬 연속 성공."
+	}
+	"TF_GET_HEALED_BYENEMY_Title"
+	{
+		"ko"	"변장의 달인"
+	}
+	"TF_GET_HEALED_BYENEMY_Desc"
+	{
+		"ko"	"적 메딕을 속여 치료받기."
+	}
+	"TF_GET_HEADSHOTS_Title"
+	{
+		"ko"	"회백질"
+	}
+	"TF_GET_HEADSHOTS_Desc"
+	{
+		"ko"	"스나이퍼로 헤드샷 25회 성공."
+	}
+	"TF_PLAY_GAME_FRIENDSONLY_Title"
+	{
+		"ko"	"친구와 함께라면 무엇도 두렵지 않다"
+	}
+	"TF_PLAY_GAME_FRIENDSONLY_Desc"
+	{
+		"ko"	"친구 목록에 포함된 플레이어 7명 이상을 모아 함께 게임하기."
+	}
+	"TF_WIN_MULTIPLEGAMES_Title"
+	{
+		"ko"	"명가"
+	}
+	"TF_WIN_MULTIPLEGAMES_Desc"
+	{
+		"ko"	"20승 달성."
+	}
+	"TF_GET_MULTIPLEKILLS_Title"
+	{
+		"ko"	"하드코어"
+	}
+	"TF_GET_MULTIPLEKILLS_Desc"
+	{
+		"ko"	"누적 킬 수 1000 달성."
+	}
+	"TF_WIN_2FORT_NOENEMYCAPS_Title"
+	{
+		"ko"	"동력 장치 공격"
+	}
+	"TF_WIN_2FORT_NOENEMYCAPS_Desc"
+	{
+		"ko"	"상대방을 완전 봉쇄하고 2Fort에서 승리."
+	}
+	"TF_WIN_WELL_MINIMUMTIME_Title"
+	{
+		"ko"	"번개 같은 공격"
+	}
+	"TF_WIN_WELL_MINIMUMTIME_Desc"
+	{
+		"ko"	"Well에서 5분 이내에 승리."
+	}
+	"TF_WIN_HYDRO_NOENEMYCAPS_Title"
+	{
+		"ko"	"가차없는 공격"
+	}
+	"TF_WIN_HYDRO_NOENEMYCAPS_Desc"
+	{
+		"ko"	"Hydro에서 점령 지점을 잃지 않고 승리."
+	}
+	"TF_WIN_DUSTBOWL_NOENEMYCAPS_Title"
+	{
+		"ko"	"철벽 수비"
+	}
+	"TF_WIN_DUSTBOWL_NOENEMYCAPS_Desc"
+	{
+		"ko"	"Dustbowl에서 점령 지점을 잃지 않고 수비에 성공."
+	}
+	"TF_WIN_GRAVELPIT_NOENEMYCAPS_Title"
+	{
+		"ko"	"철두철미한 수비"
+	}
+	"TF_WIN_GRAVELPIT_NOENEMYCAPS_Desc"
+	{
+		"ko"	"Gravel Pit에서 점령 지점을 잃지 않고 수비에 성공."
+	}
+	"TF_PLAY_GAME_EVERYCLASS_Title"
+	{
+		"ko"	"클래스 마스터"
+	}
+	"TF_PLAY_GAME_EVERYCLASS_Desc"
+	{
+		"ko"	"한 라운드 전체를 모든 클래스로 플레이."
+	}
+	"TF_PLAY_GAME_EVERYMAP_Title"
+	{
+		"ko"	"세계 여행가"
+	}
+	"TF_PLAY_GAME_EVERYMAP_Desc"
+	{
+		"ko"	"2Fort, Dustbowl, Granary, Gravel Pit, Hydro, Well(CP)에서 각각 게임을 끝까지 플레이하십시오."
+	}
+	"TF_GET_HEALPOINTS_Title"
+	{
+		"ko"	"팀 전문의"
+	}
+	"TF_GET_HEALPOINTS_Desc"
+	{
+		"ko"	"메딕으로 누적 힐 25000HP 달성."
+	}
+	"TF_BURN_PLAYERSINMINIMUMTIME_Title"
+	{
+		"ko"	"화염 방사기"
+	}
+	"TF_BURN_PLAYERSINMINIMUMTIME_Desc"
+	{
+		"ko"	"30초 동안 다섯 명의 적 불태우기."
+	}
+	"TF_MEDIC_TOP_SCOREBOARD_Title"
+	{
+		"ko"	"해롭지 않게"
+	}
+	"TF_MEDIC_TOP_SCOREBOARD_Desc"
+	{
+		"ko"	"전체 라운드에서 적을 하나도 죽이지 않고 6명 이상의 팀에서 최고 득점하십시오."
+	}
+	"TF_MEDIC_HEAL_UNDER_FIRE_Title"
+	{
+		"ko"	"4중 회피"
+	}
+	"TF_MEDIC_HEAL_UNDER_FIRE_Desc"
+	{
+		"ko"	"4명의 적에게서 동시에 공격받고 있는 아군을 치료하십시오."
+	}
+	"TF_MEDIC_SIMUL_CHARGE_Title"
+	{
+		"ko"	"HP 그룹"
+	}
+	"TF_MEDIC_SIMUL_CHARGE_Desc"
+	{
+		"ko"	"3명의 메딕이 같이 플레이하여 3개의 우버차지를 발동시키십시오."
+	}
+	"TF_MEDIC_SETUP_CHARGE_Title"
+	{
+		"ko"	"수술 준비 완료"
+	}
+	"TF_MEDIC_SETUP_CHARGE_Desc"
+	{
+		"ko"	"설정 단계가 끝나기 전에 우버차지가 준비되도록 하십시오."
+	}
+	"TF_MEDIC_RAPID_CHARGE_Title"
+	{
+		"ko"	"트라우마 퀸"
+	}
+	"TF_MEDIC_RAPID_CHARGE_Desc"
+	{
+		"ko"	"5분 안에 우버차지를 3번 발동시키고, 동시에 5킬을 어시스트하십시오."
+	}
+	"TF_MEDIC_COUNTER_CHARGE_Title"
+	{
+		"ko"	"이중맹시험"
+	}
+	"TF_MEDIC_COUNTER_CHARGE_Desc"
+	{
+		"ko"	"근처의 적 메딕이 우버차지를 발동시킨 후 8초 안에 자신의 우버차지를 발동시키십시오."
+	}
+	"TF_MEDIC_SWITCH_TO_MEDIC_Title"
+	{
+		"ko"	"의사 놀이"
+	}
+	"TF_MEDIC_SWITCH_TO_MEDIC_Desc"
+	{
+		"ko"	"메딕이 없는 팀에서 팀원이 메딕을 요청하면 가장 먼저 메딕으로 전환하여 500의 체력을 회복시키십시오."
+	}
+	"TF_MEDIC_SAVE_TEAMMATE_Title"
+	{
+		"ko"	"우선 순위 선별"
+	}
+	"TF_MEDIC_SAVE_TEAMMATE_Desc"
+	{
+		"ko"	"치명적인 폭발에 맞기 전 1초도 남지 않은 시점에 우버차지를 발동시키십시오."
+	}
+	"TF_MEDIC_CHARGE_BLOCKER_Title"
+	{
+		"ko"	"예방제"
+	}
+	"TF_MEDIC_CHARGE_BLOCKER_Desc"
+	{
+		"ko"	"팀원과 함께 우버차지가 발동된 상태에서 적의 점령 지점 장악을 저지하십시오."
+	}
+	"TF_MEDIC_ASSIST_MEDIC_Title"
+	{
+		"ko"	"상담"
+	}
+	"TF_MEDIC_ASSIST_MEDIC_Desc"
+	{
+		"ko"	"동료 메딕이 죽지 않고 5킬하도록 어시스트하십시오."
+	}
+	"TF_MEDIC_SYRINGE_SCOUTS_Title"
+	{
+		"ko"	"이렇게 하면 아픈가요?"
+	}
+	"TF_MEDIC_SYRINGE_SCOUTS_Desc"
+	{
+		"ko"	"주사기 건으로 50명의 스카우트를 킬하십시오."
+	}
+	"TF_MEDIC_BONESAW_MEDICS_Title"
+	{
+		"ko"	"동료 다시보기"
+	}
+	"TF_MEDIC_BONESAW_MEDICS_Desc"
+	{
+		"ko"	"본쏘우로 50명의 메딕을 킬하십시오.."
+	}
+	"TF_MEDIC_ASSIST_HEAVY_LONG_Title"
+	{
+		"ko"	"대형 제약회사"
+	}
+	"TF_MEDIC_ASSIST_HEAVY_LONG_Desc"
+	{
+		"ko"	"헤비와 함께 한 번도 죽지 않고 20킬을 어시스트하십시오."
+	}
+	"TF_MEDIC_ASSIST_SCOUT_Title"
+	{
+		"ko"	"조금 따가울 겁니다"
+	}
+	"TF_MEDIC_ASSIST_SCOUT_Desc"
+	{
+		"ko"	"스카우트에게 한 번의 우버차지를 발동시켜 3킬을 어시스트하십시오."
+	}
+	"TF_MEDIC_ASSIST_PYRO_Title"
+	{
+		"ko"	"압력솥"
+	}
+	"TF_MEDIC_ASSIST_PYRO_Desc"
+	{
+		"ko"	"파이로에게 한 번의 우버차지를 발동시켜 5명을 불태우도록 도우십시오."
+	}
+	"TF_MEDIC_ASSIST_HEAVY_Title"
+	{
+		"ko"	"둔한 트라우마"
+	}
+	"TF_MEDIC_ASSIST_HEAVY_Desc"
+	{
+		"ko"	"헤비에게 한 번의 우버차지를 발동시켜 2명을 쓰러뜨리도록 도우십시오."
+	}
+	"TF_MEDIC_ASSIST_DEMOMAN_Title"
+	{
+		"ko"	"의료 혁명"
+	}
+	"TF_MEDIC_ASSIST_DEMOMAN_Desc"
+	{
+		"ko"	"데모맨에게 한 번의 우버차지를 발동시켜 5개의 적 건물을 파괴하도록 도우십시오."
+	}
+	"TF_MEDIC_ASSIST_SOLDIER_Title"
+	{
+		"ko"	"어시스트 작렬"
+	}
+	"TF_MEDIC_ASSIST_SOLDIER_Desc"
+	{
+		"ko"	"솔져에게 한 번의 우버차지를 발동시켜 5명을 폭파시키도록 도우십시오."
+	}
+	"TF_MEDIC_HEAL_ENGINEER_Title"
+	{
+		"ko"	"산파의 위기"
+	}
+	"TF_MEDIC_HEAL_ENGINEER_Desc"
+	{
+		"ko"	"엔지니어가 공격 받는 센트리건을 수리하는 동안 그를 치료하십시오.."
+	}
+	"TF_MEDIC_ASSIST_CAPTURER_Title"
+	{
+		"ko"	"협력하면 승리한다"
+	}
+	"TF_MEDIC_ASSIST_CAPTURER_Desc"
+	{
+		"ko"	"적의 점령 지점에서 죽지 않고 5킬을 어시스트하십시오."
+	}
+	"TF_MEDIC_HEAL_CALLERS_Title"
+	{
+		"ko"	"끝나지 않는 라운드"
+	}
+	"TF_MEDIC_HEAL_CALLERS_Desc"
+	{
+		"ko"	"메딕을 요청한 200명의 팀원을 치료하십시오."
+	}
+	"TF_MEDIC_EXTINGUISH_TEAMMATES_Title"
+	{
+		"ko"	"화염 치료제"
+	}
+	"TF_MEDIC_EXTINGUISH_TEAMMATES_Desc"
+	{
+		"ko"	"100명의 불타는 팀원을 치료하십시오."
+	}
+	"TF_MEDIC_ASSIST_VS_NEMESES_Title"
+	{
+		"ko"	"학살을 돕는 의사"
+	}
+	"TF_MEDIC_ASSIST_VS_NEMESES_Desc"
+	{
+		"ko"	"천적 20킬을 어시스트하십시오."
+	}
+	"TF_MEDIC_KILL_WHILE_CHARGED_Title"
+	{
+		"ko"	"플라시보 효과"
+	}
+	"TF_MEDIC_KILL_WHILE_CHARGED_Desc"
+	{
+		"ko"	"우버차지가 준비된 상태에서 발동시키거나 죽지 않고 5킬하십시오."
+	}
+	"TF_MEDIC_BONESAW_NOMISSES_Title"
+	{
+		"ko"	"뼈 썰기"
+	}
+	"TF_MEDIC_BONESAW_NOMISSES_Desc"
+	{
+		"ko"	"죽거나 사라지지 않고 적을 본쏘우로 5연타하십시오."
+	}
+	"TF_MEDIC_HEAL_LARGE_Title"
+	{
+		"ko"	"인턴"
+	}
+	"TF_MEDIC_HEAL_LARGE_Desc"
+	{
+		"ko"	"한 번도 죽지 않고 누적 HP 7000을 치료하십시오."
+	}
+	"TF_MEDIC_HEAL_HUGE_Title"
+	{
+		"ko"	"전문가"
+	}
+	"TF_MEDIC_HEAL_HUGE_Desc"
+	{
+		"ko"	"한 번도 죽지 않고 누적 HP 10000을 치료하십시오."
+	}
+	"TF_MEDIC_HEAL_GRIND_Title"
+	{
+		"ko"	"참모총장"
+	}
+	"TF_MEDIC_HEAL_GRIND_Desc"
+	{
+		"ko"	"총 누적 HP 1백만을 치료하십시오."
+	}
+	"TF_MEDIC_KILL_HEALED_SPY_Title"
+	{
+		"ko"	"위선의 맹세"
+	}
+	"TF_MEDIC_KILL_HEALED_SPY_Desc"
+	{
+		"ko"	"치료 중이던 적의 스파이를 킬하십시오."
+	}
+	"TF_MEDIC_SAVE_FALLING_TEAMMATE_Title"
+	{
+		"ko"	"의료 중재"
+	}
+	"TF_MEDIC_SAVE_FALLING_TEAMMATE_Desc"
+	{
+		"ko"	"낙사하는 팀원을 구하십시오."
+	}
+	"TF_MEDIC_CHARGE_JUGGLE_Title"
+	{
+		"ko"	"두 번째 의견"
+	}
+	"TF_MEDIC_CHARGE_JUGGLE_Desc"
+	{
+		"ko"	"2명의 팀원에게 동시에 우버차지를 발동시키십시오."
+	}
+	"TF_MEDIC_FREEZECAM_RAGDOLL_Title"
+	{
+		"ko"	"부검 보고서"
+	}
+	"TF_MEDIC_FREEZECAM_RAGDOLL_Desc"
+	{
+		"ko"	"뒹구는 적에게 그를 조롱하는 프리즈캠 샷을 선사하십시오."
+	}
+	"TF_MEDIC_BONESAW_SPY_CALLERS_Title"
+	{
+		"ko"	"난 메딕이야"
+	}
+	"TF_MEDIC_BONESAW_SPY_CALLERS_Desc"
+	{
+		"ko"	"메딕을 요청 중인 5명의 스파이를 본쏘우로 킬하십시오."
+	}
+	"TF_MEDIC_CHARGE_FRIENDS_Title"
+	{
+		"ko"	"가족 연습"
+	}
+	"TF_MEDIC_CHARGE_FRIENDS_Desc"
+	{
+		"ko"	"10명의 Steam 커뮤니티 친구들에게 우버차지를 발동시키십시오."
+	}
+	"TF_MEDIC_INVITE_JOIN_CHARGE_Title"
+	{
+		"ko"	"가정 방문"
+	}
+	"TF_MEDIC_INVITE_JOIN_CHARGE_Desc"
+	{
+		"ko"	"친구 중 한 명이 참여한 게임에 참여하여 그에게 우버차지를 발동시키십시오."
+	}
+	"TF_MEDIC_HEAL_ACHIEVER_Title"
+	{
+		"ko"	"환자 다루는 솜씨"
+	}
+	"TF_MEDIC_HEAL_ACHIEVER_Desc"
+	{
+		"ko"	"도전 과제를 달성 중인 팀원을 치료하십시오."
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS1_Title"
+	{
+		"ko"	"메딕 지표 1"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS1_Desc"
+	{
+		"ko"	"메딕 팩의 개인 기록을 10개 달성하십시오."
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS2_Title"
+	{
+		"ko"	"메딕 지표 2"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS2_Desc"
+	{
+		"ko"	"메딕 팩의 개인 기록을 16개 달성하십시오."
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS3_Title"
+	{
+		"ko"	"메딕 지표 3"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS3_Desc"
+	{
+		"ko"	"메딕 팩의 개인 기록을 22개 달성하십시오."
+	}
+	"TF_PYRO_KILL_MULTIWEAPONS_Title"
+	{
+		"ko"	"조합 사격"
+	}
+	"TF_PYRO_KILL_MULTIWEAPONS_Desc"
+	{
+		"ko"	"20명의 적을 불태운 뒤 샷건으로 해치우십시오."
+	}
+	"TF_PYRO_SIMULBURN_SCOUTS_Title"
+	{
+		"ko"	"소시지 굽기"
+	}
+	"TF_PYRO_SIMULBURN_SCOUTS_Desc"
+	{
+		"ko"	"동시에 2명의 적 스카우트를 해치우십시오."
+	}
+	"TF_PYRO_FORCE_WATERJUMP_Title"
+	{
+		"ko"	"불세례"
+	}
+	"TF_PYRO_FORCE_WATERJUMP_Desc"
+	{
+		"ko"	"10명의 적을 불태워 물로 뛰어들게 하십시오."
+	}
+	"TF_PYRO_KILL_POSTDEATH_Title"
+	{
+		"ko"	"발사후 이탈"
+	}
+	"TF_PYRO_KILL_POSTDEATH_Desc"
+	{
+		"ko"	"죽어 있는 동안 15명의 적을 킬하십시오."
+	}
+	"TF_PYRO_KILL_SPIES_Title"
+	{
+		"ko"	"방화벽"
+	}
+	"TF_PYRO_KILL_SPIES_Desc"
+	{
+		"ko"	"아군 건물에 공병을 가지고 숨어든 5명의 스파이를 불태우십시오."
+	}
+	"TF_PYRO_KILL_CARRIERS_Title"
+	{
+		"ko"	"장부 조작"
+	}
+	"TF_PYRO_KILL_CARRIERS_Desc"
+	{
+		"ko"	"아군의 첩보를 탈취한 5명의 적을 불태우십시오."
+	}
+	"TF_PYRO_REVEAL_SPIES_Title"
+	{
+		"ko"	"자연 발화"
+	}
+	"TF_PYRO_REVEAL_SPIES_Desc"
+	{
+		"ko"	"10명의 클로킹 중인 스파이를 불태우십시오."
+	}
+	"TF_PYRO_CAMP_TELEPORTERS_Title"
+	{
+		"ko"	"개척자"
+	}
+	"TF_PYRO_CAMP_TELEPORTERS_Desc"
+	{
+		"ko"	"방금 텔레포터를 사용한 10명의 적을 불태우십시오."
+	}
+	"TF_PYRO_CAMP_POSITION_Title"
+	{
+		"ko"	"캠프 파이어"
+	}
+	"TF_PYRO_CAMP_POSITION_Desc"
+	{
+		"ko"	"같은 지역에 있는 3명의 적을 차례로 킬하십시오."
+	}
+	"TF_PYRO_KILL_AXE_SMALL_Title"
+	{
+		"ko"	"나무꾼"
+	}
+	"TF_PYRO_KILL_AXE_SMALL_Desc"
+	{
+		"ko"	"죽지 않고 3명의 적을 도끼로 킬하십시오."
+	}
+	"TF_PYRO_KILL_AXE_LARGE_Title"
+	{
+		"ko"	"벌목꾼"
+	}
+	"TF_PYRO_KILL_AXE_LARGE_Desc"
+	{
+		"ko"	"죽지 않고 6명의 적을 도끼로 킬하십시오."
+	}
+	"TF_PYRO_KILL_FROM_BEHIND_Title"
+	{
+		"ko"	"뒤가 뜨거울 걸"
+	}
+	"TF_PYRO_KILL_FROM_BEHIND_Desc"
+	{
+		"ko"	"50명의 적을 뒤에서 화염방사기로 킬하십시오."
+	}
+	"TF_PYRO_BURN_SPIES_AS_YOU_Title"
+	{
+		"ko"	"나는 불태운다"
+	}
+	"TF_PYRO_BURN_SPIES_AS_YOU_Desc"
+	{
+		"ko"	"10명의 변장한 스파이를 불태우십시오."
+	}
+	"TF_PYRO_BURN_SNIPERS_ZOOMED_Title"
+	{
+		"ko"	"불망루"
+	}
+	"TF_PYRO_BURN_SNIPERS_ZOOMED_Desc"
+	{
+		"ko"	"줌인 중인 10명의 스나이퍼를 불태우십시오."
+	}
+	"TF_PYRO_BURN_MEDICS_CHARGED_Title"
+	{
+		"ko"	"보호자 태우기"
+	}
+	"TF_PYRO_BURN_MEDICS_CHARGED_Desc"
+	{
+		"ko"	"우버차지가 준비된 3명의 메딕을 불태우십시오."
+	}
+	"TF_PYRO_REFLECT_PROJECTILES_Title"
+	{
+		"ko"	"뜨거운 감자"
+	}
+	"TF_PYRO_REFLECT_PROJECTILES_Desc"
+	{
+		"ko"	"압축 공기 블래스트로 100개의 탄환을 반사하십시오."
+	}
+	"TF_PYRO_KILL_HEAVIES_Title"
+	{
+		"ko"	"베이컨 굽기"
+	}
+	"TF_PYRO_KILL_HEAVIES_Desc"
+	{
+		"ko"	"화염 방사기로 50명의 헤비를 킬하십시오."
+	}
+	"TF_PYRO_KILL_UNDERWATER_Title"
+	{
+		"ko"	"플랜 B"
+	}
+	"TF_PYRO_KILL_UNDERWATER_Desc"
+	{
+		"ko"	"물 속에 있는 10명의 적을 물 속에서 킬하십시오."
+	}
+	"TF_PYRO_KILL_UBERCHARGE_Title"
+	{
+		"ko"	"파이로테크닉"
+	}
+	"TF_PYRO_KILL_UBERCHARGE_Desc"
+	{
+		"ko"	"한 번의 우버차지로 3명의 적을 킬하십시오."
+	}
+	"TF_PYRO_DESTROY_BUILDINGS_Title"
+	{
+		"ko"	"방화범"
+	}
+	"TF_PYRO_DESTROY_BUILDINGS_Desc"
+	{
+		"ko"	"50개의 엔지니어 빌딩을 파괴하십시오."
+	}
+	"TF_PYRO_DEFEND_POINTS_Title"
+	{
+		"ko"	"점령지 불태우기"
+	}
+	"TF_PYRO_DEFEND_POINTS_Desc"
+	{
+		"ko"	"아군의 점령 지점을 장악하려는 50명의 적을 불태우십시오."
+	}
+	"TF_PYRO_KILL_GRIND_Title"
+	{
+		"ko"	"불의 전사"
+	}
+	"TF_PYRO_KILL_GRIND_Desc"
+	{
+		"ko"	"500명의 적을 킬하십시오."
+	}
+	"TF_PYRO_DAMAGE_GRIND_Title"
+	{
+		"ko"	"파이로맨서"
+	}
+	"TF_PYRO_DAMAGE_GRIND_Desc"
+	{
+		"ko"	"총 누적 1만의 화염 데미지를 주십시오."
+	}
+	"TF_PYRO_BURN_MEDICPAIR_Title"
+	{
+		"ko"	"같이 태우기"
+	}
+	"TF_PYRO_BURN_MEDICPAIR_Desc"
+	{
+		"ko"	"적을 불태우면, 메딕이 치료합니다."
+	}
+	"TF_PYRO_KILL_TAUNT_Title"
+	{
+		"ko"	"이런 젠장 바베큐"
+	}
+	"TF_PYRO_KILL_TAUNT_Desc"
+	{
+		"ko"	"적을 조롱하며 죽이십시오."
+	}
+	"TF_PYRO_KILL_TEAMWORK_Title"
+	{
+		"ko"	"2차 화상"
+	}
+	"TF_PYRO_KILL_TEAMWORK_Desc"
+	{
+		"ko"	"다른 파이로가 불태운 적을 불태워 킬하십시오."
+	}
+	"TF_PYRO_BURN_SPY_TAUNT_Title"
+	{
+		"ko"	"불 좀 있나?"
+	}
+	"TF_PYRO_BURN_SPY_TAUNT_Desc"
+	{
+		"ko"	"담배 상자로 변장 중인 스파이를 불태우십시오."
+	}
+	"TF_PYRO_DOMINATE_LEAVESVR_Title"
+	{
+		"ko"	"바베큐"
+	}
+	"TF_PYRO_DOMINATE_LEAVESVR_Desc"
+	{
+		"ko"	"플레이어를 제압하여 서버를 떠나게 만드십시오."
+	}
+	"TF_PYRO_REFLECT_CROCKET_KILL_Title"
+	{
+		"ko"	"핫샷"
+	}
+	"TF_PYRO_REFLECT_CROCKET_KILL_Desc"
+	{
+		"ko"	"치명적인 로켓을 반사하여 솔져를 킬하십시오."
+	}
+	"TF_PYRO_KILL_TAUNTERS_Title"
+	{
+		"ko"	"제물들의 댄스 파티"
+	}
+	"TF_PYRO_KILL_TAUNTERS_Desc"
+	{
+		"ko"	"조롱하는 3명의 적을 킬하십시오."
+	}
+	"TF_PYRO_DOUBLE_KO_Title"
+	{
+		"ko"	"데드 히트"
+	}
+	"TF_PYRO_DOUBLE_KO_Desc"
+	{
+		"ko"	"적에게 죽는 동시에 적을 킬하십시오."
+	}
+	"TF_PYRO_BURN_RJ_SOLDIER_Title"
+	{
+		"ko"	"비행 램프"
+	}
+	"TF_PYRO_BURN_RJ_SOLDIER_Desc"
+	{
+		"ko"	"로켓 점프한 솔져를 공중에서 불태우십시오."
+	}
+	"TF_PYRO_FREEZECAM_TAUNTS_Title"
+	{
+		"ko"	"프리저 불태우기"
+	}
+	"TF_PYRO_FREEZECAM_TAUNTS_Desc"
+	{
+		"ko"	"적에게 그를 조롱하는 프리즈캠 샷을 선사하십시오."
+	}
+	"TF_PYRO_KILL_GRIND_LARGE_Title"
+	{
+		"ko"	"불의 지배자"
+	}
+	"TF_PYRO_KILL_GRIND_LARGE_Desc"
+	{
+		"ko"	"1000명의 적을 사살하십시오."
+	}
+	"TF_PYRO_IGNITE_FLAREGUN_Title"
+	{
+		"ko"	"주목 끌기"
+	}
+	"TF_PYRO_IGNITE_FLAREGUN_Desc"
+	{
+		"ko"	"플레어 건으로 100명의 적을 불태우십시오."
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS1_Title"
+	{
+		"ko"	"파이로 지표 1"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS1_Desc"
+	{
+		"ko"	"파이로 팩의 개인 기록을 10개 달성하십시오."
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS2_Title"
+	{
+		"ko"	"파이로 지표 2"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS2_Desc"
+	{
+		"ko"	"파이로 팩의 개인 기록을 16개 달성하십시오."
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS3_Title"
+	{
+		"ko"	"파이로 지표 3"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS3_Desc"
+	{
+		"ko"	"파이로 팩의 개인 기록을 22개 달성하십시오."
+	}
+	"TF_HEAVY_DAMAGE_TAKEN_Title"
+	{
+		"ko"	"철의 장막"
+	}
+	"TF_HEAVY_DAMAGE_TAKEN_Desc"
+	{
+		"ko"	"한 번도 죽지 않고 1000포인트의 데미지를 받으십시오."
+	}
+	"TF_HEAVY_DEFEND_MEDIC_Title"
+	{
+		"ko"	"파티 로열티"
+	}
+	"TF_HEAVY_DEFEND_MEDIC_Desc"
+	{
+		"ko"	"50명의 메딕을 공격하는 적을 3초안에 죽이십시오."
+	}
+	"TF_HEAVY_ASSIST_MEDIC_LARGE_Title"
+	{
+		"ko"	"분업"
+	}
+	"TF_HEAVY_ASSIST_MEDIC_LARGE_Desc"
+	{
+		"ko"	"죽지 않고 메딕과 함께 20명의 적을 킬하십시오."
+	}
+	"TF_HEAVY_EARN_MEDIC_DOMINATION_Title"
+	{
+		"ko"	"붉은 시월제"
+	}
+	"TF_HEAVY_EARN_MEDIC_DOMINATION_Desc"
+	{
+		"ko"	"자신을 치료하는 메딕을 위해 적을 제압합니다."
+	}
+	"TF_HEAVY_KILL_TAUNT_Title"
+	{
+		"ko"	"공개 재판"
+	}
+	"TF_HEAVY_KILL_TAUNT_Desc"
+	{
+		"ko"	"적을 조롱하며 죽이십시오."
+	}
+	"TF_HEAVY_KILL_FLAG_CARRIERS_Title"
+	{
+		"ko"	"죄와 벌"
+	}
+	"TF_HEAVY_KILL_FLAG_CARRIERS_Desc"
+	{
+		"ko"	"아군의 첩보를 탈취한 10명의 적을 킬하십시오."
+	}
+	"TF_HEAVY_KILL_MEDIC_PAIR_Title"
+	{
+		"ko"	"계급 대립"
+	}
+	"TF_HEAVY_KILL_MEDIC_PAIR_Desc"
+	{
+		"ko"	"아군 메딕과 함께 적 헤비&메딕 조합을 킬하십시오."
+	}
+	"TF_HEAVY_BLOCK_INVULN_HEAVY_Title"
+	{
+		"ko"	"소비에트 장벽"
+	}
+	"TF_HEAVY_BLOCK_INVULN_HEAVY_Desc"
+	{
+		"ko"	"방어팀일 경우 불사신 상태에서 적의 불사신 헤비의 움직임을 막으십시오."
+	}
+	"TF_HEAVY_BLOCK_CART_Title"
+	{
+		"ko"	"스탈린 카트"
+	}
+	"TF_HEAVY_BLOCK_CART_Desc"
+	{
+		"ko"	"적의 공급 카트의 이동을 25회 저지하십시오."
+	}
+	"TF_HEAVY_RECEIVE_UBER_GRIND_Title"
+	{
+		"ko"	"최고 소비에트"
+	}
+	"TF_HEAVY_RECEIVE_UBER_GRIND_Desc"
+	{
+		"ko"	"우버차지를 50회 받으십시오."
+	}
+	"TF_HEAVY_STAND_NEAR_DISPENSER_Title"
+	{
+		"ko"	"공장 노동자"
+	}
+	"TF_HEAVY_STAND_NEAR_DISPENSER_Desc"
+	{
+		"ko"	"디스펜서에서 재충전하는 동안 20명의 적을 킬하십시오."
+	}
+	"TF_HEAVY_ASSIST_HEAVY_GRIND_Title"
+	{
+		"ko"	"소비에트 연방"
+	}
+	"TF_HEAVY_ASSIST_HEAVY_GRIND_Desc"
+	{
+		"ko"	"아군 헤비를 어시스트하거나 아군 헤비에게 어시스트를 받아 25명의 적을 킬하십시오."
+	}
+	"TF_HEAVY_CLEAR_STICKYBOMBS_Title"
+	{
+		"ko"	"생산 수단 파괴"
+	}
+	"TF_HEAVY_CLEAR_STICKYBOMBS_Desc"
+	{
+		"ko"	"발사한 점착 폭탄을 폭파하지 못하도록 데모맨을 20명 킬하십시오."
+	}
+	"TF_HEAVY_KILL_UNDERWATER_Title"
+	{
+		"ko"	"크레이지 이반"
+	}
+	"TF_HEAVY_KILL_UNDERWATER_Desc"
+	{
+		"ko"	"물 속에서 100명의 적을 킬하십시오."
+	}
+	"TF_HEAVY_TAKE_MULTI_DAMAGE_Title"
+	{
+		"ko"	"라스푸틴"
+	}
+	"TF_HEAVY_TAKE_MULTI_DAMAGE_Desc"
+	{
+		"ko"	"한 번도 죽지 않고 총에 맞고, 불태워지고, 몽둥이로 맞고, 폭발 데미지를 받으십시오."
+	}
+	"TF_HEAVY_KILL_DOMINATED_Title"
+	{
+		"ko"	"금상첨화"
+	}
+	"TF_HEAVY_KILL_DOMINATED_Desc"
+	{
+		"ko"	"제압된 적을 20명 킬하십시오."
+	}
+	"TF_HEAVY_SURVIVE_CROCKET_Title"
+	{
+		"ko"	"금이 간 블록"
+	}
+	"TF_HEAVY_SURVIVE_CROCKET_Desc"
+	{
+		"ko"	"크리티컬 로켓을 맞고 살아남으십시오."
+	}
+	"TF_HEAVY_ASSIST_GRIND_Title"
+	{
+		"ko"	"집단화"
+	}
+	"TF_HEAVY_ASSIST_GRIND_Desc"
+	{
+		"ko"	"1000번의 어시스트를 달성하십시오."
+	}
+	"TF_HEAVY_UNCOVER_SPIES_Title"
+	{
+		"ko"	"스파이 유물론"
+	}
+	"TF_HEAVY_UNCOVER_SPIES_Desc"
+	{
+		"ko"	"10명의 클로킹한 스파이를 킬하거나 어시스트하십시오."
+	}
+	"TF_HEAVY_KILL_WHILE_SPUNUP_Title"
+	{
+		"ko"	"멈추지 않는 혁명"
+	}
+	"TF_HEAVY_KILL_WHILE_SPUNUP_Desc"
+	{
+		"ko"	"총의 회전을 멈추지 않고 5명의 적을 킬하십시오."
+	}
+	"TF_HEAVY_FIRE_LOTS_Title"
+	{
+		"ko"	"중공업"
+	}
+	"TF_HEAVY_FIRE_LOTS_Desc"
+	{
+		"ko"	"한 번도 죽지 않고 $200,000 상당의 미니건을 발사하십시오."
+	}
+	"TF_HEAVY_KILL_CRIT_PUNCH_Title"
+	{
+		"ko"	"공산주의 성명서"
+	}
+	"TF_HEAVY_KILL_CRIT_PUNCH_Desc"
+	{
+		"ko"	"크리티컬 펀치로 적을 킬하십시오."
+	}
+	"TF_HEAVY_HEAL_MEDIKITS_Title"
+	{
+		"ko"	"체력의 재분배"
+	}
+	"TF_HEAVY_HEAL_MEDIKITS_Desc"
+	{
+		"ko"	"한 번도 죽지 않고 메드 키트로 1000의 데미지를 회복하십시오."
+	}
+	"TF_HEAVY_KILL_SHOTGUN_Title"
+	{
+		"ko"	"근검 절약"
+	}
+	"TF_HEAVY_KILL_SHOTGUN_Desc"
+	{
+		"ko"	"미니건 탄약이 떨어졌을 때 샷건으로 적을 킬하십시오."
+	}
+	"TF_HEAVY_FIRST_TO_CAP_Title"
+	{
+		"ko"	"전위 정당"
+	}
+	"TF_HEAVY_FIRST_TO_CAP_Desc"
+	{
+		"ko"	"팀에서 처음으로 점령 지점을 장악하십시오."
+	}
+	"TF_HEAVY_PAYLOAD_CAP_GRIND_Title"
+	{
+		"ko"	"푸쉬킨 카트"
+	}
+	"TF_HEAVY_PAYLOAD_CAP_GRIND_Desc"
+	{
+		"ko"	"공급 맵에서 카트를 밀어 50의 점령 점수를 얻으십시오."
+	}
+	"TF_HEAVY_KILL_MIDAIR_MINIGUN_Title"
+	{
+		"ko"	"마르크스맨"
+	}
+	"TF_HEAVY_KILL_MIDAIR_MINIGUN_Desc"
+	{
+		"ko"	"미니건으로 공중의 적을 10명 킬하십시오."
+	}
+	"TF_HEAVY_DEFEND_CONTROL_POINT_Title"
+	{
+		"ko"	"고르키 파크"
+	}
+	"TF_HEAVY_DEFEND_CONTROL_POINT_Desc"
+	{
+		"ko"	"아군의 점령 지점에서 25명의 적을 킬하십시오."
+	}
+	"TF_HEAVY_KILL_CAPPING_ENEMIES_Title"
+	{
+		"ko"	"정화"
+	}
+	"TF_HEAVY_KILL_CAPPING_ENEMIES_Desc"
+	{
+		"ko"	"아군의 점령 지점을 장악하려는 15명의 적을 킬하십시오."
+	}
+	"TF_HEAVY_REVENGE_ASSIST_Title"
+	{
+		"ko"	"레닌의 손길"
+	}
+	"TF_HEAVY_REVENGE_ASSIST_Desc"
+	{
+		"ko"	"팀원이 천적에게 복수하는 것을 5회 도우십시오."
+	}
+	"TF_HEAVY_TELEPORT_FAST_KILL_Title"
+	{
+		"ko"	"5초 계획"
+	}
+	"TF_HEAVY_TELEPORT_FAST_KILL_Desc"
+	{
+		"ko"	"텔레포터에서 나온 후 5초 안에 적을 킬하십시오."
+	}
+	"TF_HEAVY_FREEZECAM_TAUNT_Title"
+	{
+		"ko"	"포토스트로이카"
+	}
+	"TF_HEAVY_FREEZECAM_TAUNT_Desc"
+	{
+		"ko"	"불사신 상태에서 뒹구는 적에게 그를 조롱하는 프리즈캠 샷을 선사하십시오."
+	}
+	"TF_HEAVY_EAT_SANDWICHES_Title"
+	{
+		"ko"	"과시적 소비"
+	}
+	"TF_HEAVY_EAT_SANDWICHES_Desc"
+	{
+		"ko"	"100개의 샌드위치를 먹으십시오."
+	}
+	"TF_HEAVY_KILL_SCOUTS_Title"
+	{
+		"ko"	"샌드위치를 건드리지 마"
+	}
+	"TF_HEAVY_KILL_SCOUTS_Desc"
+	{
+		"ko"	"나타샤를 사용하여 50명의 스카웃을 킬하십시오."
+	}
+	"TF_HEAVY_KILL_HEAVIES_GLOVES_Title"
+	{
+		"ko"	"보르쉬 벨트"
+	}
+	"TF_HEAVY_KILL_HEAVIES_GLOVES_Desc"
+	{
+		"ko"	"K.G.B.로 10명의 헤비를 킬하십시오."
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS1_Title"
+	{
+		"ko"	"헤비 지표 1"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS1_Desc"
+	{
+		"ko"	"헤비 팩의 개인 기록을 10개 달성하십시오."
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS2_Title"
+	{
+		"ko"	"헤비 지표 2"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS2_Desc"
+	{
+		"ko"	"헤비 팩의 개인 기록을 16개 달성하십시오."
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS3_Title"
+	{
+		"ko"	"헤비 지표 3"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS3_Desc"
+	{
+		"ko"	"헤비 팩의 개인 기록을 22개 달성하십시오."
+	}
+	"TF_SCOUT_FIRST_BLOOD_Title"
+	{
+		"ko"	"최초의 희생자"
+	}
+	"TF_SCOUT_FIRST_BLOOD_Desc"
+	{
+		"ko"	"아레나 매치에서 최초 킬을 달성하십시오."
+	}
+	"TF_SCOUT_FIRST_BLOOD_KILL_Title"
+	{
+		"ko"	"최초의 희생자, 파트 2"
+	}
+	"TF_SCOUT_FIRST_BLOOD_KILL_Desc"
+	{
+		"ko"	"최초의 희생자 치명타 버프로 5명의 적을 킬하십시오."
+	}
+	"TF_SCOUT_WELL_EARLY_KILL_Title"
+	{
+		"ko"	"퀵 훅"
+	}
+	"TF_SCOUT_WELL_EARLY_KILL_Desc"
+	{
+		"ko"	"Well에서 라운드가 시작하기 전에 적을 킬하십시오."
+	}
+	"TF_SCOUT_LIFETIME_KILLS_Title"
+	{
+		"ko"	"잊지 못할 1년"
+	}
+	"TF_SCOUT_LIFETIME_KILLS_Desc"
+	{
+		"ko"	"2004 킬을 달성하십시오."
+	}
+	"TF_SCOUT_IRON_MAN_KILLS_Title"
+	{
+		"ko"	"순환"
+	}
+	"TF_SCOUT_IRON_MAN_KILLS_Desc"
+	{
+		"ko"	"죽지 않고 지상, 공중, 물에서 적을 킬하십시오."
+	}
+	"TF_SCOUT_DESTROY_TELEPORTERS_Title"
+	{
+		"ko"	"통행 끝"
+	}
+	"TF_SCOUT_DESTROY_TELEPORTERS_Desc"
+	{
+		"ko"	"3개의 텔레포터 입구를 파괴하십시오."
+	}
+	"TF_SCOUT_DESTROY_BUILDINGS_BEING_BUILT_Title"
+	{
+		"ko"	"제작 방해"
+	}
+	"TF_SCOUT_DESTROY_BUILDINGS_BEING_BUILT_Desc"
+	{
+		"ko"	"제작 중인 3개의 적 건물을 파괴하십시오."
+	}
+	"TF_SCOUT_DESTROY_SENTRY_WITH_PISTOL_Title"
+	{
+		"ko"	"총격"
+	}
+	"TF_SCOUT_DESTROY_SENTRY_WITH_PISTOL_Desc"
+	{
+		"ko"	"피스톨을 사용하여 작동 중인 센트리건을 파괴하십시오."
+	}
+	"TF_SCOUT_DOUBLE_JUMPS_Title"
+	{
+		"ko"	"배터업"
+	}
+	"TF_SCOUT_DOUBLE_JUMPS_Desc"
+	{
+		"ko"	"더블 점프를 1000회 수행하십시오."
+	}
+	"TF_SCOUT_ASSIST_MEDIC_Title"
+	{
+		"ko"	"야구공 불법 개조"
+	}
+	"TF_SCOUT_ASSIST_MEDIC_Desc"
+	{
+		"ko"	"메딕의 우버차지 영향을 받고 있는 3명의 적을 킬하십시오."
+	}
+	"TF_SCOUT_STEAL_SANDWICH_Title"
+	{
+		"ko"	"다저스 1, 자이언트 0"
+	}
+	"TF_SCOUT_STEAL_SANDWICH_Desc"
+	{
+		"ko"	"적 헤비를 킬하고 샌드위치를 가지십시오."
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS1_Title"
+	{
+		"ko"	"스카웃 지표 1"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS1_Desc"
+	{
+		"ko"	"스카웃 팩의 개인 기록을 10개 달성하십시오."
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS2_Title"
+	{
+		"ko"	"스카웃 지표 2"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS2_Desc"
+	{
+		"ko"	"스카웃 팩의 개인 기록을 16개 달성하십시오."
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS3_Title"
+	{
+		"ko"	"스카웃 지표 3"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS3_Desc"
+	{
+		"ko"	"스카웃 팩의 개인 기록을 22개 달성하십시오."
+	}
+	"TF_SCOUT_KILL_CHARGED_MEDICS_Title"
+	{
+		"ko"	"의사 공격"
+	}
+	"TF_SCOUT_KILL_CHARGED_MEDICS_Desc"
+	{
+		"ko"	"우버차지가 준비된 메딕을 킬하십시오."
+	}
+	"TF_SCOUT_SURVIVE_DAMAGE_Title"
+	{
+		"ko"	"나는 배트맨이다."
+	}
+	"TF_SCOUT_SURVIVE_DAMAGE_Desc"
+	{
+		"ko"	"죽지 않고 500의 데미지를 받습니다."
+	}
+	"TF_SCOUT_DOUBLEJUMP_KILL_Title"
+	{
+		"ko"	"내야 플라이"
+	}
+	"TF_SCOUT_DOUBLEJUMP_KILL_Desc"
+	{
+		"ko"	"더블 점프하는 동안 20명의 적을 킬하십시오."
+	}
+	"TF_SCOUT_FLAG_CAP_GRIND_Title"
+	{
+		"ko"	"왕복 여행"
+	}
+	"TF_SCOUT_FLAG_CAP_GRIND_Desc"
+	{
+		"ko"	"적 정보원을 25번 생포하십시오."
+	}
+	"TF_SCOUT_THREE_FLAGCAPS_Title"
+	{
+		"ko"	"트리플 스틸"
+	}
+	"TF_SCOUT_THREE_FLAGCAPS_Desc"
+	{
+		"ko"	"한 번의 CTF 라운드에서 적 정보원을 3번 생포하십시오."
+	}
+	"TF_SCOUT_DODGE_DAMAGE_Title"
+	{
+		"ko"	"교묘한 속임수"
+	}
+	"TF_SCOUT_DODGE_DAMAGE_Desc"
+	{
+		"ko"	"봉크!를 사용하여 죽지 않고 1000 데미지를 피하십시오. 아토믹 펀치"
+	}
+	"TF_SCOUT_KNOCK_INTO_TRAIN_Title"
+	{
+		"ko"	"가을의 고전"
+	}
+	"TF_SCOUT_KNOCK_INTO_TRAIN_Desc"
+	{
+		"ko"	"포스-어-네이처의 넉백을 사용하여 자연사나 자살시키십시오."
+	}
+	"TF_SCOUT_KILL_STUNNED_Title"
+	{
+		"ko"	"스트라이크 존"
+	}
+	"TF_SCOUT_KILL_STUNNED_Desc"
+	{
+		"ko"	"기절해 있는 50명의 적을 킬하십시오."
+	}
+	"TF_SCOUT_STUN_INTO_TRAIN_Title"
+	{
+		"ko"	"파울 지역"
+	}
+	"TF_SCOUT_STUN_INTO_TRAIN_Desc"
+	{
+		"ko"	"적을 기절시켜 자연사시키십시오."
+	}
+	"TF_SCOUT_STUN_UBER_ENEMIES_Title"
+	{
+		"ko"	"심각한 부상"
+	}
+	"TF_SCOUT_STUN_UBER_ENEMIES_Desc"
+	{
+		"ko"	"우버차지가 준비된 3명의 메딕을 기절시키십시오."
+	}
+	"TF_SCOUT_STUN_CAPPING_ENEMIES_Title"
+	{
+		"ko"	"브러시백"
+	}
+	"TF_SCOUT_STUN_CAPPING_ENEMIES_Desc"
+	{
+		"ko"	"지점을 장악하고 있거나 수레를 밀고 있는 50명의 적을 기절시키십시오."
+	}
+	"TF_SCOUT_MAX_STUNS_Title"
+	{
+		"ko"	"문 샷"
+	}
+	"TF_SCOUT_MAX_STUNS_Desc"
+	{
+		"ko"	"가장 긴 사정거리의 볼로 적을 최대 시간 동안 기절시키십시오"
+	}
+	"TF_SCOUT_STUN_SCOUT_WITH_THEIR_BALL_Title"
+	{
+		"ko"	"빈볼"
+	}
+	"TF_SCOUT_STUN_SCOUT_WITH_THEIR_BALL_Desc"
+	{
+		"ko"	"스카웃을 그들의 야구공으로 기절시키십시오."
+	}
+	"TF_SCOUT_KILL_IN_DODGE_COOLDOWN_Title"
+	{
+		"ko"	"주자 아웃"
+	}
+	"TF_SCOUT_KILL_IN_DODGE_COOLDOWN_Desc"
+	{
+		"ko"	"회피 후 속도 저하 영향을 받은 스카웃을 킬하십시오."
+	}
+	"TF_SCOUT_KILL_FROM_BEHIND_Title"
+	{
+		"ko"	"불시의 습격"
+	}
+	"TF_SCOUT_KILL_FROM_BEHIND_Desc"
+	{
+		"ko"	"50명의 적을 뒤에서 포스-어-네이처로 킬하십시오."
+	}
+	"TF_SCOUT_CAPTURE_LAST_POINT_Title"
+	{
+		"ko"	"공수 교체"
+	}
+	"TF_SCOUT_CAPTURE_LAST_POINT_Desc"
+	{
+		"ko"	"CP 맵에서 마지막 지점을 장악하십시오."
+	}
+	"TF_SCOUT_CAPTURE_THREE_POINTS_Title"
+	{
+		"ko"	"트리플 플레이"
+	}
+	"TF_SCOUT_CAPTURE_THREE_POINTS_Desc"
+	{
+		"ko"	"죽지 않고 지점 세 개를 차례로 장악하십시오."
+	}
+	"TF_SCOUT_FAST_CAP_Title"
+	{
+		"ko"	"홈 스틸"
+	}
+	"TF_SCOUT_FAST_CAP_Desc"
+	{
+		"ko"	"장악 지점을 뺏기는 즉시 장악을 시작하십시오."
+	}
+	"TF_SCOUT_START_AND_FINISH_CAP_Title"
+	{
+		"ko"	"밥상 차리기"
+	}
+	"TF_SCOUT_START_AND_FINISH_CAP_Desc"
+	{
+		"ko"	"10개의 지점을 장악하십시오."
+	}
+	"TF_SCOUT_BLOCK_CAPS_Title"
+	{
+		"ko"	"실점 방어"
+	}
+	"TF_SCOUT_BLOCK_CAPS_Desc"
+	{
+		"ko"	"지점 장악을 50회 차단하십시오."
+	}
+	"TF_SCOUT_CARRIER_KILL_CARRIER_Title"
+	{
+		"ko"	"과소평가"
+	}
+	"TF_SCOUT_CARRIER_KILL_CARRIER_Desc"
+	{
+		"ko"	"적 정보원을 보유한 상태에서 아군의 정보원을 탈취한 적을 킬하십시오."
+	}
+	"TF_SCOUT_CAP_FLAG_WITHOUT_ATTACKING_Title"
+	{
+		"ko"	"무안타 경기"
+	}
+	"TF_SCOUT_CAP_FLAG_WITHOUT_ATTACKING_Desc"
+	{
+		"ko"	"총을 쏘지 않고 적 정보원을 빼내어 생포하십시오."
+	}
+	"TF_SCOUT_LONG_DISTANCE_RUNNER_Title"
+	{
+		"ko"	"페넌트 경주"
+	}
+	"TF_SCOUT_LONG_DISTANCE_RUNNER_Desc"
+	{
+		"ko"	"25 킬로미터를 달리십시오."
+	}
+	"TF_SCOUT_TAUNT_KILL_Title"
+	{
+		"ko"	"장외 홈런"
+	}
+	"TF_SCOUT_TAUNT_KILL_Desc"
+	{
+		"ko"	"적을 25 미터 이상 날리십시오."
+	}
+	"TF_SNIPER_JARATE_DOMINATED_Title"
+	{
+		"ko"	"푹 적시세요"
+	}
+	"TF_SNIPER_JARATE_DOMINATED_Desc"
+	{
+		"ko"	"제압 중인 적에게 자라데를 선보이십시오."
+	}
+	"TF_SNIPER_FREEZECAM_HAT_Title"
+	{
+		"ko"	"예의를 갖추세요"
+	}
+	"TF_SNIPER_FREEZECAM_HAT_Desc"
+	{
+		"ko"	"적에게 예의바르게 모자를 벗는 프리즈캠 샷을 선사하십시오."
+	}
+	"TF_SNIPER_RIFLE_NO_MISSING_Title"
+	{
+		"ko"	"훌륭한 스나이퍼"
+	}
+	"TF_SNIPER_RIFLE_NO_MISSING_Desc"
+	{
+		"ko"	"스나이퍼 라이플로 실수 없이 3명을 킬하십시오."
+	}
+	"TF_SNIPER_CAPTURE_FLAG_Title"
+	{
+		"ko"	"계획대로 실시"
+	}
+	"TF_SNIPER_CAPTURE_FLAG_Desc"
+	{
+		"ko"	"CTF에서 플래그를 포획하십시오."
+	}
+	"TF_SNIPER_KILL_GRIND_Title"
+	{
+		"ko"	"무차별학살"
+	}
+	"TF_SNIPER_KILL_GRIND_Desc"
+	{
+		"ko"	"1000명의 적을 킬하십시오."
+	}
+	"TF_SNIPER_KILL_WEAPONS_Title"
+	{
+		"ko"	"트리플 희생양"
+	}
+	"TF_SNIPER_KILL_WEAPONS_Desc"
+	{
+		"ko"	"한 라운드에서 3가지 다른 무기로 킬하십시오."
+	}
+	"TF_SNIPER_HEADSHOT_SNIPERS_Title"
+	{
+		"ko"	"자폭 순서"
+	}
+	"TF_SNIPER_HEADSHOT_SNIPERS_Desc"
+	{
+		"ko"	"적 스나이퍼 10명을 헤드샷으로 킬하십시오."
+	}
+	"TF_SNIPER_DESTROY_SENTRYGUNS_Title"
+	{
+		"ko"	"센트리 무장 해제"
+	}
+	"TF_SNIPER_DESTROY_SENTRYGUNS_Desc"
+	{
+		"ko"	"엔지니어 센트리 건을 3개 파괴하십시오."
+	}
+	"TF_SNIPER_KILL_INVIS_SPY_Title"
+	{
+		"ko"	"바람을 쏴라"
+	}
+	"TF_SNIPER_KILL_INVIS_SPY_Desc"
+	{
+		"ko"	"전혀 보이지 않는 스파이를 한방에 킬하십시오."
+	}
+	"TF_SNIPER_KILL_MIDAIR_SCOUT_Title"
+	{
+		"ko"	"죽은자의 추락"
+	}
+	"TF_SNIPER_KILL_MIDAIR_SCOUT_Desc"
+	{
+		"ko"	"사냥활 또는 스나이퍼 라이플로 스카웃을 공중에서 킬하십시오."
+	}
+	"TF_SNIPER_FREEZECAM_WAVE_Title"
+	{
+		"ko"	"마지막 손인사"
+	}
+	"TF_SNIPER_FREEZECAM_WAVE_Desc"
+	{
+		"ko"	"손을 흔들며 적에게 프리즈캠 샷을 선사하십시오."
+	}
+	"TF_SNIPER_DOMINATE_SNIPER_Title"
+	{
+		"ko"	"호주식 게임"
+	}
+	"TF_SNIPER_DOMINATE_SNIPER_Desc"
+	{
+		"ko"	"적 스나이퍼를 제압하십시오."
+	}
+	"TF_SNIPER_KILL_SPIES_MELEE_Title"
+	{
+		"ko"	"스파이 요리하기"
+	}
+	"TF_SNIPER_KILL_SPIES_MELEE_Desc"
+	{
+		"ko"	"쿠크리로 10명의 스파이를 킬하십시오."
+	}
+	"TF_SNIPER_HEADSHOT_DEMOMAN_Title"
+	{
+		"ko"	"머리를 날려버리세요"
+	}
+	"TF_SNIPER_HEADSHOT_DEMOMAN_Desc"
+	{
+		"ko"	"적 데모맨을 헤드샷으로 킬하십시오."
+	}
+	"TF_SNIPER_KILL_RJER_Title"
+	{
+		"ko"	"공중 사살"
+	}
+	"TF_SNIPER_KILL_RJER_Desc"
+	{
+		"ko"	"활 또는 스나이퍼 라이플로 로켓 점프나 수류탄 점프 중인 적을 공중에서 킬하십시오."
+	}
+	"TF_SNIPER_KILL_OBJECTIVES_Title"
+	{
+		"ko"	"미치광이 총잡이는 아니에요"
+	}
+	"TF_SNIPER_KILL_OBJECTIVES_Desc"
+	{
+		"ko"	"한 번도 죽지 않고 목표 수행 중인 적 3명을 킬하십시오."
+	}
+	"TF_SNIPER_KILL_UNSCOPED_Title"
+	{
+		"ko"	"자신을 믿어요"
+	}
+	"TF_SNIPER_KILL_UNSCOPED_Desc"
+	{
+		"ko"	"스나이퍼 라이플로 시야 밖의 적 5명을 킬하십시오."
+	}
+	"TF_SNIPER_KILL_CHARGED_MEDIC_Title"
+	{
+		"ko"	"우버 사살자"
+	}
+	"TF_SNIPER_KILL_CHARGED_MEDIC_Desc"
+	{
+		"ko"	"우버차지가 준비된 메딕을 킬하십시오."
+	}
+	"TF_SNIPER_GET_BACKSTABBED_Title"
+	{
+		"ko"	"감투상"
+	}
+	"TF_SNIPER_GET_BACKSTABBED_Desc"
+	{
+		"ko"	"백스탭 공격을 50회 받으십시오."
+	}
+	"TF_SNIPER_KILL_AT_ROUNDSTART_Title"
+	{
+		"ko"	"입구에서 만난 적"
+	}
+	"TF_SNIPER_KILL_AT_ROUNDSTART_Desc"
+	{
+		"ko"	"한 라운드를 시작하고 첫번째로 적을 킬하십시오."
+	}
+	"TF_SNIPER_HEADSHOT_POST_INVULN_Title"
+	{
+		"ko"	"독설"
+	}
+	"TF_SNIPER_HEADSHOT_POST_INVULN_Desc"
+	{
+		"ko"	"적의 불사신 상태가 끝나는 순간 헤드샷으로 킬하십시오."
+	}
+	"TF_SNIPER_TOP_SCOREBOARD_GRIND_Title"
+	{
+		"ko"	"뛰어난 경력"
+	}
+	"TF_SNIPER_TOP_SCOREBOARD_GRIND_Desc"
+	{
+		"ko"	"6명 이상으로 구성된 팀에서 최고 기록을 10회 달성하십시오."
+	}
+	"TF_SNIPER_KILL_FAILED_SPY_Title"
+	{
+		"ko"	"충격 요법"
+	}
+	"TF_SNIPER_KILL_FAILED_SPY_Desc"
+	{
+		"ko"	"스파이의 백스탭을 레이저백으로 저지한 후 그 스파이를 킬하십시오."
+	}
+	"TF_SNIPER_JARATE_GROUP_Title"
+	{
+		"ko"	"충분히 적셔주세요"
+	}
+	"TF_SNIPER_JARATE_GROUP_Desc"
+	{
+		"ko"	"한 번의 자라데로 4명의 적을 공격하십시오."
+	}
+	"TF_SNIPER_JARATE_MEDIC_PAIR_Title"
+	{
+		"ko"	"함께 빗속 산책"
+	}
+	"TF_SNIPER_JARATE_MEDIC_PAIR_Desc"
+	{
+		"ko"	"적과 그를 치료하는 메딕을 자라데로 공격하십시오."
+	}
+	"TF_SNIPER_JARATE_REVEAL_SPY_Title"
+	{
+		"ko"	"폭로"
+	}
+	"TF_SNIPER_JARATE_REVEAL_SPY_Desc"
+	{
+		"ko"	"자라데로 클로킹한 스파이의 정체를 밝히십시오."
+	}
+	"TF_SNIPER_JARATE_EXTINGUISH_Title"
+	{
+		"ko"	"우정이 최고"
+	}
+	"TF_SNIPER_JARATE_EXTINGUISH_Desc"
+	{
+		"ko"	"자라데로 아군에게 붙은 불을 끄십시오."
+	}
+	"TF_SNIPER_BOW_PIN_HEAVY_Title"
+	{
+		"ko"	"나는 윌리엄 텔"
+	}
+	"TF_SNIPER_BOW_PIN_HEAVY_Desc"
+	{
+		"ko"	"적 헤비 머리를 맞춰 벽에 꽂으십시오."
+	}
+	"TF_SNIPER_BOW_KILL_MEDIC_PAIR_Title"
+	{
+		"ko"	"연인과 화살"
+	}
+	"TF_SNIPER_BOW_KILL_MEDIC_PAIR_Desc"
+	{
+		"ko"	"활로 헤비/메딕 조합을 킬하십시오."
+	}
+	"TF_SNIPER_BOW_KILL_FLAGCARRIER_Title"
+	{
+		"ko"	"로빈훗"
+	}
+	"TF_SNIPER_BOW_KILL_FLAGCARRIER_Desc"
+	{
+		"ko"	"한 번의 화살로 정보원 소지자를 킬하십시오."
+	}
+	"TF_SNIPER_BOW_PINCUSHION_Title"
+	{
+		"ko"	"바늘꽂이"
+	}
+	"TF_SNIPER_BOW_PINCUSHION_Desc"
+	{
+		"ko"	"적을 죽이지 않고 화살 3개를 적에게 맞추십시오."
+	}
+	"TF_SNIPER_JARATE_ASSISTS_Title"
+	{
+		"ko"	"최고의 어시스트"
+	}
+	"TF_SNIPER_JARATE_ASSISTS_Desc"
+	{
+		"ko"	"한 라운드에서 자라데로 5번 어시스트하십시오."
+	}
+	"TF_SNIPER_JARATE_KILL_MELEE_Title"
+	{
+		"ko"	"자라데 일격"
+	}
+	"TF_SNIPER_JARATE_KILL_MELEE_Desc"
+	{
+		"ko"	"자라데를 쓰고 쿠크리로 적 3명을 킬하십시오."
+	}
+	"TF_SNIPER_TAUNT_KILL_Title"
+	{
+		"ko"	"활잡이"
+	}
+	"TF_SNIPER_TAUNT_KILL_Desc"
+	{
+		"ko"	"화살로 적을 찌르십시오."
+	}
+	"TF_SNIPER_BOW_KILL_WHILEDEAD_Title"
+	{
+		"ko"	"죽어도 조심"
+	}
+	"TF_SNIPER_BOW_KILL_WHILEDEAD_Desc"
+	{
+		"ko"	"죽어 있는 동안 화살로 적을 킬하십시오."
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS1_Title"
+	{
+		"ko"	"스나이퍼 지표 1"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS1_Desc"
+	{
+		"ko"	"스나이퍼 팩의 개인 기록을 5개 달성하십시오."
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS2_Title"
+	{
+		"ko"	"스나이퍼 지표 2"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS2_Desc"
+	{
+		"ko"	"스나이퍼 팩의 개인 기록을 11개 달성하십시오."
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS3_Title"
+	{
+		"ko"	"스나이퍼 지표 3"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS3_Desc"
+	{
+		"ko"	"스나이퍼 팩의 개인 기록을 17개 달성하십시오."
+	}
+	"TF_SPY_BACKSTAB_SNIPERS_Title"
+	{
+		"ko"	"세 번의 시도"
+	}
+	"TF_SPY_BACKSTAB_SNIPERS_Desc"
+	{
+		"ko"	"한 번도 죽지 않고 스나이퍼 3명을 백스탭으로 킬하십시오."
+	}
+	"TF_SPY_FREEZECAM_FLICK_Title"
+	{
+		"ko"	"1급 비밀"
+	}
+	"TF_SPY_FREEZECAM_FLICK_Desc"
+	{
+		"ko"	"시체 위에서 담뱃불을 켜면서 적에게 프리즈캠 샷을 선사하십시오."
+	}
+	"TF_SPY_BACKSTAB_DISGUISED_SPY_Title"
+	{
+		"ko"	"역정찰"
+	}
+	"TF_SPY_BACKSTAB_DISGUISED_SPY_Desc"
+	{
+		"ko"	"변장한 스파이를 백스탭으로 킬하십시오."
+	}
+	"TF_SPY_BACKSTAB_DISGUISE_TARGET_Title"
+	{
+		"ko"	"신분 위장"
+	}
+	"TF_SPY_BACKSTAB_DISGUISE_TARGET_Desc"
+	{
+		"ko"	"현재 변장한 원래 적을 백스탭으로 킬하십시오."
+	}
+	"TF_SPY_TAUNT_KILL_Title"
+	{
+		"ko"	"구멍에서 나온 자"
+	}
+	"TF_SPY_TAUNT_KILL_Desc"
+	{
+		"ko"	"펜싱으로 적을 킬하십시오."
+	}
+	"TF_SPY_BACKSTAB_MEDIC_HEALING_YOU_Title"
+	{
+		"ko"	"난 스파이야"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_HEALING_YOU_Desc"
+	{
+		"ko"	"마지막 5초 이내에 자신을 치료 중인 적 메딕을 백스탭으로 킬하십시오."
+	}
+	"TF_SPY_BACKSTAB_ENGY_SAP_BUILDING_Title"
+	{
+		"ko"	"고장난 총을 가진 자"
+	}
+	"TF_SPY_BACKSTAB_ENGY_SAP_BUILDING_Desc"
+	{
+		"ko"	"엔지니어를 백스탭으로 킬하고 10초 이내에 3개의 건물에 공병을 모두 설치하십시오."
+	}
+	"TF_SPY_SAP_BUILDING_BACKSTAB_ENGY_Title"
+	{
+		"ko"	"방해자"
+	}
+	"TF_SPY_SAP_BUILDING_BACKSTAB_ENGY_Desc"
+	{
+		"ko"	"적 건물에 공병을 설치하고 5초 이내에 건물을 건설한 엔지니어를 백스탭으로 킬하십시오."
+	}
+	"TF_SPY_BACKSTAB_MEDIC_PAIR_Title"
+	{
+		"ko"	"베어도 될까요?"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_PAIR_Desc"
+	{
+		"ko"	"10초 이내에 적과 치료중인 메딕을 백스탭으로 킬하십시오."
+	}
+	"TF_SPY_BACKSTAB_FRIENDS_Title"
+	{
+		"ko"	"앞잡이"
+	}
+	"TF_SPY_BACKSTAB_FRIENDS_Desc"
+	{
+		"ko"	"Steam 커뮤니티 친구를 백스탭으로 10회 킬하십시오."
+	}
+	"TF_SPY_DOMINATE_SNIPER_Title"
+	{
+		"ko"	"최고의 멜버른"
+	}
+	"TF_SPY_DOMINATE_SNIPER_Desc"
+	{
+		"ko"	"스나이퍼를 제압하십시오."
+	}
+	"TF_SPY_BUMP_CLOAKED_SPY_Title"
+	{
+		"ko"	"스파이 친구"
+	}
+	"TF_SPY_BUMP_CLOAKED_SPY_Desc"
+	{
+		"ko"	"클로킹 중에 클로킹한 적 스파이와 부딪히십시오."
+	}
+	"TF_SPY_KILL_SPY_WITH_KNIFE_Title"
+	{
+		"ko"	"내가 한 수 위"
+	}
+	"TF_SPY_KILL_SPY_WITH_KNIFE_Desc"
+	{
+		"ko"	"총으로 무장한 스파이를 칼로 킬하십시오."
+	}
+	"TF_SPY_SURVIVE_BURNING_Title"
+	{
+		"ko"	"불이 붙었다"
+	}
+	"TF_SPY_SURVIVE_BURNING_Desc"
+	{
+		"ko"	"클로킹 중 불이 붙은 상태에서 30초간 생존하십시오."
+	}
+	"TF_SPY_BREAK_SHIELD_KILL_SNIPER_Title"
+	{
+		"ko"	"또 다른 죽음"
+	}
+	"TF_SPY_BREAK_SHIELD_KILL_SNIPER_Desc"
+	{
+		"ko"	"백스탭으로 레이저백을 파괴한 후 스나이퍼를 킬하십시오."
+	}
+	"TF_SPY_KILL_WORKING_ENGY_Title"
+	{
+		"ko"	"장치 방해"
+	}
+	"TF_SPY_KILL_WORKING_ENGY_Desc"
+	{
+		"ko"	"센트리 건을 제작하는 엔지니어를 킬하십시오."
+	}
+	"TF_SPY_FAST_CAP_Title"
+	{
+		"ko"	"왕국의 비밀 장소"
+	}
+	"TF_SPY_FAST_CAP_Desc"
+	{
+		"ko"	"장악 지점을 뺏기는 즉시 장악을 시작하십시오."
+	}
+	"TF_SPY_MEDIC_HEALING_KILL_ENEMY_Title"
+	{
+		"ko"	"보험 사기"
+	}
+	"TF_SPY_MEDIC_HEALING_KILL_ENEMY_Desc"
+	{
+		"ko"	"적의 메딕이 치료하는 동안 적을 킬하십시오."
+	}
+	"TF_SPY_KILL_CP_DEFENDERS_Title"
+	{
+		"ko"	"포인트 브레이커"
+	}
+	"TF_SPY_KILL_CP_DEFENDERS_Desc"
+	{
+		"ko"	"적군의 점령 지점에서 15명의 적을 킬하십시오."
+	}
+	"TF_SPY_BACKSTAB_DOMINATING_ENEMY_Title"
+	{
+		"ko"	"상위 값 목표"
+	}
+	"TF_SPY_BACKSTAB_DOMINATING_ENEMY_Desc"
+	{
+		"ko"	"3명 이상 동료를 제압한 적을 백스탭으로 킬하십시오."
+	}
+	"TF_SPY_REVENGE_WITH_BACKSTAB_Title"
+	{
+		"ko"	"복수의 칼날"
+	}
+	"TF_SPY_REVENGE_WITH_BACKSTAB_Desc"
+	{
+		"ko"	"백스탭으로 복수 킬을 완수하십시오."
+	}
+	"TF_SPY_KNIFE_KILL_WHILE_JARATED_Title"
+	{
+		"ko"	"젖은 채로"
+	}
+	"TF_SPY_KNIFE_KILL_WHILE_JARATED_Desc"
+	{
+		"ko"	"자라데에 당한 적을 칼로 킬하십시오."
+	}
+	"TF_SPY_BACKSTAB_QUICK_KILLS_Title"
+	{
+		"ko"	"세 번의 칼질"
+	}
+	"TF_SPY_BACKSTAB_QUICK_KILLS_Desc"
+	{
+		"ko"	"10초 이내에 3명의 적을 백스탭으로 킬하십시오."
+	}
+	"TF_SPY_BACKSTAB_GRIND_Title"
+	{
+		"ko"	"최고의 스파이"
+	}
+	"TF_SPY_BACKSTAB_GRIND_Desc"
+	{
+		"ko"	"적 1000명을 백스탭으로 킬하십시오."
+	}
+	"TF_SPY_SAPPER_GRIND_Title"
+	{
+		"ko"	"공병 감독"
+	}
+	"TF_SPY_SAPPER_GRIND_Desc"
+	{
+		"ko"	"공병으로 엔지니어 건물 1000개를 파괴하십시오."
+	}
+	"TF_SPY_SAPPER_TEAMWORK_Title"
+	{
+		"ko"	"연합 작전"
+	}
+	"TF_SPY_SAPPER_TEAMWORK_Desc"
+	{
+		"ko"	"동료가 센트리 건에 공병을 설치한 후 3초 이내에 다른 센트리 건에 공병을 설치하십시오."
+	}
+	"TF_SPY_BACKSTAB_MEDIC_CHARGED_Title"
+	{
+		"ko"	"의사 맞아?"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_CHARGED_Desc"
+	{
+		"ko"	"우버차지가 준비된 메딕을 백스탭으로 킬하십시오."
+	}
+	"TF_SPY_BACKSTAB_CAPPING_ENEMIES_Title"
+	{
+		"ko"	"안전한가요?"
+	}
+	"TF_SPY_BACKSTAB_CAPPING_ENEMIES_Desc"
+	{
+		"ko"	"점령 지점을 장악 중인 적 50명을 백스탭으로 킬하십시오."
+	}
+	"TF_SPY_BACKSTAB_ENEMY_SWITCH_PYRO_Title"
+	{
+		"ko"	"베고 태우기"
+	}
+	"TF_SPY_BACKSTAB_ENEMY_SWITCH_PYRO_Desc"
+	{
+		"ko"	"부활하기 전에 직업을 파이로로 변경하도록 백스탭으로 적을 킬하십시오."
+	}
+	"TF_SPY_AMBASSADOR_GRIND_Title"
+	{
+		"ko"	"외교술"
+	}
+	"TF_SPY_AMBASSADOR_GRIND_Desc"
+	{
+		"ko"	"적 50명을 앰버서더로 킬하십시오."
+	}
+	"TF_SPY_AMBASSADOR_SNIPER_GRIND_Title"
+	{
+		"ko"	"머리에 한방"
+	}
+	"TF_SPY_AMBASSADOR_SNIPER_GRIND_Desc"
+	{
+		"ko"	"앰버서더로 스카웃 20명을 헤드샷으로 킬하십시오."
+	}
+	"TF_SPY_FEIGN_DEATH_KILL_Title"
+	{
+		"ko"	"잠꾸러기"
+	}
+	"TF_SPY_FEIGN_DEATH_KILL_Desc"
+	{
+		"ko"	"마지막 20초 이내에 페인 데스를 작동시킨 적을 킬하십시오."
+	}
+	"TF_SPY_AMBASSADOR_SCOUT_GRIND_Title"
+	{
+		"ko"	"맛이 어때!"
+	}
+	"TF_SPY_AMBASSADOR_SCOUT_GRIND_Desc"
+	{
+		"ko"	"앰버서더로 3명의 스카웃을 헤드샷으로 킬하십시오."
+	}
+	"TF_SPY_CAMP_POSITION_Title"
+	{
+		"ko"	"잠복 근무"
+	}
+	"TF_SPY_CAMP_POSITION_Desc"
+	{
+		"ko"	"한 번도 죽지 않고 망토와 단검을 사용하는 동안 같은 지역 내에서 같은 적을 세 번 킬하십시오."
+	}
+	"TF_SPY_ACHIEVE_PROGRESS1_Title"
+	{
+		"ko"	"스파이 지표 1"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS1_Desc"
+	{
+		"ko"	"스파이 팩의 개인 기록을 5개 달성하십시오."
+	}
+	"TF_SPY_ACHIEVE_PROGRESS2_Title"
+	{
+		"ko"	"스파이 지표 2"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS2_Desc"
+	{
+		"ko"	"스파이 팩의 개인 기록을 11개 달성하십시오."
+	}
+	"TF_SPY_ACHIEVE_PROGRESS3_Title"
+	{
+		"ko"	"스파이 지표 3"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS3_Desc"
+	{
+		"ko"	"스파이 팩의 개인 기록을 17개 달성하십시오."
+	}
+	"TF_HALLOWEEN_COLLECT_PUMPKINS_Title"
+	{
+		"ko"	"과자 검시관"
+	}
+	"TF_HALLOWEEN_COLLECT_PUMPKINS_Desc"
+	{
+		"ko"	"사망한 플레이어로부터 20개의 할로윈 호박을 모아 모자의 잠금을 해제합니다."
+	}
+	"TF_HALLOWEEN_DOMINATE_FOR_HAT_Title"
+	{
+		"ko"	"무시무시한 오페라 모자 잡기"
+	}
+	"TF_HALLOWEEN_DOMINATE_FOR_HAT_Desc"
+	{
+		"ko"	"무시무시한 오페라 모자를 착용한 플레이어를 제압하여 모자를 획득합니다."
+	}
+	"TF_HALLOWEEN_KILL_SCARED_PLAYER_Title"
+	{
+		"ko"	"공포로 얼어붙다"
+	}
+	"TF_HALLOWEEN_KILL_SCARED_PLAYER_Desc"
+	{
+		"ko"	"KOTH Harvest에서 유령에게 겁에 질린 플레이어를 킬하십시오."
+	}
+	"TF_HALLOWEEN_PUMPKIN_KILL_Title"
+	{
+		"ko"	"호박 공격"
+	}
+	"TF_HALLOWEEN_PUMPKIN_KILL_Desc"
+	{
+		"ko"	"호박 폭탄을 폭파시켜 5명의 플레이어에게 죽음을 선사하십시오."
+	}
+	"TF_HALLOWEEN_DISGUISED_SPY_KILL_Title"
+	{
+		"ko"	"변장 대회"
+	}
+	"TF_HALLOWEEN_DISGUISED_SPY_KILL_Desc"
+	{
+		"ko"	"현재 플레이어의 클래스로 변장한 스파이를 킬하십시오."
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS1_Title"
+	{
+		"ko"	"솔져 지표 1"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS1_Desc"
+	{
+		"ko"	"솔져 팩의 개인 기록을 5개 달성하십시오."
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS2_Title"
+	{
+		"ko"	"솔져 지표 2"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS2_Desc"
+	{
+		"ko"	"솔져 팩의 개인 기록을 11개 달성하십시오."
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS3_Title"
+	{
+		"ko"	"솔져 지표 3"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS3_Desc"
+	{
+		"ko"	"솔져 팩의 개인 기록을 17개 달성하십시오."
+	}
+	"TF_SOLDIER_KILL_GROUP_WITH_CROCKET_Title"
+	{
+		"ko"	"3중살"
+	}
+	"TF_SOLDIER_KILL_GROUP_WITH_CROCKET_Desc"
+	{
+		"ko"	"한 번의 치명적인 로켓으로 3명의 적을 킬하십시오."
+	}
+	"TF_SOLDIER_KILL_TWO_DURING_ROCKET_JUMP_Title"
+	{
+		"ko"	"하늘에서 내린 죽음"
+	}
+	"TF_SOLDIER_KILL_TWO_DURING_ROCKET_JUMP_Desc"
+	{
+		"ko"	"로켓 점프하고 착지하기 전에 2명의 적을 킬하십시오."
+	}
+	"TF_SOLDIER_THREE_DOMINATIONS_Title"
+	{
+		"ko"	"지배자"
+	}
+	"TF_SOLDIER_THREE_DOMINATIONS_Desc"
+	{
+		"ko"	"한 번도 죽지 않고 3명을 제압하십시오."
+	}
+	"TF_SOLDIER_DEFEND_MEDIC_Title"
+	{
+		"ko"	"전쟁 범죄와 처벌"
+	}
+	"TF_SOLDIER_DEFEND_MEDIC_Desc"
+	{
+		"ko"	"한 번도 죽지 않고 자신을 치료하고 있던 메딕에게 데미지를 준 적을 3명 킬하십시오."
+	}
+	"TF_SOLDIER_KILL_TAUNT_Title"
+	{
+		"ko"	"결정적인 스프레이"
+	}
+	"TF_SOLDIER_KILL_TAUNT_Desc"
+	{
+		"ko"	"수류탄을 사용하여 적을 폭파시키십시오."
+	}
+	"TF_SOLDIER_DESTROY_SENTRY_OUT_OF_RANGE_Title"
+	{
+		"ko"	"무방비 상태의 건"
+	}
+	"TF_SOLDIER_DESTROY_SENTRY_OUT_OF_RANGE_Desc"
+	{
+		"ko"	"상대의 사정 거리 안에 들어가지 않고 5대의 엔지니어 센트리를 파괴하십시오."
+	}
+	"TF_SOLDIER_KILL_SNIPER_WHILE_DEAD_Title"
+	{
+		"ko"	"상호 동의한 파멸"
+	}
+	"TF_SOLDIER_KILL_SNIPER_WHILE_DEAD_Desc"
+	{
+		"ko"	"적 스나이퍼에게 킬 당한 후 로켓으로 그를 킬하십시오."
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_TARGET_WHILE_AIRBORNE_Title"
+	{
+		"ko"	"영광의 날개"
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_TARGET_WHILE_AIRBORNE_Desc"
+	{
+		"ko"	"본인과 상대가 모두 공중에 있을 때 적 솔져를 킬하십시오."
+	}
+	"TF_SOLDIER_KILL_ENGY_Title"
+	{
+		"ko"	"엔지니어에게 영원한 휴식을"
+	}
+	"TF_SOLDIER_KILL_ENGY_Desc"
+	{
+		"ko"	"엔지니어가 공격 받는 센트리건을 수리하는 동안 킬하십시오."
+	}
+	"TF_SOLDIER_NEMESIS_SHOVEL_KILL_Title"
+	{
+		"ko"	"참호전"
+	}
+	"TF_SOLDIER_NEMESIS_SHOVEL_KILL_Desc"
+	{
+		"ko"	"삽으로 원수를 킬하십시오."
+	}
+	"TF_SOLDIER_DESTROY_STICKIES_Title"
+	{
+		"ko"	"폭탄 분대원"
+	}
+	"TF_SOLDIER_DESTROY_STICKIES_Desc"
+	{
+		"ko"	"한 번도 죽지 않고 샷건으로 10개의 점착 폭탄을 파괴하십시오."
+	}
+	"TF_SOLDIER_CROUCH_ROCKET_JUMP_Title"
+	{
+		"ko"	"독수리처럼"
+	}
+	"TF_SOLDIER_CROUCH_ROCKET_JUMP_Desc"
+	{
+		"ko"	"점프와 웅크리기를 사용하여 가장 높은 곳까지 로켓 점프하십시오."
+	}
+	"TF_SOLDIER_BUFF_FRIENDS_Title"
+	{
+		"ko"	"전우애의 깃발"
+	}
+	"TF_SOLDIER_BUFF_FRIENDS_Desc"
+	{
+		"ko"	"버프 깃발에 한 번에 5명의 Steam 친구에게 버프를 제공하십시오."
+	}
+	"TF_SOLDIER_KILL_TWENTY_FROM_ABOVE_Title"
+	{
+		"ko"	"소리치는 독수리"
+	}
+	"TF_SOLDIER_KILL_TWENTY_FROM_ABOVE_Desc"
+	{
+		"ko"	"공중에서 20명의 적을 킬하십시오."
+	}
+	"TF_SOLDIER_SHOOT_MULT_CRITS_Title"
+	{
+		"ko"	"쓸모없는 크로켓"
+	}
+	"TF_SOLDIER_SHOOT_MULT_CRITS_Desc"
+	{
+		"ko"	"부스트가 없는 치명적인 로켓을 연속으로 두 번 쏘십시오."
+	}
+	"TF_SOLDIER_KILL_DEFENSELESS_Title"
+	{
+		"ko"	"제네바 협약 위반"
+	}
+	"TF_SOLDIER_KILL_DEFENSELESS_Desc"
+	{
+		"ko"	"한 매치가 끝난 후에 방어 능력이 없는 플레이어를 5명 킬하십시오."
+	}
+	"TF_SOLDIER_KILL_ON_FIRE_Title"
+	{
+		"ko"	"항상 충실하게"
+	}
+	"TF_SOLDIER_KILL_ON_FIRE_Desc"
+	{
+		"ko"	"불 붙은 상태에서 20명의 적을 킬하십시오."
+	}
+	"TF_SOLDIER_KILL_FIVE_STUNNED_Title"
+	{
+		"ko"	"깨어나지 못할 기절"
+	}
+	"TF_SOLDIER_KILL_FIVE_STUNNED_Desc"
+	{
+		"ko"	"기절 상태인 플레이어를 5명 킬하십시오."
+	}
+	"TF_SOLDIER_FREEZECAM_GIBS_Title"
+	{
+		"ko"	"피비린내!"
+	}
+	"TF_SOLDIER_FREEZECAM_GIBS_Desc"
+	{
+		"ko"	"적의 시체 세 조각을 가지고 조롱하는 프리즈캠 샷을 그에게 선사하십시오."
+	}
+	"TF_SOLDIER_KILL_SPY_KILLER_Title"
+	{
+		"ko"	"전쟁 범죄 스파이 처단"
+	}
+	"TF_SOLDIER_KILL_SPY_KILLER_Desc"
+	{
+		"ko"	"동료에게 방금 백스탭 공격을 가한 스파이를 킬하십시오."
+	}
+	"TF_SOLDIER_DEFEND_CAP_THIRTY_TIMES_Title"
+	{
+		"ko"	"햄버거 힐"
+	}
+	"TF_SOLDIER_DEFEND_CAP_THIRTY_TIMES_Desc"
+	{
+		"ko"	"장악 지점을 30회 방어하십시오."
+	}
+	"TF_SOLDIER_GIB_GRIND_Title"
+	{
+		"ko"	"아버지의 폭탄"
+	}
+	"TF_SOLDIER_GIB_GRIND_Desc"
+	{
+		"ko"	"1000명의 적을 폭파하십시오."
+	}
+	"TF_SOLDIER_RJ_EQUALIZER_KILL_Title"
+	{
+		"ko"	"의무"
+	}
+	"TF_SOLDIER_RJ_EQUALIZER_KILL_Desc"
+	{
+		"ko"	"로켓 점프 상태에서 착지하기 전에 이퀄라이저로 적을 킬하십시오."
+	}
+	"TF_SOLDIER_BUFF_TEAMMATES_Title"
+	{
+		"ko"	"부스티 보이즈"
+	}
+	"TF_SOLDIER_BUFF_TEAMMATES_Desc"
+	{
+		"ko"	"한 번도 죽지 않고 버프 깃발로 15명의 동료에게 버프를 제공하십시오."
+	}
+	"TF_SOLDIER_KILL_DEMOMAN_GRIND_Title"
+	{
+		"ko"	"데모맨 몰살"
+	}
+	"TF_SOLDIER_KILL_DEMOMAN_GRIND_Desc"
+	{
+		"ko"	"적 데모맨을 500명 킬하십시오."
+	}
+	"TF_SOLDIER_KILL_PYRO_Title"
+	{
+		"ko"	"도망자 추적"
+	}
+	"TF_SOLDIER_KILL_PYRO_Desc"
+	{
+		"ko"	"지난 10초 안에 본인의 로켓을 공중에서 폭파시킨 파이로를 킬하십시오."
+	}
+	"TF_SOLDIER_EQUALIZER_STREAK_Title"
+	{
+		"ko"	"피 흘리고 있을 시간 없어"
+	}
+	"TF_SOLDIER_EQUALIZER_STREAK_Desc"
+	{
+		"ko"	"치료를 받지 않으면서 한 번도 죽지 않고 이퀄라이저로 3명의 플레이어를 킬하십시오."
+	}
+	"TF_SOLDIER_KILL_WITH_EQUALIZER_WHILE_HURT_Title"
+	{
+		"ko"	"사망 임박"
+	}
+	"TF_SOLDIER_KILL_WITH_EQUALIZER_WHILE_HURT_Desc"
+	{
+		"ko"	"HP가 25 미만인 상태에서 이퀄라이저로 20명의 적을 킬하십시오."
+	}
+	"TF_SOLDIER_BOUNCE_THEN_SHOTGUN_Title"
+	{
+		"ko"	"공중 콤보"
+	}
+	"TF_SOLDIER_BOUNCE_THEN_SHOTGUN_Desc"
+	{
+		"ko"	"로켓으로 적을 공중에 띄운 후에 땅에 떨어지기 전에 샷건으로 킬하십시오."
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_WITH_DIRECT_HIT_Title"
+	{
+		"ko"	"땅에서 솟구친 죽음"
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_WITH_DIRECT_HIT_Desc"
+	{
+		"ko"	"다이렉트 히트로 공중에 있는 적 10명을 킬하십시오."
+	}
+	"TF_SOLDIER_FREEZECAM_TAUNT_Title"
+	{
+		"ko"	"백문이 불여일견"
+	}
+	"TF_SOLDIER_FREEZECAM_TAUNT_Desc"
+	{
+		"ko"	"적에게 21 건 인사를 프리즈캠 샷으로 선사하십시오."
+	}
+	"TF_SOLDIER_DUO_SOLDIER_KILLS_Title"
+	{
+		"ko"	"환상의 짝꿍"
+	}
+	"TF_SOLDIER_DUO_SOLDIER_KILLS_Desc"
+	{
+		"ko"	"다른 솔져의 도움을 받으면서 또는 다른 솔져를 도우면서 10명의 적을 킬하십시오."
+	}
+	"TF_SOLDIER_MVP_Title"
+	{
+		"ko"	"명예 훈장"
+	}
+	"TF_SOLDIER_MVP_Desc"
+	{
+		"ko"	"라운드를 마칠 때까지 MVP를 10회 차지하십시오."
+	}
+	"TF_SOLDIER_RIDE_THE_CART_Title"
+	{
+		"ko"	"카트 라이드"
+	}
+	"TF_SOLDIER_RIDE_THE_CART_Desc"
+	{
+		"ko"	"카트를 30초간 타십시오."
+	}
+	"TF_SOLDIER_ASSIST_MEDIC_UBER_Title"
+	{
+		"ko"	"S*M*A*S*H"
+	}
+	"TF_SOLDIER_ASSIST_MEDIC_UBER_Desc"
+	{
+		"ko"	"한 번의 우버차지를 발동시켜 5명을 폭파시키도록 메딕을 도우십시오."
+	}
+	"TF_DEMOMAN_KILL_SOLDIER_GRIND_Title"
+	{
+		"ko"	"본격적인 활동"
+	}
+	"TF_DEMOMAN_KILL_SOLDIER_GRIND_Desc"
+	{
+		"ko"	"적 솔져를 500명 킬하십시오."
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_WITH_MEDIC_Title"
+	{
+		"ko"	"건물 폭파"
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_WITH_MEDIC_Desc"
+	{
+		"ko"	"메딕이 우버차지를 한 번 발동시킨 동안 5개의 적 엔지니어 건물을 파괴하십시오."
+	}
+	"TF_DEMOMAN_DECAPITATE_CLOAKED_SPY_Title"
+	{
+		"ko"	"숀 코너리"
+	}
+	"TF_DEMOMAN_DECAPITATE_CLOAKED_SPY_Desc"
+	{
+		"ko"	"클로킹 상태인 스파이의 목을 베십시오."
+	}
+	"TF_DEMOMAN_KILL_X_WITH_DIRECTPIPE_Title"
+	{
+		"ko"	"직격탄"
+	}
+	"TF_DEMOMAN_KILL_X_WITH_DIRECTPIPE_Desc"
+	{
+		"ko"	"수류탄 발사기의 다이렉트 히트로 50명의 적을 킬하십시오."
+	}
+	"TF_DEMOMAN_BOUNCE_AND_KILL_Title"
+	{
+		"ko"	"자치기"
+	}
+	"TF_DEMOMAN_BOUNCE_AND_KILL_Desc"
+	{
+		"ko"	"적을 공중에 띄우고 땅에 떨어지기 전에 킬하십시오."
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_Title"
+	{
+		"ko"	"머리 조심"
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_Desc"
+	{
+		"ko"	"적 플레이어 50명의 목을 베십시오."
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_FAST_Title"
+	{
+		"ko"	"머리 사냥꾼"
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_FAST_Desc"
+	{
+		"ko"	"한 명을 벨 때마다 10초를 초과하지 않으면서 플레이어 4명의 목을 베십시오."
+	}
+	"TF_DEMOMAN_DUO_DEMOMAN_KILLS_Title"
+	{
+		"ko"	"환상의 짝꿍 2"
+	}
+	"TF_DEMOMAN_DUO_DEMOMAN_KILLS_Desc"
+	{
+		"ko"	"다른 데모맨의 도움을 받으면서 또는 다른 데모맨을 도우면서 10명의 적을 킬하십시오."
+	}
+	"TF_DEMOMAN_KILL_TWO_DURING_STICKYJUMP_Title"
+	{
+		"ko"	"일거양득"
+	}
+	"TF_DEMOMAN_KILL_TWO_DURING_STICKYJUMP_Desc"
+	{
+		"ko"	"한 번의 점착 점프로 2명을 킬하십시오."
+	}
+	"TF_DEMOMAN_KILL_PLAYER_AFTER_TP_Title"
+	{
+		"ko"	"네스호의 폭탄"
+	}
+	"TF_DEMOMAN_KILL_PLAYER_AFTER_TP_Desc"
+	{
+		"ko"	"적 플레이어가 텔레포트한 지 5초 이내에 점착 폭탄으로 그를 죽이십시오."
+	}
+	"TF_DEMOMAN_DOMINATE_THREE_ENGINEERS_Title"
+	{
+		"ko"	"인생은 삼세번"
+	}
+	"TF_DEMOMAN_DOMINATE_THREE_ENGINEERS_Desc"
+	{
+		"ko"	"3명의 엔지니어를 제압하십시오."
+	}
+	"TF_DEMOMAN_KILL_BUILDING_DIRECT_HIT_Title"
+	{
+		"ko"	"눈 감고 쏘기"
+	}
+	"TF_DEMOMAN_KILL_BUILDING_DIRECT_HIT_Desc"
+	{
+		"ko"	"눈에 보이지 않는 엔지니어 건물을 수류탄 발사기의 다이렉트 히트로 킬하십시오."
+	}
+	"TF_DEMOMAN_MELEE_KILL_WHILE_STICKYJUMPING_Title"
+	{
+		"ko"	"이전투구"
+	}
+	"TF_DEMOMAN_MELEE_KILL_WHILE_STICKYJUMPING_Desc"
+	{
+		"ko"	"점착 점프 상태에서 근접전으로 킬하십시오."
+	}
+	"TF_DEMOMAN_KILL_ENGI_SENTRY_DISPENSER_Title"
+	{
+		"ko"	"일타삼피"
+	}
+	"TF_DEMOMAN_KILL_ENGI_SENTRY_DISPENSER_Desc"
+	{
+		"ko"	"한 번의 점착 폭탄 폭발로 엔지니어, 센트리 건, 디스펜서를 모두 날려 버리십시오."
+	}
+	"TF_DEMOMAN_DECAPITATE_EQUALIZER_Title"
+	{
+		"ko"	"그만 설쳐"
+	}
+	"TF_DEMOMAN_DECAPITATE_EQUALIZER_Desc"
+	{
+		"ko"	"이퀄라이저를 휘두르고 있는 적 솔져의 목을 베십시오."
+	}
+	"TF_DEMOMAN_DECAPITATE_NEMESIS_Title"
+	{
+		"ko"	"한 명만 남는다"
+	}
+	"TF_DEMOMAN_DECAPITATE_NEMESIS_Desc"
+	{
+		"ko"	"적수의 목을 베십시오."
+	}
+	"TF_DEMOMAN_DAMAGE_GRIND_Title"
+	{
+		"ko"	"폭파 대장"
+	}
+	"TF_DEMOMAN_DAMAGE_GRIND_Desc"
+	{
+		"ko"	"총 누적 100만의 폭파 데미지를 주십시오."
+	}
+	"TF_DEMOMAN_KILL_X_CAPPING_ONEDET_Title"
+	{
+		"ko"	"거친 경비원"
+	}
+	"TF_DEMOMAN_KILL_X_CAPPING_ONEDET_Desc"
+	{
+		"ko"	"한 번의 점착 폭탄 폭파로 장악 중이거나 카트를 밀고 있는 적을 3명 킬하는 데 세 번 성공하십시오."
+	}
+	"TF_DEMOMAN_KILL_X_DEFENDING_Title"
+	{
+		"ko"	"브레이브하트"
+	}
+	"TF_DEMOMAN_KILL_X_DEFENDING_Desc"
+	{
+		"ko"	"장악 지점이나 카트를 방어하고 있는 플레이어를 25명 킬하십시오."
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_GRIND_Title"
+	{
+		"ko"	"마구 터져라!"
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_GRIND_Desc"
+	{
+		"ko"	"50개의 건물을 파괴하십시오."
+	}
+	"TF_DEMOMAN_KILL_X_HEAVIES_FULLHP_ONEDET_Title"
+	{
+		"ko"	"대박"
+	}
+	"TF_DEMOMAN_KILL_X_HEAVIES_FULLHP_ONEDET_Desc"
+	{
+		"ko"	"한 번의 점착 폭탄 폭파로 HP가 꽉 찬 헤비를 5명 킬하십시오."
+	}
+	"TF_DEMOMAN_KILL_X_SCOUTS_PYROS_Title"
+	{
+		"ko"	"도심 폭파"
+	}
+	"TF_DEMOMAN_KILL_X_SCOUTS_PYROS_Desc"
+	{
+		"ko"	"수류탄 발사기로 25명의 스카웃과 파이로를 킬하십시오."
+	}
+	"TF_DEMOMAN_TAUNT_KILL_Title"
+	{
+		"ko"	"스코틀랜드의 일격"
+	}
+	"TF_DEMOMAN_TAUNT_KILL_Desc"
+	{
+		"ko"	"아이랜더로 적을 학살하십시오."
+	}
+	"TF_DEMOMAN_CHARGE_KILL_Title"
+	{
+		"ko"	"방패 들고 돌격"
+	}
+	"TF_DEMOMAN_CHARGE_KILL_Desc"
+	{
+		"ko"	"돌진하여 방패 공격으로 누군가를 킬하십시오."
+	}
+	"TF_DEMOMAN_CRIT_SWORD_KILL_Title"
+	{
+		"ko"	"치명타"
+	}
+	"TF_DEMOMAN_CRIT_SWORD_KILL_Desc"
+	{
+		"ko"	"아이랜더의 크리티컬 스윙으로 5명의 적 플레이어를 킬하십시오."
+	}
+	"TF_DEMOMAN_AIR_BURST_KILLS_Title"
+	{
+		"ko"	"끈적거리는 것이 온다"
+	}
+	"TF_DEMOMAN_AIR_BURST_KILLS_Desc"
+	{
+		"ko"	"점착 폭탄을 공중에서 폭파시켜 30명의 플레이어를 킬하십시오."
+	}
+	"TF_DEMOMAN_STICKYJUMP_CAP_Title"
+	{
+		"ko"	"하이 로드"
+	}
+	"TF_DEMOMAN_STICKYJUMP_CAP_Desc"
+	{
+		"ko"	"점착 점프로 장악 지점에 도달하여 장악하십시오."
+	}
+	"TF_DEMOMAN_FREEZECAM_SMILE_Title"
+	{
+		"ko"	"블러디 메리"
+	}
+	"TF_DEMOMAN_FREEZECAM_SMILE_Desc"
+	{
+		"ko"	"적 플레이어에게 웃는 얼굴의 프리즈캠 샷을 선사하십시오."
+	}
+	"TF_DEMOMAN_FREEZECAM_RUMP_Title"
+	{
+		"ko"	"엉덩이 흔들기"
+	}
+	"TF_DEMOMAN_FREEZECAM_RUMP_Desc"
+	{
+		"ko"	"적 플레이어에게 엉덩이를 흔드는 모습의 프리즈캠 샷을 선사하십시오."
+	}
+	"TF_DEMOMAN_ENVIRONMENTAL_KILL_Title"
+	{
+		"ko"	"자유 낙하"
+	}
+	"TF_DEMOMAN_ENVIRONMENTAL_KILL_Desc"
+	{
+		"ko"	"점착 폭탄 발사기를 사용하여 적 플레이어를 낙하 데미지로 킬하십시오."
+	}
+	"TF_DEMOMAN_DESTROY_X_STICKYBOMBS_Title"
+	{
+		"ko"	"폭탄 제거"
+	}
+	"TF_DEMOMAN_DESTROY_X_STICKYBOMBS_Desc"
+	{
+		"ko"	"스코티시 레지스탕스를 사용하여 100개의 적 점착 폭탄을 파괴하십시오."
+	}
+	"TF_DEMOMAN_STICKJUMP_DISTANCE_Title"
+	{
+		"ko"	"멀리 날기"
+	}
+	"TF_DEMOMAN_STICKJUMP_DISTANCE_Desc"
+	{
+		"ko"	"점착 점프로 아주 멀리 날아가십시오."
+	}
+	"TF_DEMOMAN_KILL3_WITH_DETONATION_Title"
+	{
+		"ko"	"줄줄이 사탕"
+	}
+	"TF_DEMOMAN_KILL3_WITH_DETONATION_Desc"
+	{
+		"ko"	"한 번의 점착 폭탄 폭파로 최소한 3명의 플레이어를 킬하십시오."
+	}
+	"TF_DEMOMAN_KILLXSAPPINGSPIES_Title"
+	{
+		"ko"	"스파이용 함정"
+	}
+	"TF_DEMOMAN_KILLXSAPPINGSPIES_Desc"
+	{
+		"ko"	"20명의 적 스파이를 아군 건물에 공병을 설치한 후 5초 이내에 킬하십시오."
+	}
+	"TF_DEMOMAN_KILL3_WITH_PIPE_SETUPS_Title"
+	{
+		"ko"	"밀착 타격"
+	}
+	"TF_DEMOMAN_KILL3_WITH_PIPE_SETUPS_Desc"
+	{
+		"ko"	"스코티시 레지스탕스를 사용하는 동안 새 점착 폭탄을 설치하지 않고 개별 폭파로 3명의 플레이어를 킬하십시오."
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS1_Title"
+	{
+		"ko"	"데모맨 지표 1"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS1_Desc"
+	{
+		"ko"	"데모맨 팩의 개인 기록을 5개 달성하십시오."
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS2_Title"
+	{
+		"ko"	"데모맨 지표 2"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS2_Desc"
+	{
+		"ko"	"데모맨 팩의 개인 기록을 11개 달성하십시오."
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS3_Title"
+	{
+		"ko"	"데모맨 지표 3"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS3_Desc"
+	{
+		"ko"	"데모맨 팩의 개인 기록을 17개 달성하십시오."
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS1_Title"
+	{
+		"ko"	"엔지니어 지표 1"
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS1_Desc"
+	{
+		"ko"	"엔지니어 팩의 도전 과제를 5개 달성하십시오."
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS2_Title"
+	{
+		"ko"	"엔지니어 지표 2"
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS2_Desc"
+	{
+		"ko"	"엔지니어 팩의 도전 과제를 11개 달성하십시오."
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS3_Title"
+	{
+		"ko"	"엔지니어 지표 3"
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS3_Desc"
+	{
+		"ko"	"엔지니어 팩의 도전 과제를 17개 달성하십시오."
+	}
+	"TF_ENGINEER_TELEPORT_GRIND_Title"
+	{
+		"ko"	"전투 러슬러"
+	}
+	"TF_ENGINEER_TELEPORT_GRIND_Desc"
+	{
+		"ko"	"텔레포트로 100명의 팀원을 전투에 투입하십시오."
+	}
+	"TF_ENGINEER_DISPENSER_EXTINGUISH_Title"
+	{
+		"ko"	"불끄는 신사"
+	}
+	"TF_ENGINEER_DISPENSER_EXTINGUISH_Desc"
+	{
+		"ko"	"설치한 디스펜서로 20명의 불타는 플레이어를 치료하십시오."
+	}
+	"TF_ENGINEER_REVENGE_CRIT_SENTRY_KILLER_Title"
+	{
+		"ko"	"복수 작전"
+	}
+	"TF_ENGINEER_REVENGE_CRIT_SENTRY_KILLER_Desc"
+	{
+		"ko"	"플레이어의 센트리 건을 파괴한 적 플레이어를 복수 치명타로 킬하십시오."
+	}
+	"TF_ENGINEER_MANUAL_CLOAKED_SPY_KILL_Title"
+	{
+		"ko"	"엔진 검색"
+	}
+	"TF_ENGINEER_MANUAL_CLOAKED_SPY_KILL_Desc"
+	{
+		"ko"	"랭글러로 센트리 건을 조종하여 3명의 클로킹 중인 스파이를 킬하십시오."
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_KILLS_BEYOND_RANGE_Title"
+	{
+		"ko"	"사정 거리 밖 사격"
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_KILLS_BEYOND_RANGE_Desc"
+	{
+		"ko"	"랭글러로 일반 센트리 건 사정 거리 밖에 있는 10명의 적을 킬하십시오."
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_ABSORB_DMG_Title"
+	{
+		"ko"	"방어 구축"
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_ABSORB_DMG_Desc"
+	{
+		"ko"	"랭글러로 센트리를 파괴하지 않고 500 데미지를 흡수하십시오."
+	}
+	"TF_ENGINEER_REVENGE_CRIT_LIFE_Title"
+	{
+		"ko"	"끝나지 않는 복수"
+	}
+	"TF_ENGINEER_REVENGE_CRIT_LIFE_Desc"
+	{
+		"ko"	"죽지 않고 3명의 적을 복수 치명타로 킬하십시오."
+	}
+	"TF_ENGINEER_KILL_SPY_TWO_SAPPERS_Title"
+	{
+		"ko"	"빠른 공격"
+	}
+	"TF_ENGINEER_KILL_SPY_TWO_SAPPERS_Desc"
+	{
+		"ko"	"10초 이내에 스파이를 킬하고 2개의 공병을 제거하십시오."
+	}
+	"TF_ENGINEER_KILL_DISGUISED_SPY_Title"
+	{
+		"ko"	"렌치 사용"
+	}
+	"TF_ENGINEER_KILL_DISGUISED_SPY_Desc"
+	{
+		"ko"	"변장한 스파이를 렌치로 킬하십시오."
+	}
+	"TF_ENGINEER_UPGRADE_BUILDINGS_Title"
+	{
+		"ko"	"말 없는 아군"
+	}
+	"TF_ENGINEER_UPGRADE_BUILDINGS_Desc"
+	{
+		"ko"	"다른 팀원이 지은 50개의 건물을 업그레이드하십시오."
+	}
+	"TF_ENGINEER_DESTROY_SAPPERS_Title"
+	{
+		"ko"	"대량의 공병"
+	}
+	"TF_ENGINEER_DESTROY_SAPPERS_Desc"
+	{
+		"ko"	"다른 팀원이 지은 건물에 설치된 25개의 공병을 제거하십시오."
+	}
+	"TF_ENGINEER_REPAIR_SENTRY_W_MEDIC_Title"
+	{
+		"ko"	"박사님, 비축, 포신"
+	}
+	"TF_ENGINEER_REPAIR_SENTRY_W_MEDIC_Desc"
+	{
+		"ko"	"메딕에게 치료를 받으면서 공격 중인 센트리 건을 수리하십시오."
+	}
+	"TF_ENGINEER_SENTRY_KILL_LIFETIME_GRIND_Title"
+	{
+		"ko"	"텍사스의 작은 도살장"
+	}
+	"TF_ENGINEER_SENTRY_KILL_LIFETIME_GRIND_Desc"
+	{
+		"ko"	"센트리 건으로 5000 킬을 달성하십시오."
+	}
+	"TF_ENGINEER_SENTRY_AVENGES_YOU_Title"
+	{
+		"ko"	"정의의 사도"
+	}
+	"TF_ENGINEER_SENTRY_AVENGES_YOU_Desc"
+	{
+		"ko"	"플레이어를 사살한 적을 센트리로 10초 이내에 킬하십시오."
+	}
+	"TF_ENGINEER_FREEZECAM_TAUNT_Title"
+	{
+		"ko"	"기타 연주"
+	}
+	"TF_ENGINEER_FREEZECAM_TAUNT_Desc"
+	{
+		"ko"	"적 플레이어에게 기타를 연주하는 프리즈캠 샷을 선사하십시오."
+	}
+	"TF_ENGINEER_FREEZECAM_SENTRY_Title"
+	{
+		"ko"	"당돌한 엔지니어"
+	}
+	"TF_ENGINEER_FREEZECAM_SENTRY_Desc"
+	{
+		"ko"	"적 플레이어에게 방금 적을 죽인 센트리와 함께 프리즈캠 샷을 선사하십시오."
+	}
+	"TF_ENGINEER_SHOTGUN_KILL_PREV_SENTRY_TARGET_Title"
+	{
+		"ko"	"텍사스 투스텝"
+	}
+	"TF_ENGINEER_SHOTGUN_KILL_PREV_SENTRY_TARGET_Desc"
+	{
+		"ko"	"자신의 센트리 건으로 데미지를 입은 적을 샷건으로 해치우십시오."
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GROUP_Title"
+	{
+		"ko"	"박사님 휴일"
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GROUP_Desc"
+	{
+		"ko"	"디스펜서로 3명의 팀원을 동시에 치료하십시오."
+	}
+	"TF_ENGINEER_SENTRY_KILL_CAPS_Title"
+	{
+		"ko"	"폐허의 지점"
+	}
+	"TF_ENGINEER_SENTRY_KILL_CAPS_Desc"
+	{
+		"ko"	"지점을 장악하는 25명의 적 플레이어를 센트리 건으로 킬하십시오."
+	}
+	"TF_ENGINEER_KILL_FLAG_CARRIERS_Title"
+	{
+		"ko"	"트레이드 비밀"
+	}
+	"TF_ENGINEER_KILL_FLAG_CARRIERS_Desc"
+	{
+		"ko"	"정보원을 잡고 있는 20명의 플레이어를 킬하십시오."
+	}
+	"TF_ENGINEER_WASTE_METAL_GRIND_Title"
+	{
+		"ko"	"금속 획득"
+	}
+	"TF_ENGINEER_WASTE_METAL_GRIND_Desc"
+	{
+		"ko"	"파괴된 건물 잔해더미에서 10,000개의 금속을 확보하십시오."
+	}
+	"TF_ENGINEER_HELP_BUILD_STRUCTURE_Title"
+	{
+		"ko"	"건설 지원"
+	}
+	"TF_ENGINEER_HELP_BUILD_STRUCTURE_Desc"
+	{
+		"ko"	"팀원이 건물을 짓는 것을 도와 주십시오."
+	}
+	"TF_ENGINEER_REMOVE_SAPPER_LONG_DIST_Title"
+	{
+		"ko"	"없애 버려!"
+	}
+	"TF_ENGINEER_REMOVE_SAPPER_LONG_DIST_Desc"
+	{
+		"ko"	"몇 미터 떨어져 있는 플레이어의 건물에 설치된 공병을 끝까지 쫓아가서 제거하십시오."
+	}
+	"TF_ENGINEER_DESTROY_STICKIES_Title"
+	{
+		"ko"	"유해 폭탄 파괴"
+	}
+	"TF_ENGINEER_DESTROY_STICKIES_Desc"
+	{
+		"ko"	"아군 건물 범위 내에 있는 50개의 적 점착 폭탄을 파괴하십시오."
+	}
+	"TF_ENGINEER_TAUNT_KILL_Title"
+	{
+		"ko"	"홍키 통크 맨"
+	}
+	"TF_ENGINEER_TAUNT_KILL_Desc"
+	{
+		"ko"	"적 플레이어의 머리를 기타로 휘갈기십시오."
+	}
+	"TF_ENGINEER_KILL_SNIPERS_SENTRY_Title"
+	{
+		"ko"	"파괴자 모랜트"
+	}
+	"TF_ENGINEER_KILL_SNIPERS_SENTRY_Desc"
+	{
+		"ko"	"랭글러로 센트리 건을 조종하여 10명의 스나이퍼를 킬하십시오."
+	}
+	"TF_ENGINEER_HELP_MANUAL_SENTRY_Title"
+	{
+		"ko"	"리오 그라인드"
+	}
+	"TF_ENGINEER_HELP_MANUAL_SENTRY_Desc"
+	{
+		"ko"	"다른 엔지니어가 조종 중인 센트리 건을 50번 수리 및/또는 재장전하십시오."
+	}
+	"TF_ENGINEER_KILL_SENTRY_WITH_SENTRY_Title"
+	{
+		"ko"	"방어를 위한 공격"
+	}
+	"TF_ENGINEER_KILL_SENTRY_WITH_SENTRY_Desc"
+	{
+		"ko"	"랭글러로 센트리 건을 조종하여 적 엔지니어의 센트리 건을 파괴하십시오."
+	}
+	"TF_ENGINEER_MOVE_SENTRY_GET_KILL_Title"
+	{
+		"ko"	"이동 즉시 죽음의 공격"
+	}
+	"TF_ENGINEER_MOVE_SENTRY_GET_KILL_Desc"
+	{
+		"ko"	"레벨 3의 센트리 건을 이동시킨 후 바로 적을 킬하십시오."
+	}
+	"TF_ENGINEER_BUILDING_CARRY_Title"
+	{
+		"ko"	"텍사스 배회자"
+	}
+	"TF_ENGINEER_BUILDING_CARRY_Desc"
+	{
+		"ko"	"건물을 1km 이상 옮기십시오."
+	}
+	"TF_ENGINEER_KILL_ASSIST_Title"
+	{
+		"ko"	"대리 수행"
+	}
+	"TF_ENGINEER_KILL_ASSIST_Desc"
+	{
+		"ko"	"센트리 건이 관여된 킬에 다른 엔지니어와 함께 10번 어시스트하십시오."
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GRIND_Title"
+	{
+		"ko"	"약방 카우보이"
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GRIND_Desc"
+	{
+		"ko"	"직접 제작한 디스펜서로 총 100,000의 체력을 회복시키십시오."
+	}
+	"TF_ENGINEER_REPAIR_TEAM_GRIND_Title"
+	{
+		"ko"	"왜건으로 빙빙 돌기"
+	}
+	"TF_ENGINEER_REPAIR_TEAM_GRIND_Desc"
+	{
+		"ko"	"다른 플레이어가 지은 아군 건물의 50,000 데미지를 수리하십시오."
+	}
+	"TF_ENGINEER_TANK_DAMAGE_Title"
+	{
+		"ko"	"건물 유지"
+	}
+	"TF_ENGINEER_TANK_DAMAGE_Desc"
+	{
+		"ko"	"건물 1개가 파괴되지 않고 2000 이상의 데미지를 버티도록 지원하십시오."
+	}
+	"TF_ENGINEER_HEAVY_ASSIST_Title"
+	{
+		"ko"	"혼자보다는 함께"
+	}
+	"TF_ENGINEER_HEAVY_ASSIST_Desc"
+	{
+		"ko"	"플레이어의 디스펜서로 치료 중인 헤비가 5 킬을 얻도록 하십시오."
+	}
+}

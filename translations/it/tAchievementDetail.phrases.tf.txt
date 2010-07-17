@@ -1,4 +1,4 @@
-"Phrases"
+Ôªø"Phrases"
 {
 	"TF_GET_TURRETKILLS_Title"
 	{
@@ -42,11 +42,11 @@
 	}
 	"TF_PLAY_GAME_FRIENDSONLY_Title"
 	{
-		"it"	"Con amici cosÏ..."
+		"it"	"Con amici cos√¨..."
 	}
 	"TF_PLAY_GAME_FRIENDSONLY_Desc"
 	{
-		"it"	"Gioca una partita con 7 o pi˘ giocatori presenti nel tuo elenco amici."
+		"it"	"Gioca una partita con 7 o pi√π giocatori presenti nel tuo elenco amici."
 	}
 	"TF_WIN_MULTIPLEGAMES_Title"
 	{
@@ -142,7 +142,7 @@
 	}
 	"TF_MEDIC_TOP_SCOREBOARD_Desc"
 	{
-		"it"	"Gioca un round completo senza uccidere nemici e ottieni il punteggio pi˘ alto su una squadra di 6 o pi˘ giocatori."
+		"it"	"Gioca un round completo senza uccidere nemici e ottieni il punteggio pi√π alto su una squadra di 6 o pi√π giocatori."
 	}
 	"TF_MEDIC_HEAL_UNDER_FIRE_Title"
 	{
@@ -158,7 +158,7 @@
 	}
 	"TF_MEDIC_SIMUL_CHARGE_Desc"
 	{
-		"it"	"Lavora insieme ad altri 2 Medici per utilizzare 3 ‹berCariche contemporaneamente."
+		"it"	"Lavora insieme ad altri 2 Medici per utilizzare 3 √úberCariche contemporaneamente."
 	}
 	"TF_MEDIC_SETUP_CHARGE_Title"
 	{
@@ -166,7 +166,7 @@
 	}
 	"TF_MEDIC_SETUP_CHARGE_Desc"
 	{
-		"it"	"Prepara una ‹berCarica prima della fine della fase di impostazione."
+		"it"	"Prepara una √úberCarica prima della fine della fase di impostazione."
 	}
 	"TF_MEDIC_RAPID_CHARGE_Title"
 	{
@@ -174,7 +174,7 @@
 	}
 	"TF_MEDIC_RAPID_CHARGE_Desc"
 	{
-		"it"	"Utilizza 3 ‹berCariche in meno di 5 minuti e in questo lasso di tempo totalizza 5 aiuti a uccidere."
+		"it"	"Utilizza 3 √úberCariche in meno di 5 minuti e in questo lasso di tempo totalizza 5 aiuti a uccidere."
 	}
 	"TF_MEDIC_COUNTER_CHARGE_Title"
 	{
@@ -182,7 +182,7 @@
 	}
 	"TF_MEDIC_COUNTER_CHARGE_Desc"
 	{
-		"it"	"Quando un Medico nemico utilizza una ‹berCarica, utilizzane una anche tu entro 8 secondi."
+		"it"	"Quando un Medico nemico utilizza una √úberCarica, utilizzane una anche tu entro 8 secondi."
 	}
 	"TF_MEDIC_SWITCH_TO_MEDIC_Title"
 	{
@@ -190,7 +190,7 @@
 	}
 	"TF_MEDIC_SWITCH_TO_MEDIC_Desc"
 	{
-		"it"	"In una squadra senza Medici, diventa un Medico per primo non appena un compagno di squadra chiama un \"Medic!\", quindi guarisci 500 punti energia."
+		"it"	", quindi guarisci 500 punti energia."
 	}
 	"TF_MEDIC_SAVE_TEAMMATE_Title"
 	{
@@ -198,7 +198,7 @@
 	}
 	"TF_MEDIC_SAVE_TEAMMATE_Desc"
 	{
-		"it"	"Utilizza una ‹berCarica su un compagno di squadra meno di un secondo prima che venga colpito da un'esplosione critica."
+		"it"	"Utilizza una √úberCarica su un compagno di squadra meno di un secondo prima che venga colpito da un'esplosione critica."
 	}
 	"TF_MEDIC_CHARGE_BLOCKER_Title"
 	{
@@ -206,7 +206,7 @@
 	}
 	"TF_MEDIC_CHARGE_BLOCKER_Desc"
 	{
-		"it"	"Impedisci a un nemico di conquistare un Punto di controllo con un compagno di squadra ‹berCaricato."
+		"it"	"Impedisci a un nemico di conquistare un Punto di controllo con un compagno di squadra √úberCaricato."
 	}
 	"TF_MEDIC_ASSIST_MEDIC_Title"
 	{
@@ -218,7 +218,7 @@
 	}
 	"TF_MEDIC_SYRINGE_SCOUTS_Title"
 	{
-		"it"	"Sente dolore se faccio cosÏ?"
+		"it"	"Sente dolore se faccio cos√¨?"
 	}
 	"TF_MEDIC_SYRINGE_SCOUTS_Desc"
 	{
@@ -242,11 +242,11 @@
 	}
 	"TF_MEDIC_ASSIST_SCOUT_Title"
 	{
-		"it"	"Far‡ un po' male"
+		"it"	"Far√† un po' male"
 	}
 	"TF_MEDIC_ASSIST_SCOUT_Desc"
 	{
-		"it"	"Utilizza una ‹berCarica su un Esploratore e aiutalo a uccidere 3 nemici."
+		"it"	"Utilizza una √úberCarica su un Esploratore e aiutalo a uccidere 3 nemici."
 	}
 	"TF_MEDIC_ASSIST_PYRO_Title"
 	{
@@ -254,7 +254,7 @@
 	}
 	"TF_MEDIC_ASSIST_PYRO_Desc"
 	{
-		"it"	"Utilizza una ‹berCarica su un Piro e aiutalo a bruciare 5 nemici."
+		"it"	"Utilizza una √úberCarica su un Piro e aiutalo a bruciare 5 nemici."
 	}
 	"TF_MEDIC_ASSIST_HEAVY_Title"
 	{
@@ -262,7 +262,7 @@
 	}
 	"TF_MEDIC_ASSIST_HEAVY_Desc"
 	{
-		"it"	"Utilizza una ‹berCarica su un Grosso e aiutalo a uccidere 2 nemici."
+		"it"	"Utilizza una √úberCarica su un Grosso e aiutalo a uccidere 2 nemici."
 	}
 	"TF_MEDIC_ASSIST_DEMOMAN_Title"
 	{
@@ -270,7 +270,7 @@
 	}
 	"TF_MEDIC_ASSIST_DEMOMAN_Desc"
 	{
-		"it"	"Utilizza una ‹berCarica su un Demolitore e aiutalo a distruggere 5 costruzioni di un Ingegnere nemico."
+		"it"	"Utilizza una √úberCarica su un Demolitore e aiutalo a distruggere 5 costruzioni di un Ingegnere nemico."
 	}
 	"TF_MEDIC_ASSIST_SOLDIER_Title"
 	{
@@ -278,7 +278,7 @@
 	}
 	"TF_MEDIC_ASSIST_SOLDIER_Desc"
 	{
-		"it"	"Utilizza una ‹berCarica su un Soldato e aiutalo a far saltare in aria 5 nemici."
+		"it"	"Utilizza una √úberCarica su un Soldato e aiutalo a far saltare in aria 5 nemici."
 	}
 	"TF_MEDIC_HEAL_ENGINEER_Title"
 	{
@@ -302,7 +302,7 @@
 	}
 	"TF_MEDIC_HEAL_CALLERS_Desc"
 	{
-		"it"	"Guarisci 200 compagni dopo che hanno chiamato un \"Medic!\"."
+		"it"	"."
 	}
 	"TF_MEDIC_EXTINGUISH_TEAMMATES_Title"
 	{
@@ -326,7 +326,7 @@
 	}
 	"TF_MEDIC_KILL_WHILE_CHARGED_Desc"
 	{
-		"it"	"Uccidi 5 nemici con un'unica vita, avendo una ‹berCarica pronta ma senza utilizzarla."
+		"it"	"Uccidi 5 nemici con un'unica vita, avendo una √úberCarica pronta ma senza utilizzarla."
 	}
 	"TF_MEDIC_BONESAW_NOMISSES_Title"
 	{
@@ -362,7 +362,7 @@
 	}
 	"TF_MEDIC_KILL_HEALED_SPY_Title"
 	{
-		"it"	"Giuramento di \"Ipocrite\""
+		"it"	""
 	}
 	"TF_MEDIC_KILL_HEALED_SPY_Desc"
 	{
@@ -382,7 +382,7 @@
 	}
 	"TF_MEDIC_CHARGE_JUGGLE_Desc"
 	{
-		"it"	"‹berCarica 2 compagni contemporaneamente."
+		"it"	"√úberCarica 2 compagni contemporaneamente."
 	}
 	"TF_MEDIC_FREEZECAM_RAGDOLL_Title"
 	{
@@ -406,7 +406,7 @@
 	}
 	"TF_MEDIC_CHARGE_FRIENDS_Desc"
 	{
-		"it"	"‹berCarica dieci tuoi amici della Comunit‡ Steam."
+		"it"	"√úberCarica dieci tuoi amici della Comunit√† Steam."
 	}
 	"TF_MEDIC_INVITE_JOIN_CHARGE_Title"
 	{
@@ -414,7 +414,7 @@
 	}
 	"TF_MEDIC_INVITE_JOIN_CHARGE_Desc"
 	{
-		"it"	"Unisciti a una partita in cui gioca un amico, quindi utilizza una ‹berCarica su di lui."
+		"it"	"Unisciti a una partita in cui gioca un amico, quindi utilizza una √úberCarica su di lui."
 	}
 	"TF_MEDIC_HEAL_ACHIEVER_Title"
 	{
@@ -430,7 +430,7 @@
 	}
 	"TF_MEDIC_ACHIEVE_PROGRESS1_Desc"
 	{
-		"it"	"Ottieni 10 risultati nel pacchetto Medico."
+		"it"	"Ottieni 10 degli achievement nel pacchetto Medico."
 	}
 	"TF_MEDIC_ACHIEVE_PROGRESS2_Title"
 	{
@@ -438,7 +438,7 @@
 	}
 	"TF_MEDIC_ACHIEVE_PROGRESS2_Desc"
 	{
-		"it"	"Ottieni 16 risultati nel pacchetto Medico."
+		"it"	"Ottieni 16 degli achievement nel pacchetto Medico."
 	}
 	"TF_MEDIC_ACHIEVE_PROGRESS3_Title"
 	{
@@ -446,7 +446,7 @@
 	}
 	"TF_MEDIC_ACHIEVE_PROGRESS3_Desc"
 	{
-		"it"	"Ottieni 22 risultati nel pacchetto Medico."
+		"it"	"Ottieni 22 degli achievement nel pacchetto Medico."
 	}
 	"TF_PYRO_KILL_MULTIWEAPONS_Title"
 	{
@@ -566,7 +566,7 @@
 	}
 	"TF_PYRO_BURN_MEDICS_CHARGED_Desc"
 	{
-		"it"	"Dai fuoco a 3 Medici che sono pronti a utilizzare una ‹berCarica."
+		"it"	"Dai fuoco a 3 Medici che sono pronti a utilizzare una √úberCarica."
 	}
 	"TF_PYRO_REFLECT_PROJECTILES_Title"
 	{
@@ -598,7 +598,7 @@
 	}
 	"TF_PYRO_KILL_UBERCHARGE_Desc"
 	{
-		"it"	"Uccidi 3 nemici durante una singola ‹berCarica."
+		"it"	"Uccidi 3 nemici durante una singola √úberCarica."
 	}
 	"TF_PYRO_DESTROY_BUILDINGS_Title"
 	{
@@ -642,7 +642,7 @@
 	}
 	"TF_PYRO_KILL_TAUNT_Title"
 	{
-		"it"	"Dannato ß@#%!"
+		"it"	"Dannato ¬ß@#%!"
 	}
 	"TF_PYRO_KILL_TAUNT_Desc"
 	{
@@ -654,7 +654,7 @@
 	}
 	"TF_PYRO_KILL_TEAMWORK_Desc"
 	{
-		"it"	"Uccidi un nemico cui Ë stato dato fuoco da un altro Piro."
+		"it"	"Uccidi un nemico cui √® stato dato fuoco da un altro Piro."
 	}
 	"TF_PYRO_BURN_SPY_TAUNT_Title"
 	{
@@ -666,7 +666,7 @@
 	}
 	"TF_PYRO_DOMINATE_LEAVESVR_Title"
 	{
-		"it"	"La grigliata Ë finita"
+		"it"	"La grigliata √® finita"
 	}
 	"TF_PYRO_DOMINATE_LEAVESVR_Desc"
 	{
@@ -702,7 +702,7 @@
 	}
 	"TF_PYRO_BURN_RJ_SOLDIER_Desc"
 	{
-		"it"	"Dai fuoco a un Soldato mentre Ë a mezz'aria per un salto con razzo."
+		"it"	"Dai fuoco a un Soldato mentre √® a mezz'aria per un salto con razzo."
 	}
 	"TF_PYRO_FREEZECAM_TAUNTS_Title"
 	{
@@ -734,7 +734,7 @@
 	}
 	"TF_PYRO_ACHIEVE_PROGRESS1_Desc"
 	{
-		"it"	"Ottieni 10 risultati nel pacchetto Piro."
+		"it"	"Ottieni 10 degli achievement nel pacchetto Piro."
 	}
 	"TF_PYRO_ACHIEVE_PROGRESS2_Title"
 	{
@@ -742,7 +742,7 @@
 	}
 	"TF_PYRO_ACHIEVE_PROGRESS2_Desc"
 	{
-		"it"	"Ottieni 16 risultati nel pacchetto Piro."
+		"it"	"Ottieni 16 degli achievement nel pacchetto Piro."
 	}
 	"TF_PYRO_ACHIEVE_PROGRESS3_Title"
 	{
@@ -750,7 +750,7 @@
 	}
 	"TF_PYRO_ACHIEVE_PROGRESS3_Desc"
 	{
-		"it"	"Ottieni 22 risultati nel pacchetto Piro."
+		"it"	"Ottieni 22 degli achievement nel pacchetto Piro."
 	}
 	"TF_HEAVY_DAMAGE_TAKEN_Title"
 	{
@@ -762,7 +762,7 @@
 	}
 	"TF_HEAVY_DEFEND_MEDIC_Title"
 	{
-		"it"	"Fedelt‡ al partito"
+		"it"	"Fedelt√† al partito"
 	}
 	"TF_HEAVY_DEFEND_MEDIC_Desc"
 	{
@@ -830,7 +830,7 @@
 	}
 	"TF_HEAVY_RECEIVE_UBER_GRIND_Desc"
 	{
-		"it"	"Ricevi una ‹berCarica 50 volte."
+		"it"	"Ricevi una √úberCarica 50 volte."
 	}
 	"TF_HEAVY_STAND_NEAR_DISPENSER_Title"
 	{
@@ -986,7 +986,7 @@
 	}
 	"TF_HEAVY_REVENGE_ASSIST_Title"
 	{
-		"it"	"Solidariet‡ operaia"
+		"it"	"Solidariet√† operaia"
 	}
 	"TF_HEAVY_REVENGE_ASSIST_Desc"
 	{
@@ -1038,7 +1038,7 @@
 	}
 	"TF_HEAVY_ACHIEVE_PROGRESS1_Desc"
 	{
-		"it"	"Ottieni 10 risultati nel pacchetto Grosso."
+		"it"	"Ottieni 10 degli achievement nel pacchetto Grosso."
 	}
 	"TF_HEAVY_ACHIEVE_PROGRESS2_Title"
 	{
@@ -1046,7 +1046,7 @@
 	}
 	"TF_HEAVY_ACHIEVE_PROGRESS2_Desc"
 	{
-		"it"	"Ottieni 16 risultati nel pacchetto Grosso."
+		"it"	"Ottieni 16 degli achievement nel pacchetto Grosso."
 	}
 	"TF_HEAVY_ACHIEVE_PROGRESS3_Title"
 	{
@@ -1054,7 +1054,7 @@
 	}
 	"TF_HEAVY_ACHIEVE_PROGRESS3_Desc"
 	{
-		"it"	"Ottieni 22 risultati nel pacchetto Grosso."
+		"it"	"Ottieni 22 degli achievement nel pacchetto Grosso."
 	}
 	"TF_SCOUT_FIRST_BLOOD_Title"
 	{
@@ -1070,7 +1070,7 @@
 	}
 	"TF_SCOUT_FIRST_BLOOD_KILL_Desc"
 	{
-		"it"	"Uccidi 5 nemici con il bonus colpi critici \"Primo sangue\"."
+		"it"	"."
 	}
 	"TF_SCOUT_WELL_EARLY_KILL_Title"
 	{
@@ -1090,7 +1090,7 @@
 	}
 	"TF_SCOUT_IRON_MAN_KILLS_Title"
 	{
-		"it"	"La morte Ë ovunque"
+		"it"	"La morte √® ovunque"
 	}
 	"TF_SCOUT_IRON_MAN_KILLS_Desc"
 	{
@@ -1098,7 +1098,7 @@
 	}
 	"TF_SCOUT_DESTROY_TELEPORTERS_Title"
 	{
-		"it"	"Vieni pi˘ vicino"
+		"it"	"Vieni pi√π vicino"
 	}
 	"TF_SCOUT_DESTROY_TELEPORTERS_Desc"
 	{
@@ -1134,7 +1134,7 @@
 	}
 	"TF_SCOUT_ASSIST_MEDIC_Desc"
 	{
-		"it"	"Uccidi 3 nemici mentre sei sotto l'effetto dell'‹bercarica di un Medico."
+		"it"	"Uccidi 3 nemici mentre sei sotto l'effetto dell'√úbercarica di un Medico."
 	}
 	"TF_SCOUT_STEAL_SANDWICH_Title"
 	{
@@ -1150,7 +1150,7 @@
 	}
 	"TF_SCOUT_ACHIEVE_PROGRESS1_Desc"
 	{
-		"it"	"Ottieni 10 risultati nel pacchetto Esploratore."
+		"it"	"Ottieni 10 degli achievement nel pacchetto Esploratore."
 	}
 	"TF_SCOUT_ACHIEVE_PROGRESS2_Title"
 	{
@@ -1158,7 +1158,7 @@
 	}
 	"TF_SCOUT_ACHIEVE_PROGRESS2_Desc"
 	{
-		"it"	"Ottieni 16 risultati nel pacchetto Esploratore."
+		"it"	"Ottieni 16 degli achievement nel pacchetto Esploratore."
 	}
 	"TF_SCOUT_ACHIEVE_PROGRESS3_Title"
 	{
@@ -1166,7 +1166,7 @@
 	}
 	"TF_SCOUT_ACHIEVE_PROGRESS3_Desc"
 	{
-		"it"	"Ottieni 22 risultati nel pacchetto Esploratore."
+		"it"	"Ottieni 22 degli achievement nel pacchetto Esploratore."
 	}
 	"TF_SCOUT_KILL_CHARGED_MEDICS_Title"
 	{
@@ -1174,7 +1174,7 @@
 	}
 	"TF_SCOUT_KILL_CHARGED_MEDICS_Desc"
 	{
-		"it"	"Uccidi un Medico pronto a utilizzare una ‹berCarica."
+		"it"	"Uccidi un Medico pronto a utilizzare una √úberCarica."
 	}
 	"TF_SCOUT_SURVIVE_DAMAGE_Title"
 	{
@@ -1246,7 +1246,7 @@
 	}
 	"TF_SCOUT_STUN_UBER_ENEMIES_Desc"
 	{
-		"it"	"Stordisci 2 Medici che sono pronti a utilizzare una ‹berCarica."
+		"it"	"Stordisci 2 Medici che sono pronti a utilizzare una √úberCarica."
 	}
 	"TF_SCOUT_STUN_CAPPING_ENEMIES_Title"
 	{
@@ -1278,7 +1278,7 @@
 	}
 	"TF_SCOUT_KILL_IN_DODGE_COOLDOWN_Desc"
 	{
-		"it"	"Uccidi un Esploratore mentre Ë affetto dal rallentamento dopo una schivata."
+		"it"	"Uccidi un Esploratore mentre √® affetto dal rallentamento dopo una schivata."
 	}
 	"TF_SCOUT_KILL_FROM_BEHIND_Title"
 	{
@@ -1322,7 +1322,7 @@
 	}
 	"TF_SCOUT_BLOCK_CAPS_Title"
 	{
-		"it"	"Questa base Ë mia"
+		"it"	"Questa base √® mia"
 	}
 	"TF_SCOUT_BLOCK_CAPS_Desc"
 	{
@@ -1474,7 +1474,7 @@
 	}
 	"TF_SNIPER_KILL_RJER_Title"
 	{
-		"it"	"Chi salta... morto Ë"
+		"it"	"Chi salta... morto √®"
 	}
 	"TF_SNIPER_KILL_RJER_Desc"
 	{
@@ -1498,11 +1498,11 @@
 	}
 	"TF_SNIPER_KILL_CHARGED_MEDIC_Title"
 	{
-		"it"	"‹berectomia"
+		"it"	"√úberectomia"
 	}
 	"TF_SNIPER_KILL_CHARGED_MEDIC_Desc"
 	{
-		"it"	"Uccidi un Medico pronto a utilizzare una ‹berCarica."
+		"it"	"Uccidi un Medico pronto a utilizzare una √úberCarica."
 	}
 	"TF_SNIPER_GET_BACKSTABBED_Title"
 	{
@@ -1526,7 +1526,7 @@
 	}
 	"TF_SNIPER_HEADSHOT_POST_INVULN_Desc"
 	{
-		"it"	"Uccidi un giocatore nemico con un colpo alla testa nel preciso istante in cui svanisce la sua invulnerabilit‡."
+		"it"	"Uccidi un giocatore nemico con un colpo alla testa nel preciso istante in cui svanisce la sua invulnerabilit√†."
 	}
 	"TF_SNIPER_TOP_SCOREBOARD_GRIND_Title"
 	{
@@ -1534,7 +1534,7 @@
 	}
 	"TF_SNIPER_TOP_SCOREBOARD_GRIND_Desc"
 	{
-		"it"	"Raggiungi il massimo punteggio 10 volte in squadre di 6 o pi˘ giocatori."
+		"it"	"Raggiungi il massimo punteggio 10 volte in squadre di 6 o pi√π giocatori."
 	}
 	"TF_SNIPER_KILL_FAILED_SPY_Title"
 	{
@@ -1542,7 +1542,7 @@
 	}
 	"TF_SNIPER_KILL_FAILED_SPY_Desc"
 	{
-		"it"	"Uccidi una Spia il cui tentativo di pugnalarti alle spalle Ë stato bloccato dal tuo scudo elettrico."
+		"it"	"Uccidi una Spia il cui tentativo di pugnalarti alle spalle √® stato bloccato dal tuo scudo elettrico."
 	}
 	"TF_SNIPER_JARATE_GROUP_Title"
 	{
@@ -1646,7 +1646,7 @@
 	}
 	"TF_SNIPER_ACHIEVE_PROGRESS1_Desc"
 	{
-		"it"	"Ottieni 5 risultati nel pacchetto Cecchino."
+		"it"	"Ottieni 5 degli achievement nel pacchetto Cecchino."
 	}
 	"TF_SNIPER_ACHIEVE_PROGRESS2_Title"
 	{
@@ -1654,7 +1654,7 @@
 	}
 	"TF_SNIPER_ACHIEVE_PROGRESS2_Desc"
 	{
-		"it"	"Ottieni 11 risultati nel pacchetto Cecchino."
+		"it"	"Ottieni 11 degli achievement nel pacchetto Cecchino."
 	}
 	"TF_SNIPER_ACHIEVE_PROGRESS3_Title"
 	{
@@ -1662,7 +1662,7 @@
 	}
 	"TF_SNIPER_ACHIEVE_PROGRESS3_Desc"
 	{
-		"it"	"Ottieni 17 risultati nel pacchetto Cecchino."
+		"it"	"Ottieni 17 degli achievement nel pacchetto Cecchino."
 	}
 	"TF_SPY_BACKSTAB_SNIPERS_Title"
 	{
@@ -1690,11 +1690,19 @@
 	}
 	"TF_SPY_BACKSTAB_DISGUISE_TARGET_Title"
 	{
-		"it"	"Ladro d'identit‡"
+		"it"	"Ladro d'identit√†"
 	}
 	"TF_SPY_BACKSTAB_DISGUISE_TARGET_Desc"
 	{
 		"it"	"Pugnala alle spalle il nemico di cui stai utilizzando il travestimento."
+	}
+	"TF_SPY_TAUNT_KILL_Title"
+	{
+		"it"	"Stoccata vincente"
+	}
+	"TF_SPY_TAUNT_KILL_Desc"
+	{
+		"it"	"Pugnala un nemico tirando di scherma."
 	}
 	"TF_SPY_BACKSTAB_MEDIC_HEALING_YOU_Title"
 	{
@@ -1734,7 +1742,7 @@
 	}
 	"TF_SPY_BACKSTAB_FRIENDS_Desc"
 	{
-		"it"	"Pugnala alle spalle i tuoi amici della Comunit‡ Steam 10 volte."
+		"it"	"Pugnala alle spalle i tuoi amici della Comunit√† Steam 10 volte."
 	}
 	"TF_SPY_DOMINATE_SNIPER_Title"
 	{
@@ -1784,6 +1792,14 @@
 	{
 		"it"	"Uccidi un Ingegnere che sta lavorando su un mitra automatico."
 	}
+	"TF_SPY_FAST_CAP_Title"
+	{
+		"it"	"Al servizio (segreto) di Sua Maest√†"
+	}
+	"TF_SPY_FAST_CAP_Desc"
+	{
+		"it"	"Inizia a coprire un punto di controllo entro un secondo da quando diviene disponibile."
+	}
 	"TF_SPY_MEDIC_HEALING_KILL_ENEMY_Title"
 	{
 		"it"	"Frode assicurativa"
@@ -1806,7 +1822,7 @@
 	}
 	"TF_SPY_BACKSTAB_DOMINATING_ENEMY_Desc"
 	{
-		"it"	"Pugnala alle spalle un nemico che sta dominando 3 o pi˘ dei tuoi compagni di squadra."
+		"it"	"Pugnala alle spalle un nemico che sta dominando 3 o pi√π dei tuoi compagni di squadra."
 	}
 	"TF_SPY_REVENGE_WITH_BACKSTAB_Title"
 	{
@@ -1862,11 +1878,11 @@
 	}
 	"TF_SPY_BACKSTAB_MEDIC_CHARGED_Desc"
 	{
-		"it"	"Pugnala alle spalle un Medico pronto a utilizzare una ‹berCarica."
+		"it"	"Pugnala alle spalle un Medico pronto a utilizzare una √úberCarica."
 	}
 	"TF_SPY_BACKSTAB_CAPPING_ENEMIES_Title"
 	{
-		"it"	"Sar‡ sicuro?"
+		"it"	"Sar√† sicuro?"
 	}
 	"TF_SPY_BACKSTAB_CAPPING_ENEMIES_Desc"
 	{
@@ -1926,7 +1942,7 @@
 	}
 	"TF_SPY_ACHIEVE_PROGRESS1_Desc"
 	{
-		"it"	"Ottieni 5 risultati nel pacchetto Spia."
+		"it"	"Ottieni 5 degli achievement nel pacchetto Spia."
 	}
 	"TF_SPY_ACHIEVE_PROGRESS2_Title"
 	{
@@ -1934,7 +1950,7 @@
 	}
 	"TF_SPY_ACHIEVE_PROGRESS2_Desc"
 	{
-		"it"	"Ottieni 11 risultati nel pacchetto Spia."
+		"it"	"Ottieni 11 degli achievement nel pacchetto Spia."
 	}
 	"TF_SPY_ACHIEVE_PROGRESS3_Title"
 	{
@@ -1942,7 +1958,7 @@
 	}
 	"TF_SPY_ACHIEVE_PROGRESS3_Desc"
 	{
-		"it"	"Ottieni 17 risultati nel pacchetto Spia."
+		"it"	"Ottieni 17 degli achievement nel pacchetto Spia."
 	}
 	"TF_HALLOWEEN_COLLECT_PUMPKINS_Title"
 	{
@@ -1990,7 +2006,7 @@
 	}
 	"TF_SOLDIER_ACHIEVE_PROGRESS1_Desc"
 	{
-		"it"	"Ottieni 5 risultati nel pacchetto Soldato."
+		"it"	"Ottieni 5 degli achievement nel pacchetto Soldato."
 	}
 	"TF_SOLDIER_ACHIEVE_PROGRESS2_Title"
 	{
@@ -1998,7 +2014,7 @@
 	}
 	"TF_SOLDIER_ACHIEVE_PROGRESS2_Desc"
 	{
-		"it"	"Ottieni 11 risultati nel pacchetto Soldato."
+		"it"	"Ottieni 11 degli achievement nel pacchetto Soldato."
 	}
 	"TF_SOLDIER_ACHIEVE_PROGRESS3_Title"
 	{
@@ -2006,7 +2022,7 @@
 	}
 	"TF_SOLDIER_ACHIEVE_PROGRESS3_Desc"
 	{
-		"it"	"Ottieni 17 risultati nel pacchetto Soldato."
+		"it"	"Ottieni 17 degli achievement nel pacchetto Soldato."
 	}
 	"TF_SOLDIER_KILL_GROUP_WITH_CROCKET_Title"
 	{
@@ -2074,7 +2090,7 @@
 	}
 	"TF_SOLDIER_KILL_ENGY_Title"
 	{
-		"it"	"Un Ingegnere Ë per sempre"
+		"it"	"Un Ingegnere √® per sempre"
 	}
 	"TF_SOLDIER_KILL_ENGY_Desc"
 	{
@@ -2102,7 +2118,7 @@
 	}
 	"TF_SOLDIER_CROUCH_ROCKET_JUMP_Desc"
 	{
-		"it"	"Esegui un salto-razzo pi˘ in alto che puoi saltando e accovacciandoti."
+		"it"	"Esegui un salto-razzo pi√π in alto che puoi saltando e accovacciandoti."
 	}
 	"TF_SOLDIER_BUFF_FRIENDS_Title"
 	{
@@ -2122,7 +2138,7 @@
 	}
 	"TF_SOLDIER_SHOOT_MULT_CRITS_Title"
 	{
-		"it"	"Due Ë meglio di uno"
+		"it"	"Due √® meglio di uno"
 	}
 	"TF_SOLDIER_SHOOT_MULT_CRITS_Desc"
 	{
@@ -2226,7 +2242,7 @@
 	}
 	"TF_SOLDIER_KILL_WITH_EQUALIZER_WHILE_HURT_Title"
 	{
-		"it"	"Il paradiso puÚ attendere"
+		"it"	"Il paradiso pu√≤ attendere"
 	}
 	"TF_SOLDIER_KILL_WITH_EQUALIZER_WHILE_HURT_Desc"
 	{
@@ -2286,7 +2302,7 @@
 	}
 	"TF_SOLDIER_ASSIST_MEDIC_UBER_Desc"
 	{
-		"it"	"Aiuta un Medico a far esplodere 5 nemici con una sola ‹berCarica."
+		"it"	"Aiuta un Medico a far esplodere 5 nemici con una sola √úberCarica."
 	}
 	"TF_DEMOMAN_KILL_SOLDIER_GRIND_Title"
 	{
@@ -2302,7 +2318,7 @@
 	}
 	"TF_DEMOMAN_DESTROY_BUILDINGS_WITH_MEDIC_Desc"
 	{
-		"it"	"Distruggi 5 costruzioni di Ingegneri nemici durante una sola ‹berCarica da un Medico."
+		"it"	"Distruggi 5 costruzioni di Ingegneri nemici durante una sola √úberCarica da un Medico."
 	}
 	"TF_DEMOMAN_DECAPITATE_CLOAKED_SPY_Title"
 	{
@@ -2366,7 +2382,7 @@
 	}
 	"TF_DEMOMAN_KILL_PLAYER_AFTER_TP_Desc"
 	{
-		"it"	"Uccidi un giocatore nemico con bombe adesive entro 5 secondi da quando si Ë teletrasportato."
+		"it"	"Uccidi un giocatore nemico con bombe adesive entro 5 secondi da quando si √® teletrasportato."
 	}
 	"TF_DEMOMAN_DOMINATE_THREE_ENGINEERS_Title"
 	{
@@ -2410,7 +2426,7 @@
 	}
 	"TF_DEMOMAN_DECAPITATE_NEMESIS_Title"
 	{
-		"it"	"Ne rester‡ soltanto uno"
+		"it"	"Ne rester√† soltanto uno"
 	}
 	"TF_DEMOMAN_DECAPITATE_NEMESIS_Desc"
 	{
@@ -2470,7 +2486,7 @@
 	}
 	"TF_DEMOMAN_TAUNT_KILL_Desc"
 	{
-		"it"	"La gloria sar‡ tua quando macellerai i tuoi nemici con l'Eyelander."
+		"it"	"La gloria sar√† tua quando macellerai i tuoi nemici con l'Eyelander."
 	}
 	"TF_DEMOMAN_CHARGE_KILL_Title"
 	{
@@ -2574,7 +2590,7 @@
 	}
 	"TF_DEMOMAN_ACHIEVE_PROGRESS1_Desc"
 	{
-		"it"	"Ottieni 5 risultati nel pacchetto Demolitore."
+		"it"	"Ottieni 5 degli achievement nel pacchetto Demolitore."
 	}
 	"TF_DEMOMAN_ACHIEVE_PROGRESS2_Title"
 	{
@@ -2582,7 +2598,7 @@
 	}
 	"TF_DEMOMAN_ACHIEVE_PROGRESS2_Desc"
 	{
-		"it"	"Ottieni 11 risultati nel pacchetto Demolitore."
+		"it"	"Ottieni 11 degli achievement nel pacchetto Demolitore."
 	}
 	"TF_DEMOMAN_ACHIEVE_PROGRESS3_Title"
 	{
@@ -2590,22 +2606,310 @@
 	}
 	"TF_DEMOMAN_ACHIEVE_PROGRESS3_Desc"
 	{
-		"it"	"Ottieni 17 risultati nel pacchetto Demolitore."
+		"it"	"Ottieni 17 degli achievement nel pacchetto Demolitore."
 	}
-	"TF_SPY_TAUNT_KILL_Title"
+	"TF_ENGINEER_ACHIEVE_PROGRESS1_Title"
 	{
-		"it"	"Stoccata vincente"
+		"it"	"Traguardo Ingegnere 1"
 	}
-	"TF_SPY_TAUNT_KILL_Desc"
+	"TF_ENGINEER_ACHIEVE_PROGRESS1_Desc"
 	{
-		"it"	"Pugnala un nemico tirando di scherma."
+		"it"	"Ottieni 5 risultati nel pacchetto Ingegnere."
 	}
-	"TF_SPY_FAST_CAP_Title"
+	"TF_ENGINEER_ACHIEVE_PROGRESS2_Title"
 	{
-		"it"	"Al servizio (segreto) di Sua Maest‡"
+		"it"	"Traguardo Ingegnere 2"
 	}
-	"TF_SPY_FAST_CAP_Desc"
+	"TF_ENGINEER_ACHIEVE_PROGRESS2_Desc"
 	{
-		"it"	"Inizia a coprire un punto di controllo entro un secondo da quando diviene disponibile."
+		"it"	"Ottieni 11 risultati nel pacchetto Ingegnere."
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS3_Title"
+	{
+		"it"	"Traguardo Ingegnere 3"
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS3_Desc"
+	{
+		"it"	"Ottieni 17 risultati nel pacchetto Ingegnere."
+	}
+	"TF_ENGINEER_TELEPORT_GRIND_Title"
+	{
+		"it"	"Teletrasporto clandestino"
+	}
+	"TF_ENGINEER_TELEPORT_GRIND_Desc"
+	{
+		"it"	"Teletrasporta 100 compagni di squadra in battaglia."
+	}
+	"TF_ENGINEER_DISPENSER_EXTINGUISH_Title"
+	{
+		"it"	"Un estinto signore"
+	}
+	"TF_ENGINEER_DISPENSER_EXTINGUISH_Desc"
+	{
+		"it"	"I dispenser costruiti da te devono spegnere 20 giocatori in fiamme."
+	}
+	"TF_ENGINEER_REVENGE_CRIT_SENTRY_KILLER_Title"
+	{
+		"it"	"La vendetta aguzza l'Ingegnere"
+	}
+	"TF_ENGINEER_REVENGE_CRIT_SENTRY_KILLER_Desc"
+	{
+		"it"	"Uccidi con un critico-vendetta il nemico che ha distrutto un tuo mitra automatico."
+	}
+	"TF_ENGINEER_MANUAL_CLOAKED_SPY_KILL_Title"
+	{
+		"it"	"Mitra di ricerca"
+	}
+	"TF_ENGINEER_MANUAL_CLOAKED_SPY_KILL_Desc"
+	{
+		"it"	"Uccidi 3 Spie mimetizzate con un mitra automatico comandato dal tuo Wrangler."
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_KILLS_BEYOND_RANGE_Title"
+	{
+		"it"	"Tre mitra sopra il cielo"
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_KILLS_BEYOND_RANGE_Desc"
+	{
+		"it"	"Uccidi 10 nemici oltre la normale gittata del mitra automatico usando il Wrangler."
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_ABSORB_DMG_Title"
+	{
+		"it"	"Lo scudo finale"
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_ABSORB_DMG_Desc"
+	{
+		"it"	"Un mitra automatico protetto dal Wrangler deve assorbire 500 danni senza essere distrutto."
+	}
+	"TF_ENGINEER_REVENGE_CRIT_LIFE_Title"
+	{
+		"it"	"L'implacabile"
+	}
+	"TF_ENGINEER_REVENGE_CRIT_LIFE_Desc"
+	{
+		"it"	"Uccidi 3 nemici con critici-vendetta senza morire."
+	}
+	"TF_ENGINEER_KILL_SPY_TWO_SAPPERS_Title"
+	{
+		"it"	"Estrazione rapida"
+	}
+	"TF_ENGINEER_KILL_SPY_TWO_SAPPERS_Desc"
+	{
+		"it"	"Uccidi una Spia e due artificieri entro 10 secondi."
+	}
+	"TF_ENGINEER_KILL_DISGUISED_SPY_Title"
+	{
+		"it"	"L'impaziente inglese"
+	}
+	"TF_ENGINEER_KILL_DISGUISED_SPY_Desc"
+	{
+		"it"	"Uccidi con la chiave inglese una Spia travestita."
+	}
+	"TF_ENGINEER_UPGRADE_BUILDINGS_Title"
+	{
+		"it"	"Aiuto-meccanico"
+	}
+	"TF_ENGINEER_UPGRADE_BUILDINGS_Desc"
+	{
+		"it"	"Potenzia 50 costruzioni create da altri compagni di squadra."
+	}
+	"TF_ENGINEER_DESTROY_SAPPERS_Title"
+	{
+		"it"	"Per un pugno di artificieri"
+	}
+	"TF_ENGINEER_DESTROY_SAPPERS_Desc"
+	{
+		"it"	"Distruggi 25 artificieri sulle costruzioni create da altri compagni di squadra."
+	}
+	"TF_ENGINEER_REPAIR_SENTRY_W_MEDIC_Title"
+	{
+		"it"	"Accanimento terapeutico"
+	}
+	"TF_ENGINEER_REPAIR_SENTRY_W_MEDIC_Desc"
+	{
+		"it"	"Ripara un mitra automatico sotto tiro mentre vieni curato da un Medico."
+	}
+	"TF_ENGINEER_SENTRY_KILL_LIFETIME_GRIND_Title"
+	{
+		"it"	"Dinamitra!"
+	}
+	"TF_ENGINEER_SENTRY_KILL_LIFETIME_GRIND_Desc"
+	{
+		"it"	"Accumula 5.000 uccisioni con i tuoi mitra automatici."
+	}
+	"TF_ENGINEER_SENTRY_AVENGES_YOU_Title"
+	{
+		"it"	"La legge del mitraglione"
+	}
+	"TF_ENGINEER_SENTRY_AVENGES_YOU_Desc"
+	{
+		"it"	"Il tuo mitra automatico deve uccidere entro 10 secondi un nemico che ti ha appena ucciso."
+	}
+	"TF_ENGINEER_FREEZECAM_TAUNT_Title"
+	{
+		"it"	"Te le ho suonate!"
+	}
+	"TF_ENGINEER_FREEZECAM_TAUNT_Desc"
+	{
+		"it"	"Regala al giocatore nemico un fermo immagine del tuo talento da chitarrista."
+	}
+	"TF_ENGINEER_FREEZECAM_SENTRY_Title"
+	{
+		"it"	"Ingegnere incivile"
+	}
+	"TF_ENGINEER_FREEZECAM_SENTRY_Desc"
+	{
+		"it"	"Regala al giocatore nemico un fermo immagine di te e del mitra automatico che l'ha appena ucciso."
+	}
+	"TF_ENGINEER_SHOTGUN_KILL_PREV_SENTRY_TARGET_Title"
+	{
+		"it"	"L'ingegnere spara sempre due volte"
+	}
+	"TF_ENGINEER_SHOTGUN_KILL_PREV_SENTRY_TARGET_Desc"
+	{
+		"it"	"Usa il fucile per finire un nemico colpito di recente dal tuo mitra automatico."
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GROUP_Title"
+	{
+		"it"	"Quando il medico va in vacanza"
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GROUP_Desc"
+	{
+		"it"	"Un tuo dispenser deve curare 3 compagni di squadra contemporaneamente."
+	}
+	"TF_ENGINEER_SENTRY_KILL_CAPS_Title"
+	{
+		"it"	"Terra di conquista"
+	}
+	"TF_ENGINEER_SENTRY_KILL_CAPS_Desc"
+	{
+		"it"	"Usa un mitra automatico per uccidere 25 nemici che stanno conquistando un punto di controllo."
+	}
+	"TF_ENGINEER_KILL_FLAG_CARRIERS_Title"
+	{
+		"it"	"Stop secret"
+	}
+	"TF_ENGINEER_KILL_FLAG_CARRIERS_Desc"
+	{
+		"it"	"Uccidi 20 giocatori che trasportano segreti."
+	}
+	"TF_ENGINEER_WASTE_METAL_GRIND_Title"
+	{
+		"it"	"Death metal"
+	}
+	"TF_ENGINEER_WASTE_METAL_GRIND_Desc"
+	{
+		"it"	"Raccogli 10.000 scarti di metallo dalle macerie di costruzioni distrutte."
+	}
+	"TF_ENGINEER_HELP_BUILD_STRUCTURE_Title"
+	{
+		"it"	"L'unione fa la forza"
+	}
+	"TF_ENGINEER_HELP_BUILD_STRUCTURE_Desc"
+	{
+		"it"	"Aiuta un compagno di squadra a creare una costruzione."
+	}
+	"TF_ENGINEER_REMOVE_SAPPER_LONG_DIST_Title"
+	{
+		"it"	"Corri, Ingegnere, corri!"
+	}
+	"TF_ENGINEER_REMOVE_SAPPER_LONG_DIST_Desc"
+	{
+		"it"	"Raggiungi e rimuovi un artificiere da una tua costruzione partendo da una distanza di diversi metri."
+	}
+	"TF_ENGINEER_DESTROY_STICKIES_Title"
+	{
+		"it"	"Ordignaria amministrazione"
+	}
+	"TF_ENGINEER_DESTROY_STICKIES_Desc"
+	{
+		"it"	"Distruggi 50 bombe adesive nemiche a portata di costruzioni amiche."
+	}
+	"TF_ENGINEER_TAUNT_KILL_Title"
+	{
+		"it"	"Un sound da capogiro"
+	}
+	"TF_ENGINEER_TAUNT_KILL_Desc"
+	{
+		"it"	"Fracassa la testa di un nemico con la chitarra."
+	}
+	"TF_ENGINEER_KILL_SNIPERS_SENTRY_Title"
+	{
+		"it"	"10 piccoli cecchini"
+	}
+	"TF_ENGINEER_KILL_SNIPERS_SENTRY_Desc"
+	{
+		"it"	"Uccidi 10 Cecchini con un mitra automatico comandato dal tuo Wrangler."
+	}
+	"TF_ENGINEER_HELP_MANUAL_SENTRY_Title"
+	{
+		"it"	"Servizio ad omicidio"
+	}
+	"TF_ENGINEER_HELP_MANUAL_SENTRY_Desc"
+	{
+		"it"	"Esegui 50 riparazioni e/o ricariche su un mitra automatico comandato dal Wrangler di un altro Ingegnere."
+	}
+	"TF_ENGINEER_KILL_SENTRY_WITH_SENTRY_Title"
+	{
+		"it"	"Sbaragliare la concorrenza"
+	}
+	"TF_ENGINEER_KILL_SENTRY_WITH_SENTRY_Desc"
+	{
+		"it"	"Distruggi un mitra automatico di un Ingegnere nemico con un mitra automatico comandato dal tuo Wrangler."
+	}
+	"TF_ENGINEER_MOVE_SENTRY_GET_KILL_Title"
+	{
+		"it"	"Trasporto letale"
+	}
+	"TF_ENGINEER_MOVE_SENTRY_GET_KILL_Desc"
+	{
+		"it"	"Trasporta un mitra automatico di livello 3 in una posizione da cui possa realizzare un'uccisione entro breve tempo."
+	}
+	"TF_ENGINEER_BUILDING_CARRY_Title"
+	{
+		"it"	"Avanzamento tecnologico"
+	}
+	"TF_ENGINEER_BUILDING_CARRY_Desc"
+	{
+		"it"	"Trasporta costruzioni per 1 km in tutta la tua carriera."
+	}
+	"TF_ENGINEER_KILL_ASSIST_Title"
+	{
+		"it"	"Arriva l'artiglieria!"
+	}
+	"TF_ENGINEER_KILL_ASSIST_Desc"
+	{
+		"it"	"Ottieni 10 aiuti da un altro Ingegnere in uccisioni a cui contribuisce un mitra automatico."
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GRIND_Title"
+	{
+		"it"	"La grande distribuzione"
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GRIND_Desc"
+	{
+		"it"	"In tutta la tua carriera, i dispenser da te costruiti devono fornire un totale di 100.000 punti energia."
+	}
+	"TF_ENGINEER_REPAIR_TEAM_GRIND_Title"
+	{
+		"it"	"Il riparatutto"
+	}
+	"TF_ENGINEER_REPAIR_TEAM_GRIND_Desc"
+	{
+		"it"	"Ripara un totale di 50.000 danni su costruzioni amiche create da altri giocatori."
+	}
+	"TF_ENGINEER_TANK_DAMAGE_Title"
+	{
+		"it"	"Dedizione incrollabile"
+	}
+	"TF_ENGINEER_TANK_DAMAGE_Desc"
+	{
+		"it"	"Fai in modo che una singola costruzione resista a pi√π di 2.000 danni senza essere distrutta."
+	}
+	"TF_ENGINEER_HEAVY_ASSIST_Title"
+	{
+		"it"	"Terapia d'urto"
+	}
+	"TF_ENGINEER_HEAVY_ASSIST_Desc"
+	{
+		"it"	"Cura un Grosso con il tuo dispenser mentre realizza 5 uccisioni."
 	}
 }

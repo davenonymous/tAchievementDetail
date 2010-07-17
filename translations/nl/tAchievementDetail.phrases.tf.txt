@@ -1,4 +1,4 @@
-"Phrases"
+ï»¿"Phrases"
 {
 	"TF_GET_TURRETKILLS_Title"
 	{
@@ -6,7 +6,7 @@
 	}
 	"TF_GET_TURRETKILLS_Desc"
 	{
-		"nl"	"Dood met één sentry 10 mensen met een sentrygun."
+		"nl"	"Dood met Ã©Ã©n sentry 10 mensen met een sentrygun."
 	}
 	"TF_KILL_NEMESIS_Title"
 	{
@@ -158,7 +158,7 @@
 	}
 	"TF_MEDIC_SIMUL_CHARGE_Desc"
 	{
-		"nl"	"Werk samen met 2 andere Medics om gelijktijdig 3 überladingen in te kunnen zetten."
+		"nl"	"Werk samen met 2 andere Medics om gelijktijdig 3 Ã¼berladingen in te kunnen zetten."
 	}
 	"TF_MEDIC_SETUP_CHARGE_Title"
 	{
@@ -166,7 +166,7 @@
 	}
 	"TF_MEDIC_SETUP_CHARGE_Desc"
 	{
-		"nl"	"Zorg dat je een überlading klaar hebt voordat de instellingsfase is beëindigd."
+		"nl"	"Zorg dat je een Ã¼berlading klaar hebt voordat de instellingsfase is beÃ«indigd."
 	}
 	"TF_MEDIC_RAPID_CHARGE_Title"
 	{
@@ -174,7 +174,7 @@
 	}
 	"TF_MEDIC_RAPID_CHARGE_Desc"
 	{
-		"nl"	"Zet binnen 5 minuten 3 überladingen in en help binnen deze periode 5 vijanden te doden."
+		"nl"	"Zet binnen 5 minuten 3 Ã¼berladingen in en help binnen deze periode 5 vijanden te doden."
 	}
 	"TF_MEDIC_COUNTER_CHARGE_Title"
 	{
@@ -182,7 +182,7 @@
 	}
 	"TF_MEDIC_COUNTER_CHARGE_Desc"
 	{
-		"nl"	"Zet een überlading in binnen 8 seconden nadat een vijandelijke Medic in de buurt zijn überlading heeft ingezet."
+		"nl"	"Zet een Ã¼berlading in binnen 8 seconden nadat een vijandelijke Medic in de buurt zijn Ã¼berlading heeft ingezet."
 	}
 	"TF_MEDIC_SWITCH_TO_MEDIC_Title"
 	{
@@ -198,7 +198,7 @@
 	}
 	"TF_MEDIC_SAVE_TEAMMATE_Desc"
 	{
-		"nl"	"Voorzie een teamgenoot van een überlading binnen één seconde voordat deze door een dodelijke explosie wordt getroffen."
+		"nl"	"Voorzie een teamgenoot van een Ã¼berlading binnen Ã©Ã©n seconde voordat deze door een dodelijke explosie wordt getroffen."
 	}
 	"TF_MEDIC_CHARGE_BLOCKER_Title"
 	{
@@ -206,7 +206,7 @@
 	}
 	"TF_MEDIC_CHARGE_BLOCKER_Desc"
 	{
-		"nl"	"Verhinder met behulp van een teamgenoot die je van überladingen voorziet dat de vijand een controlepunt verovert."
+		"nl"	"Verhinder met behulp van een teamgenoot die je van Ã¼berladingen voorziet dat de vijand een controlepunt verovert."
 	}
 	"TF_MEDIC_ASSIST_MEDIC_Title"
 	{
@@ -214,7 +214,7 @@
 	}
 	"TF_MEDIC_ASSIST_MEDIC_Desc"
 	{
-		"nl"	"Help een mede-Medic in één leven 5 vijanden te doden."
+		"nl"	"Help een mede-Medic in Ã©Ã©n leven 5 vijanden te doden."
 	}
 	"TF_MEDIC_SYRINGE_SCOUTS_Title"
 	{
@@ -238,7 +238,7 @@
 	}
 	"TF_MEDIC_ASSIST_HEAVY_LONG_Desc"
 	{
-		"nl"	"Help een Heavy 20 vijanden te doden zonder dat één van jullie omkomt."
+		"nl"	"Help een Heavy 20 vijanden te doden zonder dat Ã©Ã©n van jullie omkomt."
 	}
 	"TF_MEDIC_ASSIST_SCOUT_Title"
 	{
@@ -246,7 +246,7 @@
 	}
 	"TF_MEDIC_ASSIST_SCOUT_Desc"
 	{
-		"nl"	"Help 3 vijanden te doden met een enkele überlading voor een Scout."
+		"nl"	"Help 3 vijanden te doden met een enkele Ã¼berlading voor een Scout."
 	}
 	"TF_MEDIC_ASSIST_PYRO_Title"
 	{
@@ -254,7 +254,7 @@
 	}
 	"TF_MEDIC_ASSIST_PYRO_Desc"
 	{
-		"nl"	"Help 5 vijanden te verbranden met een enkele überlading voor een Pyro."
+		"nl"	"Help 5 vijanden te verbranden met een enkele Ã¼berlading voor een Pyro."
 	}
 	"TF_MEDIC_ASSIST_HEAVY_Title"
 	{
@@ -262,7 +262,7 @@
 	}
 	"TF_MEDIC_ASSIST_HEAVY_Desc"
 	{
-		"nl"	"Help 2 vijanden knock-out te slaan met een enkele überlading voor een Heavy."
+		"nl"	"Help 2 vijanden knock-out te slaan met een enkele Ã¼berlading voor een Heavy."
 	}
 	"TF_MEDIC_ASSIST_DEMOMAN_Title"
 	{
@@ -270,7 +270,7 @@
 	}
 	"TF_MEDIC_ASSIST_DEMOMAN_Desc"
 	{
-		"nl"	"Help 5 bouwsels van vijandelijke Engineers te vernielen met een enkele überlading voor een Demoman."
+		"nl"	"Help 5 bouwsels van vijandelijke Engineers te vernielen met een enkele Ã¼berlading voor een Demoman."
 	}
 	"TF_MEDIC_ASSIST_SOLDIER_Title"
 	{
@@ -278,7 +278,7 @@
 	}
 	"TF_MEDIC_ASSIST_SOLDIER_Desc"
 	{
-		"nl"	"Help 5 vijanden op te blazen met een enkele überlading voor een Soldier."
+		"nl"	"Help 5 vijanden op te blazen met een enkele Ã¼berlading voor een Soldier."
 	}
 	"TF_MEDIC_HEAL_ENGINEER_Title"
 	{
@@ -294,7 +294,7 @@
 	}
 	"TF_MEDIC_ASSIST_CAPTURER_Desc"
 	{
-		"nl"	"Help in één leven 5 vijanden op een vijandelijk controlepunt te doden."
+		"nl"	"Help in Ã©Ã©n leven 5 vijanden op een vijandelijk controlepunt te doden."
 	}
 	"TF_MEDIC_HEAL_CALLERS_Title"
 	{
@@ -326,7 +326,7 @@
 	}
 	"TF_MEDIC_KILL_WHILE_CHARGED_Desc"
 	{
-		"nl"	"Dood in één leven 5 vijanden terwijl je een überlading klaar hebt, maar die niet gebruikt."
+		"nl"	"Dood in Ã©Ã©n leven 5 vijanden terwijl je een Ã¼berlading klaar hebt, maar die niet gebruikt."
 	}
 	"TF_MEDIC_BONESAW_NOMISSES_Title"
 	{
@@ -342,7 +342,7 @@
 	}
 	"TF_MEDIC_HEAL_LARGE_Desc"
 	{
-		"nl"	"Verzamel in één leven 7000 gezondheidspunten."
+		"nl"	"Verzamel in Ã©Ã©n leven 7000 gezondheidspunten."
 	}
 	"TF_MEDIC_HEAL_HUGE_Title"
 	{
@@ -350,7 +350,7 @@
 	}
 	"TF_MEDIC_HEAL_HUGE_Desc"
 	{
-		"nl"	"Verzamel in één leven 10.000 gezondheidspunten."
+		"nl"	"Verzamel in Ã©Ã©n leven 10.000 gezondheidspunten."
 	}
 	"TF_MEDIC_HEAL_GRIND_Title"
 	{
@@ -382,7 +382,7 @@
 	}
 	"TF_MEDIC_CHARGE_JUGGLE_Desc"
 	{
-		"nl"	"Voorzie 2 teamgenoten tegelijkertijd van een überlading."
+		"nl"	"Voorzie 2 teamgenoten tegelijkertijd van een Ã¼berlading."
 	}
 	"TF_MEDIC_FREEZECAM_RAGDOLL_Title"
 	{
@@ -406,7 +406,7 @@
 	}
 	"TF_MEDIC_CHARGE_FRIENDS_Desc"
 	{
-		"nl"	"Voorzie tien van je vrienden uit de Steam Community van een überlading."
+		"nl"	"Voorzie tien van je vrienden uit de Steam Community van een Ã¼berlading."
 	}
 	"TF_MEDIC_INVITE_JOIN_CHARGE_Title"
 	{
@@ -414,7 +414,7 @@
 	}
 	"TF_MEDIC_INVITE_JOIN_CHARGE_Desc"
 	{
-		"nl"	"Doe mee aan een spel van een van je vrienden en voorzie hem van een überlading."
+		"nl"	"Doe mee aan een spel van een van je vrienden en voorzie hem van een Ã¼berlading."
 	}
 	"TF_MEDIC_HEAL_ACHIEVER_Title"
 	{
@@ -526,7 +526,7 @@
 	}
 	"TF_PYRO_KILL_AXE_SMALL_Desc"
 	{
-		"nl"	"Dood in één leven 3 personen met je bijl."
+		"nl"	"Dood in Ã©Ã©n leven 3 personen met je bijl."
 	}
 	"TF_PYRO_KILL_AXE_LARGE_Title"
 	{
@@ -534,7 +534,7 @@
 	}
 	"TF_PYRO_KILL_AXE_LARGE_Desc"
 	{
-		"nl"	"Dood in één leven 6 personen met je bijl."
+		"nl"	"Dood in Ã©Ã©n leven 6 personen met je bijl."
 	}
 	"TF_PYRO_KILL_FROM_BEHIND_Title"
 	{
@@ -566,7 +566,7 @@
 	}
 	"TF_PYRO_BURN_MEDICS_CHARGED_Desc"
 	{
-		"nl"	"Steek 3 Medics in de brand die op het punt staan een überlading in te zetten."
+		"nl"	"Steek 3 Medics in de brand die op het punt staan een Ã¼berlading in te zetten."
 	}
 	"TF_PYRO_REFLECT_PROJECTILES_Title"
 	{
@@ -598,7 +598,7 @@
 	}
 	"TF_PYRO_KILL_UBERCHARGE_Desc"
 	{
-		"nl"	"Dood 3 vijanden met een enkele überlading."
+		"nl"	"Dood 3 vijanden met een enkele Ã¼berlading."
 	}
 	"TF_PYRO_DESTROY_BUILDINGS_Title"
 	{
@@ -758,7 +758,7 @@
 	}
 	"TF_HEAVY_DAMAGE_TAKEN_Desc"
 	{
-		"nl"	"Incasseer in één leven 1000 punten aan schade."
+		"nl"	"Incasseer in Ã©Ã©n leven 1000 punten aan schade."
 	}
 	"TF_HEAVY_DEFEND_MEDIC_Title"
 	{
@@ -830,7 +830,7 @@
 	}
 	"TF_HEAVY_RECEIVE_UBER_GRIND_Desc"
 	{
-		"nl"	"Krijg 50 keer een überlading."
+		"nl"	"Krijg 50 keer een Ã¼berlading."
 	}
 	"TF_HEAVY_STAND_NEAR_DISPENSER_Title"
 	{
@@ -870,7 +870,7 @@
 	}
 	"TF_HEAVY_TAKE_MULTI_DAMAGE_Desc"
 	{
-		"nl"	"Word in één leven beschoten, verbrand, afgetuigd en geraakt door explosieven."
+		"nl"	"Word in Ã©Ã©n leven beschoten, verbrand, afgetuigd en geraakt door explosieven."
 	}
 	"TF_HEAVY_KILL_DOMINATED_Title"
 	{
@@ -918,7 +918,7 @@
 	}
 	"TF_HEAVY_FIRE_LOTS_Desc"
 	{
-		"nl"	"Vuur in één leven $ 200.000 aan minigunkogels af."
+		"nl"	"Vuur in Ã©Ã©n leven $Â 200.000 aan minigunkogels af."
 	}
 	"TF_HEAVY_KILL_CRIT_PUNCH_Title"
 	{
@@ -934,7 +934,7 @@
 	}
 	"TF_HEAVY_HEAL_MEDIKITS_Desc"
 	{
-		"nl"	"Herstel in één leven 1000 schadepunten met medikits."
+		"nl"	"Herstel in Ã©Ã©n leven 1000 schadepunten met medikits."
 	}
 	"TF_HEAVY_KILL_SHOTGUN_Title"
 	{
@@ -1094,7 +1094,7 @@
 	}
 	"TF_SCOUT_IRON_MAN_KILLS_Desc"
 	{
-		"nl"	"Dood in één leven een vijand terwijl je op de grond, in de lucht en in het water bent."
+		"nl"	"Dood in Ã©Ã©n leven een vijand terwijl je op de grond, in de lucht en in het water bent."
 	}
 	"TF_SCOUT_DESTROY_TELEPORTERS_Title"
 	{
@@ -1134,7 +1134,7 @@
 	}
 	"TF_SCOUT_ASSIST_MEDIC_Desc"
 	{
-		"nl"	"Dood 3 vijanden terwijl je nog onder invloed van een überlading bent."
+		"nl"	"Dood 3 vijanden terwijl je nog onder invloed van een Ã¼berlading bent."
 	}
 	"TF_SCOUT_STEAL_SANDWICH_Title"
 	{
@@ -1174,7 +1174,7 @@
 	}
 	"TF_SCOUT_KILL_CHARGED_MEDICS_Desc"
 	{
-		"nl"	"Dood een Medic die op het punt staan een überlading in te zetten."
+		"nl"	"Dood een Medic die op het punt staan een Ã¼berlading in te zetten."
 	}
 	"TF_SCOUT_SURVIVE_DAMAGE_Title"
 	{
@@ -1182,7 +1182,7 @@
 	}
 	"TF_SCOUT_SURVIVE_DAMAGE_Desc"
 	{
-		"nl"	"Overleef 500 schadepunten in één leven."
+		"nl"	"Overleef 500 schadepunten in Ã©Ã©n leven."
 	}
 	"TF_SCOUT_DOUBLEJUMP_KILL_Title"
 	{
@@ -1206,7 +1206,7 @@
 	}
 	"TF_SCOUT_THREE_FLAGCAPS_Desc"
 	{
-		"nl"	"Verover in één CTF-ronde 3 keer de vijandelijke inlichtingen."
+		"nl"	"Verover in Ã©Ã©n CTF-ronde 3 keer de vijandelijke inlichtingen."
 	}
 	"TF_SCOUT_DODGE_DAMAGE_Title"
 	{
@@ -1214,7 +1214,7 @@
 	}
 	"TF_SCOUT_DODGE_DAMAGE_Desc"
 	{
-		"nl"	"Ontwijk in één leven 1000 schadepunten door Bonk! te drinken. Atomic Punch."
+		"nl"	"Ontwijk in Ã©Ã©n leven 1000 schadepunten door Bonk! te drinken. Atomic Punch."
 	}
 	"TF_SCOUT_KNOCK_INTO_TRAIN_Title"
 	{
@@ -1246,7 +1246,7 @@
 	}
 	"TF_SCOUT_STUN_UBER_ENEMIES_Desc"
 	{
-		"nl"	"Verdoof 3 Medics die op het punt staan een überlading in te zetten."
+		"nl"	"Verdoof 3 Medics die op het punt staan een Ã¼berlading in te zetten."
 	}
 	"TF_SCOUT_STUN_CAPPING_ENEMIES_Title"
 	{
@@ -1298,11 +1298,11 @@
 	}
 	"TF_SCOUT_CAPTURE_THREE_POINTS_Title"
 	{
-		"nl"	"Drie-in-één"
+		"nl"	"Drie-in-Ã©Ã©n"
 	}
 	"TF_SCOUT_CAPTURE_THREE_POINTS_Desc"
 	{
-		"nl"	"Verover achter elkaar drie veroveringsposten in één leven."
+		"nl"	"Verover achter elkaar drie veroveringsposten in Ã©Ã©n leven."
 	}
 	"TF_SCOUT_FAST_CAP_Title"
 	{
@@ -1406,7 +1406,7 @@
 	}
 	"TF_SNIPER_KILL_WEAPONS_Desc"
 	{
-		"nl"	"Dood in één ronde vijanden met 3 verschillende wapens."
+		"nl"	"Dood in Ã©Ã©n ronde vijanden met 3 verschillende wapens."
 	}
 	"TF_SNIPER_HEADSHOT_SNIPERS_Title"
 	{
@@ -1430,7 +1430,7 @@
 	}
 	"TF_SNIPER_KILL_INVIS_SPY_Desc"
 	{
-		"nl"	"Dood een volledig onzichtbare Spy met één schot."
+		"nl"	"Dood een volledig onzichtbare Spy met Ã©Ã©n schot."
 	}
 	"TF_SNIPER_KILL_MIDAIR_SCOUT_Title"
 	{
@@ -1486,7 +1486,7 @@
 	}
 	"TF_SNIPER_KILL_OBJECTIVES_Desc"
 	{
-		"nl"	"Dood in één leven 3 vijanden die bezig zijn een doel te bereiken."
+		"nl"	"Dood in Ã©Ã©n leven 3 vijanden die bezig zijn een doel te bereiken."
 	}
 	"TF_SNIPER_KILL_UNSCOPED_Title"
 	{
@@ -1498,11 +1498,11 @@
 	}
 	"TF_SNIPER_KILL_CHARGED_MEDIC_Title"
 	{
-		"nl"	"Überectomie"
+		"nl"	"Ãœberectomie"
 	}
 	"TF_SNIPER_KILL_CHARGED_MEDIC_Desc"
 	{
-		"nl"	"Dood een Medic die op het punt staan een überlading in te zetten."
+		"nl"	"Dood een Medic die op het punt staan een Ã¼berlading in te zetten."
 	}
 	"TF_SNIPER_GET_BACKSTABBED_Title"
 	{
@@ -1530,7 +1530,7 @@
 	}
 	"TF_SNIPER_TOP_SCOREBOARD_GRIND_Title"
 	{
-		"nl"	"Glanzende carrière"
+		"nl"	"Glanzende carriÃ¨re"
 	}
 	"TF_SNIPER_TOP_SCOREBOARD_GRIND_Desc"
 	{
@@ -1550,7 +1550,7 @@
 	}
 	"TF_SNIPER_JARATE_GROUP_Desc"
 	{
-		"nl"	"Jarate 4 tegenstanders met één worp."
+		"nl"	"Jarate 4 tegenstanders met Ã©Ã©n worp."
 	}
 	"TF_SNIPER_JARATE_MEDIC_PAIR_Title"
 	{
@@ -1594,11 +1594,11 @@
 	}
 	"TF_SNIPER_BOW_KILL_FLAGCARRIER_Title"
 	{
-		"nl"	"Robbin’ Hood"
+		"nl"	"Robbinâ€™ Hood"
 	}
 	"TF_SNIPER_BOW_KILL_FLAGCARRIER_Desc"
 	{
-		"nl"	"Dood een vijand die met jouw inlichtingen rondloopt met één pijl."
+		"nl"	"Dood een vijand die met jouw inlichtingen rondloopt met Ã©Ã©n pijl."
 	}
 	"TF_SNIPER_BOW_PINCUSHION_Title"
 	{
@@ -1614,7 +1614,7 @@
 	}
 	"TF_SNIPER_JARATE_ASSISTS_Desc"
 	{
-		"nl"	"Scoor 5 assists met jarate in één ronde."
+		"nl"	"Scoor 5 assists met jarate in Ã©Ã©n ronde."
 	}
 	"TF_SNIPER_JARATE_KILL_MELEE_Title"
 	{
@@ -1670,7 +1670,7 @@
 	}
 	"TF_SPY_BACKSTAB_SNIPERS_Desc"
 	{
-		"nl"	"Steek 3 Snipers in de rug in één leven."
+		"nl"	"Steek 3 Snipers in de rug in Ã©Ã©n leven."
 	}
 	"TF_SPY_FREEZECAM_FLICK_Title"
 	{
@@ -1695,6 +1695,14 @@
 	"TF_SPY_BACKSTAB_DISGUISE_TARGET_Desc"
 	{
 		"nl"	"Steek de vijand als wie jij je momenteel hebt vermomd in de rug."
+	}
+	"TF_SPY_TAUNT_KILL_Title"
+	{
+		"nl"	"Een gaatje hier en daar"
+	}
+	"TF_SPY_TAUNT_KILL_Desc"
+	{
+		"nl"	"Steek een vijand tijdens een portje schermen."
 	}
 	"TF_SPY_BACKSTAB_MEDIC_HEALING_YOU_Title"
 	{
@@ -1784,6 +1792,14 @@
 	{
 		"nl"	"Dood een Engineer die een sentrygun aan het maken is."
 	}
+	"TF_SPY_FAST_CAP_Title"
+	{
+		"nl"	"Per expresse"
+	}
+	"TF_SPY_FAST_CAP_Desc"
+	{
+		"nl"	"Begin met de verovering van een post binnen een seconde nadat deze beschikbaar is geworden."
+	}
 	"TF_SPY_MEDIC_HEALING_KILL_ENEMY_Title"
 	{
 		"nl"	"Verzekeringsfraude"
@@ -1862,7 +1878,7 @@
 	}
 	"TF_SPY_BACKSTAB_MEDIC_CHARGED_Desc"
 	{
-		"nl"	"Steek een Medic in de rug die op het punt staan een überlading in te zetten."
+		"nl"	"Steek een Medic in de rug die op het punt staan een Ã¼berlading in te zetten."
 	}
 	"TF_SPY_BACKSTAB_CAPPING_ENEMIES_Title"
 	{
@@ -1918,7 +1934,7 @@
 	}
 	"TF_SPY_CAMP_POSITION_Desc"
 	{
-		"nl"	"Gebruik de vermomming en dolk om in één leven dezelfde vijand drie keer en in hetzelfde gebied te doden."
+		"nl"	"Gebruik de vermomming en dolk om in Ã©Ã©n leven dezelfde vijand drie keer en in hetzelfde gebied te doden."
 	}
 	"TF_SPY_ACHIEVE_PROGRESS1_Title"
 	{
@@ -2014,7 +2030,7 @@
 	}
 	"TF_SOLDIER_KILL_GROUP_WITH_CROCKET_Desc"
 	{
-		"nl"	"Dood 3 vijanden met één voltreffer van een raket."
+		"nl"	"Dood 3 vijanden met Ã©Ã©n voltreffer van een raket."
 	}
 	"TF_SOLDIER_KILL_TWO_DURING_ROCKET_JUMP_Title"
 	{
@@ -2030,7 +2046,7 @@
 	}
 	"TF_SOLDIER_THREE_DOMINATIONS_Desc"
 	{
-		"nl"	"Behaal 3 overheersingen in één leven."
+		"nl"	"Behaal 3 overheersingen in Ã©Ã©n leven."
 	}
 	"TF_SOLDIER_DEFEND_MEDIC_Title"
 	{
@@ -2038,7 +2054,7 @@
 	}
 	"TF_SOLDIER_DEFEND_MEDIC_Desc"
 	{
-		"nl"	"Dood in één leven 3 vijanden die een Medic hebben verwond die jou aan het genezen is."
+		"nl"	"Dood in Ã©Ã©n leven 3 vijanden die een Medic hebben verwond die jou aan het genezen is."
 	}
 	"TF_SOLDIER_KILL_TAUNT_Title"
 	{
@@ -2094,7 +2110,7 @@
 	}
 	"TF_SOLDIER_DESTROY_STICKIES_Desc"
 	{
-		"nl"	"Vernietig 10 kleefbommen met de shotgun in één leven."
+		"nl"	"Vernietig 10 kleefbommen met de shotgun in Ã©Ã©n leven."
 	}
 	"TF_SOLDIER_CROUCH_ROCKET_JUMP_Title"
 	{
@@ -2134,7 +2150,7 @@
 	}
 	"TF_SOLDIER_KILL_DEFENSELESS_Desc"
 	{
-		"nl"	"Dood 5 weerloze spelers nadat een ronde is geëindigd."
+		"nl"	"Dood 5 weerloze spelers nadat een ronde is geÃ«indigd."
 	}
 	"TF_SOLDIER_KILL_ON_FIRE_Title"
 	{
@@ -2198,7 +2214,7 @@
 	}
 	"TF_SOLDIER_BUFF_TEAMMATES_Desc"
 	{
-		"nl"	"Genees 15 teamgenoten met de Buffbanner in één leven."
+		"nl"	"Genees 15 teamgenoten met de Buffbanner in Ã©Ã©n leven."
 	}
 	"TF_SOLDIER_KILL_DEMOMAN_GRIND_Title"
 	{
@@ -2214,7 +2230,7 @@
 	}
 	"TF_SOLDIER_KILL_PYRO_Desc"
 	{
-		"nl"	"Dood een Pyro die in de laatste tien seconden één van je raketten uit de lucht heeft gehaald."
+		"nl"	"Dood een Pyro die in de laatste tien seconden Ã©Ã©n van je raketten uit de lucht heeft gehaald."
 	}
 	"TF_SOLDIER_EQUALIZER_STREAK_Title"
 	{
@@ -2222,7 +2238,7 @@
 	}
 	"TF_SOLDIER_EQUALIZER_STREAK_Desc"
 	{
-		"nl"	"Dood in één leven 3 spelers met de Equalizer zonder genezen te worden."
+		"nl"	"Dood in Ã©Ã©n leven 3 spelers met de Equalizer zonder genezen te worden."
 	}
 	"TF_SOLDIER_KILL_WITH_EQUALIZER_WHILE_HURT_Title"
 	{
@@ -2286,7 +2302,7 @@
 	}
 	"TF_SOLDIER_ASSIST_MEDIC_UBER_Desc"
 	{
-		"nl"	"Help een Medic 5 vijanden op te blazen met één enkele überlading."
+		"nl"	"Help een Medic 5 vijanden op te blazen met Ã©Ã©n enkele Ã¼berlading."
 	}
 	"TF_DEMOMAN_KILL_SOLDIER_GRIND_Title"
 	{
@@ -2302,7 +2318,7 @@
 	}
 	"TF_DEMOMAN_DESTROY_BUILDINGS_WITH_MEDIC_Desc"
 	{
-		"nl"	"Vernietig 5 bouwsels van vijandelijke Engineers tijdens één enkele überlading van een Medic."
+		"nl"	"Vernietig 5 bouwsels van vijandelijke Engineers tijdens Ã©Ã©n enkele Ã¼berlading van een Medic."
 	}
 	"TF_DEMOMAN_DECAPITATE_CLOAKED_SPY_Title"
 	{
@@ -2358,7 +2374,7 @@
 	}
 	"TF_DEMOMAN_KILL_TWO_DURING_STICKYJUMP_Desc"
 	{
-		"nl"	"Dood 2 mensen met één kleefbomsprong."
+		"nl"	"Dood 2 mensen met Ã©Ã©n kleefbomsprong."
 	}
 	"TF_DEMOMAN_KILL_PLAYER_AFTER_TP_Title"
 	{
@@ -2398,7 +2414,7 @@
 	}
 	"TF_DEMOMAN_KILL_ENGI_SENTRY_DISPENSER_Desc"
 	{
-		"nl"	"Blaas met één kleefbom een Engineer, zijn sentrygun en zijn dispenser op."
+		"nl"	"Blaas met Ã©Ã©n kleefbom een Engineer, zijn sentrygun en zijn dispenser op."
 	}
 	"TF_DEMOMAN_DECAPITATE_EQUALIZER_Title"
 	{
@@ -2410,7 +2426,7 @@
 	}
 	"TF_DEMOMAN_DECAPITATE_NEMESIS_Title"
 	{
-		"nl"	"Er kan er maar één zijn"
+		"nl"	"Er kan er maar Ã©Ã©n zijn"
 	}
 	"TF_DEMOMAN_DECAPITATE_NEMESIS_Desc"
 	{
@@ -2430,7 +2446,7 @@
 	}
 	"TF_DEMOMAN_KILL_X_CAPPING_ONEDET_Desc"
 	{
-		"nl"	"Dood drie afzonderlijke keren met één enkele kleefbomexplosie 3 vijanden terwijl die bezig zijn met een verovering of een wagen voortduwen."
+		"nl"	"Dood drie afzonderlijke keren met Ã©Ã©n enkele kleefbomexplosie 3 vijanden terwijl die bezig zijn met een verovering of een wagen voortduwen."
 	}
 	"TF_DEMOMAN_KILL_X_DEFENDING_Title"
 	{
@@ -2454,7 +2470,7 @@
 	}
 	"TF_DEMOMAN_KILL_X_HEAVIES_FULLHP_ONEDET_Desc"
 	{
-		"nl"	"Dood met één enkele kleefbomexplosie 5 Heavy's die volledige gezondheid hebben."
+		"nl"	"Dood met Ã©Ã©n enkele kleefbomexplosie 5 Heavy's die volledige gezondheid hebben."
 	}
 	"TF_DEMOMAN_KILL_X_SCOUTS_PYROS_Title"
 	{
@@ -2550,7 +2566,7 @@
 	}
 	"TF_DEMOMAN_KILL3_WITH_DETONATION_Desc"
 	{
-		"nl"	"Dood minimaal drie spelers met één enkele kleefbomexplosie."
+		"nl"	"Dood minimaal drie spelers met Ã©Ã©n enkele kleefbomexplosie."
 	}
 	"TF_DEMOMAN_KILLXSAPPINGSPIES_Title"
 	{
@@ -2592,20 +2608,308 @@
 	{
 		"nl"	"Behaal 17 prestaties in het Demoman pack."
 	}
-	"TF_SPY_TAUNT_KILL_Title"
+	"TF_ENGINEER_ACHIEVE_PROGRESS1_Title"
 	{
-		"nl"	"Een gaatje hier en daar"
+		"nl"	"Engineer-mijlpaal 1"
 	}
-	"TF_SPY_TAUNT_KILL_Desc"
+	"TF_ENGINEER_ACHIEVE_PROGRESS1_Desc"
 	{
-		"nl"	"Steek een vijand tijdens een portje schermen."
+		"nl"	"Behaal 5 prestaties in het Engineer pack."
 	}
-	"TF_SPY_FAST_CAP_Title"
+	"TF_ENGINEER_ACHIEVE_PROGRESS2_Title"
 	{
-		"nl"	"Per expresse"
+		"nl"	"Engineer-mijlpaal 2"
 	}
-	"TF_SPY_FAST_CAP_Desc"
+	"TF_ENGINEER_ACHIEVE_PROGRESS2_Desc"
 	{
-		"nl"	"Begin met de verovering van een post binnen een seconde nadat deze beschikbaar is geworden."
+		"nl"	"Behaal 11 prestaties in het Engineer pack."
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS3_Title"
+	{
+		"nl"	"Engineer-mijlpaal 3"
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS3_Desc"
+	{
+		"nl"	"Behaal 17 prestaties in het Engineer pack."
+	}
+	"TF_ENGINEER_TELEPORT_GRIND_Title"
+	{
+		"nl"	"Doordouwer"
+	}
+	"TF_ENGINEER_TELEPORT_GRIND_Desc"
+	{
+		"nl"	"Teleporteer 100 teamleden naar de strijd."
+	}
+	"TF_ENGINEER_DISPENSER_EXTINGUISH_Title"
+	{
+		"nl"	"Afgemat en uitgeblust"
+	}
+	"TF_ENGINEER_DISPENSER_EXTINGUISH_Desc"
+	{
+		"nl"	"Laat door jou gebouwde dispensers 20 brandende spelers blussen."
+	}
+	"TF_ENGINEER_REVENGE_CRIT_SENTRY_KILLER_Title"
+	{
+		"nl"	"Revengineering"
+	}
+	"TF_ENGINEER_REVENGE_CRIT_SENTRY_KILLER_Desc"
+	{
+		"nl"	"Gebruik een revenge crit om de vijandelijke speler die jouw sentrygun heeft vernield te doden."
+	}
+	"TF_ENGINEER_MANUAL_CLOAKED_SPY_KILL_Title"
+	{
+		"nl"	"Zoekmachine"
+	}
+	"TF_ENGINEER_MANUAL_CLOAKED_SPY_KILL_Desc"
+	{
+		"nl"	"Dood 3 vermomde Spy's met een sentrygun die door je Wrangler wordt bestuurd."
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_KILLS_BEYOND_RANGE_Title"
+	{
+		"nl"	"Buiten en toch binnen bereik"
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_KILLS_BEYOND_RANGE_Desc"
+	{
+		"nl"	"Dood 10 vijanden buiten het standaardbereik van een sentrygun door de Wrangler te gebruiken."
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_ABSORB_DMG_Title"
+	{
+		"nl"	"Bouwstenen"
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_ABSORB_DMG_Desc"
+	{
+		"nl"	"Laat een sentry die wordt beschermd door de Wrangler 500 schadepunten opvangen zonder te worden vernietigd."
+	}
+	"TF_ENGINEER_REVENGE_CRIT_LIFE_Title"
+	{
+		"nl"	"Rancuneus"
+	}
+	"TF_ENGINEER_REVENGE_CRIT_LIFE_Desc"
+	{
+		"nl"	"Dood 3 vijanden met revenge crits zonder dood te gaan."
+	}
+	"TF_ENGINEER_KILL_SPY_TWO_SAPPERS_Title"
+	{
+		"nl"	"Haast is geboden"
+	}
+	"TF_ENGINEER_KILL_SPY_TWO_SAPPERS_Desc"
+	{
+		"nl"	"Dood een Spy en twee Sappers binnen 10 seconden."
+	}
+	"TF_ENGINEER_KILL_DISGUISED_SPY_Title"
+	{
+		"nl"	"Naar de malle moeren"
+	}
+	"TF_ENGINEER_KILL_DISGUISED_SPY_Desc"
+	{
+		"nl"	"Dood een vermomde Spy met je moersleutel."
+	}
+	"TF_ENGINEER_UPGRADE_BUILDINGS_Title"
+	{
+		"nl"	"In de bouw"
+	}
+	"TF_ENGINEER_UPGRADE_BUILDINGS_Desc"
+	{
+		"nl"	"Upgrade 50 bouwsels die door andere teamleden zijn gemaakt."
+	}
+	"TF_ENGINEER_DESTROY_SAPPERS_Title"
+	{
+		"nl"	"Sapperdeflap"
+	}
+	"TF_ENGINEER_DESTROY_SAPPERS_Desc"
+	{
+		"nl"	"Vernietig 25 Sappers op bouwsels die door andere teamleden zijn gemaakt."
+	}
+	"TF_ENGINEER_REPAIR_SENTRY_W_MEDIC_Title"
+	{
+		"nl"	"Alles tegelijk"
+	}
+	"TF_ENGINEER_REPAIR_SENTRY_W_MEDIC_Desc"
+	{
+		"nl"	"Repareer een sentrygun die wordt bestookt terwijl je wordt genezen door een Medic."
+	}
+	"TF_ENGINEER_SENTRY_KILL_LIFETIME_GRIND_Title"
+	{
+		"nl"	"Slachthuis blues"
+	}
+	"TF_ENGINEER_SENTRY_KILL_LIFETIME_GRIND_Desc"
+	{
+		"nl"	"Dood 5000 mensen met je sentryguns."
+	}
+	"TF_ENGINEER_SENTRY_AVENGES_YOU_Title"
+	{
+		"nl"	"Boontje komt om zijn loontje"
+	}
+	"TF_ENGINEER_SENTRY_AVENGES_YOU_Desc"
+	{
+		"nl"	"Laat je sentrygun binnen 10 seconden de vijand doden die jou net heeft gedood."
+	}
+	"TF_ENGINEER_FREEZECAM_TAUNT_Title"
+	{
+		"nl"	"Zes-snaren-sneer"
+	}
+	"TF_ENGINEER_FREEZECAM_TAUNT_Desc"
+	{
+		"nl"	"Laat een vijand een freezecam-afbeelding zien van je gitaarkunsten."
+	}
+	"TF_ENGINEER_FREEZECAM_SENTRY_Title"
+	{
+		"nl"	"Grofweg grappig"
+	}
+	"TF_ENGINEER_FREEZECAM_SENTRY_Desc"
+	{
+		"nl"	"Laat een vijand een freezecam-afbeelding zien van jou en de sentry die hem zojuist heeft gedood."
+	}
+	"TF_ENGINEER_SHOTGUN_KILL_PREV_SENTRY_TARGET_Title"
+	{
+		"nl"	"Stap voor stap"
+	}
+	"TF_ENGINEER_SHOTGUN_KILL_PREV_SENTRY_TARGET_Desc"
+	{
+		"nl"	"Gebruik je shotgun om een vijand af te maken die net is verwond door je sentrygun."
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GROUP_Title"
+	{
+		"nl"	"Dokter dispenser"
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GROUP_Desc"
+	{
+		"nl"	"Laat een dispenser 3 teamleden tegelijkertijd genezen."
+	}
+	"TF_ENGINEER_SENTRY_KILL_CAPS_Title"
+	{
+		"nl"	"Niemandsland"
+	}
+	"TF_ENGINEER_SENTRY_KILL_CAPS_Desc"
+	{
+		"nl"	"Gebruik een sentrygun om 25 vijanden te doden die een controlepost aan het innemen zijn."
+	}
+	"TF_ENGINEER_KILL_FLAG_CARRIERS_Title"
+	{
+		"nl"	"Vakgeheim"
+	}
+	"TF_ENGINEER_KILL_FLAG_CARRIERS_Desc"
+	{
+		"nl"	"Dood 20 spelers die met vijandelijke inlichtingen rondlopen."
+	}
+	"TF_ENGINEER_WASTE_METAL_GRIND_Title"
+	{
+		"nl"	"Death Metal"
+	}
+	"TF_ENGINEER_WASTE_METAL_GRIND_Desc"
+	{
+		"nl"	"Raap 10.000 aan afvalmetaal op afkomstig van vernielde bouwsels."
+	}
+	"TF_ENGINEER_HELP_BUILD_STRUCTURE_Title"
+	{
+		"nl"	"Helpende hand"
+	}
+	"TF_ENGINEER_HELP_BUILD_STRUCTURE_Desc"
+	{
+		"nl"	"Help een teamgenoot een bouwsel te maken."
+	}
+	"TF_ENGINEER_REMOVE_SAPPER_LONG_DIST_Title"
+	{
+		"nl"	"Onvriendelijke vriend"
+	}
+	"TF_ENGINEER_REMOVE_SAPPER_LONG_DIST_Desc"
+	{
+		"nl"	"Zorg dat er een sapper op je bouwsel komt en haal hem vervolgens weer weg terwijl je op een paar meter afstand staat."
+	}
+	"TF_ENGINEER_DESTROY_STICKIES_Title"
+	{
+		"nl"	"Kleefkracht"
+	}
+	"TF_ENGINEER_DESTROY_STICKIES_Desc"
+	{
+		"nl"	"Vernietig 50 vijandelijke kleefbommen die binnen het bereik van je bouwsels liggen."
+	}
+	"TF_ENGINEER_TAUNT_KILL_Title"
+	{
+		"nl"	"Agressieve akkoorden"
+	}
+	"TF_ENGINEER_TAUNT_KILL_Desc"
+	{
+		"nl"	"Sla de schedel van een vijand in met je gitaar."
+	}
+	"TF_ENGINEER_KILL_SNIPERS_SENTRY_Title"
+	{
+		"nl"	"Snipers snappen"
+	}
+	"TF_ENGINEER_KILL_SNIPERS_SENTRY_Desc"
+	{
+		"nl"	"Dood 10 Snipers met een sentrygun die door je Wrangler wordt bestuurd."
+	}
+	"TF_ENGINEER_HELP_MANUAL_SENTRY_Title"
+	{
+		"nl"	"Het zit hem in herhaling"
+	}
+	"TF_ENGINEER_HELP_MANUAL_SENTRY_Desc"
+	{
+		"nl"	"Voer 50 reparaties uit op een sentrygun die wordt bestuurd door de Wrangler van een andere Engineer en/of herlaad deze sentrygun 50 keer."
+	}
+	"TF_ENGINEER_KILL_SENTRY_WITH_SENTRY_Title"
+	{
+		"nl"	"Patentbescherming"
+	}
+	"TF_ENGINEER_KILL_SENTRY_WITH_SENTRY_Desc"
+	{
+		"nl"	"Vernietig de sentrygun van een vijandelijke Engineer met een sentrygun die door je Wrangler wordt bestuurd."
+	}
+	"TF_ENGINEER_MOVE_SENTRY_GET_KILL_Title"
+	{
+		"nl"	"Een slepende tragedie"
+	}
+	"TF_ENGINEER_MOVE_SENTRY_GET_KILL_Desc"
+	{
+		"nl"	"Sleep een level 3 sentrygun naar een positie waar deze kort na activering een vijand doodt."
+	}
+	"TF_ENGINEER_BUILDING_CARRY_Title"
+	{
+		"nl"	"Texas Ranger"
+	}
+	"TF_ENGINEER_BUILDING_CARRY_Desc"
+	{
+		"nl"	"Sleep bouwsels 1 km tijdens je leven."
+	}
+	"TF_ENGINEER_KILL_ASSIST_Title"
+	{
+		"nl"	"Gedelegeerd"
+	}
+	"TF_ENGINEER_KILL_ASSIST_Desc"
+	{
+		"nl"	"Krijg 10 assists met een andere Engineer waarbij een sentrygun heeft meegeholpen aan het toebrengen van schade."
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GRIND_Title"
+	{
+		"nl"	"Abnormale apotheek"
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GRIND_Desc"
+	{
+		"nl"	"Laat dispensers die jij hebt gemaakt in totaal 100.000 aan gezondheid weggeven tijdens je leven."
+	}
+	"TF_ENGINEER_REPAIR_TEAM_GRIND_Title"
+	{
+		"nl"	"Klusjesman"
+	}
+	"TF_ENGINEER_REPAIR_TEAM_GRIND_Desc"
+	{
+		"nl"	"Repareer 50.000 schade aan bouwsels die door bevriende spelers zijn gemaakt."
+	}
+	"TF_ENGINEER_TANK_DAMAGE_Title"
+	{
+		"nl"	"Dragende constructie"
+	}
+	"TF_ENGINEER_TANK_DAMAGE_Desc"
+	{
+		"nl"	"Laat een bouwsel 2000 aan schade overleven zonder te worden vernietigd."
+	}
+	"TF_ENGINEER_HEAVY_ASSIST_Title"
+	{
+		"nl"	"Zwaar op de hand"
+	}
+	"TF_ENGINEER_HEAVY_ASSIST_Desc"
+	{
+		"nl"	"Voorzie een Heavy van gezondheid met je dispenser terwijl hij 5 spelers doodt."
 	}
 }

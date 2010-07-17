@@ -1,0 +1,2915 @@
+﻿"Phrases"
+{
+	"TF_GET_TURRETKILLS_Title"
+	{
+		"chi"	"哨戒炮手"
+	}
+	"TF_GET_TURRETKILLS_Desc"
+	{
+		"chi"	"一个哨戒炮累积 10 次歼敌。"
+	}
+	"TF_KILL_NEMESIS_Title"
+	{
+		"chi"	"复仇者"
+	}
+	"TF_KILL_NEMESIS_Desc"
+	{
+		"chi"	"得到五次复仇杀敌机会。"
+	}
+	"TF_GET_CONSECUTIVEKILLS_NODEATHS_Title"
+	{
+		"chi"	"猛杀"
+	}
+	"TF_GET_CONSECUTIVEKILLS_NODEATHS_Desc"
+	{
+		"chi"	"连续杀死五次敌人而自己不死。"
+	}
+	"TF_GET_HEALED_BYENEMY_Title"
+	{
+		"chi"	"伪装大师"
+	}
+	"TF_GET_HEALED_BYENEMY_Desc"
+	{
+		"chi"	"欺骗对方 Medic 为您治疗。"
+	}
+	"TF_GET_HEADSHOTS_Title"
+	{
+		"chi"	"灰质"
+	}
+	"TF_GET_HEADSHOTS_Desc"
+	{
+		"chi"	"作为 Sniper 时获得 25 次爆头机会。"
+	}
+	"TF_PLAY_GAME_FRIENDSONLY_Title"
+	{
+		"chi"	"与这样的队友游戏..."
+	}
+	"TF_PLAY_GAME_FRIENDSONLY_Desc"
+	{
+		"chi"	"所玩游戏包含好友列表中的 7 个或更多朋友"
+	}
+	"TF_WIN_MULTIPLEGAMES_Title"
+	{
+		"chi"	"王朝"
+	}
+	"TF_WIN_MULTIPLEGAMES_Desc"
+	{
+		"chi"	"赢 20 场游戏。"
+	}
+	"TF_GET_MULTIPLEKILLS_Title"
+	{
+		"chi"	"中坚份子"
+	}
+	"TF_GET_MULTIPLEKILLS_Desc"
+	{
+		"chi"	"总计累积 1000 次杀死敌人。"
+	}
+	"TF_WIN_2FORT_NOENEMYCAPS_Title"
+	{
+		"chi"	"超能进攻"
+	}
+	"TF_WIN_2FORT_NOENEMYCAPS_Desc"
+	{
+		"chi"	"抑制对方赢得 2Fort。"
+	}
+	"TF_WIN_WELL_MINIMUMTIME_Title"
+	{
+		"chi"	"闪电进攻"
+	}
+	"TF_WIN_WELL_MINIMUMTIME_Desc"
+	{
+		"chi"	"在 5 分钟或更短时间内赢得 Well。"
+	}
+	"TF_WIN_HYDRO_NOENEMYCAPS_Title"
+	{
+		"chi"	"冷酷进攻"
+	}
+	"TF_WIN_HYDRO_NOENEMYCAPS_Desc"
+	{
+		"chi"	"未丧失任何据点而赢得 Hydro。"
+	}
+	"TF_WIN_DUSTBOWL_NOENEMYCAPS_Title"
+	{
+		"chi"	"钢铁防御"
+	}
+	"TF_WIN_DUSTBOWL_NOENEMYCAPS_Desc"
+	{
+		"chi"	"未丧失任何据点而成功守住 Dustbowl。"
+	}
+	"TF_WIN_GRAVELPIT_NOENEMYCAPS_Title"
+	{
+		"chi"	"不可能的防御"
+	}
+	"TF_WIN_GRAVELPIT_NOENEMYCAPS_Desc"
+	{
+		"chi"	"未丧失任何据点而成功守住 Gravel Pit。"
+	}
+	"TF_PLAY_GAME_EVERYCLASS_Title"
+	{
+		"chi"	"兵种首领"
+	}
+	"TF_PLAY_GAME_EVERYCLASS_Desc"
+	{
+		"chi"	"每个兵种都玩一整个回合。"
+	}
+	"TF_PLAY_GAME_EVERYMAP_Title"
+	{
+		"chi"	"世界旅行者"
+	}
+	"TF_PLAY_GAME_EVERYMAP_Desc"
+	{
+		"chi"	"在 2Fort、Dustbowl、Granary、Gravel Pit、Hydro 和 Well (CP) 上玩完整的游戏。"
+	}
+	"TF_GET_HEALPOINTS_Title"
+	{
+		"chi"	"团队医生"
+	}
+	"TF_GET_HEALPOINTS_Desc"
+	{
+		"chi"	"作为 Medic 时累积 25000 点生命值。"
+	}
+	"TF_BURN_PLAYERSINMINIMUMTIME_Title"
+	{
+		"chi"	"火焰喷射器"
+	}
+	"TF_BURN_PLAYERSINMINIMUMTIME_Desc"
+	{
+		"chi"	"30 秒内烧死五个敌人。"
+	}
+	"TF_MEDIC_TOP_SCOREBOARD_Title"
+	{
+		"chi"	"善待彼此"
+	}
+	"TF_MEDIC_TOP_SCOREBOARD_Desc"
+	{
+		"chi"	"在整个回合内未杀死任何敌人，并在 6 人或更多玩家的团队中得分最高。"
+	}
+	"TF_MEDIC_HEAL_UNDER_FIRE_Title"
+	{
+		"chi"	"四面受敌"
+	}
+	"TF_MEDIC_HEAL_UNDER_FIRE_Desc"
+	{
+		"chi"	"治疗一次被四个敌人夹击的队友。"
+	}
+	"TF_MEDIC_SIMUL_CHARGE_Title"
+	{
+		"chi"	"团队治疗"
+	}
+	"TF_MEDIC_SIMUL_CHARGE_Desc"
+	{
+		"chi"	"与其他 2 名 Medic 合作同时部署 3 个超级冲锋。"
+	}
+	"TF_MEDIC_SETUP_CHARGE_Title"
+	{
+		"chi"	"外科准备"
+	}
+	"TF_MEDIC_SETUP_CHARGE_Desc"
+	{
+		"chi"	"在准备阶段结束前将超级冲锋准备就绪。"
+	}
+	"TF_MEDIC_RAPID_CHARGE_Title"
+	{
+		"chi"	"疗伤女王"
+	}
+	"TF_MEDIC_RAPID_CHARGE_Desc"
+	{
+		"chi"	"在不超过 5 分钟内部署 3 个超级冲锋，并在该时间内辅助完成 5 次歼敌。"
+	}
+	"TF_MEDIC_COUNTER_CHARGE_Title"
+	{
+		"chi"	"双盲试验"
+	}
+	"TF_MEDIC_COUNTER_CHARGE_Desc"
+	{
+		"chi"	"在敌方 Medic 部署完超级冲锋后 8 秒内在附近部署您的超级冲锋。"
+	}
+	"TF_MEDIC_SWITCH_TO_MEDIC_Title"
+	{
+		"chi"	"扮演医生"
+	}
+	"TF_MEDIC_SWITCH_TO_MEDIC_Desc"
+	{
+		"chi"	"在没有 Medic 的队中，在队友呼叫“Medic！”后第一时间转换为 Medic，然后补充 500 生命值。"
+	}
+	"TF_MEDIC_SAVE_TEAMMATE_Title"
+	{
+		"chi"	"治疗类选"
+	}
+	"TF_MEDIC_SAVE_TEAMMATE_Desc"
+	{
+		"chi"	"在队友被致命爆炸击中前迅速为队友部署超级冲锋。"
+	}
+	"TF_MEDIC_CHARGE_BLOCKER_Title"
+	{
+		"chi"	"预防药物"
+	}
+	"TF_MEDIC_CHARGE_BLOCKER_Desc"
+	{
+		"chi"	"使用超级冲锋帮助队友组织敌人占领控制点。"
+	}
+	"TF_MEDIC_ASSIST_MEDIC_Title"
+	{
+		"chi"	"会诊治疗"
+	}
+	"TF_MEDIC_ASSIST_MEDIC_Desc"
+	{
+		"chi"	"辅助 Medic 同伴在一次生命中歼敌 5 次。"
+	}
+	"TF_MEDIC_SYRINGE_SCOUTS_Title"
+	{
+		"chi"	"这样会造成伤害吗？"
+	}
+	"TF_MEDIC_SYRINGE_SCOUTS_Desc"
+	{
+		"chi"	"用您的注射枪消灭 50 名侦察兵。"
+	}
+	"TF_MEDIC_BONESAW_MEDICS_Title"
+	{
+		"chi"	"同行交手"
+	}
+	"TF_MEDIC_BONESAW_MEDICS_Desc"
+	{
+		"chi"	"用您的骨锯消灭 50 名 Medic。"
+	}
+	"TF_MEDIC_ASSIST_HEAVY_LONG_Title"
+	{
+		"chi"	"治疗大师"
+	}
+	"TF_MEDIC_ASSIST_HEAVY_LONG_Desc"
+	{
+		"chi"	"辅助 Heavy 消灭 20 名敌人，而自己没有死。"
+	}
+	"TF_MEDIC_ASSIST_SCOUT_Title"
+	{
+		"chi"	"您会感到有些刺痛"
+	}
+	"TF_MEDIC_ASSIST_SCOUT_Desc"
+	{
+		"chi"	"用一次超级冲锋辅助侦察兵击杀 3 名敌人。"
+	}
+	"TF_MEDIC_ASSIST_PYRO_Title"
+	{
+		"chi"	"高压釜"
+	}
+	"TF_MEDIC_ASSIST_PYRO_Desc"
+	{
+		"chi"	"使用 Pyro 上的一个超级冲锋辅助爆破消灭 5 名敌人。"
+	}
+	"TF_MEDIC_ASSIST_HEAVY_Title"
+	{
+		"chi"	"钝击伤"
+	}
+	"TF_MEDIC_ASSIST_HEAVY_Desc"
+	{
+		"chi"	"使用 Heavy 上的一个超级冲锋辅助攻击 2 名敌人。"
+	}
+	"TF_MEDIC_ASSIST_DEMOMAN_Title"
+	{
+		"chi"	"医疗突破"
+	}
+	"TF_MEDIC_ASSIST_DEMOMAN_Desc"
+	{
+		"chi"	"使用一个超级冲锋辅助爆破手摧毁 5 座敌方建筑。"
+	}
+	"TF_MEDIC_ASSIST_SOLDIER_Title"
+	{
+		"chi"	"爆破助手"
+	}
+	"TF_MEDIC_ASSIST_SOLDIER_Desc"
+	{
+		"chi"	"使用一个超级冲锋辅助 Soldier 爆破消灭 5 名敌人。"
+	}
+	"TF_MEDIC_HEAL_ENGINEER_Title"
+	{
+		"chi"	"共渡难关"
+	}
+	"TF_MEDIC_HEAL_ENGINEER_Desc"
+	{
+		"chi"	"治疗处于敌人火力之下的工程师，辅助他修复哨戒炮。"
+	}
+	"TF_MEDIC_ASSIST_CAPTURER_Title"
+	{
+		"chi"	"团结制胜"
+	}
+	"TF_MEDIC_ASSIST_CAPTURER_Desc"
+	{
+		"chi"	"在一次生命中辅助消灭敌方控制点的 5 名敌人。"
+	}
+	"TF_MEDIC_HEAL_CALLERS_Title"
+	{
+		"chi"	"完美回合"
+	}
+	"TF_MEDIC_HEAL_CALLERS_Desc"
+	{
+		"chi"	"治疗 200 名需要 Medic 治疗的队友。"
+	}
+	"TF_MEDIC_EXTINGUISH_TEAMMATES_Title"
+	{
+		"chi"	"内科药物"
+	}
+	"TF_MEDIC_EXTINGUISH_TEAMMATES_Desc"
+	{
+		"chi"	"帮助 100 名燃烧的队友扑灭烈火。"
+	}
+	"TF_MEDIC_ASSIST_VS_NEMESES_Title"
+	{
+		"chi"	"医生辅助歼敌"
+	}
+	"TF_MEDIC_ASSIST_VS_NEMESES_Desc"
+	{
+		"chi"	"辅助消灭 20 名敌人。"
+	}
+	"TF_MEDIC_KILL_WHILE_CHARGED_Title"
+	{
+		"chi"	"安慰剂效果"
+	}
+	"TF_MEDIC_KILL_WHILE_CHARGED_Desc"
+	{
+		"chi"	"在一次生命中消灭 5 名敌人，准备就绪但未部署超级冲锋。"
+	}
+	"TF_MEDIC_BONESAW_NOMISSES_Title"
+	{
+		"chi"	"外科医生"
+	}
+	"TF_MEDIC_BONESAW_NOMISSES_Desc"
+	{
+		"chi"	"连续 5 次用您的骨锯痛击敌人，而自己仍然活着并且没有失手。"
+	}
+	"TF_MEDIC_HEAL_LARGE_Title"
+	{
+		"chi"	"实习医师"
+	}
+	"TF_MEDIC_HEAL_LARGE_Desc"
+	{
+		"chi"	"在一次生命中累积 7000 点治疗积分。"
+	}
+	"TF_MEDIC_HEAL_HUGE_Title"
+	{
+		"chi"	"专门医师"
+	}
+	"TF_MEDIC_HEAL_HUGE_Desc"
+	{
+		"chi"	"在一次生命中累积 10000 点治疗积分。"
+	}
+	"TF_MEDIC_HEAL_GRIND_Title"
+	{
+		"chi"	"参谋长"
+	}
+	"TF_MEDIC_HEAL_GRIND_Desc"
+	{
+		"chi"	"累积 100 万点总治疗积分。"
+	}
+	"TF_MEDIC_KILL_HEALED_SPY_Title"
+	{
+		"chi"	"伪善宣言"
+	}
+	"TF_MEDIC_KILL_HEALED_SPY_Desc"
+	{
+		"chi"	"杀死您正在治疗的敌方 Spy。"
+	}
+	"TF_MEDIC_SAVE_FALLING_TEAMMATE_Title"
+	{
+		"chi"	"药物干涉"
+	}
+	"TF_MEDIC_SAVE_FALLING_TEAMMATE_Desc"
+	{
+		"chi"	"挽救濒临死亡的队友。"
+	}
+	"TF_MEDIC_CHARGE_JUGGLE_Title"
+	{
+		"chi"	"第二选择"
+	}
+	"TF_MEDIC_CHARGE_JUGGLE_Desc"
+	{
+		"chi"	"同时对 2 名队友运用超级冲锋。"
+	}
+	"TF_MEDIC_FREEZECAM_RAGDOLL_Title"
+	{
+		"chi"	"尸检报告"
+	}
+	"TF_MEDIC_FREEZECAM_RAGDOLL_Desc"
+	{
+		"chi"	"从敌人的视角锁定镜头，让您观看您将他们击倒的瞬间。"
+	}
+	"TF_MEDIC_BONESAW_SPY_CALLERS_Title"
+	{
+		"chi"	"听好了，我是 Medic"
+	}
+	"TF_MEDIC_BONESAW_SPY_CALLERS_Desc"
+	{
+		"chi"	"使用你的骨锯消灭 5 名一直呼叫“Medic!”的 Spy。"
+	}
+	"TF_MEDIC_CHARGE_FRIENDS_Title"
+	{
+		"chi"	"全科医疗"
+	}
+	"TF_MEDIC_CHARGE_FRIENDS_Desc"
+	{
+		"chi"	"为你的 10 位社区好友运用超级冲锋。"
+	}
+	"TF_MEDIC_INVITE_JOIN_CHARGE_Title"
+	{
+		"chi"	"出诊"
+	}
+	"TF_MEDIC_INVITE_JOIN_CHARGE_Desc"
+	{
+		"chi"	"加入你的好友所在的游戏，并为他运用超级冲锋。"
+	}
+	"TF_MEDIC_HEAL_ACHIEVER_Title"
+	{
+		"chi"	"问诊"
+	}
+	"TF_MEDIC_HEAL_ACHIEVER_Desc"
+	{
+		"chi"	"治疗队友帮助其获得优秀的个人成绩。"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS1_Title"
+	{
+		"chi"	"Medic 里程碑 1"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS1_Desc"
+	{
+		"chi"	"在 Medic 配置中赢得 10 项记录。"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS2_Title"
+	{
+		"chi"	"Medic 里程碑 2"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS2_Desc"
+	{
+		"chi"	"在 Medic 配置中赢得 16 项记录。"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS3_Title"
+	{
+		"chi"	"Medic 里程碑 3"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS3_Desc"
+	{
+		"chi"	"在 Medic 配置中赢得 22 项记录。"
+	}
+	"TF_PYRO_KILL_MULTIWEAPONS_Title"
+	{
+		"chi"	"联合燃烧"
+	}
+	"TF_PYRO_KILL_MULTIWEAPONS_Desc"
+	{
+		"chi"	"用自卫霰弹枪杀死20个被你点燃的玩家."
+	}
+	"TF_PYRO_SIMULBURN_SCOUTS_Title"
+	{
+		"chi"	"烤火腿"
+	}
+	"TF_PYRO_SIMULBURN_SCOUTS_Desc"
+	{
+		"chi"	"同时点燃两个敌方侦察兵。"
+	}
+	"TF_PYRO_FORCE_WATERJUMP_Title"
+	{
+		"chi"	"火的洗礼"
+	}
+	"TF_PYRO_FORCE_WATERJUMP_Desc"
+	{
+		"chi"	"迫使 10 个被点燃的敌人跳入水中。"
+	}
+	"TF_PYRO_KILL_POSTDEATH_Title"
+	{
+		"chi"	"燃烧遗忘"
+	}
+	"TF_PYRO_KILL_POSTDEATH_Desc"
+	{
+		"chi"	"一次不死干掉 15 个玩家。"
+	}
+	"TF_PYRO_KILL_SPIES_Title"
+	{
+		"chi"	"防火墙"
+	}
+	"TF_PYRO_KILL_SPIES_Desc"
+	{
+		"chi"	"点燃 5 个在友方工程上放置了电子工兵的 Spy。"
+	}
+	"TF_PYRO_KILL_CARRIERS_Title"
+	{
+		"chi"	"文件烧烤"
+	}
+	"TF_PYRO_KILL_CARRIERS_Desc"
+	{
+		"chi"	"点燃 5 个拿着你方情报的敌人。"
+	}
+	"TF_PYRO_REVEAL_SPIES_Title"
+	{
+		"chi"	"条件反射"
+	}
+	"TF_PYRO_REVEAL_SPIES_Desc"
+	{
+		"chi"	"点燃 10 个隐身的 Spy。"
+	}
+	"TF_PYRO_CAMP_TELEPORTERS_Title"
+	{
+		"chi"	"叠罗汉"
+	}
+	"TF_PYRO_CAMP_TELEPORTERS_Desc"
+	{
+		"chi"	"点燃 10 个用了传送的敌人。"
+	}
+	"TF_PYRO_CAMP_POSITION_Title"
+	{
+		"chi"	"集体燃烧"
+	}
+	"TF_PYRO_CAMP_POSITION_Desc"
+	{
+		"chi"	"在同一地点，连续杀死 3 个敌人。"
+	}
+	"TF_PYRO_KILL_AXE_SMALL_Title"
+	{
+		"chi"	"伐木高手"
+	}
+	"TF_PYRO_KILL_AXE_SMALL_Desc"
+	{
+		"chi"	"在一次生命内用你的斧头杀死 3 个敌人。"
+	}
+	"TF_PYRO_KILL_AXE_LARGE_Title"
+	{
+		"chi"	"干净切割"
+	}
+	"TF_PYRO_KILL_AXE_LARGE_Desc"
+	{
+		"chi"	"在一次生命内用你的斧头杀死 6 个敌人。"
+	}
+	"TF_PYRO_KILL_FROM_BEHIND_Title"
+	{
+		"chi"	"背后着火"
+	}
+	"TF_PYRO_KILL_FROM_BEHIND_Desc"
+	{
+		"chi"	"用喷火枪杀死 50 个敌人，要从敌人身后。"
+	}
+	"TF_PYRO_BURN_SPIES_AS_YOU_Title"
+	{
+		"chi"	"我油炸你"
+	}
+	"TF_PYRO_BURN_SPIES_AS_YOU_Desc"
+	{
+		"chi"	"点燃 10 个伪装着的 Spy。"
+	}
+	"TF_PYRO_BURN_SNIPERS_ZOOMED_Title"
+	{
+		"chi"	"狙击观察"
+	}
+	"TF_PYRO_BURN_SNIPERS_ZOOMED_Desc"
+	{
+		"chi"	"点燃 10 个正开着瞄准镜的 Sniper。"
+	}
+	"TF_PYRO_BURN_MEDICS_CHARGED_Title"
+	{
+		"chi"	"把受伤者烧死"
+	}
+	"TF_PYRO_BURN_MEDICS_CHARGED_Desc"
+	{
+		"chi"	"点燃 3 个已经准备好部署超级冲锋的 Medic。"
+	}
+	"TF_PYRO_REFLECT_PROJECTILES_Title"
+	{
+		"chi"	"热土豆"
+	}
+	"TF_PYRO_REFLECT_PROJECTILES_Desc"
+	{
+		"chi"	"反弹 100 个炮弹。"
+	}
+	"TF_PYRO_KILL_HEAVIES_Title"
+	{
+		"chi"	"煮肉"
+	}
+	"TF_PYRO_KILL_HEAVIES_Desc"
+	{
+		"chi"	"用喷火器杀死 50 个敌人。"
+	}
+	"TF_PYRO_KILL_UNDERWATER_Title"
+	{
+		"chi"	"B 计划"
+	}
+	"TF_PYRO_KILL_UNDERWATER_Desc"
+	{
+		"chi"	"杀死 10 个和你一样在水中的敌人。"
+	}
+	"TF_PYRO_KILL_UBERCHARGE_Title"
+	{
+		"chi"	"烧烤工程"
+	}
+	"TF_PYRO_KILL_UBERCHARGE_Desc"
+	{
+		"chi"	"在一个超级冲锋中杀死 3 名敌人。"
+	}
+	"TF_PYRO_DESTROY_BUILDINGS_Title"
+	{
+		"chi"	"纵火犯"
+	}
+	"TF_PYRO_DESTROY_BUILDINGS_Desc"
+	{
+		"chi"	"摧毁 50 个工程建筑。"
+	}
+	"TF_PYRO_DEFEND_POINTS_Title"
+	{
+		"chi"	"节制点火"
+	}
+	"TF_PYRO_DEFEND_POINTS_Desc"
+	{
+		"chi"	"在你方的控制点上点燃 50 个敌人。"
+	}
+	"TF_PYRO_KILL_GRIND_Title"
+	{
+		"chi"	"炭烧战士"
+	}
+	"TF_PYRO_KILL_GRIND_Desc"
+	{
+		"chi"	"干掉 500 个敌人。"
+	}
+	"TF_PYRO_DAMAGE_GRIND_Title"
+	{
+		"chi"	"炭烧司令"
+	}
+	"TF_PYRO_DAMAGE_GRIND_Desc"
+	{
+		"chi"	"造成 100 万的火焰伤害。"
+	}
+	"TF_PYRO_BURN_MEDICPAIR_Title"
+	{
+		"chi"	"下一个是谁"
+	}
+	"TF_PYRO_BURN_MEDICPAIR_Desc"
+	{
+		"chi"	"点燃一个正在被敌方 Medic 治疗的敌人。"
+	}
+	"TF_PYRO_KILL_TAUNT_Title"
+	{
+		"chi"	"我的天！不是吧！烧烤大会耶！"
+	}
+	"TF_PYRO_KILL_TAUNT_Desc"
+	{
+		"chi"	"用挑衅动作杀死敌人。"
+	}
+	"TF_PYRO_KILL_TEAMWORK_Title"
+	{
+		"chi"	"深度燃烧并造成心理阴影"
+	}
+	"TF_PYRO_KILL_TEAMWORK_Desc"
+	{
+		"chi"	"杀死一个被其它 Pyro 已经点燃的敌人。"
+	}
+	"TF_PYRO_BURN_SPY_TAUNT_Title"
+	{
+		"chi"	"要点火吗？"
+	}
+	"TF_PYRO_BURN_SPY_TAUNT_Desc"
+	{
+		"chi"	"点燃一个正在弹烟灰的 Spy。"
+	}
+	"TF_PYRO_DOMINATE_LEAVESVR_Title"
+	{
+		"chi"	"烧烤大会"
+	}
+	"TF_PYRO_DOMINATE_LEAVESVR_Desc"
+	{
+		"chi"	"让一个被你控制的玩家离开服务器。"
+	}
+	"TF_PYRO_REFLECT_CROCKET_KILL_Title"
+	{
+		"chi"	"热点烧烤"
+	}
+	"TF_PYRO_REFLECT_CROCKET_KILL_Desc"
+	{
+		"chi"	"反弹一枚爆击火箭弹杀死 Soldier。"
+	}
+	"TF_PYRO_KILL_TAUNTERS_Title"
+	{
+		"chi"	"舞蹈牺牲"
+	}
+	"TF_PYRO_KILL_TAUNTERS_Desc"
+	{
+		"chi"	"杀死 3 个正在挑衅的敌人。"
+	}
+	"TF_PYRO_DOUBLE_KO_Title"
+	{
+		"chi"	"死亡烧烤"
+	}
+	"TF_PYRO_DOUBLE_KO_Desc"
+	{
+		"chi"	"在你死亡的同一秒杀死一名敌人。"
+	}
+	"TF_PYRO_BURN_RJ_SOLDIER_Title"
+	{
+		"chi"	"飞行明灯"
+	}
+	"TF_PYRO_BURN_RJ_SOLDIER_Desc"
+	{
+		"chi"	"点燃一名使用火箭跳跳到空中的Soldier"
+	}
+	"TF_PYRO_FREEZECAM_TAUNTS_Title"
+	{
+		"chi"	"冻灼"
+	}
+	"TF_PYRO_FREEZECAM_TAUNTS_Desc"
+	{
+		"chi"	"给被你杀死的敌人一张签名照。"
+	}
+	"TF_PYRO_KILL_GRIND_LARGE_Title"
+	{
+		"chi"	"炭烧长官"
+	}
+	"TF_PYRO_KILL_GRIND_LARGE_Desc"
+	{
+		"chi"	"干掉 1000 个敌人"
+	}
+	"TF_PYRO_IGNITE_FLAREGUN_Title"
+	{
+		"chi"	"注意力收集者"
+	}
+	"TF_PYRO_IGNITE_FLAREGUN_Desc"
+	{
+		"chi"	"用信号枪点燃 100 个敌人。"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS1_Title"
+	{
+		"chi"	"Pyro 里程碑 1"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS1_Desc"
+	{
+		"chi"	"在 Pyro 配置中赢得 10 项记录。"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS2_Title"
+	{
+		"chi"	"Pyro 里程碑 2"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS2_Desc"
+	{
+		"chi"	"在 Pyro 配置中赢得 16 项记录。"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS3_Title"
+	{
+		"chi"	"Pyro 里程碑 3"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS3_Desc"
+	{
+		"chi"	"在 Pyro 配置中赢得 22 项记录。"
+	}
+	"TF_HEAVY_DAMAGE_TAKEN_Title"
+	{
+		"chi"	"铁幕"
+	}
+	"TF_HEAVY_DAMAGE_TAKEN_Desc"
+	{
+		"chi"	"在一次生命中造成 1000 点伤害。"
+	}
+	"TF_HEAVY_DEFEND_MEDIC_Title"
+	{
+		"chi"	"效忠于党"
+	}
+	"TF_HEAVY_DEFEND_MEDIC_Desc"
+	{
+		"chi"	"3 秒内杀死 50 个在攻击你的 Medic 的敌人。"
+	}
+	"TF_HEAVY_ASSIST_MEDIC_LARGE_Title"
+	{
+		"chi"	"分工"
+	}
+	"TF_HEAVY_ASSIST_MEDIC_LARGE_Desc"
+	{
+		"chi"	"在 Medic 的帮助下杀死 20 个敌人，而你和 Medic 都活着。"
+	}
+	"TF_HEAVY_EARN_MEDIC_DOMINATION_Title"
+	{
+		"chi"	"红色啤酒节"
+	}
+	"TF_HEAVY_EARN_MEDIC_DOMINATION_Desc"
+	{
+		"chi"	"为给你疗伤的 Medic 赢得控制权。"
+	}
+	"TF_HEAVY_KILL_TAUNT_Title"
+	{
+		"chi"	"公开审判"
+	}
+	"TF_HEAVY_KILL_TAUNT_Desc"
+	{
+		"chi"	"用挑衅动作杀死敌人。"
+	}
+	"TF_HEAVY_KILL_FLAG_CARRIERS_Title"
+	{
+		"chi"	"罪与罚"
+	}
+	"TF_HEAVY_KILL_FLAG_CARRIERS_Desc"
+	{
+		"chi"	"杀死 10 个拿着你方情报的敌人。"
+	}
+	"TF_HEAVY_KILL_MEDIC_PAIR_Title"
+	{
+		"chi"	"阶级斗争"
+	}
+	"TF_HEAVY_KILL_MEDIC_PAIR_Desc"
+	{
+		"chi"	"和友好的 Medic 共同杀死敌人的一组 Heavy 和 Medic 组合。"
+	}
+	"TF_HEAVY_BLOCK_INVULN_HEAVY_Title"
+	{
+		"chi"	"苏维埃街区"
+	}
+	"TF_HEAVY_BLOCK_INVULN_HEAVY_Desc"
+	{
+		"chi"	"作好无懈可击的防守的同时，封锁无懈可击的敌人 Heavy 的活动。"
+	}
+	"TF_HEAVY_BLOCK_CART_Title"
+	{
+		"chi"	"斯大林的专车"
+	}
+	"TF_HEAVY_BLOCK_CART_Desc"
+	{
+		"chi"	"阻止敌人移动 25 次战斗车。"
+	}
+	"TF_HEAVY_RECEIVE_UBER_GRIND_Title"
+	{
+		"chi"	"最高苏维埃"
+	}
+	"TF_HEAVY_RECEIVE_UBER_GRIND_Desc"
+	{
+		"chi"	"获得 50 次超级冲锋。"
+	}
+	"TF_HEAVY_STAND_NEAR_DISPENSER_Title"
+	{
+		"chi"	"工厂工人"
+	}
+	"TF_HEAVY_STAND_NEAR_DISPENSER_Desc"
+	{
+		"chi"	"在补给器提供补给的同时杀死 20 个敌人。"
+	}
+	"TF_HEAVY_ASSIST_HEAVY_GRIND_Title"
+	{
+		"chi"	"苏维埃工会"
+	}
+	"TF_HEAVY_ASSIST_HEAVY_GRIND_Desc"
+	{
+		"chi"	"在你帮助另一个 Heavy 或他帮助你的情况下，杀死 25 个敌人。"
+	}
+	"TF_HEAVY_CLEAR_STICKYBOMBS_Title"
+	{
+		"chi"	"领略产品的意义"
+	}
+	"TF_HEAVY_CLEAR_STICKYBOMBS_Desc"
+	{
+		"chi"	"通过杀死制造粘性炸弹的 Demomen，移除 20 枚粘性炸弹。"
+	}
+	"TF_HEAVY_KILL_UNDERWATER_Title"
+	{
+		"chi"	"潜水伊凡"
+	}
+	"TF_HEAVY_KILL_UNDERWATER_Desc"
+	{
+		"chi"	"在你和敌人都在水底的情况下，杀死 100 个敌人。"
+	}
+	"TF_HEAVY_TAKE_MULTI_DAMAGE_Title"
+	{
+		"chi"	"致命普金"
+	}
+	"TF_HEAVY_TAKE_MULTI_DAMAGE_Desc"
+	{
+		"chi"	"在一次生命中，被射击、被火烧、被棒击并受到爆炸伤害。"
+	}
+	"TF_HEAVY_KILL_DOMINATED_Title"
+	{
+		"chi"	"冰冻蛋糕"
+	}
+	"TF_HEAVY_KILL_DOMINATED_Desc"
+	{
+		"chi"	"杀死 20 个你控制下的玩家。"
+	}
+	"TF_HEAVY_SURVIVE_CROCKET_Title"
+	{
+		"chi"	"烂瓦破砖"
+	}
+	"TF_HEAVY_SURVIVE_CROCKET_Desc"
+	{
+		"chi"	"在爆击火箭弹的直接袭击下仍然幸存。"
+	}
+	"TF_HEAVY_ASSIST_GRIND_Title"
+	{
+		"chi"	"收集者"
+	}
+	"TF_HEAVY_ASSIST_GRIND_Desc"
+	{
+		"chi"	"获得 1000 次助攻。"
+	}
+	"TF_HEAVY_UNCOVER_SPIES_Title"
+	{
+		"chi"	"反间唯物主义"
+	}
+	"TF_HEAVY_UNCOVER_SPIES_Desc"
+	{
+		"chi"	"杀死或协助杀死 10 个隐身的 Spy。"
+	}
+	"TF_HEAVY_KILL_WHILE_SPUNUP_Title"
+	{
+		"chi"	"革命永不停息"
+	}
+	"TF_HEAVY_KILL_WHILE_SPUNUP_Desc"
+	{
+		"chi"	"杀死 5 个敌人而不用使你的枪旋转减速。"
+	}
+	"TF_HEAVY_FIRE_LOTS_Title"
+	{
+		"chi"	"重工业"
+	}
+	"TF_HEAVY_FIRE_LOTS_Desc"
+	{
+		"chi"	"在一次生命中燃烧相当于 200,000 美元的迷你枪射发数量。"
+	}
+	"TF_HEAVY_KILL_CRIT_PUNCH_Title"
+	{
+		"chi"	"共产拳击专家"
+	}
+	"TF_HEAVY_KILL_CRIT_PUNCH_Desc"
+	{
+		"chi"	"用重大拳击杀死敌人。"
+	}
+	"TF_HEAVY_HEAL_MEDIKITS_Title"
+	{
+		"chi"	"重新分配生命"
+	}
+	"TF_HEAVY_HEAL_MEDIKITS_Desc"
+	{
+		"chi"	"在一次生命中，使用医药箱治愈 1000 个伤害。"
+	}
+	"TF_HEAVY_KILL_SHOTGUN_Title"
+	{
+		"chi"	"配给"
+	}
+	"TF_HEAVY_KILL_SHOTGUN_Desc"
+	{
+		"chi"	"迷你枪弹药用完时，使用散弹枪杀死敌人。"
+	}
+	"TF_HEAVY_FIRST_TO_CAP_Title"
+	{
+		"chi"	"优秀党员"
+	}
+	"TF_HEAVY_FIRST_TO_CAP_Desc"
+	{
+		"chi"	"是团队中第一个开始夺取回合中的控制点的人。"
+	}
+	"TF_HEAVY_PAYLOAD_CAP_GRIND_Title"
+	{
+		"chi"	"推车诗人"
+	}
+	"TF_HEAVY_PAYLOAD_CAP_GRIND_Desc"
+	{
+		"chi"	"战斗部地图上获得 50 顶帽子。"
+	}
+	"TF_HEAVY_KILL_MIDAIR_MINIGUN_Title"
+	{
+		"chi"	"马列主义者"
+	}
+	"TF_HEAVY_KILL_MIDAIR_MINIGUN_Desc"
+	{
+		"chi"	"使用迷你枪在半空中杀死 10 个敌人。"
+	}
+	"TF_HEAVY_DEFEND_CONTROL_POINT_Title"
+	{
+		"chi"	"格洛克的车位"
+	}
+	"TF_HEAVY_DEFEND_CONTROL_POINT_Desc"
+	{
+		"chi"	"在你位居自己的控制点的同时杀死 25 个敌人。"
+	}
+	"TF_HEAVY_KILL_CAPPING_ENEMIES_Title"
+	{
+		"chi"	"净化"
+	}
+	"TF_HEAVY_KILL_CAPPING_ENEMIES_Desc"
+	{
+		"chi"	"在你自己的控制点上杀死 15 个敌人。"
+	}
+	"TF_HEAVY_REVENGE_ASSIST_Title"
+	{
+		"chi"	"列宁的手"
+	}
+	"TF_HEAVY_REVENGE_ASSIST_Desc"
+	{
+		"chi"	"帮助 5 个队友复仇"
+	}
+	"TF_HEAVY_TELEPORT_FAST_KILL_Title"
+	{
+		"chi"	"五秒计划"
+	}
+	"TF_HEAVY_TELEPORT_FAST_KILL_Desc"
+	{
+		"chi"	"退出传送装置之后，在前五分钟内杀死一个敌人。"
+	}
+	"TF_HEAVY_FREEZECAM_TAUNT_Title"
+	{
+		"chi"	"拍照纪念"
+	}
+	"TF_HEAVY_FREEZECAM_TAUNT_Desc"
+	{
+		"chi"	"在无懈可击的同时，让你观看你将敌人击倒的瞬间。"
+	}
+	"TF_HEAVY_EAT_SANDWICHES_Title"
+	{
+		"chi"	"显著的消耗"
+	}
+	"TF_HEAVY_EAT_SANDWICHES_Desc"
+	{
+		"chi"	"吃掉 100 个 Sandvich。"
+	}
+	"TF_HEAVY_KILL_SCOUTS_Title"
+	{
+		"chi"	"不要触摸 Sandvich"
+	}
+	"TF_HEAVY_KILL_SCOUTS_Desc"
+	{
+		"chi"	"使用娜塔莎杀死 50 个侦察兵。"
+	}
+	"TF_HEAVY_KILL_HEAVIES_GLOVES_Title"
+	{
+		"chi"	"罗宋腰带"
+	}
+	"TF_HEAVY_KILL_HEAVIES_GLOVES_Desc"
+	{
+		"chi"	"用喷火器杀死 10 个敌人。"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS1_Title"
+	{
+		"chi"	"Heavy 里程碑 1"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS1_Desc"
+	{
+		"chi"	"在 Heavy 配置中赢得 10 项记录。"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS2_Title"
+	{
+		"chi"	"Heavy 里程碑 2"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS2_Desc"
+	{
+		"chi"	"在 Heavy 配置中赢得 16 项记录。"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS3_Title"
+	{
+		"chi"	"Heavy 里程碑 3"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS3_Desc"
+	{
+		"chi"	"在 Heavy 配置中赢得 22 项记录。"
+	}
+	"TF_SCOUT_FIRST_BLOOD_Title"
+	{
+		"chi"	"第一滴血"
+	}
+	"TF_SCOUT_FIRST_BLOOD_Desc"
+	{
+		"chi"	"在竞技场比赛中第一次杀人。"
+	}
+	"TF_SCOUT_FIRST_BLOOD_KILL_Title"
+	{
+		"chi"	"第一滴血，第 2 部分"
+	}
+	"TF_SCOUT_FIRST_BLOOD_KILL_Desc"
+	{
+		"chi"	"使用“第一滴血”魔法杀死 5 个敌人。"
+	}
+	"TF_SCOUT_WELL_EARLY_KILL_Title"
+	{
+		"chi"	"快速袭击"
+	}
+	"TF_SCOUT_WELL_EARLY_KILL_Desc"
+	{
+		"chi"	"在此局开始之前，杀死一个玩家。"
+	}
+	"TF_SCOUT_LIFETIME_KILLS_Title"
+	{
+		"chi"	"值得纪念的一年"
+	}
+	"TF_SCOUT_LIFETIME_KILLS_Desc"
+	{
+		"chi"	"在生命周期内杀死 2004 个敌人。"
+	}
+	"TF_SCOUT_IRON_MAN_KILLS_Title"
+	{
+		"chi"	"循环"
+	}
+	"TF_SCOUT_IRON_MAN_KILLS_Desc"
+	{
+		"chi"	"在一次生命中，当您在地面、在空中和在水中时杀死敌人。"
+	}
+	"TF_SCOUT_DESTROY_TELEPORTERS_Title"
+	{
+		"chi"	"靠近点"
+	}
+	"TF_SCOUT_DESTROY_TELEPORTERS_Desc"
+	{
+		"chi"	"摧毁 3 个传送装置入口。"
+	}
+	"TF_SCOUT_DESTROY_BUILDINGS_BEING_BUILT_Title"
+	{
+		"chi"	"如果您建造"
+	}
+	"TF_SCOUT_DESTROY_BUILDINGS_BEING_BUILT_Desc"
+	{
+		"chi"	"摧毁 3 座正在建造的敌方建筑。"
+	}
+	"TF_SCOUT_DESTROY_SENTRY_WITH_PISTOL_Title"
+	{
+		"chi"	"放下枪"
+	}
+	"TF_SCOUT_DESTROY_SENTRY_WITH_PISTOL_Desc"
+	{
+		"chi"	"使用速射手枪摧毁一个警戒中的步哨枪."
+	}
+	"TF_SCOUT_DOUBLE_JUMPS_Title"
+	{
+		"chi"	"向上击打"
+	}
+	"TF_SCOUT_DOUBLE_JUMPS_Desc"
+	{
+		"chi"	"执行 1000 次双重跳跃。"
+	}
+	"TF_SCOUT_ASSIST_MEDIC_Title"
+	{
+		"chi"	"在球上做手脚"
+	}
+	"TF_SCOUT_ASSIST_MEDIC_Desc"
+	{
+		"chi"	"借助 Medic 的超级冲锋杀死 3 个敌人。"
+	}
+	"TF_SCOUT_STEAL_SANDWICH_Title"
+	{
+		"chi"	"躲闪者 1，巨人 0"
+	}
+	"TF_SCOUT_STEAL_SANDWICH_Desc"
+	{
+		"chi"	"杀死敌人 Heavy 并带走他的 Sandvich。"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS1_Title"
+	{
+		"chi"	"侦察兵里程碑 1"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS1_Desc"
+	{
+		"chi"	"在侦察兵配置中赢得 10 项记录。"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS2_Title"
+	{
+		"chi"	"侦察兵里程碑 2"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS2_Desc"
+	{
+		"chi"	"在侦察兵配置中赢得 16 项记录。"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS3_Title"
+	{
+		"chi"	"侦察兵里程碑 3"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS3_Desc"
+	{
+		"chi"	"在侦察兵配置中赢得 22 项记录。"
+	}
+	"TF_SCOUT_KILL_CHARGED_MEDICS_Title"
+	{
+		"chi"	"攻击医务兵"
+	}
+	"TF_SCOUT_KILL_CHARGED_MEDICS_Desc"
+	{
+		"chi"	"杀死 1 个已经准备好部署超级冲锋的 Medic。"
+	}
+	"TF_SCOUT_SURVIVE_DAMAGE_Title"
+	{
+		"chi"	"我是蝙蝠侠"
+	}
+	"TF_SCOUT_SURVIVE_DAMAGE_Desc"
+	{
+		"chi"	"在一次生命内救活 500 名伤者。"
+	}
+	"TF_SCOUT_DOUBLEJUMP_KILL_Title"
+	{
+		"chi"	"高飞球"
+	}
+	"TF_SCOUT_DOUBLEJUMP_KILL_Desc"
+	{
+		"chi"	"在双重跳跃时杀死 20 个玩家。"
+	}
+	"TF_SCOUT_FLAG_CAP_GRIND_Title"
+	{
+		"chi"	"全垒打"
+	}
+	"TF_SCOUT_FLAG_CAP_GRIND_Desc"
+	{
+		"chi"	"取得敌方情报 25 次。"
+	}
+	"TF_SCOUT_THREE_FLAGCAPS_Title"
+	{
+		"chi"	"三重偷垒"
+	}
+	"TF_SCOUT_THREE_FLAGCAPS_Desc"
+	{
+		"chi"	"在单轮 CTF 中取得敌方情报 3 次。"
+	}
+	"TF_SCOUT_DODGE_DAMAGE_Title"
+	{
+		"chi"	"巧妙闪躲"
+	}
+	"TF_SCOUT_DODGE_DAMAGE_Desc"
+	{
+		"chi"	"用砰！原子撞击在一次生命中躲开 1000 点伤害。"
+	}
+	"TF_SCOUT_KNOCK_INTO_TRAIN_Title"
+	{
+		"chi"	"秋季经典"
+	}
+	"TF_SCOUT_KNOCK_INTO_TRAIN_Desc"
+	{
+		"chi"	"使用自然之力霰弹枪的击退功能制造自然死亡或自杀."
+	}
+	"TF_SCOUT_KILL_STUNNED_Title"
+	{
+		"chi"	"好球区"
+	}
+	"TF_SCOUT_KILL_STUNNED_Desc"
+	{
+		"chi"	"杀死 50 个处于昏迷状态的敌人。"
+	}
+	"TF_SCOUT_STUN_INTO_TRAIN_Title"
+	{
+		"chi"	"界外区域"
+	}
+	"TF_SCOUT_STUN_INTO_TRAIN_Desc"
+	{
+		"chi"	"通过将敌人打昏来制造自然死亡。"
+	}
+	"TF_SCOUT_STUN_UBER_ENEMIES_Title"
+	{
+		"chi"	"重创敌军"
+	}
+	"TF_SCOUT_STUN_UBER_ENEMIES_Desc"
+	{
+		"chi"	"击晕 2 个已经准备好部署 ÜberCharge 的 Medic。"
+	}
+	"TF_SCOUT_STUN_CAPPING_ENEMIES_Title"
+	{
+		"chi"	"头侧球"
+	}
+	"TF_SCOUT_STUN_CAPPING_ENEMIES_Desc"
+	{
+		"chi"	"在敌人占领据点或推矿车时打昏 50 个敌人。"
+	}
+	"TF_SCOUT_MAX_STUNS_Title"
+	{
+		"chi"	"高远全垒打"
+	}
+	"TF_SCOUT_MAX_STUNS_Desc"
+	{
+		"chi"	"在可能的最长持续时间内，通过长距离球打昏 1 个敌人。"
+	}
+	"TF_SCOUT_STUN_SCOUT_WITH_THEIR_BALL_Title"
+	{
+		"chi"	"头部触身球"
+	}
+	"TF_SCOUT_STUN_SCOUT_WITH_THEIR_BALL_Desc"
+	{
+		"chi"	"用他们自己的球打昏侦察兵。"
+	}
+	"TF_SCOUT_KILL_IN_DODGE_COOLDOWN_Title"
+	{
+		"chi"	"触杀跑垒员"
+	}
+	"TF_SCOUT_KILL_IN_DODGE_COOLDOWN_Desc"
+	{
+		"chi"	"杀死一名刚喝过暴击可乐软饮料的 Scout."
+	}
+	"TF_SCOUT_KILL_FROM_BEHIND_Title"
+	{
+		"chi"	"趁机偷袭"
+	}
+	"TF_SCOUT_KILL_FROM_BEHIND_Desc"
+	{
+		"chi"	"使用自然之力霰弹枪从背后杀死50名敌人."
+	}
+	"TF_SCOUT_CAPTURE_LAST_POINT_Title"
+	{
+		"chi"	"换场前的华丽一击"
+	}
+	"TF_SCOUT_CAPTURE_LAST_POINT_Desc"
+	{
+		"chi"	"在 CP 地图中占据最后一个据点"
+	}
+	"TF_SCOUT_CAPTURE_THREE_POINTS_Title"
+	{
+		"chi"	"三线作战"
+	}
+	"TF_SCOUT_CAPTURE_THREE_POINTS_Desc"
+	{
+		"chi"	"在一次生命中占据同一行的三个据点。"
+	}
+	"TF_SCOUT_FAST_CAP_Title"
+	{
+		"chi"	"偷垒有效"
+	}
+	"TF_SCOUT_FAST_CAP_Desc"
+	{
+		"chi"	"从据点的刚刚开放的一瞬间开始发起攻占。"
+	}
+	"TF_SCOUT_START_AND_FINISH_CAP_Title"
+	{
+		"chi"	"开餐准备"
+	}
+	"TF_SCOUT_START_AND_FINISH_CAP_Desc"
+	{
+		"chi"	"发动 10 次最终成功的据点攻占。"
+	}
+	"TF_SCOUT_BLOCK_CAPS_Title"
+	{
+		"chi"	"阻断达人"
+	}
+	"TF_SCOUT_BLOCK_CAPS_Desc"
+	{
+		"chi"	"阻止 50 次据点占领。"
+	}
+	"TF_SCOUT_CARRIER_KILL_CARRIER_Title"
+	{
+		"chi"	"蔑视围攻"
+	}
+	"TF_SCOUT_CARRIER_KILL_CARRIER_Desc"
+	{
+		"chi"	"杀死和你持有同等级别的敌方情报的敌方玩家。"
+	}
+	"TF_SCOUT_CAP_FLAG_WITHOUT_ATTACKING_Title"
+	{
+		"chi"	"不设击球手"
+	}
+	"TF_SCOUT_CAP_FLAG_WITHOUT_ATTACKING_Desc"
+	{
+		"chi"	"在不发一枪的情况下盗取敌方情报并占领据点。"
+	}
+	"TF_SCOUT_LONG_DISTANCE_RUNNER_Title"
+	{
+		"chi"	"力争锦旗"
+	}
+	"TF_SCOUT_LONG_DISTANCE_RUNNER_Desc"
+	{
+		"chi"	"奔跑 25 公里。"
+	}
+	"TF_SCOUT_TAUNT_KILL_Title"
+	{
+		"chi"	"场外遨游"
+	}
+	"TF_SCOUT_TAUNT_KILL_Desc"
+	{
+		"chi"	"将敌人击出至 25 米之外。"
+	}
+	"TF_SNIPER_JARATE_DOMINATED_Title"
+	{
+		"chi"	"殚精竭虑"
+	}
+	"TF_SNIPER_JARATE_DOMINATED_Desc"
+	{
+		"chi"	"将 Jarate 扔向受你控制的敌人。"
+	}
+	"TF_SNIPER_FREEZECAM_HAT_Title"
+	{
+		"chi"	"以礼相待"
+	}
+	"TF_SNIPER_FREEZECAM_HAT_Desc"
+	{
+		"chi"	"送敌人一张你脱帽致敬的画面快照。"
+	}
+	"TF_SNIPER_RIFLE_NO_MISSING_Title"
+	{
+		"chi"	"高效行动"
+	}
+	"TF_SNIPER_RIFLE_NO_MISSING_Desc"
+	{
+		"chi"	"使用狙击枪弹无虚发地杀死 3 个对手。"
+	}
+	"TF_SNIPER_CAPTURE_FLAG_Title"
+	{
+		"chi"	"制定计划"
+	}
+	"TF_SNIPER_CAPTURE_FLAG_Desc"
+	{
+		"chi"	"在 CTF 中取得旗帜。"
+	}
+	"TF_SNIPER_KILL_GRIND_Title"
+	{
+		"chi"	"格杀勿论"
+	}
+	"TF_SNIPER_KILL_GRIND_Desc"
+	{
+		"chi"	"干掉 1000 个敌人。"
+	}
+	"TF_SNIPER_KILL_WEAPONS_Title"
+	{
+		"chi"	"三敌同歼"
+	}
+	"TF_SNIPER_KILL_WEAPONS_Desc"
+	{
+		"chi"	"在一个回合中用3种不同的武器干掉对手."
+	}
+	"TF_SNIPER_HEADSHOT_SNIPERS_Title"
+	{
+		"chi"	"连续自毁"
+	}
+	"TF_SNIPER_HEADSHOT_SNIPERS_Desc"
+	{
+		"chi"	"射中 10 名敌方 Sniper 的头部。"
+	}
+	"TF_SNIPER_DESTROY_SENTRYGUNS_Title"
+	{
+		"chi"	"摧毁岗哨"
+	}
+	"TF_SNIPER_DESTROY_SENTRYGUNS_Desc"
+	{
+		"chi"	"摧毁 3 支工程师步哨枪。"
+	}
+	"TF_SNIPER_KILL_INVIS_SPY_Title"
+	{
+		"chi"	"对空鸣枪"
+	}
+	"TF_SNIPER_KILL_INVIS_SPY_Desc"
+	{
+		"chi"	"单发射杀完全隐身的 Spy。"
+	}
+	"TF_SNIPER_KILL_MIDAIR_SCOUT_Title"
+	{
+		"chi"	"摔死"
+	}
+	"TF_SNIPER_KILL_MIDAIR_SCOUT_Desc"
+	{
+		"chi"	"使用狙击枪或猎枪杀死半空中的侦察兵。"
+	}
+	"TF_SNIPER_FREEZECAM_WAVE_Title"
+	{
+		"chi"	"挥手永别"
+	}
+	"TF_SNIPER_FREEZECAM_WAVE_Desc"
+	{
+		"chi"	"送敌人一张向他们挥手的画面快照。"
+	}
+	"TF_SNIPER_DOMINATE_SNIPER_Title"
+	{
+		"chi"	"澳洲规则"
+	}
+	"TF_SNIPER_DOMINATE_SNIPER_Desc"
+	{
+		"chi"	"控制敌方 Sniper。"
+	}
+	"TF_SNIPER_KILL_SPIES_MELEE_Title"
+	{
+		"chi"	"疯狂砍杀"
+	}
+	"TF_SNIPER_KILL_SPIES_MELEE_Desc"
+	{
+		"chi"	"使用廓尔喀反曲刀杀死10 名Spy。"
+	}
+	"TF_SNIPER_HEADSHOT_DEMOMAN_Title"
+	{
+		"chi"	"正中红心"
+	}
+	"TF_SNIPER_HEADSHOT_DEMOMAN_Desc"
+	{
+		"chi"	"射中敌方 Demoman 的头部。"
+	}
+	"TF_SNIPER_KILL_RJER_Title"
+	{
+		"chi"	"空中拦截"
+	}
+	"TF_SNIPER_KILL_RJER_Desc"
+	{
+		"chi"	"使用狙击枪或猎枪射杀拿着火箭筒或手榴弹在半空中跳跃的敌人。"
+	}
+	"TF_SNIPER_KILL_OBJECTIVES_Title"
+	{
+		"chi"	"谁是老大"
+	}
+	"TF_SNIPER_KILL_OBJECTIVES_Desc"
+	{
+		"chi"	"在一次生命中，杀死 3 名即将到达目标的敌人。"
+	}
+	"TF_SNIPER_KILL_UNSCOPED_Title"
+	{
+		"chi"	"相信直觉"
+	}
+	"TF_SNIPER_KILL_UNSCOPED_Desc"
+	{
+		"chi"	"使用不带瞄准镜的狙击枪射杀 5 个对手。"
+	}
+	"TF_SNIPER_KILL_CHARGED_MEDIC_Title"
+	{
+		"chi"	"Überectomy"
+	}
+	"TF_SNIPER_KILL_CHARGED_MEDIC_Desc"
+	{
+		"chi"	"杀死 1 个已经准备好部署超级冲锋的 Medic。"
+	}
+	"TF_SNIPER_GET_BACKSTABBED_Title"
+	{
+		"chi"	"安慰奖"
+	}
+	"TF_SNIPER_GET_BACKSTABBED_Desc"
+	{
+		"chi"	"遭到 50 次背刺。"
+	}
+	"TF_SNIPER_KILL_AT_ROUNDSTART_Title"
+	{
+		"chi"	"大敌当前"
+	}
+	"TF_SNIPER_KILL_AT_ROUNDSTART_Desc"
+	{
+		"chi"	"在回合开始的第一秒内杀死对手。"
+	}
+	"TF_SNIPER_HEADSHOT_POST_INVULN_Title"
+	{
+		"chi"	"临别射击"
+	}
+	"TF_SNIPER_HEADSHOT_POST_INVULN_Desc"
+	{
+		"chi"	"当敌方玩家的无敌状态减弱时将其爆头。"
+	}
+	"TF_SNIPER_TOP_SCOREBOARD_GRIND_Title"
+	{
+		"chi"	"辉煌的职业生涯"
+	}
+	"TF_SNIPER_TOP_SCOREBOARD_GRIND_Desc"
+	{
+		"chi"	"在由 6 名或 6 名以上玩家组成的队伍中，10 次占据记分板榜首位置。"
+	}
+	"TF_SNIPER_KILL_FAILED_SPY_Title"
+	{
+		"chi"	"震撼疗法"
+	}
+	"TF_SNIPER_KILL_FAILED_SPY_Desc"
+	{
+		"chi"	"杀死试图背刺你的Spy，其背刺攻击刚好被你的电击背脊盾挡住。"
+	}
+	"TF_SNIPER_JARATE_GROUP_Title"
+	{
+		"chi"	"密集轰炸"
+	}
+	"TF_SNIPER_JARATE_GROUP_Desc"
+	{
+		"chi"	"只扔出一个 Jarate 就击中 4 名敌方玩家。"
+	}
+	"TF_SNIPER_JARATE_MEDIC_PAIR_Title"
+	{
+		"chi"	"从中破坏"
+	}
+	"TF_SNIPER_JARATE_MEDIC_PAIR_Desc"
+	{
+		"chi"	"用 Jarate 攻击正被 Medic 治疗的敌人。"
+	}
+	"TF_SNIPER_JARATE_REVEAL_SPY_Title"
+	{
+		"chi"	"罐子戏法"
+	}
+	"TF_SNIPER_JARATE_REVEAL_SPY_Desc"
+	{
+		"chi"	"使用瓶手道尿瓶使隐身的Spy 现身。"
+	}
+	"TF_SNIPER_JARATE_EXTINGUISH_Title"
+	{
+		"chi"	"友谊是金"
+	}
+	"TF_SNIPER_JARATE_EXTINGUISH_Desc"
+	{
+		"chi"	"使用 Jarate 将队友身上的烈火扑灭。"
+	}
+	"TF_SNIPER_BOW_PIN_HEAVY_Title"
+	{
+		"chi"	"暴虐英雄"
+	}
+	"TF_SNIPER_BOW_PIN_HEAVY_Desc"
+	{
+		"chi"	"将武器穿过敌方 Heavy 的头部，将他钉在墙上。"
+	}
+	"TF_SNIPER_BOW_KILL_MEDIC_PAIR_Title"
+	{
+		"chi"	"百步穿杨"
+	}
+	"TF_SNIPER_BOW_KILL_MEDIC_PAIR_Desc"
+	{
+		"chi"	"使用弓箭杀死 Heavy 和 Medic 的组合。"
+	}
+	"TF_SNIPER_BOW_KILL_FLAGCARRIER_Title"
+	{
+		"chi"	"侠盗罗宾汉"
+	}
+	"TF_SNIPER_BOW_KILL_FLAGCARRIER_Desc"
+	{
+		"chi"	"单箭制服拿着你方情报的敌人。"
+	}
+	"TF_SNIPER_BOW_PINCUSHION_Title"
+	{
+		"chi"	"如坐针毡"
+	}
+	"TF_SNIPER_BOW_PINCUSHION_Desc"
+	{
+		"chi"	"使用 3 支箭击中敌人，但不杀死他们。"
+	}
+	"TF_SNIPER_JARATE_ASSISTS_Title"
+	{
+		"chi"	"助攻王"
+	}
+	"TF_SNIPER_JARATE_ASSISTS_Desc"
+	{
+		"chi"	"在单个回合内使用 Jarate 成功助攻 5 次。"
+	}
+	"TF_SNIPER_JARATE_KILL_MELEE_Title"
+	{
+		"chi"	"罐刀合一"
+	}
+	"TF_SNIPER_JARATE_KILL_MELEE_Desc"
+	{
+		"chi"	"使用 Jarate 击中 3 个敌人，然后用反曲刀杀死他们。"
+	}
+	"TF_SNIPER_TAUNT_KILL_Title"
+	{
+		"chi"	"箭杀"
+	}
+	"TF_SNIPER_TAUNT_KILL_Desc"
+	{
+		"chi"	"使用弓箭射杀敌人。"
+	}
+	"TF_SNIPER_BOW_KILL_WHILEDEAD_Title"
+	{
+		"chi"	"死亡复仇"
+	}
+	"TF_SNIPER_BOW_KILL_WHILEDEAD_Desc"
+	{
+		"chi"	"趁你死的时候用弓箭干掉敌人。"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS1_Title"
+	{
+		"chi"	"Sniper 里程碑 1"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS1_Desc"
+	{
+		"chi"	"获得 5 项 Sniper 成就。"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS2_Title"
+	{
+		"chi"	"Sniper 里程碑 2"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS2_Desc"
+	{
+		"chi"	"获得 11 项 Sniper 成就。"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS3_Title"
+	{
+		"chi"	"Sniper 里程碑 3"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS3_Desc"
+	{
+		"chi"	"获得 17 项 Sniper 成就。"
+	}
+	"TF_SPY_BACKSTAB_SNIPERS_Title"
+	{
+		"chi"	"以一挡三"
+	}
+	"TF_SPY_BACKSTAB_SNIPERS_Desc"
+	{
+		"chi"	"在一次生命中背刺 3 名 Sniper。"
+	}
+	"TF_SPY_FREEZECAM_FLICK_Title"
+	{
+		"chi"	"赏心悦目"
+	}
+	"TF_SPY_FREEZECAM_FLICK_Desc"
+	{
+		"chi"	"送敌人一张你在他们尸首上弹烟灰的画面快照。"
+	}
+	"TF_SPY_BACKSTAB_DISGUISED_SPY_Title"
+	{
+		"chi"	"反间谍"
+	}
+	"TF_SPY_BACKSTAB_DISGUISED_SPY_Desc"
+	{
+		"chi"	"背刺伪装的 Spy。"
+	}
+	"TF_SPY_BACKSTAB_DISGUISE_TARGET_Title"
+	{
+		"chi"	"盗取身份"
+	}
+	"TF_SPY_BACKSTAB_DISGUISE_TARGET_Desc"
+	{
+		"chi"	"背刺你正在伪装的敌人。"
+	}
+	"TF_SPY_TAUNT_KILL_Title"
+	{
+		"chi"	"击剑高手"
+	}
+	"TF_SPY_TAUNT_KILL_Desc"
+	{
+		"chi"	"在防守时枪刺敌人。"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_HEALING_YOU_Title"
+	{
+		"chi"	"听好了，我是 Spy"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_HEALING_YOU_Desc"
+	{
+		"chi"	"在最后 5 秒背刺还在为你疗伤的 Medic。"
+	}
+	"TF_SPY_BACKSTAB_ENGY_SAP_BUILDING_Title"
+	{
+		"chi"	"烂枪侠"
+	}
+	"TF_SPY_BACKSTAB_ENGY_SAP_BUILDING_Desc"
+	{
+		"chi"	"背刺工程师，然后在10秒内破坏他的 3 座建筑。"
+	}
+	"TF_SPY_SAP_BUILDING_BACKSTAB_ENGY_Title"
+	{
+		"chi"	"破坏者"
+	}
+	"TF_SPY_SAP_BUILDING_BACKSTAB_ENGY_Desc"
+	{
+		"chi"	"攻击敌方建筑，然后在5秒内背刺建造该建筑的工程师。"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_PAIR_Title"
+	{
+		"chi"	"我能插一脚吗？"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_PAIR_Desc"
+	{
+		"chi"	"分别在 10 秒内背刺敌人以及为他疗伤的 Medic。"
+	}
+	"TF_SPY_BACKSTAB_FRIENDS_Title"
+	{
+		"chi"	"超级间谍"
+	}
+	"TF_SPY_BACKSTAB_FRIENDS_Desc"
+	{
+		"chi"	"背刺你的 Steam 社区好友 10 次。"
+	}
+	"TF_SPY_DOMINATE_SNIPER_Title"
+	{
+		"chi"	"狙击克星"
+	}
+	"TF_SPY_DOMINATE_SNIPER_Desc"
+	{
+		"chi"	"控制 Sniper。"
+	}
+	"TF_SPY_BUMP_CLOAKED_SPY_Title"
+	{
+		"chi"	"间谍出差"
+	}
+	"TF_SPY_BUMP_CLOAKED_SPY_Desc"
+	{
+		"chi"	"隐身时，撞见敌方的隐身 Spy。"
+	}
+	"TF_SPY_KILL_SPY_WITH_KNIFE_Title"
+	{
+		"chi"	"刀起人亡"
+	}
+	"TF_SPY_KILL_SPY_WITH_KNIFE_Desc"
+	{
+		"chi"	"利用刀子杀死持枪的 Spy。"
+	}
+	"TF_SPY_SURVIVE_BURNING_Title"
+	{
+		"chi"	"火线警告"
+	}
+	"TF_SPY_SURVIVE_BURNING_Desc"
+	{
+		"chi"	"隐身时遭受火烧，但存活了 30 秒。"
+	}
+	"TF_SPY_BREAK_SHIELD_KILL_SNIPER_Title"
+	{
+		"chi"	"另类死法"
+	}
+	"TF_SPY_BREAK_SHIELD_KILL_SNIPER_Desc"
+	{
+		"chi"	"用背刺砍穿 Sniper 的刀背，杀死 Sniper。"
+	}
+	"TF_SPY_KILL_WORKING_ENGY_Title"
+	{
+		"chi"	"破坏工事"
+	}
+	"TF_SPY_KILL_WORKING_ENGY_Desc"
+	{
+		"chi"	"杀死正在建造步哨枪的工程师。"
+	}
+	"TF_SPY_FAST_CAP_Title"
+	{
+		"chi"	"秘密据点"
+	}
+	"TF_SPY_FAST_CAP_Desc"
+	{
+		"chi"	"据点可用后马上进行攻占。"
+	}
+	"TF_SPY_MEDIC_HEALING_KILL_ENEMY_Title"
+	{
+		"chi"	"保险诈骗"
+	}
+	"TF_SPY_MEDIC_HEALING_KILL_ENEMY_Desc"
+	{
+		"chi"	"在接受敌方 Medic 治疗时，杀死一名敌人。"
+	}
+	"TF_SPY_KILL_CP_DEFENDERS_Title"
+	{
+		"chi"	"爆点专家"
+	}
+	"TF_SPY_KILL_CP_DEFENDERS_Desc"
+	{
+		"chi"	"杀死 15 个站在其控制点的敌人。"
+	}
+	"TF_SPY_BACKSTAB_DOMINATING_ENEMY_Title"
+	{
+		"chi"	"重要目标"
+	}
+	"TF_SPY_BACKSTAB_DOMINATING_ENEMY_Desc"
+	{
+		"chi"	"背刺正控制己方 3 名或 3 名以上队友的敌人。"
+	}
+	"TF_SPY_REVENGE_WITH_BACKSTAB_Title"
+	{
+		"chi"	"死神复仇"
+	}
+	"TF_SPY_REVENGE_WITH_BACKSTAB_Desc"
+	{
+		"chi"	"用背刺的方式复仇杀敌。"
+	}
+	"TF_SPY_KNIFE_KILL_WHILE_JARATED_Title"
+	{
+		"chi"	"暗杀"
+	}
+	"TF_SPY_KNIFE_KILL_WHILE_JARATED_Desc"
+	{
+		"chi"	"在借助 Jarate 的同时枪刺敌人至死。"
+	}
+	"TF_SPY_BACKSTAB_QUICK_KILLS_Title"
+	{
+		"chi"	"连续背刺"
+	}
+	"TF_SPY_BACKSTAB_QUICK_KILLS_Desc"
+	{
+		"chi"	"在 10 秒内背刺 3 个敌人。"
+	}
+	"TF_SPY_BACKSTAB_GRIND_Title"
+	{
+		"chi"	"间谍王"
+	}
+	"TF_SPY_BACKSTAB_GRIND_Desc"
+	{
+		"chi"	"背刺 1000 个敌人。"
+	}
+	"TF_SPY_SAPPER_GRIND_Title"
+	{
+		"chi"	"破坏王"
+	}
+	"TF_SPY_SAPPER_GRIND_Desc"
+	{
+		"chi"	"使用破坏器摧毁 1000 个工程建筑。"
+	}
+	"TF_SPY_SAPPER_TEAMWORK_Title"
+	{
+		"chi"	"联合行动"
+	}
+	"TF_SPY_SAPPER_TEAMWORK_Desc"
+	{
+		"chi"	"在队友摧毁步哨枪后的 3 秒内，摧毁敌人的另一支步哨枪。"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_CHARGED_Title"
+	{
+		"chi"	"不不博士"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_CHARGED_Desc"
+	{
+		"chi"	"背刺 1 个已经准备好部署超级冲锋的 Medic。"
+	}
+	"TF_SPY_BACKSTAB_CAPPING_ENEMIES_Title"
+	{
+		"chi"	"安全吗？"
+	}
+	"TF_SPY_BACKSTAB_CAPPING_ENEMIES_Desc"
+	{
+		"chi"	"背刺 50 个正占领控制点的敌人。"
+	}
+	"TF_SPY_BACKSTAB_ENEMY_SWITCH_PYRO_Title"
+	{
+		"chi"	"刺杀转世"
+	}
+	"TF_SPY_BACKSTAB_ENEMY_SWITCH_PYRO_Desc"
+	{
+		"chi"	"背刺敌人，然后他们将在重生前切换到 Pyro。"
+	}
+	"TF_SPY_AMBASSADOR_GRIND_Title"
+	{
+		"chi"	"外交手腕"
+	}
+	"TF_SPY_AMBASSADOR_GRIND_Desc"
+	{
+		"chi"	"使用大使手枪杀死50 个敌人。"
+	}
+	"TF_SPY_AMBASSADOR_SNIPER_GRIND_Title"
+	{
+		"chi"	"爆头高手"
+	}
+	"TF_SPY_AMBASSADOR_SNIPER_GRIND_Desc"
+	{
+		"chi"	"使用大使手枪对20名狙击手进行爆头射击"
+	}
+	"TF_SPY_FEIGN_DEATH_KILL_Title"
+	{
+		"chi"	"潜伏间谍"
+	}
+	"TF_SPY_FEIGN_DEATH_KILL_Desc"
+	{
+		"chi"	"在最后 20 秒内杀死让你装死的敌人。"
+	}
+	"TF_SPY_AMBASSADOR_SCOUT_GRIND_Title"
+	{
+		"chi"	"谁是你老爸？"
+	}
+	"TF_SPY_AMBASSADOR_SCOUT_GRIND_Desc"
+	{
+		"chi"	"使用大使手枪射击3名侦察兵的头部"
+	}
+	"TF_SPY_CAMP_POSITION_Title"
+	{
+		"chi"	"卧底高手"
+	}
+	"TF_SPY_CAMP_POSITION_Desc"
+	{
+		"chi"	"在使用隐身与匕首时，在一次生命中在同一地点将同一敌人杀死 3 次。"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS1_Title"
+	{
+		"chi"	"Spy 里程碑 1"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS1_Desc"
+	{
+		"chi"	"获得 5 项 Spy 成就。"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS2_Title"
+	{
+		"chi"	"Spy 里程碑 2"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS2_Desc"
+	{
+		"chi"	"获得 11 项 Spy 成就。"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS3_Title"
+	{
+		"chi"	"Spy 里程碑 3"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS3_Desc"
+	{
+		"chi"	"获得 17 项 Spy 成就。"
+	}
+	"TF_HALLOWEEN_COLLECT_PUMPKINS_Title"
+	{
+		"chi"	"糖果屋"
+	}
+	"TF_HALLOWEEN_COLLECT_PUMPKINS_Desc"
+	{
+		"chi"	"从死亡的玩家身上收集 20 个万圣节南瓜，以解锁帽子。"
+	}
+	"TF_HALLOWEEN_DOMINATE_FOR_HAT_Title"
+	{
+		"chi"	"夺取可怕的摺叠礼帽"
+	}
+	"TF_HALLOWEEN_DOMINATE_FOR_HAT_Desc"
+	{
+		"chi"	"控制一名穿戴可怕摺叠礼帽礼帽的玩家，以获取你自己的摺叠礼帽。"
+	}
+	"TF_HALLOWEEN_KILL_SCARED_PLAYER_Title"
+	{
+		"chi"	"呆若木鸡"
+	}
+	"TF_HALLOWEEN_KILL_SCARED_PLAYER_Desc"
+	{
+		"chi"	"杀死 1 名被 KOTH Harvest 幽灵吓到的玩家。"
+	}
+	"TF_HALLOWEEN_PUMPKIN_KILL_Title"
+	{
+		"chi"	"攻击南瓜灯"
+	}
+	"TF_HALLOWEEN_PUMPKIN_KILL_Desc"
+	{
+		"chi"	"通过引爆附近的南瓜炸弹杀死 5 名玩家。"
+	}
+	"TF_HALLOWEEN_DISGUISED_SPY_KILL_Title"
+	{
+		"chi"	"服装比赛"
+	}
+	"TF_HALLOWEEN_DISGUISED_SPY_KILL_Desc"
+	{
+		"chi"	"杀死伪装成当前你的兵种的间谍。"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS1_Title"
+	{
+		"chi"	"Soldier 里程碑 1"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS1_Desc"
+	{
+		"chi"	"在 Soldier Pack中获得 5 项成就。"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS2_Title"
+	{
+		"chi"	"Soldier 里程碑 2"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS2_Desc"
+	{
+		"chi"	"在 Soldier Pack中获得 11 项成就。"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS3_Title"
+	{
+		"chi"	"Soldier 里程碑 3"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS3_Desc"
+	{
+		"chi"	"在 Soldier Pack中获得 17 项成就。"
+	}
+	"TF_SOLDIER_KILL_GROUP_WITH_CROCKET_Title"
+	{
+		"chi"	"一石三鸟"
+	}
+	"TF_SOLDIER_KILL_GROUP_WITH_CROCKET_Desc"
+	{
+		"chi"	"仅用一枚爆击火箭杀死 3 名敌人。"
+	}
+	"TF_SOLDIER_KILL_TWO_DURING_ROCKET_JUMP_Title"
+	{
+		"chi"	"死从天降"
+	}
+	"TF_SOLDIER_KILL_TWO_DURING_ROCKET_JUMP_Desc"
+	{
+		"chi"	"使用火箭跳跃，并在降落前杀死 2 名敌人。"
+	}
+	"TF_SOLDIER_THREE_DOMINATIONS_Title"
+	{
+		"chi"	"主宰"
+	}
+	"TF_SOLDIER_THREE_DOMINATIONS_Desc"
+	{
+		"chi"	"在一次生命中获得 3 次压制。"
+	}
+	"TF_SOLDIER_DEFEND_MEDIC_Title"
+	{
+		"chi"	"战争罪与罚"
+	}
+	"TF_SOLDIER_DEFEND_MEDIC_Desc"
+	{
+		"chi"	"在一次生命中杀死 3 名对治疗过你的 Medic 造成伤害的敌人。"
+	}
+	"TF_SOLDIER_KILL_TAUNT_Title"
+	{
+		"chi"	"手雷无情"
+	}
+	"TF_SOLDIER_KILL_TAUNT_Desc"
+	{
+		"chi"	"使用手雷炸死 1 名玩家。"
+	}
+	"TF_SOLDIER_DESTROY_SENTRY_OUT_OF_RANGE_Title"
+	{
+		"chi"	"神奇之枪"
+	}
+	"TF_SOLDIER_DESTROY_SENTRY_OUT_OF_RANGE_Desc"
+	{
+		"chi"	"在步哨枪射程外摧毁它们，共计5次。"
+	}
+	"TF_SOLDIER_KILL_SNIPER_WHILE_DEAD_Title"
+	{
+		"chi"	"同归于尽"
+	}
+	"TF_SOLDIER_KILL_SNIPER_WHILE_DEAD_Desc"
+	{
+		"chi"	"在敌方 Sniper 杀死你之后，用火箭弹杀死他。"
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_TARGET_WHILE_AIRBORNE_Title"
+	{
+		"chi"	"荣耀之翼"
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_TARGET_WHILE_AIRBORNE_Desc"
+	{
+		"chi"	"当你和一名敌方Soldier都在空中时，干掉他。"
+	}
+	"TF_SOLDIER_KILL_ENGY_Title"
+	{
+		"chi"	"工程师永生"
+	}
+	"TF_SOLDIER_KILL_ENGY_Desc"
+	{
+		"chi"	"当我方火力正在攻击步哨枪时，杀死正在维修它的工程师。"
+	}
+	"TF_SOLDIER_NEMESIS_SHOVEL_KILL_Title"
+	{
+		"chi"	"壕沟战"
+	}
+	"TF_SOLDIER_NEMESIS_SHOVEL_KILL_Desc"
+	{
+		"chi"	"用铁锹杀死你的复仇者。"
+	}
+	"TF_SOLDIER_DESTROY_STICKIES_Title"
+	{
+		"chi"	"炸弹二等兵"
+	}
+	"TF_SOLDIER_DESTROY_STICKIES_Desc"
+	{
+		"chi"	"在一次生命中使用散弹枪摧毁 10 枚粘性炸弹。"
+	}
+	"TF_SOLDIER_CROUCH_ROCKET_JUMP_Title"
+	{
+		"chi"	"翱翔的雄鹰"
+	}
+	"TF_SOLDIER_CROUCH_ROCKET_JUMP_Desc"
+	{
+		"chi"	"使用跳和蹲完成最高的火箭跳跃。"
+	}
+	"TF_SOLDIER_BUFF_FRIENDS_Title"
+	{
+		"chi"	"众志成城"
+	}
+	"TF_SOLDIER_BUFF_FRIENDS_Desc"
+	{
+		"chi"	"使用战旗一次性为 5 名 Steam 好友施加魔法增益。"
+	}
+	"TF_SOLDIER_KILL_TWENTY_FROM_ABOVE_Title"
+	{
+		"chi"	"呼啸雄鹰"
+	}
+	"TF_SOLDIER_KILL_TWENTY_FROM_ABOVE_Desc"
+	{
+		"chi"	"从空中杀死 20 名敌人。"
+	}
+	"TF_SOLDIER_SHOOT_MULT_CRITS_Title"
+	{
+		"chi"	"不堪一击的火箭"
+	}
+	"TF_SOLDIER_SHOOT_MULT_CRITS_Desc"
+	{
+		"chi"	"射中 2 枚并排的未加速爆击火箭"
+	}
+	"TF_SOLDIER_KILL_DEFENSELESS_Title"
+	{
+		"chi"	"撕毁日内瓦条约"
+	}
+	"TF_SOLDIER_KILL_DEFENSELESS_Desc"
+	{
+		"chi"	"在一局结束后，杀死 5 名毫无防御的玩家。"
+	}
+	"TF_SOLDIER_KILL_ON_FIRE_Title"
+	{
+		"chi"	"烤肉串"
+	}
+	"TF_SOLDIER_KILL_ON_FIRE_Desc"
+	{
+		"chi"	"着火后杀死 20 名敌人。"
+	}
+	"TF_SOLDIER_KILL_FIVE_STUNNED_Title"
+	{
+		"chi"	"致命昏迷"
+	}
+	"TF_SOLDIER_KILL_FIVE_STUNNED_Desc"
+	{
+		"chi"	"杀死 5 名被击晕的玩家。"
+	}
+	"TF_SOLDIER_FREEZECAM_GIBS_Title"
+	{
+		"chi"	"屠杀！屠杀！屠杀！"
+	}
+	"TF_SOLDIER_FREEZECAM_GIBS_Desc"
+	{
+		"chi"	"赠送敌人一张你对着 3 个敌人尸体碎块挑衅的照片。"
+	}
+	"TF_SOLDIER_KILL_SPY_KILLER_Title"
+	{
+		"chi"	"处决战犯"
+	}
+	"TF_SOLDIER_KILL_SPY_KILLER_Desc"
+	{
+		"chi"	"杀死一名刚刚背刺队友的 Spy。"
+	}
+	"TF_SOLDIER_DEFEND_CAP_THIRTY_TIMES_Title"
+	{
+		"chi"	"汉堡山"
+	}
+	"TF_SOLDIER_DEFEND_CAP_THIRTY_TIMES_Desc"
+	{
+		"chi"	"防御一个据点 30 次。"
+	}
+	"TF_SOLDIER_GIB_GRIND_Title"
+	{
+		"chi"	"炸翻天"
+	}
+	"TF_SOLDIER_GIB_GRIND_Desc"
+	{
+		"chi"	"炸死 1000 名敌人。"
+	}
+	"TF_SOLDIER_RJ_EQUALIZER_KILL_Title"
+	{
+		"chi"	"完美跳跃"
+	}
+	"TF_SOLDIER_RJ_EQUALIZER_KILL_Desc"
+	{
+		"chi"	"使用火箭跳跃，在降落前使用十字镐杀死一名敌人。"
+	}
+	"TF_SOLDIER_BUFF_TEAMMATES_Title"
+	{
+		"chi"	"加成小子"
+	}
+	"TF_SOLDIER_BUFF_TEAMMATES_Desc"
+	{
+		"chi"	"在一次生命中使用战旗为 15 名队友施加魔法增效。"
+	}
+	"TF_SOLDIER_KILL_DEMOMAN_GRIND_Title"
+	{
+		"chi"	"死吧，该死的 Scot！"
+	}
+	"TF_SOLDIER_KILL_DEMOMAN_GRIND_Desc"
+	{
+		"chi"	"杀死 500 名敌方 Demomen"
+	}
+	"TF_SOLDIER_KILL_PYRO_Title"
+	{
+		"chi"	"极速追杀"
+	}
+	"TF_SOLDIER_KILL_PYRO_Desc"
+	{
+		"chi"	"在你的火箭被Pyro反射之后的10秒内杀死他。"
+	}
+	"TF_SOLDIER_EQUALIZER_STREAK_Title"
+	{
+		"chi"	"没空流血"
+	}
+	"TF_SOLDIER_EQUALIZER_STREAK_Desc"
+	{
+		"chi"	"在一次生命中未受治疗的情况下用十字镐杀死 3 名玩家。"
+	}
+	"TF_SOLDIER_KILL_WITH_EQUALIZER_WHILE_HURT_Title"
+	{
+		"chi"	"濒死搏杀"
+	}
+	"TF_SOLDIER_KILL_WITH_EQUALIZER_WHILE_HURT_Desc"
+	{
+		"chi"	"在生命值少于 25 的情况下用十字镐杀死 20 名敌人。"
+	}
+	"TF_SOLDIER_BOUNCE_THEN_SHOTGUN_Title"
+	{
+		"chi"	"炸弹颂歌"
+	}
+	"TF_SOLDIER_BOUNCE_THEN_SHOTGUN_Desc"
+	{
+		"chi"	"使用火箭弹将敌人炸飞，并在落地之前使用散弹枪杀死他们。"
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_WITH_DIRECT_HIT_Title"
+	{
+		"chi"	"死神在身下"
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_WITH_DIRECT_HIT_Desc"
+	{
+		"chi"	"使用精确打击者杀死10名在空中的敌人."
+	}
+	"TF_SOLDIER_FREEZECAM_TAUNT_Title"
+	{
+		"chi"	"无言胜有言"
+	}
+	"TF_SOLDIER_FREEZECAM_TAUNT_Desc"
+	{
+		"chi"	"赠送敌人一张你鸣放 21 枪挑衅的照片。"
+	}
+	"TF_SOLDIER_DUO_SOLDIER_KILLS_Title"
+	{
+		"chi"	"兄弟齐心，其力断金"
+	}
+	"TF_SOLDIER_DUO_SOLDIER_KILLS_Desc"
+	{
+		"chi"	"协助另一名 Soldier 或在其协助下杀死 10 名敌人。"
+	}
+	"TF_SOLDIER_MVP_Title"
+	{
+		"chi"	"荣誉勋章"
+	}
+	"TF_SOLDIER_MVP_Desc"
+	{
+		"chi"	"获得 10 次 MVP。"
+	}
+	"TF_SOLDIER_RIDE_THE_CART_Title"
+	{
+		"chi"	"驾驶 Valkartie"
+	}
+	"TF_SOLDIER_RIDE_THE_CART_Desc"
+	{
+		"chi"	"推车 30 秒。"
+	}
+	"TF_SOLDIER_ASSIST_MEDIC_UBER_Title"
+	{
+		"chi"	"S*M*A*S*H"
+	}
+	"TF_SOLDIER_ASSIST_MEDIC_UBER_Desc"
+	{
+		"chi"	"协助 Medic 以单次 ÜberCharge 炸死 5 名敌人。"
+	}
+	"TF_DEMOMAN_KILL_SOLDIER_GRIND_Title"
+	{
+		"chi"	"猎杀 Soldier"
+	}
+	"TF_DEMOMAN_KILL_SOLDIER_GRIND_Desc"
+	{
+		"chi"	"杀死 500 名敌方 Soldier"
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_WITH_MEDIC_Title"
+	{
+		"chi"	"拆除大队"
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_WITH_MEDIC_Desc"
+	{
+		"chi"	"在医疗兵发动的一次超级冲锋中摧毁 5 座敌方工程师建筑。"
+	}
+	"TF_DEMOMAN_DECAPITATE_CLOAKED_SPY_Title"
+	{
+		"chi"	"康纳利之死"
+	}
+	"TF_DEMOMAN_DECAPITATE_CLOAKED_SPY_Desc"
+	{
+		"chi"	"砍下隐身间谍的脑袋。"
+	}
+	"TF_DEMOMAN_KILL_X_WITH_DIRECTPIPE_Title"
+	{
+		"chi"	"正中靶心"
+	}
+	"TF_DEMOMAN_KILL_X_WITH_DIRECTPIPE_Desc"
+	{
+		"chi"	"使用榴弹发射器造成的直接伤害杀死 50 名敌人。"
+	}
+	"TF_DEMOMAN_BOUNCE_AND_KILL_Title"
+	{
+		"chi"	"高空肉靶"
+	}
+	"TF_DEMOMAN_BOUNCE_AND_KILL_Desc"
+	{
+		"chi"	"将敌人炸飞，并在落地之前将其杀死。"
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_Title"
+	{
+		"chi"	"猎头者"
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_Desc"
+	{
+		"chi"	"砍下 50 名敌人的脑袋。"
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_FAST_Title"
+	{
+		"chi"	"死亡 4 人组"
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_FAST_Desc"
+	{
+		"chi"	"连续砍下 4 名敌人的脑袋，间隔不超过 10 秒。"
+	}
+	"TF_DEMOMAN_DUO_DEMOMAN_KILLS_Title"
+	{
+		"chi"	"合作愉快！"
+	}
+	"TF_DEMOMAN_DUO_DEMOMAN_KILLS_Desc"
+	{
+		"chi"	"协助另一名 Demoman 或在其协助下杀死 10 名敌人。"
+	}
+	"TF_DEMOMAN_KILL_TWO_DURING_STICKYJUMP_Title"
+	{
+		"chi"	"一石二鸟"
+	}
+	"TF_DEMOMAN_KILL_TWO_DURING_STICKYJUMP_Desc"
+	{
+		"chi"	"在单次粘性跳跃中杀死 2 名敌人。"
+	}
+	"TF_DEMOMAN_KILL_PLAYER_AFTER_TP_Title"
+	{
+		"chi"	"尼斯湖炸弹怪人"
+	}
+	"TF_DEMOMAN_KILL_PLAYER_AFTER_TP_Desc"
+	{
+		"chi"	"在敌方玩家传送后的 5 秒内使用粘性炸弹将其杀死。"
+	}
+	"TF_DEMOMAN_DOMINATE_THREE_ENGINEERS_Title"
+	{
+		"chi"	"以一敌三"
+	}
+	"TF_DEMOMAN_DOMINATE_THREE_ENGINEERS_Desc"
+	{
+		"chi"	"压制 3 名工程师。"
+	}
+	"TF_DEMOMAN_KILL_BUILDING_DIRECT_HIT_Title"
+	{
+		"chi"	"误打误撞"
+	}
+	"TF_DEMOMAN_KILL_BUILDING_DIRECT_HIT_Desc"
+	{
+		"chi"	"使用榴弹发射器的直接伤害摧毁 1 座不在视野内的工程师建筑。"
+	}
+	"TF_DEMOMAN_MELEE_KILL_WHILE_STICKYJUMPING_Title"
+	{
+		"chi"	"苏格兰特技"
+	}
+	"TF_DEMOMAN_MELEE_KILL_WHILE_STICKYJUMPING_Desc"
+	{
+		"chi"	"粘性跳跃时使用近战武器杀死 1 名敌人。"
+	}
+	"TF_DEMOMAN_KILL_ENGI_SENTRY_DISPENSER_Title"
+	{
+		"chi"	"毁灭打击"
+	}
+	"TF_DEMOMAN_KILL_ENGI_SENTRY_DISPENSER_Desc"
+	{
+		"chi"	"引爆单次粘性炸弹，炸飞 1 名工程师、他的哨戒枪以及补给器。"
+	}
+	"TF_DEMOMAN_DECAPITATE_EQUALIZER_Title"
+	{
+		"chi"	"大搓锐气"
+	}
+	"TF_DEMOMAN_DECAPITATE_EQUALIZER_Desc"
+	{
+		"chi"	"砍下 1 名正在挥舞十字镐耀武扬威的敌方 火箭兵 的脑袋。"
+	}
+	"TF_DEMOMAN_DECAPITATE_NEMESIS_Title"
+	{
+		"chi"	"只能活一个"
+	}
+	"TF_DEMOMAN_DECAPITATE_NEMESIS_Desc"
+	{
+		"chi"	"砍下你的复仇者的脑袋。"
+	}
+	"TF_DEMOMAN_DAMAGE_GRIND_Title"
+	{
+		"chi"	"炸弹专家"
+	}
+	"TF_DEMOMAN_DAMAGE_GRIND_Desc"
+	{
+		"chi"	"造成 100 万的爆炸伤害。"
+	}
+	"TF_DEMOMAN_KILL_X_CAPPING_ONEDET_Title"
+	{
+		"chi"	"连环爆炸"
+	}
+	"TF_DEMOMAN_KILL_X_CAPPING_ONEDET_Desc"
+	{
+		"chi"	"引爆单枚粘性炸弹，分 3 次杀死 3 名占领或推推车的敌人。"
+	}
+	"TF_DEMOMAN_KILL_X_DEFENDING_Title"
+	{
+		"chi"	"负隅顽抗"
+	}
+	"TF_DEMOMAN_KILL_X_DEFENDING_Desc"
+	{
+		"chi"	"杀死 25 名防御据点或推车的玩家。"
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_GRIND_Title"
+	{
+		"chi"	"让毁灭来的更猛烈些吧！"
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_GRIND_Desc"
+	{
+		"chi"	"摧毁 50 座建筑。"
+	}
+	"TF_DEMOMAN_KILL_X_HEAVIES_FULLHP_ONEDET_Title"
+	{
+		"chi"	"一击必杀"
+	}
+	"TF_DEMOMAN_KILL_X_HEAVIES_FULLHP_ONEDET_Desc"
+	{
+		"chi"	"引爆单次粘性炸弹，杀死 5 名满生命值的敌人。"
+	}
+	"TF_DEMOMAN_KILL_X_SCOUTS_PYROS_Title"
+	{
+		"chi"	"榴弹死神"
+	}
+	"TF_DEMOMAN_KILL_X_SCOUTS_PYROS_Desc"
+	{
+		"chi"	"使用榴弹发射器杀死 25 名侦察兵和火焰兵。"
+	}
+	"TF_DEMOMAN_TAUNT_KILL_Title"
+	{
+		"chi"	"骑士荣誉"
+	}
+	"TF_DEMOMAN_TAUNT_KILL_Desc"
+	{
+		"chi"	"使用苏格兰长剑荣耀地斩杀敌人。"
+	}
+	"TF_DEMOMAN_CHARGE_KILL_Title"
+	{
+		"chi"	"冲锋陷阵"
+	}
+	"TF_DEMOMAN_CHARGE_KILL_Desc"
+	{
+		"chi"	"冲锋并用盾牌猛击杀死 1 名敌人。"
+	}
+	"TF_DEMOMAN_CRIT_SWORD_KILL_Title"
+	{
+		"chi"	"痛扁我吧，苏格兰人"
+	}
+	"TF_DEMOMAN_CRIT_SWORD_KILL_Desc"
+	{
+		"chi"	"使用苏格兰长剑的爆击加成杀死 5 名敌人。"
+	}
+	"TF_DEMOMAN_AIR_BURST_KILLS_Title"
+	{
+		"chi"	"天降之灾"
+	}
+	"TF_DEMOMAN_AIR_BURST_KILLS_Desc"
+	{
+		"chi"	"使用空中爆炸的粘性炸弹杀死 30 名玩家。"
+	}
+	"TF_DEMOMAN_STICKYJUMP_CAP_Title"
+	{
+		"chi"	"天降神兵"
+	}
+	"TF_DEMOMAN_STICKYJUMP_CAP_Desc"
+	{
+		"chi"	"使用粘性跳跃跳至一个据点并占领。"
+	}
+	"TF_DEMOMAN_FREEZECAM_SMILE_Title"
+	{
+		"chi"	"血腥微笑"
+	}
+	"TF_DEMOMAN_FREEZECAM_SMILE_Desc"
+	{
+		"chi"	"赠送敌方玩家一张带有你笑脸的照片。"
+	}
+	"TF_DEMOMAN_FREEZECAM_RUMP_Title"
+	{
+		"chi"	"第二只眼"
+	}
+	"TF_DEMOMAN_FREEZECAM_RUMP_Desc"
+	{
+		"chi"	"赠送敌方玩家一张你摇摆屁股的照片。"
+	}
+	"TF_DEMOMAN_ENVIRONMENTAL_KILL_Title"
+	{
+		"chi"	"借力使力"
+	}
+	"TF_DEMOMAN_ENVIRONMENTAL_KILL_Desc"
+	{
+		"chi"	"使用粘性炸弹发射器利用环境伤害杀死 1 名敌方玩家。"
+	}
+	"TF_DEMOMAN_DESTROY_X_STICKYBOMBS_Title"
+	{
+		"chi"	"皇家抢案"
+	}
+	"TF_DEMOMAN_DESTROY_X_STICKYBOMBS_Desc"
+	{
+		"chi"	"使用苏格兰防御者摧毁 100 枚敌方粘性炸弹。"
+	}
+	"TF_DEMOMAN_STICKJUMP_DISTANCE_Title"
+	{
+		"chi"	"高空滑翔"
+	}
+	"TF_DEMOMAN_STICKJUMP_DISTANCE_Desc"
+	{
+		"chi"	"超远距离粘性跳跃..."
+	}
+	"TF_DEMOMAN_KILL3_WITH_DETONATION_Title"
+	{
+		"chi"	"炸弹装袋工"
+	}
+	"TF_DEMOMAN_KILL3_WITH_DETONATION_Desc"
+	{
+		"chi"	"使用单次粘性炸弹炸死至少 3 名玩家。"
+	}
+	"TF_DEMOMAN_KILLXSAPPINGSPIES_Title"
+	{
+		"chi"	"闪击间谍"
+	}
+	"TF_DEMOMAN_KILLXSAPPINGSPIES_Desc"
+	{
+		"chi"	"在 5 秒内杀死 20 名正在破坏友方建筑的间谍。"
+	}
+	"TF_DEMOMAN_KILL3_WITH_PIPE_SETUPS_Title"
+	{
+		"chi"	"砰！砰！砰！"
+	}
+	"TF_DEMOMAN_KILL3_WITH_PIPE_SETUPS_Desc"
+	{
+		"chi"	"不另放置粘性炸弹，使用苏格兰防御者分次炸死 3 名玩家。"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS1_Title"
+	{
+		"chi"	"Demoman 里程碑 1"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS1_Desc"
+	{
+		"chi"	"在 Demoman 配置中获得 5 项成就。"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS2_Title"
+	{
+		"chi"	"Demoman 里程碑 2"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS2_Desc"
+	{
+		"chi"	"在 Demoman 配置中获得 11 项成就。"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS3_Title"
+	{
+		"chi"	"Demoman 里程碑 3"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS3_Desc"
+	{
+		"chi"	"在 Demoman 配置中获得 17 项成就。"
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS1_Title"
+	{
+		"chi"	"工程兵第 1 阶段"
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS1_Desc"
+	{
+		"chi"	"在工程兵游戏包中赢得 5 项任务奖。"
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS2_Title"
+	{
+		"chi"	"工程兵第 2 阶段"
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS2_Desc"
+	{
+		"chi"	"在工程兵游戏包中赢得 11 项任务奖。"
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS3_Title"
+	{
+		"chi"	"工程兵第 3 阶段"
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS3_Desc"
+	{
+		"chi"	"在工程兵游戏包中赢得 17 项任务奖。"
+	}
+	"TF_ENGINEER_TELEPORT_GRIND_Title"
+	{
+		"chi"	"战役活跃人"
+	}
+	"TF_ENGINEER_TELEPORT_GRIND_Desc"
+	{
+		"chi"	"可将信息传递给战役中的 100 位小队成员。"
+	}
+	"TF_ENGINEER_DISPENSER_EXTINGUISH_Title"
+	{
+		"chi"	"队友身上的烈火已扑灭"
+	}
+	"TF_ENGINEER_DISPENSER_EXTINGUISH_Desc"
+	{
+		"chi"	"您建造的补给器已帮助 20 队友扑灭身上的烈火。"
+	}
+	"TF_ENGINEER_REVENGE_CRIT_SENTRY_KILLER_Title"
+	{
+		"chi"	"复仇计划"
+	}
+	"TF_ENGINEER_REVENGE_CRIT_SENTRY_KILLER_Desc"
+	{
+		"chi"	"使用复仇重击杀掉摧毁您步哨枪的敌方玩家。"
+	}
+	"TF_ENGINEER_MANUAL_CLOAKED_SPY_KILL_Title"
+	{
+		"chi"	"搜索引擎"
+	}
+	"TF_ENGINEER_MANUAL_CLOAKED_SPY_KILL_Desc"
+	{
+		"chi"	"在掩护兵的控制下使用步哨枪杀掉 3 个隐身间谍。"
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_KILLS_BEYOND_RANGE_Title"
+	{
+		"chi"	"杀伤范围"
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_KILLS_BEYOND_RANGE_Desc"
+	{
+		"chi"	"利用掩护兵可在正常的步哨枪范围外杀敌 10 人。"
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_ABSORB_DMG_Title"
+	{
+		"chi"	"设防"
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_ABSORB_DMG_Desc"
+	{
+		"chi"	"在掩护兵的防护下哨兵可抵挡 500 点攻击损伤而不被摧毁。"
+	}
+	"TF_ENGINEER_REVENGE_CRIT_LIFE_Title"
+	{
+		"chi"	"杀无赦"
+	}
+	"TF_ENGINEER_REVENGE_CRIT_LIFE_Desc"
+	{
+		"chi"	"使用复仇重击杀敌 3 人而不死亡。"
+	}
+	"TF_ENGINEER_KILL_SPY_TWO_SAPPERS_Title"
+	{
+		"chi"	"即时备战"
+	}
+	"TF_ENGINEER_KILL_SPY_TWO_SAPPERS_Desc"
+	{
+		"chi"	"10 秒内杀掉一个间谍和两个工兵。"
+	}
+	"TF_ENGINEER_KILL_DISGUISED_SPY_Title"
+	{
+		"chi"	"扳手连接"
+	}
+	"TF_ENGINEER_KILL_DISGUISED_SPY_Desc"
+	{
+		"chi"	"用扳手杀掉伪装间谍。"
+	}
+	"TF_ENGINEER_UPGRADE_BUILDINGS_Title"
+	{
+		"chi"	"缄默的伙伴"
+	}
+	"TF_ENGINEER_UPGRADE_BUILDINGS_Desc"
+	{
+		"chi"	"升级其他小队成员建设的 50 座建筑。"
+	}
+	"TF_ENGINEER_DESTROY_SAPPERS_Title"
+	{
+		"chi"	"一群工兵"
+	}
+	"TF_ENGINEER_DESTROY_SAPPERS_Desc"
+	{
+		"chi"	"在其他小队成员建设的建筑中摧毁 25 个工兵。"
+	}
+	"TF_ENGINEER_REPAIR_SENTRY_W_MEDIC_Title"
+	{
+		"chi"	"伙计，弹药和枪管"
+	}
+	"TF_ENGINEER_REPAIR_SENTRY_W_MEDIC_Desc"
+	{
+		"chi"	"在战火中由医护兵修复步哨枪。"
+	}
+	"TF_ENGINEER_SENTRY_KILL_LIFETIME_GRIND_Title"
+	{
+		"chi"	"德州最牛小宰场"
+	}
+	"TF_ENGINEER_SENTRY_KILL_LIFETIME_GRIND_Desc"
+	{
+		"chi"	"使用步哨枪击毙 5000 个敌方士兵。"
+	}
+	"TF_ENGINEER_SENTRY_AVENGES_YOU_Title"
+	{
+		"chi"	"前线审判"
+	}
+	"TF_ENGINEER_SENTRY_AVENGES_YOU_Desc"
+	{
+		"chi"	"您的哨兵已在 10 秒内杀死那个杀掉您的敌方士兵。"
+	}
+	"TF_ENGINEER_FREEZECAM_TAUNT_Title"
+	{
+		"chi"	"六弦弦匠"
+	}
+	"TF_ENGINEER_FREEZECAM_TAUNT_Desc"
+	{
+		"chi"	"赠送敌方玩家一张您表演吉他技术的照片。"
+	}
+	"TF_ENGINEER_FREEZECAM_SENTRY_Title"
+	{
+		"chi"	"野蛮的工程兵"
+	}
+	"TF_ENGINEER_FREEZECAM_SENTRY_Desc"
+	{
+		"chi"	"赠送敌方玩家一张您与杀掉他们的哨兵的照片。"
+	}
+	"TF_ENGINEER_SHOTGUN_KILL_PREV_SENTRY_TARGET_Title"
+	{
+		"chi"	"德州第二阶段"
+	}
+	"TF_ENGINEER_SHOTGUN_KILL_PREV_SENTRY_TARGET_Desc"
+	{
+		"chi"	"用您的散弹枪杀死近来被您的步哨枪杀伤的敌方士兵。"
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GROUP_Title"
+	{
+		"chi"	"何立德医生"
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GROUP_Desc"
+	{
+		"chi"	"补给器可同时治愈 3 个队友。"
+	}
+	"TF_ENGINEER_SENTRY_KILL_CAPS_Title"
+	{
+		"chi"	"无人的土地"
+	}
+	"TF_ENGINEER_SENTRY_KILL_CAPS_Desc"
+	{
+		"chi"	"用步哨枪杀掉 25 个正在夺分的敌方玩家。"
+	}
+	"TF_ENGINEER_KILL_FLAG_CARRIERS_Title"
+	{
+		"chi"	"交易秘密"
+	}
+	"TF_ENGINEER_KILL_FLAG_CARRIERS_Desc"
+	{
+		"chi"	"杀掉 20 个持有智能的玩家。"
+	}
+	"TF_ENGINEER_WASTE_METAL_GRIND_Title"
+	{
+		"chi"	"死亡金属"
+	}
+	"TF_ENGINEER_WASTE_METAL_GRIND_Desc"
+	{
+		"chi"	"从已摧毁的建筑碎片中拾取 10,000 片废金属。"
+	}
+	"TF_ENGINEER_HELP_BUILD_STRUCTURE_Title"
+	{
+		"chi"	"攫取土地"
+	}
+	"TF_ENGINEER_HELP_BUILD_STRUCTURE_Desc"
+	{
+		"chi"	"帮助队友构建建筑。"
+	}
+	"TF_ENGINEER_REMOVE_SAPPER_LONG_DIST_Title"
+	{
+		"chi"	"融洽相处！"
+	}
+	"TF_ENGINEER_REMOVE_SAPPER_LONG_DIST_Desc"
+	{
+		"chi"	"设法接近，然后在您离目标几米之外撤走驻守在建筑上的工兵。"
+	}
+	"TF_ENGINEER_DESTROY_STICKIES_Title"
+	{
+		"chi"	"如何击毙有害物"
+	}
+	"TF_ENGINEER_DESTROY_STICKIES_Desc"
+	{
+		"chi"	"摧毁布置在友军范围内的 50 枚敌方黏性炸弹。"
+	}
+	"TF_ENGINEER_TAUNT_KILL_Title"
+	{
+		"chi"	"牛仔"
+	}
+	"TF_ENGINEER_TAUNT_KILL_Desc"
+	{
+		"chi"	"用吉他打爆敌人的头。"
+	}
+	"TF_ENGINEER_KILL_SNIPERS_SENTRY_Title"
+	{
+		"chi"	"阻击莫兰特"
+	}
+	"TF_ENGINEER_KILL_SNIPERS_SENTRY_Desc"
+	{
+		"chi"	"在掩护兵的控制下使用步哨枪杀掉 10 个狙击手。"
+	}
+	"TF_ENGINEER_HELP_MANUAL_SENTRY_Title"
+	{
+		"chi"	"边疆铁骑军"
+	}
+	"TF_ENGINEER_HELP_MANUAL_SENTRY_Desc"
+	{
+		"chi"	"在另一个工程兵的掩护下执行 50 项修复和/或重装。"
+	}
+	"TF_ENGINEER_KILL_SENTRY_WITH_SENTRY_Title"
+	{
+		"chi"	"特许保护"
+	}
+	"TF_ENGINEER_KILL_SENTRY_WITH_SENTRY_Desc"
+	{
+		"chi"	"在掩护兵的控制下利用哨兵摧毁敌方工程兵的步哨枪。"
+	}
+	"TF_ENGINEER_MOVE_SENTRY_GET_KILL_Title"
+	{
+		"chi"	"如果您构建建筑，他们就会死亡"
+	}
+	"TF_ENGINEER_MOVE_SENTRY_GET_KILL_Desc"
+	{
+		"chi"	"在重新部署后，步哨枪很快就可达到杀敌级别 3。"
+	}
+	"TF_ENGINEER_BUILDING_CARRY_Title"
+	{
+		"chi"	"德克萨斯骑兵队"
+	}
+	"TF_ENGINEER_BUILDING_CARRY_Desc"
+	{
+		"chi"	"在您的战绩下，建筑很快会达到 1 公里。"
+	}
+	"TF_ENGINEER_KILL_ASSIST_Title"
+	{
+		"chi"	"代表"
+	}
+	"TF_ENGINEER_KILL_ASSIST_Desc"
+	{
+		"chi"	"在使用步哨枪杀敌时可获得另一个工程兵的 10 次助攻。"
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GRIND_Title"
+	{
+		"chi"	"药房牛仔"
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GRIND_Desc"
+	{
+		"chi"	"您创建的补给器已恢复您业绩范围内总数为 100,000 点的生命值。"
+	}
+	"TF_ENGINEER_REPAIR_TEAM_GRIND_Title"
+	{
+		"chi"	"严阵以待"
+	}
+	"TF_ENGINEER_REPAIR_TEAM_GRIND_Desc"
+	{
+		"chi"	"修复由其他玩家建设的友军建筑 50,000 个损坏点。"
+	}
+	"TF_ENGINEER_TANK_DAMAGE_Title"
+	{
+		"chi"	"建筑持续时间"
+	}
+	"TF_ENGINEER_TANK_DAMAGE_Desc"
+	{
+		"chi"	"帮助一台建筑坦克跨过 2000 个损坏点而不摧毁它们。"
+	}
+	"TF_ENGINEER_HEAVY_ASSIST_Title"
+	{
+		"chi"	"（并非如此）自古英雄多寂寞"
+	}
+	"TF_ENGINEER_HEAVY_ASSIST_Desc"
+	{
+		"chi"	"在获取 5 个杀敌数的过程中使用补给器愈合严重损伤部位。"
+	}
+}

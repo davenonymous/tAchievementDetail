@@ -1,0 +1,2915 @@
+﻿"Phrases"
+{
+	"TF_GET_TURRETKILLS_Title"
+	{
+		"jp"	"セントリーガンの名手"
+	}
+	"TF_GET_TURRETKILLS_Desc"
+	{
+		"jp"	"セントリーガン 1 台の累積キル数を 10 に伸ばす。"
+	}
+	"TF_KILL_NEMESIS_Title"
+	{
+		"jp"	"強敵"
+	}
+	"TF_KILL_NEMESIS_Desc"
+	{
+		"jp"	"リベンジキル数 5 を達成。"
+	}
+	"TF_GET_CONSECUTIVEKILLS_NODEATHS_Title"
+	{
+		"jp"	"不屈の戦士"
+	}
+	"TF_GET_CONSECUTIVEKILLS_NODEATHS_Desc"
+	{
+		"jp"	"死なずに連続で 5 キルを達成。"
+	}
+	"TF_GET_HEALED_BYENEMY_Title"
+	{
+		"jp"	"変装の達人"
+	}
+	"TF_GET_HEALED_BYENEMY_Desc"
+	{
+		"jp"	"敵のメディックをだまして回復してもらう。"
+	}
+	"TF_GET_HEADSHOTS_Title"
+	{
+		"jp"	"ヘッドハンター"
+	}
+	"TF_GET_HEADSHOTS_Desc"
+	{
+		"jp"	"スナイパーとして、ヘッドショット数 25 を達成。"
+	}
+	"TF_PLAY_GAME_FRIENDSONLY_Title"
+	{
+		"jp"	"フレンドと共に..."
+	}
+	"TF_PLAY_GAME_FRIENDSONLY_Desc"
+	{
+		"jp"	"フレンドリストに登録されている 7 人以上のプレイヤーと一緒にゲームをプレイ。"
+	}
+	"TF_WIN_MULTIPLEGAMES_Title"
+	{
+		"jp"	"王者"
+	}
+	"TF_WIN_MULTIPLEGAMES_Desc"
+	{
+		"jp"	"ゲームで 20 勝する。"
+	}
+	"TF_GET_MULTIPLEKILLS_Title"
+	{
+		"jp"	"強靭無比"
+	}
+	"TF_GET_MULTIPLEKILLS_Desc"
+	{
+		"jp"	"累積総キル数 1000 を達成。"
+	}
+	"TF_WIN_2FORT_NOENEMYCAPS_Title"
+	{
+		"jp"	"猛攻"
+	}
+	"TF_WIN_2FORT_NOENEMYCAPS_Desc"
+	{
+		"jp"	"2Fort で完勝する。"
+	}
+	"TF_WIN_WELL_MINIMUMTIME_Title"
+	{
+		"jp"	"電光石火の攻撃"
+	}
+	"TF_WIN_WELL_MINIMUMTIME_Desc"
+	{
+		"jp"	"Well で 5 分以内に勝つ。"
+	}
+	"TF_WIN_HYDRO_NOENEMYCAPS_Title"
+	{
+		"jp"	"容赦なき攻撃"
+	}
+	"TF_WIN_HYDRO_NOENEMYCAPS_Desc"
+	{
+		"jp"	"Hydro で、奪取ポイントを 1 つ残らず奪って勝つ。"
+	}
+	"TF_WIN_DUSTBOWL_NOENEMYCAPS_Title"
+	{
+		"jp"	"鉄壁の防御"
+	}
+	"TF_WIN_DUSTBOWL_NOENEMYCAPS_Desc"
+	{
+		"jp"	"Dustbowl で、奪取ポイントを 1 つ残らず守りきる。"
+	}
+	"TF_WIN_GRAVELPIT_NOENEMYCAPS_Title"
+	{
+		"jp"	"突破不能の防御"
+	}
+	"TF_WIN_GRAVELPIT_NOENEMYCAPS_Desc"
+	{
+		"jp"	"Gravel Pit で、奪取ポイントを 1 つ残らず守りきる。"
+	}
+	"TF_PLAY_GAME_EVERYCLASS_Title"
+	{
+		"jp"	"クラスのリーダー"
+	}
+	"TF_PLAY_GAME_EVERYCLASS_Desc"
+	{
+		"jp"	"すべてのクラスで、1 ラウンドを戦いきる。"
+	}
+	"TF_PLAY_GAME_EVERYMAP_Title"
+	{
+		"jp"	"ワールドトラベラー"
+	}
+	"TF_PLAY_GAME_EVERYMAP_Desc"
+	{
+		"jp"	"すべてのマップ（2Fort、Dustbowl、Granary、Gravel Pit、Hydro、Well（CP））でゲームを最後までプレイする"
+	}
+	"TF_GET_HEALPOINTS_Title"
+	{
+		"jp"	"チームドクター"
+	}
+	"TF_GET_HEALPOINTS_Desc"
+	{
+		"jp"	"メディックとして、累積回復ポイント 25000 を達成。"
+	}
+	"TF_BURN_PLAYERSINMINIMUMTIME_Title"
+	{
+		"jp"	"火炎放射器使い"
+	}
+	"TF_BURN_PLAYERSINMINIMUMTIME_Desc"
+	{
+		"jp"	"30 秒以内に 5 人の敵に火をつける。"
+	}
+	"TF_MEDIC_TOP_SCOREBOARD_Title"
+	{
+		"jp"	"非好戦的トッププレイヤー"
+	}
+	"TF_MEDIC_TOP_SCOREBOARD_Desc"
+	{
+		"jp"	"敵を一切倒さずにフルラウンドをプレイし、チーム最高のスコアを獲得する。"
+	}
+	"TF_MEDIC_HEAL_UNDER_FIRE_Title"
+	{
+		"jp"	"4 重バイパス手術"
+	}
+	"TF_MEDIC_HEAL_UNDER_FIRE_Desc"
+	{
+		"jp"	"同時に 4 人の敵から攻撃されたチームメイトを回復させる。"
+	}
+	"TF_MEDIC_SIMUL_CHARGE_Title"
+	{
+		"jp"	"医療チームの団結"
+	}
+	"TF_MEDIC_SIMUL_CHARGE_Desc"
+	{
+		"jp"	"チームのメディック 2 人と協力して、3 人同時にユーバーチャージを作動させる。"
+	}
+	"TF_MEDIC_SETUP_CHARGE_Title"
+	{
+		"jp"	"手術準備"
+	}
+	"TF_MEDIC_SETUP_CHARGE_Desc"
+	{
+		"jp"	"セットアップフェーズが終わる前にユーバーチャージの準備を完了する。"
+	}
+	"TF_MEDIC_RAPID_CHARGE_Title"
+	{
+		"jp"	"トラウマクイーン"
+	}
+	"TF_MEDIC_RAPID_CHARGE_Desc"
+	{
+		"jp"	"5 分以内にユーバーチャージを 3 回行い、その間に 5 キルをアシストする。"
+	}
+	"TF_MEDIC_COUNTER_CHARGE_Title"
+	{
+		"jp"	"二重盲検試験"
+	}
+	"TF_MEDIC_COUNTER_CHARGE_Desc"
+	{
+		"jp"	"近くの敵メディックがユーバーチャージを行ってから 8 秒以内にユーバーチャージを行う。"
+	}
+	"TF_MEDIC_SWITCH_TO_MEDIC_Title"
+	{
+		"jp"	"医師役担当"
+	}
+	"TF_MEDIC_SWITCH_TO_MEDIC_Desc"
+	{
+		"jp"	"メディックのいないチームでチームメイトがメディックを呼んだ場合に、最初にメディックに切り替えてヘルスポイントを 500 回復する。"
+	}
+	"TF_MEDIC_SAVE_TEAMMATE_Title"
+	{
+		"jp"	"トリアージ"
+	}
+	"TF_MEDIC_SAVE_TEAMMATE_Desc"
+	{
+		"jp"	"チームメイトが致命的な爆発に巻き込まれる直前（1 秒以内）にユーバーチャージを行う。"
+	}
+	"TF_MEDIC_CHARGE_BLOCKER_Title"
+	{
+		"jp"	"予防医学"
+	}
+	"TF_MEDIC_CHARGE_BLOCKER_Desc"
+	{
+		"jp"	"チームメイトにユーバーチャージを行って、敵によるコントロールポイントの奪取を阻止する。"
+	}
+	"TF_MEDIC_ASSIST_MEDIC_Title"
+	{
+		"jp"	"診察"
+	}
+	"TF_MEDIC_ASSIST_MEDIC_Desc"
+	{
+		"jp"	"仲間のメディックをアシストして、1 回も倒されずに敵を 5 人倒す。"
+	}
+	"TF_MEDIC_SYRINGE_SCOUTS_Title"
+	{
+		"jp"	"こうすると痛いですか?"
+	}
+	"TF_MEDIC_SYRINGE_SCOUTS_Desc"
+	{
+		"jp"	"注射銃でスカウトを 50 回倒す。"
+	}
+	"TF_MEDIC_BONESAW_MEDICS_Title"
+	{
+		"jp"	"医療品質チェック"
+	}
+	"TF_MEDIC_BONESAW_MEDICS_Desc"
+	{
+		"jp"	"骨のこぎりでメディックを 50 回倒す。"
+	}
+	"TF_MEDIC_ASSIST_HEAVY_LONG_Title"
+	{
+		"jp"	"やりたい放題"
+	}
+	"TF_MEDIC_ASSIST_HEAVY_LONG_Desc"
+	{
+		"jp"	"ヘビーをアシストして、二人とも死なずにキル数 20 を達成。"
+	}
+	"TF_MEDIC_ASSIST_SCOUT_Title"
+	{
+		"jp"	"チクッとしますよ"
+	}
+	"TF_MEDIC_ASSIST_SCOUT_Desc"
+	{
+		"jp"	"スカウトをアシストして、1 回のユーバーチャージで 3 人の敵を倒す。"
+	}
+	"TF_MEDIC_ASSIST_PYRO_Title"
+	{
+		"jp"	"滅菌処理"
+	}
+	"TF_MEDIC_ASSIST_PYRO_Desc"
+	{
+		"jp"	"パイロをアシストして、1 回のユーバーチャージで敵を 5 人燃やす。"
+	}
+	"TF_MEDIC_ASSIST_HEAVY_Title"
+	{
+		"jp"	"鈍的外傷"
+	}
+	"TF_MEDIC_ASSIST_HEAVY_Desc"
+	{
+		"jp"	"ヘビーをアシストして、1 回のユーバーチャージで 2 人の敵を殴る。"
+	}
+	"TF_MEDIC_ASSIST_DEMOMAN_Title"
+	{
+		"jp"	"医学の進歩"
+	}
+	"TF_MEDIC_ASSIST_DEMOMAN_Desc"
+	{
+		"jp"	"デモマンをアシストして、1 回のユーバーチャージで敵エンジニアが作成した装置を 5 個破壊する。"
+	}
+	"TF_MEDIC_ASSIST_SOLDIER_Title"
+	{
+		"jp"	"爆破アシスタント"
+	}
+	"TF_MEDIC_ASSIST_SOLDIER_Desc"
+	{
+		"jp"	"ソルジャーをアシストして、1 回のユーバーチャージで 5 人の敵を爆破する。"
+	}
+	"TF_MEDIC_HEAL_ENGINEER_Title"
+	{
+		"jp"	"医療がつなぐ父と子の絆"
+	}
+	"TF_MEDIC_HEAL_ENGINEER_Desc"
+	{
+		"jp"	"敵から攻撃されているセントリーガンを修理しているエンジニアを回復する。"
+	}
+	"TF_MEDIC_ASSIST_CAPTURER_Title"
+	{
+		"jp"	"団結あるところ勝利あり"
+	}
+	"TF_MEDIC_ASSIST_CAPTURER_Desc"
+	{
+		"jp"	"1 回も倒されずに、敵のコントロールポイントで味方をアシストして 5 人倒す。"
+	}
+	"TF_MEDIC_HEAL_CALLERS_Title"
+	{
+		"jp"	"症例検討会"
+	}
+	"TF_MEDIC_HEAL_CALLERS_Desc"
+	{
+		"jp"	"メディックを呼んだチームメイトを 200 人回復する。"
+	}
+	"TF_MEDIC_EXTINGUISH_TEAMMATES_Title"
+	{
+		"jp"	"医療チームの消火活動"
+	}
+	"TF_MEDIC_EXTINGUISH_TEAMMATES_Desc"
+	{
+		"jp"	"燃えているチームメイトを 100 人消火する。"
+	}
+	"TF_MEDIC_ASSIST_VS_NEMESES_Title"
+	{
+		"jp"	"医師による殺人幇助"
+	}
+	"TF_MEDIC_ASSIST_VS_NEMESES_Desc"
+	{
+		"jp"	"強敵のキルを 20 回アシストする。"
+	}
+	"TF_MEDIC_KILL_WHILE_CHARGED_Title"
+	{
+		"jp"	"プラシーボ効果"
+	}
+	"TF_MEDIC_KILL_WHILE_CHARGED_Desc"
+	{
+		"jp"	"ユーバーチャージの準備が完了した状態で敵を 5 人倒して、1 回も倒されない。"
+	}
+	"TF_MEDIC_BONESAW_NOMISSES_Title"
+	{
+		"jp"	"骨のこぎりマスター"
+	}
+	"TF_MEDIC_BONESAW_NOMISSES_Desc"
+	{
+		"jp"	"1 回も倒されずに骨のこぎりで敵を連続 5 人攻撃し、その間に失敗もしない。"
+	}
+	"TF_MEDIC_HEAL_LARGE_Title"
+	{
+		"jp"	"研修生"
+	}
+	"TF_MEDIC_HEAL_LARGE_Desc"
+	{
+		"jp"	"1 回も倒されずにヘルスを合計 7000 ポイント回復する。"
+	}
+	"TF_MEDIC_HEAL_HUGE_Title"
+	{
+		"jp"	"専門医"
+	}
+	"TF_MEDIC_HEAL_HUGE_Desc"
+	{
+		"jp"	"1 回も倒されずにヘルスを合計 10000 ポイント回復する。"
+	}
+	"TF_MEDIC_HEAL_GRIND_Title"
+	{
+		"jp"	"医長"
+	}
+	"TF_MEDIC_HEAL_GRIND_Desc"
+	{
+		"jp"	"ヘルスを合計 100 万ポイント回復する。"
+	}
+	"TF_MEDIC_KILL_HEALED_SPY_Title"
+	{
+		"jp"	"偽りの誓い"
+	}
+	"TF_MEDIC_KILL_HEALED_SPY_Desc"
+	{
+		"jp"	"自分が回復していた敵スパイを倒す。"
+	}
+	"TF_MEDIC_SAVE_FALLING_TEAMMATE_Title"
+	{
+		"jp"	"医学的介入"
+	}
+	"TF_MEDIC_SAVE_FALLING_TEAMMATE_Desc"
+	{
+		"jp"	"落下ダメージで死にそうなチームメイトを救う。"
+	}
+	"TF_MEDIC_CHARGE_JUGGLE_Title"
+	{
+		"jp"	"セカンドオピニオン"
+	}
+	"TF_MEDIC_CHARGE_JUGGLE_Desc"
+	{
+		"jp"	"2 人のチームメイトに同時にユーバーチャージを行う。"
+	}
+	"TF_MEDIC_FREEZECAM_RAGDOLL_Title"
+	{
+		"jp"	"検視報告"
+	}
+	"TF_MEDIC_FREEZECAM_RAGDOLL_Desc"
+	{
+		"jp"	"倒した敵に罵倒しているフリーズカムショットを見せる。"
+	}
+	"TF_MEDIC_BONESAW_SPY_CALLERS_Title"
+	{
+		"jp"	"ご参考までに：私もメディックです"
+	}
+	"TF_MEDIC_BONESAW_SPY_CALLERS_Desc"
+	{
+		"jp"	"メディックを呼んでいる敵スパイを骨のこぎりを使って 5 回倒す。"
+	}
+	"TF_MEDIC_CHARGE_FRIENDS_Title"
+	{
+		"jp"	"仲間を治療"
+	}
+	"TF_MEDIC_CHARGE_FRIENDS_Desc"
+	{
+		"jp"	"Steam コミュニティのフレンド 10 人にユーバーチャージを行う。"
+	}
+	"TF_MEDIC_INVITE_JOIN_CHARGE_Title"
+	{
+		"jp"	"往診"
+	}
+	"TF_MEDIC_INVITE_JOIN_CHARGE_Desc"
+	{
+		"jp"	"フレンドがプレイしているゲームに参加してそのフレンドにユーバーチャージを行う。"
+	}
+	"TF_MEDIC_HEAL_ACHIEVER_Title"
+	{
+		"jp"	"医師との信頼関係"
+	}
+	"TF_MEDIC_HEAL_ACHIEVER_Desc"
+	{
+		"jp"	"チームメイトが自身の実績のロックを解除する瞬間にそのチームメイトを回復している。"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS1_Title"
+	{
+		"jp"	"メディックのマイルストーン 1"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS1_Desc"
+	{
+		"jp"	"メディックパックの実績を 10 個解除する。"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS2_Title"
+	{
+		"jp"	"メディックのマイルストーン 2"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS2_Desc"
+	{
+		"jp"	"メディックパックの実績を 16 個解除する。"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS3_Title"
+	{
+		"jp"	"メディックのマイルストーン 3"
+	}
+	"TF_MEDIC_ACHIEVE_PROGRESS3_Desc"
+	{
+		"jp"	"メディックパックの実績を 22 個解除する。"
+	}
+	"TF_PYRO_KILL_MULTIWEAPONS_Title"
+	{
+		"jp"	"ファイアコンボ"
+	}
+	"TF_PYRO_KILL_MULTIWEAPONS_Desc"
+	{
+		"jp"	"自分が点火した敵を 20 人ショットガンで始末する。"
+	}
+	"TF_PYRO_SIMULBURN_SCOUTS_Title"
+	{
+		"jp"	"アレの丸焼き"
+	}
+	"TF_PYRO_SIMULBURN_SCOUTS_Desc"
+	{
+		"jp"	"敵のスカウト 2 人に同時に火をつける。"
+	}
+	"TF_PYRO_FORCE_WATERJUMP_Title"
+	{
+		"jp"	"炎の洗礼"
+	}
+	"TF_PYRO_FORCE_WATERJUMP_Desc"
+	{
+		"jp"	"10 人の敵に火をつけて水に飛び込ませる。"
+	}
+	"TF_PYRO_KILL_POSTDEATH_Title"
+	{
+		"jp"	"点火して放置"
+	}
+	"TF_PYRO_KILL_POSTDEATH_Desc"
+	{
+		"jp"	"自分が死んでいる間に 15 人のプレイヤーを倒す。"
+	}
+	"TF_PYRO_KILL_SPIES_Title"
+	{
+		"jp"	"ファイアウォール"
+	}
+	"TF_PYRO_KILL_SPIES_Desc"
+	{
+		"jp"	"味方の建物にサッパーを作成したスパイ 5 人に点火する。"
+	}
+	"TF_PYRO_KILL_CARRIERS_Title"
+	{
+		"jp"	"機密焼却"
+	}
+	"TF_PYRO_KILL_CARRIERS_Desc"
+	{
+		"jp"	"味方の機密情報を持っている敵 5 人に点火する。"
+	}
+	"TF_PYRO_REVEAL_SPIES_Title"
+	{
+		"jp"	"自然発火？"
+	}
+	"TF_PYRO_REVEAL_SPIES_Desc"
+	{
+		"jp"	"透明マントを着ているスパイ 10 人に点火する。"
+	}
+	"TF_PYRO_CAMP_TELEPORTERS_Title"
+	{
+		"jp"	"一寸先は炎"
+	}
+	"TF_PYRO_CAMP_TELEPORTERS_Desc"
+	{
+		"jp"	"テレポーターを使ったばかりの敵 10 人に点火する。"
+	}
+	"TF_PYRO_CAMP_POSITION_Title"
+	{
+		"jp"	"キャンプファイア"
+	}
+	"TF_PYRO_CAMP_POSITION_Desc"
+	{
+		"jp"	"同一エリア内で 3 人の敵を続けて倒す。"
+	}
+	"TF_PYRO_KILL_AXE_SMALL_Title"
+	{
+		"jp"	"斧と生きるもの"
+	}
+	"TF_PYRO_KILL_AXE_SMALL_Desc"
+	{
+		"jp"	"死なずに 3 人の敵を斧で倒す。"
+	}
+	"TF_PYRO_KILL_AXE_LARGE_Title"
+	{
+		"jp"	"よく切れる斧だもの"
+	}
+	"TF_PYRO_KILL_AXE_LARGE_Desc"
+	{
+		"jp"	"死なずに 6 人の敵を斧で倒す。"
+	}
+	"TF_PYRO_KILL_FROM_BEHIND_Title"
+	{
+		"jp"	"背中にご用心"
+	}
+	"TF_PYRO_KILL_FROM_BEHIND_Desc"
+	{
+		"jp"	"50 人の敵を火炎放射器で背後から倒す。"
+	}
+	"TF_PYRO_BURN_SPIES_AS_YOU_Title"
+	{
+		"jp"	"フライドスパイ"
+	}
+	"TF_PYRO_BURN_SPIES_AS_YOU_Desc"
+	{
+		"jp"	"変装したスパイ 10 人に点火する。"
+	}
+	"TF_PYRO_BURN_SNIPERS_ZOOMED_Title"
+	{
+		"jp"	"覗きヤロウを燃やせ"
+	}
+	"TF_PYRO_BURN_SNIPERS_ZOOMED_Desc"
+	{
+		"jp"	"ズームイン中のスナイパー 10 人に点火する。"
+	}
+	"TF_PYRO_BURN_MEDICS_CHARGED_Title"
+	{
+		"jp"	"出火元は医師"
+	}
+	"TF_PYRO_BURN_MEDICS_CHARGED_Desc"
+	{
+		"jp"	"ユーバーチャージの準備ができているメディック 3 人に点火する。"
+	}
+	"TF_PYRO_REFLECT_PROJECTILES_Title"
+	{
+		"jp"	"ホットポテト"
+	}
+	"TF_PYRO_REFLECT_PROJECTILES_Desc"
+	{
+		"jp"	"圧縮エアーブラストで弾丸を 100 発跳ね返す。"
+	}
+	"TF_PYRO_KILL_HEAVIES_Title"
+	{
+		"jp"	"こんがりベーコン"
+	}
+	"TF_PYRO_KILL_HEAVIES_Desc"
+	{
+		"jp"	"火炎放射器でヘビーを 50 人倒す。"
+	}
+	"TF_PYRO_KILL_UNDERWATER_Title"
+	{
+		"jp"	"プラン B"
+	}
+	"TF_PYRO_KILL_UNDERWATER_Desc"
+	{
+		"jp"	"自分も敵も水中にいる状態で 10 人の敵を倒す。"
+	}
+	"TF_PYRO_KILL_UBERCHARGE_Title"
+	{
+		"jp"	"デカい花火"
+	}
+	"TF_PYRO_KILL_UBERCHARGE_Desc"
+	{
+		"jp"	"1 回のユーバーチャージ中に敵を 3 人倒す。"
+	}
+	"TF_PYRO_DESTROY_BUILDINGS_Title"
+	{
+		"jp"	"放火嗜好者"
+	}
+	"TF_PYRO_DESTROY_BUILDINGS_Desc"
+	{
+		"jp"	"敵エンジニアが作成した装置を 50 個破壊する。"
+	}
+	"TF_PYRO_DEFEND_POINTS_Title"
+	{
+		"jp"	"コントロールファイア"
+	}
+	"TF_PYRO_DEFEND_POINTS_Desc"
+	{
+		"jp"	"自チームのコントロールポイントを奪った敵 50 人に点火する。"
+	}
+	"TF_PYRO_KILL_GRIND_Title"
+	{
+		"jp"	"士"
+	}
+	"TF_PYRO_KILL_GRIND_Desc"
+	{
+		"jp"	"敵を 500 人倒す。"
+	}
+	"TF_PYRO_DAMAGE_GRIND_Title"
+	{
+		"jp"	"パイロウィザード"
+	}
+	"TF_PYRO_DAMAGE_GRIND_Desc"
+	{
+		"jp"	"炎によるダメージで合計 100 万ポイントを達成する。"
+	}
+	"TF_PYRO_BURN_MEDICPAIR_Title"
+	{
+		"jp"	"ヒーリング＆ファイア"
+	}
+	"TF_PYRO_BURN_MEDICPAIR_Desc"
+	{
+		"jp"	"敵 1 人と、対象の敵を治療中のメディックに点火する。"
+	}
+	"TF_PYRO_KILL_TAUNT_Title"
+	{
+		"jp"	"愉快なバーベキュー"
+	}
+	"TF_PYRO_KILL_TAUNT_Desc"
+	{
+		"jp"	"罵倒しながら敵を倒す。"
+	}
+	"TF_PYRO_KILL_TEAMWORK_Title"
+	{
+		"jp"	"火の後始末"
+	}
+	"TF_PYRO_KILL_TEAMWORK_Desc"
+	{
+		"jp"	"他のパイロが点火した敵を始末する。"
+	}
+	"TF_PYRO_BURN_SPY_TAUNT_Title"
+	{
+		"jp"	"火ィいるか？"
+	}
+	"TF_PYRO_BURN_SPY_TAUNT_Desc"
+	{
+		"jp"	"タバコに火をつけようとしている敵のスパイに点火する。"
+	}
+	"TF_PYRO_DOMINATE_LEAVESVR_Title"
+	{
+		"jp"	"お別れ BBQ パーティー"
+	}
+	"TF_PYRO_DOMINATE_LEAVESVR_Desc"
+	{
+		"jp"	"対戦相手がサーバーから退出するまで連敗させる。"
+	}
+	"TF_PYRO_REFLECT_CROCKET_KILL_Title"
+	{
+		"jp"	"ホットショット"
+	}
+	"TF_PYRO_REFLECT_CROCKET_KILL_Desc"
+	{
+		"jp"	"クリティカルヒットのロケットを跳ね返してソルジャーを倒す。"
+	}
+	"TF_PYRO_KILL_TAUNTERS_Title"
+	{
+		"jp"	"ファイアダンス"
+	}
+	"TF_PYRO_KILL_TAUNTERS_Desc"
+	{
+		"jp"	"罵倒中の敵を 3 人倒す。"
+	}
+	"TF_PYRO_DOUBLE_KO_Title"
+	{
+		"jp"	"デッドヒート"
+	}
+	"TF_PYRO_DOUBLE_KO_Desc"
+	{
+		"jp"	"敵に倒された瞬間にその敵を倒す。"
+	}
+	"TF_PYRO_BURN_RJ_SOLDIER_Title"
+	{
+		"jp"	"人間照明"
+	}
+	"TF_PYRO_BURN_RJ_SOLDIER_Desc"
+	{
+		"jp"	"ロケットジャンプしたソルジャーが空中にいる間に点火する。"
+	}
+	"TF_PYRO_FREEZECAM_TAUNTS_Title"
+	{
+		"jp"	"燃えるフリーズカム"
+	}
+	"TF_PYRO_FREEZECAM_TAUNTS_Desc"
+	{
+		"jp"	"全種類の罵倒のフリーズカムショットを敵に見せる。"
+	}
+	"TF_PYRO_KILL_GRIND_LARGE_Title"
+	{
+		"jp"	"署長"
+	}
+	"TF_PYRO_KILL_GRIND_LARGE_Desc"
+	{
+		"jp"	"敵を 1000 人倒す。"
+	}
+	"TF_PYRO_IGNITE_FLAREGUN_Title"
+	{
+		"jp"	"注目の嵐"
+	}
+	"TF_PYRO_IGNITE_FLAREGUN_Desc"
+	{
+		"jp"	"フレアーガンで 100 人の敵に点火する。"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS1_Title"
+	{
+		"jp"	"パイロのマイルストーン 1"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS1_Desc"
+	{
+		"jp"	"パイロパックの実績を 10 個解除する。"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS2_Title"
+	{
+		"jp"	"パイロのマイルストーン 2"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS2_Desc"
+	{
+		"jp"	"パイロパックの実績を 16 個解除する。"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS3_Title"
+	{
+		"jp"	"パイロのマイルストーン 3"
+	}
+	"TF_PYRO_ACHIEVE_PROGRESS3_Desc"
+	{
+		"jp"	"パイロパックの実績を 22 個解除する。"
+	}
+	"TF_HEAVY_DAMAGE_TAKEN_Title"
+	{
+		"jp"	"鉄のカーテン"
+	}
+	"TF_HEAVY_DAMAGE_TAKEN_Desc"
+	{
+		"jp"	"一度も死なずに 1000 ポイントのダメージを受ける。"
+	}
+	"TF_HEAVY_DEFEND_MEDIC_Title"
+	{
+		"jp"	"党への忠義"
+	}
+	"TF_HEAVY_DEFEND_MEDIC_Desc"
+	{
+		"jp"	"累計で 50 回、自チームのメディックを攻撃してきた敵を 3 秒以内に倒す。"
+	}
+	"TF_HEAVY_ASSIST_MEDIC_LARGE_Title"
+	{
+		"jp"	"分業制"
+	}
+	"TF_HEAVY_ASSIST_MEDIC_LARGE_Desc"
+	{
+		"jp"	"メディックにアシストを受けながら、二人とも一度も死なずに敵を 20 人倒す。"
+	}
+	"TF_HEAVY_EARN_MEDIC_DOMINATION_Title"
+	{
+		"jp"	"赤き祝祭"
+	}
+	"TF_HEAVY_EARN_MEDIC_DOMINATION_Desc"
+	{
+		"jp"	"自分を治療してくれているメディックに制圧の称号をプレゼントする"
+	}
+	"TF_HEAVY_KILL_TAUNT_Title"
+	{
+		"jp"	"見せ物裁判"
+	}
+	"TF_HEAVY_KILL_TAUNT_Desc"
+	{
+		"jp"	"罵倒しながら敵を倒す。"
+	}
+	"TF_HEAVY_KILL_FLAG_CARRIERS_Title"
+	{
+		"jp"	"罪と罰"
+	}
+	"TF_HEAVY_KILL_FLAG_CARRIERS_Desc"
+	{
+		"jp"	"味方の機密情報を持っている敵を 10 人倒す。"
+	}
+	"TF_HEAVY_KILL_MEDIC_PAIR_Title"
+	{
+		"jp"	"階級闘争"
+	}
+	"TF_HEAVY_KILL_MEDIC_PAIR_Desc"
+	{
+		"jp"	"メディックと協力して敵のヘビー＆メディックペアを倒す"
+	}
+	"TF_HEAVY_BLOCK_INVULN_HEAVY_Title"
+	{
+		"jp"	"ソビエトブロック"
+	}
+	"TF_HEAVY_BLOCK_INVULN_HEAVY_Desc"
+	{
+		"jp"	"防御側で無敵状態のときに、無敵状態の攻撃側ヘビーの動きをブロックする。"
+	}
+	"TF_HEAVY_BLOCK_CART_Title"
+	{
+		"jp"	"カート停止に権力行使"
+	}
+	"TF_HEAVY_BLOCK_CART_Desc"
+	{
+		"jp"	"敵チームがペイロードのカートを動かそうとするのを 25 回ブロックする。"
+	}
+	"TF_HEAVY_RECEIVE_UBER_GRIND_Title"
+	{
+		"jp"	"ソビエト最高"
+	}
+	"TF_HEAVY_RECEIVE_UBER_GRIND_Desc"
+	{
+		"jp"	"50 回ユーバーチャージを受ける。"
+	}
+	"TF_HEAVY_STAND_NEAR_DISPENSER_Title"
+	{
+		"jp"	"工員"
+	}
+	"TF_HEAVY_STAND_NEAR_DISPENSER_Desc"
+	{
+		"jp"	"ディスペンサーから補給を受けながら 20 人の敵を倒す。"
+	}
+	"TF_HEAVY_ASSIST_HEAVY_GRIND_Title"
+	{
+		"jp"	"ソビエト連邦"
+	}
+	"TF_HEAVY_ASSIST_HEAVY_GRIND_Desc"
+	{
+		"jp"	"他のヘビーをアシストするか、他のヘビーにアシストされて敵を 25 人倒す。"
+	}
+	"TF_HEAVY_CLEAR_STICKYBOMBS_Title"
+	{
+		"jp"	"生産手段の私有"
+	}
+	"TF_HEAVY_CLEAR_STICKYBOMBS_Desc"
+	{
+		"jp"	"累計 20 回、粘着爆弾を製作したデモマンを倒して爆弾を無効化する。"
+	}
+	"TF_HEAVY_KILL_UNDERWATER_Title"
+	{
+		"jp"	"イワンのばか"
+	}
+	"TF_HEAVY_KILL_UNDERWATER_Desc"
+	{
+		"jp"	"自分と敵が共に水中にいる状態で敵を 100 人倒す。"
+	}
+	"TF_HEAVY_TAKE_MULTI_DAMAGE_Title"
+	{
+		"jp"	"ラスプーチン"
+	}
+	"TF_HEAVY_TAKE_MULTI_DAMAGE_Desc"
+	{
+		"jp"	"1 回も倒されずに、撃たれ、焼かれて、殴られて、爆発ダメージを受ける。"
+	}
+	"TF_HEAVY_KILL_DOMINATED_Title"
+	{
+		"jp"	"勝敗以外のお楽しみ"
+	}
+	"TF_HEAVY_KILL_DOMINATED_Desc"
+	{
+		"jp"	"制圧しているプレイヤーを 20 回倒す。"
+	}
+	"TF_HEAVY_SURVIVE_CROCKET_Title"
+	{
+		"jp"	"鋼の肉体"
+	}
+	"TF_HEAVY_SURVIVE_CROCKET_Desc"
+	{
+		"jp"	"クリティカルロケットの直撃を受けて生き残る。"
+	}
+	"TF_HEAVY_ASSIST_GRIND_Title"
+	{
+		"jp"	"集団化"
+	}
+	"TF_HEAVY_ASSIST_GRIND_Desc"
+	{
+		"jp"	"1000 アシストを達成する。"
+	}
+	"TF_HEAVY_UNCOVER_SPIES_Title"
+	{
+		"jp"	"スパイ的唯物論"
+	}
+	"TF_HEAVY_UNCOVER_SPIES_Desc"
+	{
+		"jp"	"透明マントを着ているスパイ 10 人を倒すか、倒すのをアシストする。"
+	}
+	"TF_HEAVY_KILL_WHILE_SPUNUP_Title"
+	{
+		"jp"	"永久的革命"
+	}
+	"TF_HEAVY_KILL_WHILE_SPUNUP_Desc"
+	{
+		"jp"	"ミニガンをスピンダウンせずに敵を 5 人倒す。"
+	}
+	"TF_HEAVY_FIRE_LOTS_Title"
+	{
+		"jp"	"重（ヘビー）工業"
+	}
+	"TF_HEAVY_FIRE_LOTS_Desc"
+	{
+		"jp"	"一度も死なずに $200,000 ぶんの弾を発射する。"
+	}
+	"TF_HEAVY_KILL_CRIT_PUNCH_Title"
+	{
+		"jp"	""
+	}
+	"TF_HEAVY_KILL_CRIT_PUNCH_Desc"
+	{
+		"jp"	"クリティカルパンチで敵を 1 人倒す。"
+	}
+	"TF_HEAVY_HEAL_MEDIKITS_Title"
+	{
+		"jp"	"ヘルスの再分配"
+	}
+	"TF_HEAVY_HEAL_MEDIKITS_Desc"
+	{
+		"jp"	"一度も死なずにメディキットで 1000 ダメージ回復する。"
+	}
+	"TF_HEAVY_KILL_SHOTGUN_Title"
+	{
+		"jp"	"配給武器の有効活用"
+	}
+	"TF_HEAVY_KILL_SHOTGUN_Desc"
+	{
+		"jp"	"ミニガンの弾薬が切れた状態で、ショットガンを使って敵を一人倒す。"
+	}
+	"TF_HEAVY_FIRST_TO_CAP_Title"
+	{
+		"jp"	"前衛党"
+	}
+	"TF_HEAVY_FIRST_TO_CAP_Desc"
+	{
+		"jp"	"チームで一番最初に、ラウンドのコントロールポイント奪取を開始する。"
+	}
+	"TF_HEAVY_PAYLOAD_CAP_GRIND_Title"
+	{
+		"jp"	"カート押しの帝王"
+	}
+	"TF_HEAVY_PAYLOAD_CAP_GRIND_Desc"
+	{
+		"jp"	"ペイロードマップで 50 CP を獲得する。"
+	}
+	"TF_HEAVY_KILL_MIDAIR_MINIGUN_Title"
+	{
+		"jp"	"マークスマン"
+	}
+	"TF_HEAVY_KILL_MIDAIR_MINIGUN_Desc"
+	{
+		"jp"	"10 人の敵を空中で撃ったミニガンで倒す。"
+	}
+	"TF_HEAVY_DEFEND_CONTROL_POINT_Title"
+	{
+		"jp"	"ゴーリキー公園"
+	}
+	"TF_HEAVY_DEFEND_CONTROL_POINT_Desc"
+	{
+		"jp"	"自チーム所有のコントロールポイント上に立った状態で 25 人の敵を倒す。"
+	}
+	"TF_HEAVY_KILL_CAPPING_ENEMIES_Title"
+	{
+		"jp"	"大粛清"
+	}
+	"TF_HEAVY_KILL_CAPPING_ENEMIES_Desc"
+	{
+		"jp"	"自チーム所有のコントロールポイントを奪取しようとしている敵を 15 人倒す。"
+	}
+	"TF_HEAVY_REVENGE_ASSIST_Title"
+	{
+		"jp"	"革命的な支援"
+	}
+	"TF_HEAVY_REVENGE_ASSIST_Desc"
+	{
+		"jp"	"5 人のチームメイトが強敵にリベンジするのを支援する。"
+	}
+	"TF_HEAVY_TELEPORT_FAST_KILL_Title"
+	{
+		"jp"	"五秒計画"
+	}
+	"TF_HEAVY_TELEPORT_FAST_KILL_Desc"
+	{
+		"jp"	"テレポーターを出てから 5 秒以内に敵を 1 人倒す。"
+	}
+	"TF_HEAVY_FREEZECAM_TAUNT_Title"
+	{
+		"jp"	"フォトストロイカ"
+	}
+	"TF_HEAVY_FREEZECAM_TAUNT_Desc"
+	{
+		"jp"	"無敵状態で敵に罵倒しているフリーズカムショットを見せる。"
+	}
+	"TF_HEAVY_EAT_SANDWICHES_Title"
+	{
+		"jp"	"誇示的消費"
+	}
+	"TF_HEAVY_EAT_SANDWICHES_Desc"
+	{
+		"jp"	"Sandvich を 100 個食べる。"
+	}
+	"TF_HEAVY_KILL_SCOUTS_Title"
+	{
+		"jp"	"サンドヴィッチに触れるな"
+	}
+	"TF_HEAVY_KILL_SCOUTS_Desc"
+	{
+		"jp"	"Natascha を使ってスカウトを 50 人倒す。"
+	}
+	"TF_HEAVY_KILL_HEAVIES_GLOVES_Title"
+	{
+		"jp"	"ボルシチベルト"
+	}
+	"TF_HEAVY_KILL_HEAVIES_GLOVES_Desc"
+	{
+		"jp"	"KGB（Killing Globes of Boxing）を使ってヘビーを 10 人倒す。"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS1_Title"
+	{
+		"jp"	"ヘビーのマイルストーン 1"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS1_Desc"
+	{
+		"jp"	"ヘビーパックの実績を 10 個解除する。"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS2_Title"
+	{
+		"jp"	"ヘビーのマイルストーン 2"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS2_Desc"
+	{
+		"jp"	"ヘビーパックの実績を 16 個解除する。"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS3_Title"
+	{
+		"jp"	"ヘビーのマイルストーン 3"
+	}
+	"TF_HEAVY_ACHIEVE_PROGRESS3_Desc"
+	{
+		"jp"	"ヘビーパックの実績を 22 個解除する。"
+	}
+	"TF_SCOUT_FIRST_BLOOD_Title"
+	{
+		"jp"	"ファーストブラッド"
+	}
+	"TF_SCOUT_FIRST_BLOOD_Desc"
+	{
+		"jp"	"アリーナマッチで初キルを挙げる。"
+	}
+	"TF_SCOUT_FIRST_BLOOD_KILL_Title"
+	{
+		"jp"	"ファーストブラッド：パート 2"
+	}
+	"TF_SCOUT_FIRST_BLOOD_KILL_Desc"
+	{
+		"jp"	"ファーストブラッドのクリティカル率アップ効果がかかった状態で 5 人の敵を倒す。"
+	}
+	"TF_SCOUT_WELL_EARLY_KILL_Title"
+	{
+		"jp"	"ピッチャー交代"
+	}
+	"TF_SCOUT_WELL_EARLY_KILL_Desc"
+	{
+		"jp"	"Well マップでラウンド開始前にプレイヤーを 1 人倒す。"
+	}
+	"TF_SCOUT_LIFETIME_KILLS_Title"
+	{
+		"jp"	"イヤー・トゥ・リメンバー"
+	}
+	"TF_SCOUT_LIFETIME_KILLS_Desc"
+	{
+		"jp"	"累計キル数 2004 を達成する。"
+	}
+	"TF_SCOUT_IRON_MAN_KILLS_Title"
+	{
+		"jp"	"サイクルヒット"
+	}
+	"TF_SCOUT_IRON_MAN_KILLS_Desc"
+	{
+		"jp"	"一度も死ぬことなく、地上、空中、水中で敵を倒す。"
+	}
+	"TF_SCOUT_DESTROY_TELEPORTERS_Title"
+	{
+		"jp"	"クローザー"
+	}
+	"TF_SCOUT_DESTROY_TELEPORTERS_Desc"
+	{
+		"jp"	"テレポーター入り口を 3 回破壊する。"
+	}
+	"TF_SCOUT_DESTROY_BUILDINGS_BEING_BUILT_Title"
+	{
+		"jp"	"「それを作れば、彼が来る」"
+	}
+	"TF_SCOUT_DESTROY_BUILDINGS_BEING_BUILT_Desc"
+	{
+		"jp"	"敵チームの作成中の装置を 3 回破壊する。"
+	}
+	"TF_SCOUT_DESTROY_SENTRY_WITH_PISTOL_Title"
+	{
+		"jp"	"敵の得点源を潰せ"
+	}
+	"TF_SCOUT_DESTROY_SENTRY_WITH_PISTOL_Desc"
+	{
+		"jp"	"稼働中のセントリーガンをピストルで破壊する。"
+	}
+	"TF_SCOUT_DOUBLE_JUMPS_Title"
+	{
+		"jp"	"打者の調子は天井知らず"
+	}
+	"TF_SCOUT_DOUBLE_JUMPS_Desc"
+	{
+		"jp"	"1000 回ダブルジャンプする。"
+	}
+	"TF_SCOUT_ASSIST_MEDIC_Title"
+	{
+		"jp"	"ドーピング？"
+	}
+	"TF_SCOUT_ASSIST_MEDIC_Desc"
+	{
+		"jp"	"メディックからユーバーチャージを受けた状態で敵を 3 人倒す。"
+	}
+	"TF_SCOUT_STEAL_SANDWICH_Title"
+	{
+		"jp"	"ドッジャーズ 1 - ジャイアンツ 0"
+	}
+	"TF_SCOUT_STEAL_SANDWICH_Desc"
+	{
+		"jp"	"敵のヘビーを倒して Sandvich をゲットする。"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS1_Title"
+	{
+		"jp"	"スカウトのマイルストーン 1"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS1_Desc"
+	{
+		"jp"	"スカウトパックの実績を 10 個解除する。"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS2_Title"
+	{
+		"jp"	"スカウトのマイルストーン 2"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS2_Desc"
+	{
+		"jp"	"スカウトパックの実績を 16 個解除する。"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS3_Title"
+	{
+		"jp"	"スカウトのマイルストーン 3"
+	}
+	"TF_SCOUT_ACHIEVE_PROGRESS3_Desc"
+	{
+		"jp"	"スカウトパックの実績を 22 個解除する。"
+	}
+	"TF_SCOUT_KILL_CHARGED_MEDICS_Title"
+	{
+		"jp"	"満塁でタイムリー"
+	}
+	"TF_SCOUT_KILL_CHARGED_MEDICS_Desc"
+	{
+		"jp"	"ユーバーチャージの準備ができているメディックを 1 人倒す。"
+	}
+	"TF_SCOUT_SURVIVE_DAMAGE_Title"
+	{
+		"jp"	"マン"
+	}
+	"TF_SCOUT_SURVIVE_DAMAGE_Desc"
+	{
+		"jp"	"一度も死なずに 500 ダメージを受ける。"
+	}
+	"TF_SCOUT_DOUBLEJUMP_KILL_Title"
+	{
+		"jp"	"凡フライ"
+	}
+	"TF_SCOUT_DOUBLEJUMP_KILL_Desc"
+	{
+		"jp"	"累計で 20 人、敵をダブルジャンプ中に倒す。"
+	}
+	"TF_SCOUT_FLAG_CAP_GRIND_Title"
+	{
+		"jp"	"ホーム（まで）ラン"
+	}
+	"TF_SCOUT_FLAG_CAP_GRIND_Desc"
+	{
+		"jp"	"敵の機密情報を 25 回奪う。"
+	}
+	"TF_SCOUT_THREE_FLAGCAPS_Title"
+	{
+		"jp"	"トリプルスチール"
+	}
+	"TF_SCOUT_THREE_FLAGCAPS_Desc"
+	{
+		"jp"	"CTF（旗取り）マップで、1 ラウンド中に敵の機密情報を 3 回奪う。"
+	}
+	"TF_SCOUT_DODGE_DAMAGE_Title"
+	{
+		"jp"	"芸術的早業"
+	}
+	"TF_SCOUT_DODGE_DAMAGE_Desc"
+	{
+		"jp"	"Bonk! Atomic Punch を活用して、一度も死なずに 1000 ダメージ避ける。"
+	}
+	"TF_SCOUT_KNOCK_INTO_TRAIN_Title"
+	{
+		"jp"	"フォールクラシック"
+	}
+	"TF_SCOUT_KNOCK_INTO_TRAIN_Desc"
+	{
+		"jp"	"ダブルショットガンのノックバック効果を利用して自然死/自滅させる。"
+	}
+	"TF_SCOUT_KILL_STUNNED_Title"
+	{
+		"jp"	"ストライクゾーン"
+	}
+	"TF_SCOUT_KILL_STUNNED_Desc"
+	{
+		"jp"	"累計で 50 人、気絶中の敵を倒す。"
+	}
+	"TF_SCOUT_STUN_INTO_TRAIN_Title"
+	{
+		"jp"	"ファウルゾーン"
+	}
+	"TF_SCOUT_STUN_INTO_TRAIN_Desc"
+	{
+		"jp"	"敵 1 人を気絶させて、相手を自然死させる。"
+	}
+	"TF_SCOUT_STUN_UBER_ENEMIES_Title"
+	{
+		"jp"	"番長は俺"
+	}
+	"TF_SCOUT_STUN_UBER_ENEMIES_Desc"
+	{
+		"jp"	"ユーバーチャージの準備ができているメディック 2 人を気絶させる。"
+	}
+	"TF_SCOUT_STUN_CAPPING_ENEMIES_Title"
+	{
+		"jp"	"威嚇球"
+	}
+	"TF_SCOUT_STUN_CAPPING_ENEMIES_Desc"
+	{
+		"jp"	"累計で 50 人、ポイントを奪取している/カートを押している敵を気絶させる。"
+	}
+	"TF_SCOUT_MAX_STUNS_Title"
+	{
+		"jp"	"特大ホームラン"
+	}
+	"TF_SCOUT_MAX_STUNS_Desc"
+	{
+		"jp"	"遠距離からボールを命中させて敵を最長時間気絶させる。"
+	}
+	"TF_SCOUT_STUN_SCOUT_WITH_THEIR_BALL_Title"
+	{
+		"jp"	"ビーンボール"
+	}
+	"TF_SCOUT_STUN_SCOUT_WITH_THEIR_BALL_Desc"
+	{
+		"jp"	"スカウトを自前のボールでスタンさせる。"
+	}
+	"TF_SCOUT_KILL_IN_DODGE_COOLDOWN_Title"
+	{
+		"jp"	"ランナー、アウト！"
+	}
+	"TF_SCOUT_KILL_IN_DODGE_COOLDOWN_Desc"
+	{
+		"jp"	"Bonk! の効果が切れた直後に発生するスロー効果でノロくなっているスカウトを 1 人倒す。"
+	}
+	"TF_SCOUT_KILL_FROM_BEHIND_Title"
+	{
+		"jp"	"隠しダマ"
+	}
+	"TF_SCOUT_KILL_FROM_BEHIND_Desc"
+	{
+		"jp"	"Force-A-Nature を使って、背後から敵を 50 人倒す。"
+	}
+	"TF_SCOUT_CAPTURE_LAST_POINT_Title"
+	{
+		"jp"	"敵チーム、丸ごとアウト！"
+	}
+	"TF_SCOUT_CAPTURE_LAST_POINT_Desc"
+	{
+		"jp"	"CP（奪取ポイント）マップで、最後のポイントを奪取する。"
+	}
+	"TF_SCOUT_CAPTURE_THREE_POINTS_Title"
+	{
+		"jp"	"トリプルプレー"
+	}
+	"TF_SCOUT_CAPTURE_THREE_POINTS_Desc"
+	{
+		"jp"	"一度も死なずに奪取ポイントを 3 箇所連続で奪取する。"
+	}
+	"TF_SCOUT_FAST_CAP_Title"
+	{
+		"jp"	"ホームスチール"
+	}
+	"TF_SCOUT_FAST_CAP_Desc"
+	{
+		"jp"	"奪取ポイントが奪取可能になってから 1 秒以内に奪取を開始する。"
+	}
+	"TF_SCOUT_START_AND_FINISH_CAP_Title"
+	{
+		"jp"	"お膳立て"
+	}
+	"TF_SCOUT_START_AND_FINISH_CAP_Desc"
+	{
+		"jp"	"累計で 10 回、奪取ポイントの奪取を開始して成功させる。"
+	}
+	"TF_SCOUT_BLOCK_CAPS_Title"
+	{
+		"jp"	"ホームベースは絶対死守"
+	}
+	"TF_SCOUT_BLOCK_CAPS_Desc"
+	{
+		"jp"	"ポイントの奪取を 50 回ブロックする。"
+	}
+	"TF_SCOUT_CARRIER_KILL_CARRIER_Title"
+	{
+		"jp"	"ピンチはチャンス、スターの証"
+	}
+	"TF_SCOUT_CARRIER_KILL_CARRIER_Desc"
+	{
+		"jp"	"自チームの機密情報を持っている敵を、敵チームの機密情報を持った状態で倒す。"
+	}
+	"TF_SCOUT_CAP_FLAG_WITHOUT_ATTACKING_Title"
+	{
+		"jp"	"なし"
+	}
+	"TF_SCOUT_CAP_FLAG_WITHOUT_ATTACKING_Desc"
+	{
+		"jp"	"機密情報を盗み、一度も発砲することなく持ち帰る。"
+	}
+	"TF_SCOUT_LONG_DISTANCE_RUNNER_Title"
+	{
+		"jp"	"ペナントレース"
+	}
+	"TF_SCOUT_LONG_DISTANCE_RUNNER_Desc"
+	{
+		"jp"	"25 キロ走る。"
+	}
+	"TF_SCOUT_TAUNT_KILL_Title"
+	{
+		"jp"	"場外ホームラン"
+	}
+	"TF_SCOUT_TAUNT_KILL_Desc"
+	{
+		"jp"	"バットを使って、敵 1 人を 25 メートル吹っ飛ばす。"
+	}
+	"TF_SNIPER_JARATE_DOMINATED_Title"
+	{
+		"jp"	"乗り潰したあとは濡れたまま"
+	}
+	"TF_SNIPER_JARATE_DOMINATED_Desc"
+	{
+		"jp"	"制圧しているプレイヤーに Jarate をぶっかける。"
+	}
+	"TF_SNIPER_FREEZECAM_HAT_Title"
+	{
+		"jp"	"何事も紳士的に"
+	}
+	"TF_SNIPER_FREEZECAM_HAT_Desc"
+	{
+		"jp"	"倒した敵に、帽子を取った姿のフリーズカムショットを見せる。"
+	}
+	"TF_SNIPER_RIFLE_NO_MISSING_Title"
+	{
+		"jp"	"何事も効率的に"
+	}
+	"TF_SNIPER_RIFLE_NO_MISSING_Desc"
+	{
+		"jp"	"スナイパーライフルを使って、一度も外すことなく敵を 3 人倒す。"
+	}
+	"TF_SNIPER_CAPTURE_FLAG_Title"
+	{
+		"jp"	"計画を持て"
+	}
+	"TF_SNIPER_CAPTURE_FLAG_Desc"
+	{
+		"jp"	"CTF（旗取り）マップで「旗」を取る。"
+	}
+	"TF_SNIPER_KILL_GRIND_Title"
+	{
+		"jp"	"出合った者はすべて殺せ"
+	}
+	"TF_SNIPER_KILL_GRIND_Desc"
+	{
+		"jp"	"敵を 1000 人倒す。"
+	}
+	"TF_SNIPER_KILL_WEAPONS_Title"
+	{
+		"jp"	"トリプルプレイ"
+	}
+	"TF_SNIPER_KILL_WEAPONS_Desc"
+	{
+		"jp"	"1 回のラウンドで、3 種類の武器を使ってキルを挙げる。"
+	}
+	"TF_SNIPER_HEADSHOT_SNIPERS_Title"
+	{
+		"jp"	"自己破壊本能"
+	}
+	"TF_SNIPER_HEADSHOT_SNIPERS_Desc"
+	{
+		"jp"	"敵スナイパーにヘッドショットを 10 回食らわせる。"
+	}
+	"TF_SNIPER_DESTROY_SENTRYGUNS_Title"
+	{
+		"jp"	"ディ・セントリ・ライズド"
+	}
+	"TF_SNIPER_DESTROY_SENTRYGUNS_Desc"
+	{
+		"jp"	"セントリーガンを 3 個破壊する。"
+	}
+	"TF_SNIPER_KILL_INVIS_SPY_Title"
+	{
+		"jp"	"風を撃ちぬけ"
+	}
+	"TF_SNIPER_KILL_INVIS_SPY_Desc"
+	{
+		"jp"	"完全に透明な状態のスパイを一発でしとめる。"
+	}
+	"TF_SNIPER_KILL_MIDAIR_SCOUT_Title"
+	{
+		"jp"	"着地のことは気にするな"
+	}
+	"TF_SNIPER_KILL_MIDAIR_SCOUT_Desc"
+	{
+		"jp"	"スナイパーライフルまたは Huntsman を使って、空中にいるスカウトを倒す。"
+	}
+	"TF_SNIPER_FREEZECAM_WAVE_Title"
+	{
+		"jp"	"ザ・ラスト・ウェーブ"
+	}
+	"TF_SNIPER_FREEZECAM_WAVE_Desc"
+	{
+		"jp"	"倒した敵に、手を振っている姿のフリーズカムショットを見せる。"
+	}
+	"TF_SNIPER_DOMINATE_SNIPER_Title"
+	{
+		"jp"	"オーストラリアンルール"
+	}
+	"TF_SNIPER_DOMINATE_SNIPER_Desc"
+	{
+		"jp"	"敵スナイパーを制圧する。"
+	}
+	"TF_SNIPER_KILL_SPIES_MELEE_Title"
+	{
+		"jp"	"スパイはククリで"
+	}
+	"TF_SNIPER_KILL_SPIES_MELEE_Desc"
+	{
+		"jp"	"ククリ刀を使って敵スパイを 10 人倒す。"
+	}
+	"TF_SNIPER_HEADSHOT_DEMOMAN_Title"
+	{
+		"jp"	"ソケットを付けてあげよう"
+	}
+	"TF_SNIPER_HEADSHOT_DEMOMAN_Desc"
+	{
+		"jp"	"敵デモマンにヘッドショットを食らわせる。"
+	}
+	"TF_SNIPER_KILL_RJER_Title"
+	{
+		"jp"	"ハイジャンプお疲れさま"
+	}
+	"TF_SNIPER_KILL_RJER_Desc"
+	{
+		"jp"	"スナイパーライフルまたは Huntsman を使って、ロケット/グレネードジャンプ中の敵を倒す。"
+	}
+	"TF_SNIPER_KILL_OBJECTIVES_Title"
+	{
+		"jp"	"ちがうよ親父、俺はいかれたガンマンじゃないって"
+	}
+	"TF_SNIPER_KILL_OBJECTIVES_Desc"
+	{
+		"jp"	"1 回も倒されずに、目標達成中の敵を 3 人倒す。"
+	}
+	"TF_SNIPER_KILL_UNSCOPED_Title"
+	{
+		"jp"	"己の感覚を信頼せよ"
+	}
+	"TF_SNIPER_KILL_UNSCOPED_Desc"
+	{
+		"jp"	"スナイパーライフルのズーム機能を使わずに敵を 5 人倒す。"
+	}
+	"TF_SNIPER_KILL_CHARGED_MEDIC_Title"
+	{
+		"jp"	"ユーバー切除術"
+	}
+	"TF_SNIPER_KILL_CHARGED_MEDIC_Desc"
+	{
+		"jp"	"ユーバーチャージの準備ができているメディックを 1 人倒す。"
+	}
+	"TF_SNIPER_GET_BACKSTABBED_Title"
+	{
+		"jp"	"残念賞"
+	}
+	"TF_SNIPER_GET_BACKSTABBED_Desc"
+	{
+		"jp"	"背後からの一撃で 50 回倒される。"
+	}
+	"TF_SNIPER_KILL_AT_ROUNDSTART_Title"
+	{
+		"jp"	"エネミー・アット・ザ・ゲート"
+	}
+	"TF_SNIPER_KILL_AT_ROUNDSTART_Desc"
+	{
+		"jp"	"ラウンド開始から 1 秒以内に敵を倒す。"
+	}
+	"TF_SNIPER_HEADSHOT_POST_INVULN_Title"
+	{
+		"jp"	"突然のさよなら"
+	}
+	"TF_SNIPER_HEADSHOT_POST_INVULN_Desc"
+	{
+		"jp"	"不死身状態が終わった直後の敵プレイヤーにヘッドショットを食らわせる。"
+	}
+	"TF_SNIPER_TOP_SCOREBOARD_GRIND_Title"
+	{
+		"jp"	"俺の輝かしい経歴"
+	}
+	"TF_SNIPER_TOP_SCOREBOARD_GRIND_Desc"
+	{
+		"jp"	"6 人以上が参加しているチームで 10 回スコアボード 1 位を獲得する。"
+	}
+	"TF_SNIPER_KILL_FAILED_SPY_Title"
+	{
+		"jp"	"ショック療法"
+	}
+	"TF_SNIPER_KILL_FAILED_SPY_Desc"
+	{
+		"jp"	"Razorback でスパイの背後からの即死攻撃を防いでから、そのスパイを倒す。"
+	}
+	"TF_SNIPER_JARATE_GROUP_Title"
+	{
+		"jp"	"集中砲水"
+	}
+	"TF_SNIPER_JARATE_GROUP_Desc"
+	{
+		"jp"	"Jarate 1 瓶を 4 人の敵にぶっかける。"
+	}
+	"TF_SNIPER_JARATE_MEDIC_PAIR_Title"
+	{
+		"jp"	"気分のいい日はいつも雨"
+	}
+	"TF_SNIPER_JARATE_MEDIC_PAIR_Desc"
+	{
+		"jp"	"敵 1 人と、対象の敵を治療中のメディックに Jarate をぶっかける。"
+	}
+	"TF_SNIPER_JARATE_REVEAL_SPY_Title"
+	{
+		"jp"	"他に方法があるだろう"
+	}
+	"TF_SNIPER_JARATE_REVEAL_SPY_Desc"
+	{
+		"jp"	"Jarate を使ってスパイの透明マントを見破る。"
+	}
+	"TF_SNIPER_JARATE_EXTINGUISH_Title"
+	{
+		"jp"	"友情は黄金色"
+	}
+	"TF_SNIPER_JARATE_EXTINGUISH_Desc"
+	{
+		"jp"	"燃えているチームメイトを Jarate で消化する。"
+	}
+	"TF_SNIPER_BOW_PIN_HEAVY_Title"
+	{
+		"jp"	"やりすぎウィリアム・テル"
+	}
+	"TF_SNIPER_BOW_PIN_HEAVY_Desc"
+	{
+		"jp"	"敵のヘビーの頭を撃ちぬき、壁にはりつける。"
+	}
+	"TF_SNIPER_BOW_KILL_MEDIC_PAIR_Title"
+	{
+		"jp"	"ボウ・アンド・アロー"
+	}
+	"TF_SNIPER_BOW_KILL_MEDIC_PAIR_Desc"
+	{
+		"jp"	"Bow を使ってヘビーとメディックのペアを倒す。"
+	}
+	"TF_SNIPER_BOW_KILL_FLAGCARRIER_Title"
+	{
+		"jp"	"ロビン（グ）フッド"
+	}
+	"TF_SNIPER_BOW_KILL_FLAGCARRIER_Desc"
+	{
+		"jp"	"機密情報を運んでいる敵を矢 1 本で倒す。"
+	}
+	"TF_SNIPER_BOW_PINCUSHION_Title"
+	{
+		"jp"	"針立て"
+	}
+	"TF_SNIPER_BOW_PINCUSHION_Desc"
+	{
+		"jp"	"敵 1 人に、倒さずに矢を 3 本命中させる。"
+	}
+	"TF_SNIPER_JARATE_ASSISTS_Title"
+	{
+		"jp"	"ナンバー 1 アシスタント"
+	}
+	"TF_SNIPER_JARATE_ASSISTS_Desc"
+	{
+		"jp"	"1 回のラウンドで、Jarate を使ってアシスト 5 回を達成する。"
+	}
+	"TF_SNIPER_JARATE_KILL_MELEE_Title"
+	{
+		"jp"	"ジャラテ・チョップ"
+	}
+	"TF_SNIPER_JARATE_KILL_MELEE_Desc"
+	{
+		"jp"	"敵を 3人、Jarate をぶっかけてからククリ刀で倒す。"
+	}
+	"TF_SNIPER_TAUNT_KILL_Title"
+	{
+		"jp"	"シャフテッド！"
+	}
+	"TF_SNIPER_TAUNT_KILL_Desc"
+	{
+		"jp"	"敵に矢を刺す。"
+	}
+	"TF_SNIPER_BOW_KILL_WHILEDEAD_Title"
+	{
+		"jp"	"デッド・レコニング"
+	}
+	"TF_SNIPER_BOW_KILL_WHILEDEAD_Desc"
+	{
+		"jp"	"自分が死んでいる間に矢で敵 1 人を倒す。"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS1_Title"
+	{
+		"jp"	"スナイパーのマイルストーン 1"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS1_Desc"
+	{
+		"jp"	"スナイパーパックの実績を 5 個解除する。"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS2_Title"
+	{
+		"jp"	"スナイパーのマイルストーン 2"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS2_Desc"
+	{
+		"jp"	"スナイパーパックの実績を 11 個解除する。"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS3_Title"
+	{
+		"jp"	"スナイパーのマイルストーン 3"
+	}
+	"TF_SNIPER_ACHIEVE_PROGRESS3_Desc"
+	{
+		"jp"	"スナイパーパックの実績を 17 個解除する。"
+	}
+	"TF_SPY_BACKSTAB_SNIPERS_Title"
+	{
+		"jp"	"トリプルクロス"
+	}
+	"TF_SPY_BACKSTAB_SNIPERS_Desc"
+	{
+		"jp"	"1 回も倒されずに、スナイパーを 3 人「背後からの一撃」でしとめる。"
+	}
+	"TF_SPY_FREEZECAM_FLICK_Title"
+	{
+		"jp"	"ユア・アイズ・オンリー"
+	}
+	"TF_SPY_FREEZECAM_FLICK_Desc"
+	{
+		"jp"	"倒した敵に、敵の死体にタバコをポイ捨てする姿のフリーズカムショットを見せる。"
+	}
+	"TF_SPY_BACKSTAB_DISGUISED_SPY_Title"
+	{
+		"jp"	"スパイ防止活動"
+	}
+	"TF_SPY_BACKSTAB_DISGUISED_SPY_Desc"
+	{
+		"jp"	"変装中のスパイに「背後からの一撃」をきめる。"
+	}
+	"TF_SPY_BACKSTAB_DISGUISE_TARGET_Title"
+	{
+		"jp"	"身元詐称"
+	}
+	"TF_SPY_BACKSTAB_DISGUISE_TARGET_Desc"
+	{
+		"jp"	"変装しているクラスと同じクラスの敵を「背後からの一撃」でしとめる。"
+	}
+	"TF_SPY_TAUNT_KILL_Title"
+	{
+		"jp"	"貫き通す男"
+	}
+	"TF_SPY_TAUNT_KILL_Desc"
+	{
+		"jp"	"フェンシングスタイルで敵を刺す"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_HEALING_YOU_Title"
+	{
+		"jp"	"ご参考までに：私はスパイです"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_HEALING_YOU_Desc"
+	{
+		"jp"	"自分を治療してくれたメディックを 5 秒以内に「背後からの一撃」でしとめる。"
+	}
+	"TF_SPY_BACKSTAB_ENGY_SAP_BUILDING_Title"
+	{
+		"jp"	"壊れた銃を持つ男"
+	}
+	"TF_SPY_BACKSTAB_ENGY_SAP_BUILDING_Desc"
+	{
+		"jp"	"エンジニアを「背後からの一撃」でしとめ、10 秒以内に作成した装置 3 個にサッパーを取り付ける。"
+	}
+	"TF_SPY_SAP_BUILDING_BACKSTAB_ENGY_Title"
+	{
+		"jp"	"サップサッカー"
+	}
+	"TF_SPY_SAP_BUILDING_BACKSTAB_ENGY_Desc"
+	{
+		"jp"	"敵の装置にサッパーを取り付け、5 秒以内に作成したエンジニアを「背後からの一撃」でしとめる。"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_PAIR_Title"
+	{
+		"jp"	"割り込み刺し込み"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_PAIR_Desc"
+	{
+		"jp"	"敵と敵を治療しているメディックを 2 人とも「背後からの一撃」でしとめる（1 人目と 2 人目の間隔は 10 秒以内）。"
+	}
+	"TF_SPY_BACKSTAB_FRIENDS_Title"
+	{
+		"jp"	"かく乱工作員"
+	}
+	"TF_SPY_BACKSTAB_FRIENDS_Desc"
+	{
+		"jp"	"Steam コミュニティのフレンドを 10 回「背後からの一撃」でしとめる。"
+	}
+	"TF_SPY_DOMINATE_SNIPER_Title"
+	{
+		"jp"	"メル・ボルーン・スプレマシー"
+	}
+	"TF_SPY_DOMINATE_SNIPER_Desc"
+	{
+		"jp"	"スナイパーを 1 人制圧する。"
+	}
+	"TF_SPY_BUMP_CLOAKED_SPY_Title"
+	{
+		"jp"	"スパイ・ライク・アス"
+	}
+	"TF_SPY_BUMP_CLOAKED_SPY_Desc"
+	{
+		"jp"	"透明マントの装備中に、同じく透明マントを装備中の敵スパイとぶつかる。"
+	}
+	"TF_SPY_KILL_SPY_WITH_KNIFE_Title"
+	{
+		"jp"	"君より俺は一枚上手"
+	}
+	"TF_SPY_KILL_SPY_WITH_KNIFE_Desc"
+	{
+		"jp"	"銃を持ったスパイをナイフで倒す。"
+	}
+	"TF_SPY_SURVIVE_BURNING_Title"
+	{
+		"jp"	"火事の備えは"
+	}
+	"TF_SPY_SURVIVE_BURNING_Desc"
+	{
+		"jp"	"透明マント着用中に点火されてから 30 秒生き延びる。"
+	}
+	"TF_SPY_BREAK_SHIELD_KILL_SNIPER_Title"
+	{
+		"jp"	"ダイ・アナザー・ウェイ"
+	}
+	"TF_SPY_BREAK_SHIELD_KILL_SNIPER_Desc"
+	{
+		"jp"	"スナイパーの Razorback を「背後からの一撃」で破壊した後、そのスナイパーを倒す。"
+	}
+	"TF_SPY_KILL_WORKING_ENGY_Title"
+	{
+		"jp"	"仕上げはおあずけ"
+	}
+	"TF_SPY_KILL_WORKING_ENGY_Desc"
+	{
+		"jp"	"セントリーガンを作成中のエンジニアを倒す。"
+	}
+	"TF_SPY_FAST_CAP_Title"
+	{
+		"jp"	"女王陛下の...極秘任務"
+	}
+	"TF_SPY_FAST_CAP_Desc"
+	{
+		"jp"	"奪取ポイントが奪取可能になってから 1 秒以内に奪取を開始する。"
+	}
+	"TF_SPY_MEDIC_HEALING_KILL_ENEMY_Title"
+	{
+		"jp"	"医療保険詐欺"
+	}
+	"TF_SPY_MEDIC_HEALING_KILL_ENEMY_Desc"
+	{
+		"jp"	"敵メディックに治療されている間に敵を 1 人倒す。"
+	}
+	"TF_SPY_KILL_CP_DEFENDERS_Title"
+	{
+		"jp"	"ポイントブレーカー"
+	}
+	"TF_SPY_KILL_CP_DEFENDERS_Desc"
+	{
+		"jp"	"奪取済みコントロールポイントに立っている敵を 15 人倒す。"
+	}
+	"TF_SPY_BACKSTAB_DOMINATING_ENEMY_Title"
+	{
+		"jp"	"重要目標"
+	}
+	"TF_SPY_BACKSTAB_DOMINATING_ENEMY_Desc"
+	{
+		"jp"	"3 人以上のチームメイトを制圧している敵を「背後からの一撃」でしとめる。"
+	}
+	"TF_SPY_REVENGE_WITH_BACKSTAB_Title"
+	{
+		"jp"	"凍てつく土地から来た男"
+	}
+	"TF_SPY_REVENGE_WITH_BACKSTAB_Desc"
+	{
+		"jp"	"「背後からの一撃」で復讐を果たす。"
+	}
+	"TF_SPY_KNIFE_KILL_WHILE_JARATED_Title"
+	{
+		"jp"	"濡れ仕事"
+	}
+	"TF_SPY_KNIFE_KILL_WHILE_JARATED_Desc"
+	{
+		"jp"	"Jarate がかかった状態の敵を刺し殺す。"
+	}
+	"TF_SPY_BACKSTAB_QUICK_KILLS_Title"
+	{
+		"jp"	"あいつは知らんが俺は 3 度刺す"
+	}
+	"TF_SPY_BACKSTAB_QUICK_KILLS_Desc"
+	{
+		"jp"	"10 秒以内に敵 3 人を背後からの一撃でしとめる。"
+	}
+	"TF_SPY_BACKSTAB_GRIND_Title"
+	{
+		"jp"	"スパイマスター"
+	}
+	"TF_SPY_BACKSTAB_GRIND_Desc"
+	{
+		"jp"	"背後からの一撃で敵を 1000 人しとめる。"
+	}
+	"TF_SPY_SAPPER_GRIND_Title"
+	{
+		"jp"	"作品の破壊者"
+	}
+	"TF_SPY_SAPPER_GRIND_Desc"
+	{
+		"jp"	"サッパーを使ってエンジニアが作成した装置を 1000 個破壊する。"
+	}
+	"TF_SPY_SAPPER_TEAMWORK_Title"
+	{
+		"jp"	"ジョイント・オペレーション"
+	}
+	"TF_SPY_SAPPER_TEAMWORK_Desc"
+	{
+		"jp"	"味方スパイと協力し、3 秒以内に 2 つのセントリーガンにサッパーを取り付ける。"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_CHARGED_Title"
+	{
+		"jp"	"ドクター・ノォォォォォ"
+	}
+	"TF_SPY_BACKSTAB_MEDIC_CHARGED_Desc"
+	{
+		"jp"	"ユーバーチャージの準備ができているメディックを背後からの一撃でしとめる。"
+	}
+	"TF_SPY_BACKSTAB_CAPPING_ENEMIES_Title"
+	{
+		"jp"	"安全かな？"
+	}
+	"TF_SPY_BACKSTAB_CAPPING_ENEMIES_Desc"
+	{
+		"jp"	"コントロールポイントを奪取している敵を 50 人背後からの一撃でしとめる。"
+	}
+	"TF_SPY_BACKSTAB_ENEMY_SWITCH_PYRO_Title"
+	{
+		"jp"	"刺突と火炎と"
+	}
+	"TF_SPY_BACKSTAB_ENEMY_SWITCH_PYRO_Desc"
+	{
+		"jp"	"背後からの一撃でしとめた敵が、次の出現時にキャラクターをパイロに変更する。"
+	}
+	"TF_SPY_AMBASSADOR_GRIND_Title"
+	{
+		"jp"	"俺の外交術"
+	}
+	"TF_SPY_AMBASSADOR_GRIND_Desc"
+	{
+		"jp"	"Ambassador で敵を 50 人倒す。"
+	}
+	"TF_SPY_AMBASSADOR_SNIPER_GRIND_Title"
+	{
+		"jp"	"頭部貫通"
+	}
+	"TF_SPY_AMBASSADOR_SNIPER_GRIND_Desc"
+	{
+		"jp"	"Ambassador で敵スナイパー 20 人にヘッドショットを食らわせる。"
+	}
+	"TF_SPY_FEIGN_DEATH_KILL_Title"
+	{
+		"jp"	"見たな"
+	}
+	"TF_SPY_FEIGN_DEATH_KILL_Desc"
+	{
+		"jp"	"擬死を発動させた敵を 20 秒以内に倒す。"
+	}
+	"TF_SPY_AMBASSADOR_SCOUT_GRIND_Title"
+	{
+		"jp"	"誰に物を言ってる？"
+	}
+	"TF_SPY_AMBASSADOR_SCOUT_GRIND_Desc"
+	{
+		"jp"	"Ambassador で敵スカウト 3 人にヘッドショットを食らわせる。"
+	}
+	"TF_SPY_CAMP_POSITION_Title"
+	{
+		"jp"	"秘密ミッション"
+	}
+	"TF_SPY_CAMP_POSITION_Desc"
+	{
+		"jp"	"Cloak and Dagger の使用中、一度も死なずに同じ敵を同一エリアで 3 回倒す。"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS1_Title"
+	{
+		"jp"	"スパイのマイルストーン 1"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS1_Desc"
+	{
+		"jp"	"スパイパックの実績を 5 個解除する。"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS2_Title"
+	{
+		"jp"	"スパイのマイルストーン 2"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS2_Desc"
+	{
+		"jp"	"スパイパックの実績を 11 個解除する。"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS3_Title"
+	{
+		"jp"	"スパイのマイルストーン 3"
+	}
+	"TF_SPY_ACHIEVE_PROGRESS3_Desc"
+	{
+		"jp"	"スパイパックの実績を 17 個解除する。"
+	}
+	"TF_HALLOWEEN_COLLECT_PUMPKINS_Title"
+	{
+		"jp"	"キャンディー検査官"
+	}
+	"TF_HALLOWEEN_COLLECT_PUMPKINS_Desc"
+	{
+		"jp"	"死亡したプレイヤーからハロウィーンのカボチャを 20 個集め、ハットを解除する。"
+	}
+	"TF_HALLOWEEN_DOMINATE_FOR_HAT_Title"
+	{
+		"jp"	"シルクハット獲得"
+	}
+	"TF_HALLOWEEN_DOMINATE_FOR_HAT_Desc"
+	{
+		"jp"	"恐ろしげなシルクハットを着けているプレイヤーを制圧し、自分もシルクハットを獲得する。"
+	}
+	"TF_HALLOWEEN_KILL_SCARED_PLAYER_Title"
+	{
+		"jp"	"立ちすくみ"
+	}
+	"TF_HALLOWEEN_KILL_SCARED_PLAYER_Desc"
+	{
+		"jp"	"キングオブザヒルのハーベストに取り付いたゴーストにおびえているプレイヤーを 1 人倒す。"
+	}
+	"TF_HALLOWEEN_PUMPKIN_KILL_Title"
+	{
+		"jp"	"アタックオーランタン"
+	}
+	"TF_HALLOWEEN_PUMPKIN_KILL_Desc"
+	{
+		"jp"	"プレイヤーを 5 人、カボチャ爆弾を近くで炸裂させて倒す。"
+	}
+	"TF_HALLOWEEN_DISGUISED_SPY_KILL_Title"
+	{
+		"jp"	"仮装コンテスト"
+	}
+	"TF_HALLOWEEN_DISGUISED_SPY_KILL_Desc"
+	{
+		"jp"	"自分と同じクラスに変装したスパイを倒す。"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS1_Title"
+	{
+		"jp"	"ソルジャーのマイルストーン 1"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS1_Desc"
+	{
+		"jp"	"ソルジャーパックの実績を 5 個解除する。"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS2_Title"
+	{
+		"jp"	"ソルジャーのマイルストーン 2"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS2_Desc"
+	{
+		"jp"	"ソルジャーパックの実績を 11 個解除する。"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS3_Title"
+	{
+		"jp"	"ソルジャーのマイルストーン 3"
+	}
+	"TF_SOLDIER_ACHIEVE_PROGRESS3_Desc"
+	{
+		"jp"	"ソルジャーパックの実績を 17 個解除する。"
+	}
+	"TF_SOLDIER_KILL_GROUP_WITH_CROCKET_Title"
+	{
+		"jp"	"トリプルヒットロケット"
+	}
+	"TF_SOLDIER_KILL_GROUP_WITH_CROCKET_Desc"
+	{
+		"jp"	"クリティカルヒットのロケット 1 発で敵を 3 人倒す。"
+	}
+	"TF_SOLDIER_KILL_TWO_DURING_ROCKET_JUMP_Title"
+	{
+		"jp"	"天からの死の宣告"
+	}
+	"TF_SOLDIER_KILL_TWO_DURING_ROCKET_JUMP_Desc"
+	{
+		"jp"	"ロケットジャンプ中に敵を 2 人倒す。"
+	}
+	"TF_SOLDIER_THREE_DOMINATIONS_Title"
+	{
+		"jp"	"ドミネーター"
+	}
+	"TF_SOLDIER_THREE_DOMINATIONS_Desc"
+	{
+		"jp"	"1 回も倒されずに 3 回制圧を達成する。"
+	}
+	"TF_SOLDIER_DEFEND_MEDIC_Title"
+	{
+		"jp"	"戦争の罪と罰"
+	}
+	"TF_SOLDIER_DEFEND_MEDIC_Desc"
+	{
+		"jp"	"1 回も倒されずに、自分を回復してくれているメディックにダメージを与えた敵を 3 人倒す。"
+	}
+	"TF_SOLDIER_KILL_TAUNT_Title"
+	{
+		"jp"	"死のスプレー"
+	}
+	"TF_SOLDIER_KILL_TAUNT_Desc"
+	{
+		"jp"	"グレネードでプレイヤーを 1 人倒す。"
+	}
+	"TF_SOLDIER_DESTROY_SENTRY_OUT_OF_RANGE_Title"
+	{
+		"jp"	"ナバロンの要塞攻略"
+	}
+	"TF_SOLDIER_DESTROY_SENTRY_OUT_OF_RANGE_Desc"
+	{
+		"jp"	"セントリーガンを射程外から 5 個破壊する。"
+	}
+	"TF_SOLDIER_KILL_SNIPER_WHILE_DEAD_Title"
+	{
+		"jp"	"避けられない破滅"
+	}
+	"TF_SOLDIER_KILL_SNIPER_WHILE_DEAD_Desc"
+	{
+		"jp"	"スナイパーに倒された後、ロケットでそのスナイパーを倒す。"
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_TARGET_WHILE_AIRBORNE_Title"
+	{
+		"jp"	"栄光の翼"
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_TARGET_WHILE_AIRBORNE_Desc"
+	{
+		"jp"	"自分も敵も空中にいるときに敵ソルジャーを倒す。"
+	}
+	"TF_SOLDIER_KILL_ENGY_Title"
+	{
+		"jp"	"エンジニアよ永遠なれ"
+	}
+	"TF_SOLDIER_KILL_ENGY_Desc"
+	{
+		"jp"	"敵から攻撃されているセントリーガンを修理しているエンジニアを倒す。"
+	}
+	"TF_SOLDIER_NEMESIS_SHOVEL_KILL_Title"
+	{
+		"jp"	"塹壕戦争"
+	}
+	"TF_SOLDIER_NEMESIS_SHOVEL_KILL_Desc"
+	{
+		"jp"	"強敵をシャベルで倒す。"
+	}
+	"TF_SOLDIER_DESTROY_STICKIES_Title"
+	{
+		"jp"	"爆弾処理担当"
+	}
+	"TF_SOLDIER_DESTROY_STICKIES_Desc"
+	{
+		"jp"	"一度も死なずに、粘着爆弾を 10 個ショットガンで破壊する。"
+	}
+	"TF_SOLDIER_CROUCH_ROCKET_JUMP_Title"
+	{
+		"jp"	"○○と煙は"
+	}
+	"TF_SOLDIER_CROUCH_ROCKET_JUMP_Desc"
+	{
+		"jp"	"しゃがみロケットジャンプで最高地点に達する。"
+	}
+	"TF_SOLDIER_BUFF_FRIENDS_Title"
+	{
+		"jp"	"兄弟たちの旗"
+	}
+	"TF_SOLDIER_BUFF_FRIENDS_Desc"
+	{
+		"jp"	"1 回の Buff Banner で 5 人の Steam フレンドを強化する。"
+	}
+	"TF_SOLDIER_KILL_TWENTY_FROM_ABOVE_Title"
+	{
+		"jp"	"ジャンピングキラー"
+	}
+	"TF_SOLDIER_KILL_TWENTY_FROM_ABOVE_Desc"
+	{
+		"jp"	"20 人の敵を空中から倒す。"
+	}
+	"TF_SOLDIER_SHOOT_MULT_CRITS_Title"
+	{
+		"jp"	"クリティカルロケットハンター"
+	}
+	"TF_SOLDIER_SHOOT_MULT_CRITS_Desc"
+	{
+		"jp"	"ブーストなしのクリティカルロケットを 2 発続けて打ち落とす。"
+	}
+	"TF_SOLDIER_KILL_DEFENSELESS_Title"
+	{
+		"jp"	"停戦協定破棄"
+	}
+	"TF_SOLDIER_KILL_DEFENSELESS_Desc"
+	{
+		"jp"	"1 マッチ終了後に無抵抗の敵を 5 人倒す。"
+	}
+	"TF_SOLDIER_KILL_ON_FIRE_Title"
+	{
+		"jp"	"燃えるソルジャー魂"
+	}
+	"TF_SOLDIER_KILL_ON_FIRE_Desc"
+	{
+		"jp"	"自分が燃えている間に敵を 20 人倒す。"
+	}
+	"TF_SOLDIER_KILL_FIVE_STUNNED_Title"
+	{
+		"jp"	"一番長い昼寝"
+	}
+	"TF_SOLDIER_KILL_FIVE_STUNNED_Desc"
+	{
+		"jp"	"気絶中の敵を 5 人倒す。"
+	}
+	"TF_SOLDIER_FREEZECAM_GIBS_Title"
+	{
+		"jp"	"グロ注意！"
+	}
+	"TF_SOLDIER_FREEZECAM_GIBS_Desc"
+	{
+		"jp"	"倒した敵に、ばらばらになったその敵の体のパーツが 3 つ以上写った罵倒のフリーズカムショットを見せる。"
+	}
+	"TF_SOLDIER_KILL_SPY_KILLER_Title"
+	{
+		"jp"	"スパイの末期"
+	}
+	"TF_SOLDIER_KILL_SPY_KILLER_Desc"
+	{
+		"jp"	"チームメイトを背後から襲撃したスパイを倒す。"
+	}
+	"TF_SOLDIER_DEFEND_CAP_THIRTY_TIMES_Title"
+	{
+		"jp"	"お山の大将"
+	}
+	"TF_SOLDIER_DEFEND_CAP_THIRTY_TIMES_Desc"
+	{
+		"jp"	"奪取ポイントを 30 回防衛する。"
+	}
+	"TF_SOLDIER_GIB_GRIND_Title"
+	{
+		"jp"	"伝説のグレネーディアー"
+	}
+	"TF_SOLDIER_GIB_GRIND_Desc"
+	{
+		"jp"	"1000 人を爆発で倒す。"
+	}
+	"TF_SOLDIER_RJ_EQUALIZER_KILL_Title"
+	{
+		"jp"	"デューティーバウンド"
+	}
+	"TF_SOLDIER_RJ_EQUALIZER_KILL_Desc"
+	{
+		"jp"	"ロケットジャンプ中に Equalizer で敵を倒す。"
+	}
+	"TF_SOLDIER_BUFF_TEAMMATES_Title"
+	{
+		"jp"	"ブースティーボーイズ"
+	}
+	"TF_SOLDIER_BUFF_TEAMMATES_Desc"
+	{
+		"jp"	"一度も死なずに Buff Banner で 15 人のチームメイトを強化（ブースト）する。"
+	}
+	"TF_SOLDIER_KILL_DEMOMAN_GRIND_Title"
+	{
+		"jp"	"スコットランド人嫌い"
+	}
+	"TF_SOLDIER_KILL_DEMOMAN_GRIND_Desc"
+	{
+		"jp"	"敵のデモマンを 500 人倒す。"
+	}
+	"TF_SOLDIER_KILL_PYRO_Title"
+	{
+		"jp"	"ロケットの敵討ち"
+	}
+	"TF_SOLDIER_KILL_PYRO_Desc"
+	{
+		"jp"	"パイロにロケットを打ち落とされてから 10 秒以内にそのパイロを倒す。"
+	}
+	"TF_SOLDIER_EQUALIZER_STREAK_Title"
+	{
+		"jp"	"死んでるヒマはねぇ"
+	}
+	"TF_SOLDIER_EQUALIZER_STREAK_Desc"
+	{
+		"jp"	"一度も死なず、回復も受けずに、Equalizer で敵を 3 人倒す。"
+	}
+	"TF_SOLDIER_KILL_WITH_EQUALIZER_WHILE_HURT_Title"
+	{
+		"jp"	"臨死体験"
+	}
+	"TF_SOLDIER_KILL_WITH_EQUALIZER_WHILE_HURT_Desc"
+	{
+		"jp"	"25 ヘルス以下のときに Equalizer で敵を 20 人倒す。"
+	}
+	"TF_SOLDIER_BOUNCE_THEN_SHOTGUN_Title"
+	{
+		"jp"	"誰がためにロケットは飛ぶ"
+	}
+	"TF_SOLDIER_BOUNCE_THEN_SHOTGUN_Desc"
+	{
+		"jp"	"ロケットで敵を吹き飛ばし、落ちてくる前にショットガンでその敵を倒す。"
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_WITH_DIRECT_HIT_Title"
+	{
+		"jp"	"地からの死の宣告"
+	}
+	"TF_SOLDIER_KILL_AIRBORNE_WITH_DIRECT_HIT_Desc"
+	{
+		"jp"	"空中にいる敵を 10 人 Direct Hit で倒す。"
+	}
+	"TF_SOLDIER_FREEZECAM_TAUNT_Title"
+	{
+		"jp"	"雄弁なる無言"
+	}
+	"TF_SOLDIER_FREEZECAM_TAUNT_Desc"
+	{
+		"jp"	"敵に祝砲を撃っている姿のフリーズカムショットを見せる。"
+	}
+	"TF_SOLDIER_DUO_SOLDIER_KILLS_Title"
+	{
+		"jp"	"戦友"
+	}
+	"TF_SOLDIER_DUO_SOLDIER_KILLS_Desc"
+	{
+		"jp"	"他のソルジャーのアシスト中、または他のソルジャーからアシストされているときに敵を 10 人倒す。"
+	}
+	"TF_SOLDIER_MVP_Title"
+	{
+		"jp"	"栄誉のメダル"
+	}
+	"TF_SOLDIER_MVP_Desc"
+	{
+		"jp"	"ラウンドの MVP を 10 回獲得する。"
+	}
+	"TF_SOLDIER_RIDE_THE_CART_Title"
+	{
+		"jp"	"爆走カート"
+	}
+	"TF_SOLDIER_RIDE_THE_CART_Desc"
+	{
+		"jp"	"30 秒間カートに乗り続ける。"
+	}
+	"TF_SOLDIER_ASSIST_MEDIC_UBER_Title"
+	{
+		"jp"	"S＊M＊A＊S＊H スマッシュ"
+	}
+	"TF_SOLDIER_ASSIST_MEDIC_UBER_Desc"
+	{
+		"jp"	"1 度のユーバーチャージで、メディックが敵を 5 人爆破するのをアシストする。"
+	}
+	"TF_DEMOMAN_KILL_SOLDIER_GRIND_Title"
+	{
+		"jp"	"ソルジャーハンター"
+	}
+	"TF_DEMOMAN_KILL_SOLDIER_GRIND_Desc"
+	{
+		"jp"	"敵のソルジャーを 500 人倒す。"
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_WITH_MEDIC_Title"
+	{
+		"jp"	"破壊屋スコット"
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_WITH_MEDIC_Desc"
+	{
+		"jp"	"メディックからの 1 度のユーバーチャージで、敵エンジニアが作成した装置を 5 個破壊する。"
+	}
+	"TF_DEMOMAN_DECAPITATE_CLOAKED_SPY_Title"
+	{
+		"jp"	"アンチスパイ・コネリー"
+	}
+	"TF_DEMOMAN_DECAPITATE_CLOAKED_SPY_Desc"
+	{
+		"jp"	"透明マントを着たスパイの首を刈る。"
+	}
+	"TF_DEMOMAN_KILL_X_WITH_DIRECTPIPE_Title"
+	{
+		"jp"	"死の使いマクデス"
+	}
+	"TF_DEMOMAN_KILL_X_WITH_DIRECTPIPE_Desc"
+	{
+		"jp"	"敵を 50 人グレネードランチャーのダイレクトヒットで倒す。"
+	}
+	"TF_DEMOMAN_BOUNCE_AND_KILL_Title"
+	{
+		"jp"	"丸太投げ"
+	}
+	"TF_DEMOMAN_BOUNCE_AND_KILL_Desc"
+	{
+		"jp"	"敵を空中に吹っ飛ばし、着地前に倒す。"
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_Title"
+	{
+		"jp"	"ブレインスポッティング"
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_Desc"
+	{
+		"jp"	"敵プレイヤー 50 人の首を刈る。"
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_FAST_Title"
+	{
+		"jp"	"レフト 4 ヘッド"
+	}
+	"TF_DEMOMAN_DECAPITATE_PLAYERS_FAST_Desc"
+	{
+		"jp"	"キルとキルの間を 4 秒以上あけずに 4 人のプレイヤーの首を刈る。"
+	}
+	"TF_DEMOMAN_DUO_DEMOMAN_KILLS_Title"
+	{
+		"jp"	"ナイスアシスト！"
+	}
+	"TF_DEMOMAN_DUO_DEMOMAN_KILLS_Desc"
+	{
+		"jp"	"他のデモマンのアシスト中、または他のデモマンからアシストされているときに敵を 10 人倒す。"
+	}
+	"TF_DEMOMAN_KILL_TWO_DURING_STICKYJUMP_Title"
+	{
+		"jp"	"スコッチをダブルで"
+	}
+	"TF_DEMOMAN_KILL_TWO_DURING_STICKYJUMP_Desc"
+	{
+		"jp"	"1 度の粘着爆弾ジャンプで敵を 2 人倒す。"
+	}
+	"TF_DEMOMAN_KILL_PLAYER_AFTER_TP_Title"
+	{
+		"jp"	"ネス湖の爆弾野郎"
+	}
+	"TF_DEMOMAN_KILL_PLAYER_AFTER_TP_Desc"
+	{
+		"jp"	"テレポートした敵を 5 秒以内に粘着爆弾で倒す。"
+	}
+	"TF_DEMOMAN_DOMINATE_THREE_ENGINEERS_Title"
+	{
+		"jp"	"エンジニア三羽烏"
+	}
+	"TF_DEMOMAN_DOMINATE_THREE_ENGINEERS_Desc"
+	{
+		"jp"	"エンジニアを 3 人制圧する。"
+	}
+	"TF_DEMOMAN_KILL_BUILDING_DIRECT_HIT_Title"
+	{
+		"jp"	"ブラインドシュート"
+	}
+	"TF_DEMOMAN_KILL_BUILDING_DIRECT_HIT_Desc"
+	{
+		"jp"	"自分からは見えないところにある、敵エンジニアが作成した装置をグレネードランチャーのダイレクトヒットで破壊する。"
+	}
+	"TF_DEMOMAN_MELEE_KILL_WHILE_STICKYJUMPING_Title"
+	{
+		"jp"	"スコティッシュ・プレイ"
+	}
+	"TF_DEMOMAN_MELEE_KILL_WHILE_STICKYJUMPING_Desc"
+	{
+		"jp"	"粘着爆弾ジャンプ中に近接攻撃で敵を倒す。"
+	}
+	"TF_DEMOMAN_KILL_ENGI_SENTRY_DISPENSER_Title"
+	{
+		"jp"	"アーガイル・サップ"
+	}
+	"TF_DEMOMAN_KILL_ENGI_SENTRY_DISPENSER_Desc"
+	{
+		"jp"	"粘着爆弾 1 発の爆発でエンジニア、セントリーガン、ディスペンサーをまとめて倒す。"
+	}
+	"TF_DEMOMAN_DECAPITATE_EQUALIZER_Title"
+	{
+		"jp"	"これが本物の武器だ"
+	}
+	"TF_DEMOMAN_DECAPITATE_EQUALIZER_Desc"
+	{
+		"jp"	"Equalizer を装備している敵ソルジャーの首を刈る。"
+	}
+	"TF_DEMOMAN_DECAPITATE_NEMESIS_Title"
+	{
+		"jp"	"トップは 1 人で十分"
+	}
+	"TF_DEMOMAN_DECAPITATE_NEMESIS_Desc"
+	{
+		"jp"	"強敵の首を刈る。"
+	}
+	"TF_DEMOMAN_DAMAGE_GRIND_Title"
+	{
+		"jp"	"タータン・スパルタン"
+	}
+	"TF_DEMOMAN_DAMAGE_GRIND_Desc"
+	{
+		"jp"	"爆発によるダメージで合計 100 万ポイントを達成する。"
+	}
+	"TF_DEMOMAN_KILL_X_CAPPING_ONEDET_Title"
+	{
+		"jp"	"スコッチガード"
+	}
+	"TF_DEMOMAN_KILL_X_CAPPING_ONEDET_Desc"
+	{
+		"jp"	"奪取ポイントを守っているかカートを押している敵を粘着爆弾 1 発で倒す。3 人倒すと解除。"
+	}
+	"TF_DEMOMAN_KILL_X_DEFENDING_Title"
+	{
+		"jp"	"ブレイブハート・スローター"
+	}
+	"TF_DEMOMAN_KILL_X_DEFENDING_Desc"
+	{
+		"jp"	"奪取ポイントやカートを守っている敵を 25 人倒す。"
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_GRIND_Title"
+	{
+		"jp"	"お代わりもってこい"
+	}
+	"TF_DEMOMAN_DESTROY_BUILDINGS_GRIND_Desc"
+	{
+		"jp"	"装置を 50 個破壊する。"
+	}
+	"TF_DEMOMAN_KILL_X_HEAVIES_FULLHP_ONEDET_Title"
+	{
+		"jp"	"粘着の死刑宣告"
+	}
+	"TF_DEMOMAN_KILL_X_HEAVIES_FULLHP_ONEDET_Desc"
+	{
+		"jp"	"ヘルス満タンのヘビーを粘着爆弾 1 発で倒す。5 人倒すと解除。"
+	}
+	"TF_DEMOMAN_KILL_X_SCOUTS_PYROS_Title"
+	{
+		"jp"	"グラスゴーの嵐"
+	}
+	"TF_DEMOMAN_KILL_X_SCOUTS_PYROS_Desc"
+	{
+		"jp"	"グレネードランチャーでスカウトとパイロを 25 人倒す。"
+	}
+	"TF_DEMOMAN_TAUNT_KILL_Title"
+	{
+		"jp"	"テープじゃ直せません"
+	}
+	"TF_DEMOMAN_TAUNT_KILL_Desc"
+	{
+		"jp"	"Eyelander で敵を切り刻み、栄光を得る。"
+	}
+	"TF_DEMOMAN_CHARGE_KILL_Title"
+	{
+		"jp"	"スコティッシュ・チャージ"
+	}
+	"TF_DEMOMAN_CHARGE_KILL_Desc"
+	{
+		"jp"	"チャージ（突撃）のシールドバッシュで敵を倒す。"
+	}
+	"TF_DEMOMAN_CRIT_SWORD_KILL_Title"
+	{
+		"jp"	"スコットランド式めった打ち"
+	}
+	"TF_DEMOMAN_CRIT_SWORD_KILL_Desc"
+	{
+		"jp"	"Eyelander のクリティカル攻撃で敵を 5 人倒す。"
+	}
+	"TF_DEMOMAN_AIR_BURST_KILLS_Title"
+	{
+		"jp"	"粘着爆弾の飛行"
+	}
+	"TF_DEMOMAN_AIR_BURST_KILLS_Desc"
+	{
+		"jp"	"粘着爆弾を空中で爆発させ、30 人の敵を倒す。"
+	}
+	"TF_DEMOMAN_STICKYJUMP_CAP_Title"
+	{
+		"jp"	"ザ・ハイロード"
+	}
+	"TF_DEMOMAN_STICKYJUMP_CAP_Desc"
+	{
+		"jp"	"粘着爆弾ジャンプで奪取ポイントに飛び乗ってそのポイントを奪取する。"
+	}
+	"TF_DEMOMAN_FREEZECAM_SMILE_Title"
+	{
+		"jp"	"ブラッディメリー"
+	}
+	"TF_DEMOMAN_FREEZECAM_SMILE_Desc"
+	{
+		"jp"	"敵にスマイリーフェイスのフリーズカムショットを見せる。"
+	}
+	"TF_DEMOMAN_FREEZECAM_RUMP_Title"
+	{
+		"jp"	"セカンドアイ"
+	}
+	"TF_DEMOMAN_FREEZECAM_RUMP_Desc"
+	{
+		"jp"	"敵に尻フリダンスのフリーズカムショットを見せる。"
+	}
+	"TF_DEMOMAN_ENVIRONMENTAL_KILL_Title"
+	{
+		"jp"	"つまらぬものを爆破してしまった"
+	}
+	"TF_DEMOMAN_ENVIRONMENTAL_KILL_Desc"
+	{
+		"jp"	"粘着爆弾ランチャーを使い、環境ダメージで敵を倒す。"
+	}
+	"TF_DEMOMAN_DESTROY_X_STICKYBOMBS_Title"
+	{
+		"jp"	"スコッチディフェンダー"
+	}
+	"TF_DEMOMAN_DESTROY_X_STICKYBOMBS_Desc"
+	{
+		"jp"	"Scottish Resistance で敵の粘着爆弾を 100 個破壊する。"
+	}
+	"TF_DEMOMAN_STICKJUMP_DISTANCE_Title"
+	{
+		"jp"	"ハイランド・フリング"
+	}
+	"TF_DEMOMAN_STICKJUMP_DISTANCE_Desc"
+	{
+		"jp"	"粘着爆弾ジャンプでとにかく遠くまで飛ぶ。"
+	}
+	"TF_DEMOMAN_KILL3_WITH_DETONATION_Title"
+	{
+		"jp"	"バグ・パイプ爆弾"
+	}
+	"TF_DEMOMAN_KILL3_WITH_DETONATION_Desc"
+	{
+		"jp"	"粘着爆弾 1 発で 3 人以上の敵をいっぺんに倒す。"
+	}
+	"TF_DEMOMAN_KILLXSAPPINGSPIES_Title"
+	{
+		"jp"	"スパイ監視"
+	}
+	"TF_DEMOMAN_KILLXSAPPINGSPIES_Desc"
+	{
+		"jp"	"味方の装置にサッパーを取り付けたスパイを 5 秒以内に倒す。20 人で解除。"
+	}
+	"TF_DEMOMAN_KILL3_WITH_PIPE_SETUPS_Title"
+	{
+		"jp"	"粘着の強打"
+	}
+	"TF_DEMOMAN_KILL3_WITH_PIPE_SETUPS_Desc"
+	{
+		"jp"	"Scottish Resistance を使って、3 人の敵をそれぞれ別の爆発で倒す。追加の粘着爆弾を設置してはいけない。"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS1_Title"
+	{
+		"jp"	"デモマンのマイルストーン 1"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS1_Desc"
+	{
+		"jp"	"デモマンパックの実績を 5 個解除する。"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS2_Title"
+	{
+		"jp"	"デモマンのマイルストーン 2"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS2_Desc"
+	{
+		"jp"	"デモマンパックの実績を 11 個解除する。"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS3_Title"
+	{
+		"jp"	"デモマンのマイルストーン 3"
+	}
+	"TF_DEMOMAN_ACHIEVE_PROGRESS3_Desc"
+	{
+		"jp"	"デモマンパックの実績を 17 個解除する。"
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS1_Title"
+	{
+		"jp"	"エンジニアのマイルストーン 1"
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS1_Desc"
+	{
+		"jp"	"エンジニアパックの実績を 5 個解除する。"
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS2_Title"
+	{
+		"jp"	"エンジニアのマイルストーン 2"
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS2_Desc"
+	{
+		"jp"	"エンジニアパックの実績を 11 個解除する。"
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS3_Title"
+	{
+		"jp"	"エンジニアのマイルストーン 3"
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS3_Desc"
+	{
+		"jp"	"エンジニアパックの実績を 17 個解除する。"
+	}
+	"TF_ENGINEER_TELEPORT_GRIND_Title"
+	{
+		"jp"	"バトルラスラー"
+	}
+	"TF_ENGINEER_TELEPORT_GRIND_Desc"
+	{
+		"jp"	"チームメンバー 100 人を戦場にテレポートさせる。"
+	}
+	"TF_ENGINEER_DISPENSER_EXTINGUISH_Title"
+	{
+		"jp"	"鎮火紳士"
+	}
+	"TF_ENGINEER_DISPENSER_EXTINGUISH_Desc"
+	{
+		"jp"	"自分が作成したディスペンサーで、燃えているプレイヤーを 20 回消火する。"
+	}
+	"TF_ENGINEER_REVENGE_CRIT_SENTRY_KILLER_Title"
+	{
+		"jp"	"リベンジニア"
+	}
+	"TF_ENGINEER_REVENGE_CRIT_SENTRY_KILLER_Desc"
+	{
+		"jp"	"リベンジクリティカルを使用して、セントリーガンを破壊した敵プレイヤーを倒す。"
+	}
+	"TF_ENGINEER_MANUAL_CLOAKED_SPY_KILL_Title"
+	{
+		"jp"	"サーチエンジン"
+	}
+	"TF_ENGINEER_MANUAL_CLOAKED_SPY_KILL_Desc"
+	{
+		"jp"	"Wrangler の制御下にあるセントリーガンで、透明マントを着たスパイを 3 人倒す。"
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_KILLS_BEYOND_RANGE_Title"
+	{
+		"jp"	"想定範囲外"
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_KILLS_BEYOND_RANGE_Desc"
+	{
+		"jp"	"Wrangler を使用し、セントリーガンの通常射程距離外の敵を 10 人倒す。"
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_ABSORB_DMG_Title"
+	{
+		"jp"	"忍耐の積み重ね"
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_ABSORB_DMG_Desc"
+	{
+		"jp"	"Wrangler で守られたセントリーガンが、破壊されることなく 500 ダメージを吸収する。"
+	}
+	"TF_ENGINEER_REVENGE_CRIT_LIFE_Title"
+	{
+		"jp"	"許されざるもの"
+	}
+	"TF_ENGINEER_REVENGE_CRIT_LIFE_Desc"
+	{
+		"jp"	"倒されることなく、リベンジクリティカルで敵を 3 人倒す。"
+	}
+	"TF_ENGINEER_KILL_SPY_TWO_SAPPERS_Title"
+	{
+		"jp"	"早撃ちガンマン"
+	}
+	"TF_ENGINEER_KILL_SPY_TWO_SAPPERS_Desc"
+	{
+		"jp"	"10 秒以内にスパイを 1 人倒し、サッパーを 2 個破壊する。"
+	}
+	"TF_ENGINEER_KILL_DISGUISED_SPY_Title"
+	{
+		"jp"	"レンチコネクション"
+	}
+	"TF_ENGINEER_KILL_DISGUISED_SPY_Desc"
+	{
+		"jp"	"変装した敵 1 人をレンチで倒す。"
+	}
+	"TF_ENGINEER_UPGRADE_BUILDINGS_Title"
+	{
+		"jp"	"サイレントパートナー"
+	}
+	"TF_ENGINEER_UPGRADE_BUILDINGS_Desc"
+	{
+		"jp"	"他のチームメンバーが作成した装置を 50 個アップグレードする。"
+	}
+	"TF_ENGINEER_DESTROY_SAPPERS_Title"
+	{
+		"jp"	"荒野の用心棒"
+	}
+	"TF_ENGINEER_DESTROY_SAPPERS_Desc"
+	{
+		"jp"	"他のチームメンバーが作成した装置に設置されたサッパーを 25 個破壊する。"
+	}
+	"TF_ENGINEER_REPAIR_SENTRY_W_MEDIC_Title"
+	{
+		"jp"	"至れり尽くせり"
+	}
+	"TF_ENGINEER_REPAIR_SENTRY_W_MEDIC_Desc"
+	{
+		"jp"	"メディックに治療を受けている間に、攻撃を受けているセントリーガンを修理する。"
+	}
+	"TF_ENGINEER_SENTRY_KILL_LIFETIME_GRIND_Title"
+	{
+		"jp"	"テキサス 1 の黒いバラ"
+	}
+	"TF_ENGINEER_SENTRY_KILL_LIFETIME_GRIND_Desc"
+	{
+		"jp"	"セントリーガンで 5000 キルを達成する。"
+	}
+	"TF_ENGINEER_SENTRY_AVENGES_YOU_Title"
+	{
+		"jp"	"やられたらやり返せ"
+	}
+	"TF_ENGINEER_SENTRY_AVENGES_YOU_Desc"
+	{
+		"jp"	"倒された直後、10 秒以内にその敵をセントリーガンで倒す。"
+	}
+	"TF_ENGINEER_FREEZECAM_TAUNT_Title"
+	{
+		"jp"	"6 弦奏者"
+	}
+	"TF_ENGINEER_FREEZECAM_TAUNT_Desc"
+	{
+		"jp"	"ギター演奏スキルのフリーズカムショットを敵に見せる。"
+	}
+	"TF_ENGINEER_FREEZECAM_SENTRY_Title"
+	{
+		"jp"	"KY エンジニア"
+	}
+	"TF_ENGINEER_FREEZECAM_SENTRY_Desc"
+	{
+		"jp"	"倒した敵に、自分とセントリーガンのフリーズカムショットを見せる。"
+	}
+	"TF_ENGINEER_SHOTGUN_KILL_PREV_SENTRY_TARGET_Title"
+	{
+		"jp"	"テキサスツーステップ"
+	}
+	"TF_ENGINEER_SHOTGUN_KILL_PREV_SENTRY_TARGET_Desc"
+	{
+		"jp"	"セントリーガンでダメージを受けた直後の敵をショットガンで始末する。"
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GROUP_Title"
+	{
+		"jp"	"ドクホリデイ"
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GROUP_Desc"
+	{
+		"jp"	"ディスペンサーでチームメイト 3 人を同時に回復させる。"
+	}
+	"TF_ENGINEER_SENTRY_KILL_CAPS_Title"
+	{
+		"jp"	"ノーマンズランド"
+	}
+	"TF_ENGINEER_SENTRY_KILL_CAPS_Desc"
+	{
+		"jp"	"ポイントを奪取しようとしている敵をセントリーガンで 25 人倒す。"
+	}
+	"TF_ENGINEER_KILL_FLAG_CARRIERS_Title"
+	{
+		"jp"	"企業秘密"
+	}
+	"TF_ENGINEER_KILL_FLAG_CARRIERS_Desc"
+	{
+		"jp"	"機密情報を持っているプレイヤーを 20 人倒す。"
+	}
+	"TF_ENGINEER_WASTE_METAL_GRIND_Title"
+	{
+		"jp"	"デスメタル"
+	}
+	"TF_ENGINEER_WASTE_METAL_GRIND_Desc"
+	{
+		"jp"	"破壊された装置の金属くずを 10,000 個拾う。"
+	}
+	"TF_ENGINEER_HELP_BUILD_STRUCTURE_Title"
+	{
+		"jp"	"ランドグラブ"
+	}
+	"TF_ENGINEER_HELP_BUILD_STRUCTURE_Desc"
+	{
+		"jp"	"チームメイトの装置作成を助ける。"
+	}
+	"TF_ENGINEER_REMOVE_SAPPER_LONG_DIST_Title"
+	{
+		"jp"	"うまくやってくれ！"
+	}
+	"TF_ENGINEER_REMOVE_SAPPER_LONG_DIST_Desc"
+	{
+		"jp"	"自分から数メートル離れた位置にあった自分の装置まで行き、そこに設置されたサッパーを排除する。"
+	}
+	"TF_ENGINEER_DESTROY_STICKIES_Title"
+	{
+		"jp"	"害虫駆除"
+	}
+	"TF_ENGINEER_DESTROY_STICKIES_Desc"
+	{
+		"jp"	"味方の装置の範囲内にある敵の粘着爆弾を 50 個破壊する。"
+	}
+	"TF_ENGINEER_TAUNT_KILL_Title"
+	{
+		"jp"	"センチメンタルアドベンチャー"
+	}
+	"TF_ENGINEER_TAUNT_KILL_Desc"
+	{
+		"jp"	"ギターで敵プレイヤーの頭をぶん殴る。"
+	}
+	"TF_ENGINEER_KILL_SNIPERS_SENTRY_Title"
+	{
+		"jp"	"英雄モラント"
+	}
+	"TF_ENGINEER_KILL_SNIPERS_SENTRY_Desc"
+	{
+		"jp"	"Wrangler の制御下にあるセントリーガンでスナイパーを 10 人倒す。"
+	}
+	"TF_ENGINEER_HELP_MANUAL_SENTRY_Title"
+	{
+		"jp"	"リオグラインド"
+	}
+	"TF_ENGINEER_HELP_MANUAL_SENTRY_Desc"
+	{
+		"jp"	"他のエンジニアの Wrangler の制御下にあるセントリーガンの修理とリロードを合計 50 回行う。"
+	}
+	"TF_ENGINEER_KILL_SENTRY_WITH_SENTRY_Title"
+	{
+		"jp"	"専売特許"
+	}
+	"TF_ENGINEER_KILL_SENTRY_WITH_SENTRY_Desc"
+	{
+		"jp"	"Wrangler の制御下にあるセントリーガンで、敵エンジニアのセントリーガンを破壊する。"
+	}
+	"TF_ENGINEER_MOVE_SENTRY_GET_KILL_Title"
+	{
+		"jp"	"それを造れば、彼はやってくる"
+	}
+	"TF_ENGINEER_MOVE_SENTRY_GET_KILL_Desc"
+	{
+		"jp"	"レベル 3 のセントリーガンを移動させたときに、移動直後にキルを達成する。"
+	}
+	"TF_ENGINEER_BUILDING_CARRY_Title"
+	{
+		"jp"	"テキサスレンジャー"
+	}
+	"TF_ENGINEER_BUILDING_CARRY_Desc"
+	{
+		"jp"	"装置を 1 km 移動させる。"
+	}
+	"TF_ENGINEER_KILL_ASSIST_Title"
+	{
+		"jp"	"アシスト王"
+	}
+	"TF_ENGINEER_KILL_ASSIST_Desc"
+	{
+		"jp"	"他のエンジニアのセントリーガンによるキルを 10 回アシストする。"
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GRIND_Title"
+	{
+		"jp"	"ドラッグストアカウボーイ"
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GRIND_Desc"
+	{
+		"jp"	"これまでに作成したディスペンサーが、累計 100,000 ポイントのヘルスの補給を達成する"
+	}
+	"TF_ENGINEER_REPAIR_TEAM_GRIND_Title"
+	{
+		"jp"	"サークル ザ ワゴン"
+	}
+	"TF_ENGINEER_REPAIR_TEAM_GRIND_Desc"
+	{
+		"jp"	"他のプレイヤーが作成した装置を 50,000 ダメージ分修理する。"
+	}
+	"TF_ENGINEER_TANK_DAMAGE_Title"
+	{
+		"jp"	"ラストマンスタンディング"
+	}
+	"TF_ENGINEER_TANK_DAMAGE_Desc"
+	{
+		"jp"	"破壊されることなく、1 つの設置されたタンクが 2000 ダメージを耐え抜く。"
+	}
+	"TF_ENGINEER_HEAVY_ASSIST_Title"
+	{
+		"jp"	"プチ勇者"
+	}
+	"TF_ENGINEER_HEAVY_ASSIST_Desc"
+	{
+		"jp"	"ディスペンサーで治療中のヘビーが 5 キルを達成する。"
+	}
+}

@@ -1,4 +1,4 @@
-"Phrases"
+Ôªø"Phrases"
 {
 	"TF_GET_TURRETKILLS_Title"
 	{
@@ -6,11 +6,11 @@
 	}
 	"TF_GET_TURRETKILLS_Desc"
 	{
-		"es"	"Acumula 10 vÌctimas por centinela con la misma torreta."
+		"es"	"Acumula 10 v√≠ctimas por centinela con la misma torreta."
 	}
 	"TF_KILL_NEMESIS_Title"
 	{
-		"es"	"NÈmesis"
+		"es"	"N√©mesis"
 	}
 	"TF_KILL_NEMESIS_Desc"
 	{
@@ -22,7 +22,7 @@
 	}
 	"TF_GET_CONSECUTIVEKILLS_NODEATHS_Desc"
 	{
-		"es"	"Acumula 5 vÌctimas seguidas sin morir."
+		"es"	"Acumula 5 v√≠ctimas seguidas sin morir."
 	}
 	"TF_GET_HEALED_BYENEMY_Title"
 	{
@@ -30,7 +30,7 @@
 	}
 	"TF_GET_HEALED_BYENEMY_Desc"
 	{
-		"es"	"EngaÒa a un Medic rival para que te cure."
+		"es"	"Enga√±a a un Medic rival para que te cure."
 	}
 	"TF_GET_HEADSHOTS_Title"
 	{
@@ -46,11 +46,11 @@
 	}
 	"TF_PLAY_GAME_FRIENDSONLY_Desc"
 	{
-		"es"	"Juega una partida con 7 o m·s jugadores de tu lista de amigos."
+		"es"	"Juega una partida con 7 o m√°s jugadores de tu lista de amigos."
 	}
 	"TF_WIN_MULTIPLEGAMES_Title"
 	{
-		"es"	"DinastÌa"
+		"es"	"Dinast√≠a"
 	}
 	"TF_WIN_MULTIPLEGAMES_Desc"
 	{
@@ -58,11 +58,11 @@
 	}
 	"TF_GET_MULTIPLEKILLS_Title"
 	{
-		"es"	"JugÛn"
+		"es"	"Jug√≥n"
 	}
 	"TF_GET_MULTIPLEKILLS_Desc"
 	{
-		"es"	"Acumula 1.000 vÌctimas."
+		"es"	"Acumula 1.000 v√≠ctimas."
 	}
 	"TF_WIN_2FORT_NOENEMYCAPS_Title"
 	{
@@ -74,7 +74,7 @@
 	}
 	"TF_WIN_WELL_MINIMUMTIME_Title"
 	{
-		"es"	"Ofensiva rel·mpago"
+		"es"	"Ofensiva rel√°mpago"
 	}
 	"TF_WIN_WELL_MINIMUMTIME_Desc"
 	{
@@ -94,7 +94,7 @@
 	}
 	"TF_WIN_DUSTBOWL_NOENEMYCAPS_Desc"
 	{
-		"es"	"Defiende con Èxito Dustbowl sin ceder en una captura."
+		"es"	"Defiende con √©xito Dustbowl sin ceder en una captura."
 	}
 	"TF_WIN_GRAVELPIT_NOENEMYCAPS_Title"
 	{
@@ -102,7 +102,7 @@
 	}
 	"TF_WIN_GRAVELPIT_NOENEMYCAPS_Desc"
 	{
-		"es"	"Defiende con Èxito Gravel Pit sin ceder en una captura."
+		"es"	"Defiende con √©xito Gravel Pit sin ceder en una captura."
 	}
 	"TF_PLAY_GAME_EVERYCLASS_Title"
 	{
@@ -142,15 +142,15 @@
 	}
 	"TF_MEDIC_TOP_SCOREBOARD_Desc"
 	{
-		"es"	"Juega una ronda entera sin matar a ning˙n enemigo y obtÈn la m·xima puntuaciÛn en un equipo de 6 o m·s jugadores."
+		"es"	"Juega una ronda entera sin matar a ning√∫n enemigo y obt√©n la m√°xima puntuaci√≥n en un equipo de 6 o m√°s jugadores."
 	}
 	"TF_MEDIC_HEAL_UNDER_FIRE_Title"
 	{
-		"es"	"Bypass cu·druple"
+		"es"	"Bypass cu√°druple"
 	}
 	"TF_MEDIC_HEAL_UNDER_FIRE_Desc"
 	{
-		"es"	"Cura a un compaÒero de equipo que estÈ recibiendo disparos de 4 enemigos a la vez."
+		"es"	"Cura a un compa√±ero de equipo que est√© recibiendo disparos de 4 enemigos a la vez."
 	}
 	"TF_MEDIC_SIMUL_CHARGE_Title"
 	{
@@ -158,7 +158,7 @@
 	}
 	"TF_MEDIC_SIMUL_CHARGE_Desc"
 	{
-		"es"	"Colabora con otros 2 Medic para activar 3 supercargas simult·neas."
+		"es"	"Colabora con otros 2 Medic para activar 3 supercargas simult√°neas."
 	}
 	"TF_MEDIC_SETUP_CHARGE_Title"
 	{
@@ -166,7 +166,7 @@
 	}
 	"TF_MEDIC_SETUP_CHARGE_Desc"
 	{
-		"es"	"Ten lista una supercarga antes de que finalice el perÌodo de preparaciÛn."
+		"es"	"Ten lista una supercarga antes de que finalice el per√≠odo de preparaci√≥n."
 	}
 	"TF_MEDIC_RAPID_CHARGE_Title"
 	{
@@ -178,19 +178,19 @@
 	}
 	"TF_MEDIC_COUNTER_CHARGE_Title"
 	{
-		"es"	"ReacciÛn alÈrgica"
+		"es"	"Reacci√≥n al√©rgica"
 	}
 	"TF_MEDIC_COUNTER_CHARGE_Desc"
 	{
-		"es"	"Activa una supercarga en menos de 8 segundos despuÈs de que un Medic enemigo cercano haya activado la suya."
+		"es"	"Activa una supercarga en menos de 8 segundos despu√©s de que un Medic enemigo cercano haya activado la suya."
 	}
 	"TF_MEDIC_SWITCH_TO_MEDIC_Title"
 	{
-		"es"	"Jugando a los mÈdicos"
+		"es"	"Jugando a los m√©dicos"
 	}
 	"TF_MEDIC_SWITCH_TO_MEDIC_Desc"
 	{
-		"es"	"En un equipo sin Medics, conviÈrtete en el primero que cambia de clase a Medic despuÈs de que un compaÒero pida asistencia mÈdica, y cura luego 500 puntos de salud."
+		"es"	"En un equipo sin Medics, convi√©rtete en el primero que cambia de clase a Medic despu√©s de que un compa√±ero pida asistencia m√©dica, y cura luego 500 puntos de salud."
 	}
 	"TF_MEDIC_SAVE_TEAMMATE_Title"
 	{
@@ -198,7 +198,7 @@
 	}
 	"TF_MEDIC_SAVE_TEAMMATE_Desc"
 	{
-		"es"	"Activa una supercarga sobre un compaÒero menos de un segundo antes de que reciba un impacto letal."
+		"es"	"Activa una supercarga sobre un compa√±ero menos de un segundo antes de que reciba un impacto letal."
 	}
 	"TF_MEDIC_CHARGE_BLOCKER_Title"
 	{
@@ -206,11 +206,11 @@
 	}
 	"TF_MEDIC_CHARGE_BLOCKER_Desc"
 	{
-		"es"	"Activa una supercarga sobre un compaÒero para que evite que el enemigo capture un punto de control."
+		"es"	"Activa una supercarga sobre un compa√±ero para que evite que el enemigo capture un punto de control."
 	}
 	"TF_MEDIC_ASSIST_MEDIC_Title"
 	{
-		"es"	"Consulta mÈdica"
+		"es"	"Consulta m√©dica"
 	}
 	"TF_MEDIC_ASSIST_MEDIC_Desc"
 	{
@@ -234,7 +234,7 @@
 	}
 	"TF_MEDIC_ASSIST_HEAVY_LONG_Title"
 	{
-		"es"	"AntibiÛtico de amplio espectro"
+		"es"	"Antibi√≥tico de amplio espectro"
 	}
 	"TF_MEDIC_ASSIST_HEAVY_LONG_Desc"
 	{
@@ -242,7 +242,7 @@
 	}
 	"TF_MEDIC_ASSIST_SCOUT_Title"
 	{
-		"es"	"SÛlo sentir·s un pinchacito"
+		"es"	"S√≥lo sentir√°s un pinchacito"
 	}
 	"TF_MEDIC_ASSIST_SCOUT_Desc"
 	{
@@ -258,11 +258,11 @@
 	}
 	"TF_MEDIC_ASSIST_HEAVY_Title"
 	{
-		"es"	"TraumatologÌa"
+		"es"	"Traumatolog√≠a"
 	}
 	"TF_MEDIC_ASSIST_HEAVY_Desc"
 	{
-		"es"	"Ayuda a un Heavy a matar a 2 enemigos a puÒetazos con la misma supercarga."
+		"es"	"Ayuda a un Heavy a matar a 2 enemigos a pu√±etazos con la misma supercarga."
 	}
 	"TF_MEDIC_ASSIST_DEMOMAN_Title"
 	{
@@ -302,7 +302,7 @@
 	}
 	"TF_MEDIC_HEAL_CALLERS_Desc"
 	{
-		"es"	"Cura a 200 compaÒeros de equipo despuÈs de que hayan pedido asistencia mÈdica."
+		"es"	"Cura a 200 compa√±eros de equipo despu√©s de que hayan pedido asistencia m√©dica."
 	}
 	"TF_MEDIC_EXTINGUISH_TEAMMATES_Title"
 	{
@@ -310,7 +310,7 @@
 	}
 	"TF_MEDIC_EXTINGUISH_TEAMMATES_Desc"
 	{
-		"es"	"Apaga a 100 compaÒeros de equipo ardiendo."
+		"es"	"Apaga a 100 compa√±eros de equipo ardiendo."
 	}
 	"TF_MEDIC_ASSIST_VS_NEMESES_Title"
 	{
@@ -318,7 +318,7 @@
 	}
 	"TF_MEDIC_ASSIST_VS_NEMESES_Desc"
 	{
-		"es"	"Ayuda a matar a 20 nÈmesis."
+		"es"	"Ayuda a matar a 20 n√©mesis."
 	}
 	"TF_MEDIC_KILL_WHILE_CHARGED_Title"
 	{
@@ -342,7 +342,7 @@
 	}
 	"TF_MEDIC_HEAL_LARGE_Desc"
 	{
-		"es"	"Acumula 7.000 puntos de curaciÛn en la misma vida."
+		"es"	"Acumula 7.000 puntos de curaci√≥n en la misma vida."
 	}
 	"TF_MEDIC_HEAL_HUGE_Title"
 	{
@@ -350,7 +350,7 @@
 	}
 	"TF_MEDIC_HEAL_HUGE_Desc"
 	{
-		"es"	"Acumula 10.000 puntos de curaciÛn en la misma vida."
+		"es"	"Acumula 10.000 puntos de curaci√≥n en la misma vida."
 	}
 	"TF_MEDIC_HEAL_GRIND_Title"
 	{
@@ -358,31 +358,31 @@
 	}
 	"TF_MEDIC_HEAL_GRIND_Desc"
 	{
-		"es"	"Acumula 1 millÛn de puntos de curaciÛn."
+		"es"	"Acumula 1 mill√≥n de puntos de curaci√≥n."
 	}
 	"TF_MEDIC_KILL_HEALED_SPY_Title"
 	{
-		"es"	"Juramento hipÛcrita"
+		"es"	"Juramento hip√≥crita"
 	}
 	"TF_MEDIC_KILL_HEALED_SPY_Desc"
 	{
-		"es"	"Mata a un Spy enemigo que habÌas estado curando."
+		"es"	"Mata a un Spy enemigo que hab√≠as estado curando."
 	}
 	"TF_MEDIC_SAVE_FALLING_TEAMMATE_Title"
 	{
-		"es"	"HostiopatÌa"
+		"es"	"Hostiopat√≠a"
 	}
 	"TF_MEDIC_SAVE_FALLING_TEAMMATE_Desc"
 	{
-		"es"	"Evita que un compaÒero que est· cayendo desde las alturas muera en el impacto."
+		"es"	"Evita que un compa√±ero que est√° cayendo desde las alturas muera en el impacto."
 	}
 	"TF_MEDIC_CHARGE_JUGGLE_Title"
 	{
-		"es"	"Segunda opiniÛn"
+		"es"	"Segunda opini√≥n"
 	}
 	"TF_MEDIC_CHARGE_JUGGLE_Desc"
 	{
-		"es"	"Activa una supercarga sobre 2 compaÒeros al mismo tiempo."
+		"es"	"Activa una supercarga sobre 2 compa√±eros al mismo tiempo."
 	}
 	"TF_MEDIC_FREEZECAM_RAGDOLL_Title"
 	{
@@ -390,7 +390,7 @@
 	}
 	"TF_MEDIC_FREEZECAM_RAGDOLL_Desc"
 	{
-		"es"	"P·sale a un enemigo una instant·nea de tu Medic burl·ndose de Èl justo delante de su personaje reciÈn asesinado."
+		"es"	"P√°sale a un enemigo una instant√°nea de tu Medic burl√°ndose de √©l justo delante de su personaje reci√©n asesinado."
 	}
 	"TF_MEDIC_BONESAW_SPY_CALLERS_Title"
 	{
@@ -398,11 +398,11 @@
 	}
 	"TF_MEDIC_BONESAW_SPY_CALLERS_Desc"
 	{
-		"es"	"Usa el serrucho para matar a 5 Spy que habÌan estado pidiendo asistencia mÈdica."
+		"es"	"Usa el serrucho para matar a 5 Spy que hab√≠an estado pidiendo asistencia m√©dica."
 	}
 	"TF_MEDIC_CHARGE_FRIENDS_Title"
 	{
-		"es"	"MÈdico de familia"
+		"es"	"M√©dico de familia"
 	}
 	"TF_MEDIC_CHARGE_FRIENDS_Desc"
 	{
@@ -414,15 +414,15 @@
 	}
 	"TF_MEDIC_INVITE_JOIN_CHARGE_Desc"
 	{
-		"es"	"⁄nete a una partida en la que juegue uno de tus amigos y usa sobre el una supercarga."
+		"es"	"√önete a una partida en la que juegue uno de tus amigos y usa sobre el una supercarga."
 	}
 	"TF_MEDIC_HEAL_ACHIEVER_Title"
 	{
-		"es"	"MÈdico de cabecera"
+		"es"	"M√©dico de cabecera"
 	}
 	"TF_MEDIC_HEAL_ACHIEVER_Desc"
 	{
-		"es"	"Cura a un compaÒero mientras Èl consigue un logro."
+		"es"	"Cura a un compa√±ero mientras √©l consigue un logro."
 	}
 	"TF_MEDIC_ACHIEVE_PROGRESS1_Title"
 	{
@@ -474,11 +474,11 @@
 	}
 	"TF_PYRO_KILL_POSTDEATH_Title"
 	{
-		"es"	"Asesino del llamas all·"
+		"es"	"Asesino del llamas all√°"
 	}
 	"TF_PYRO_KILL_POSTDEATH_Desc"
 	{
-		"es"	"Mata a 15 jugadores mientras est·s muerto."
+		"es"	"Mata a 15 jugadores mientras est√°s muerto."
 	}
 	"TF_PYRO_KILL_SPIES_Title"
 	{
@@ -486,7 +486,7 @@
 	}
 	"TF_PYRO_KILL_SPIES_Desc"
 	{
-		"es"	"Quema a 5 Spy que tengan un zapador en una construcciÛn amiga."
+		"es"	"Quema a 5 Spy que tengan un zapador en una construcci√≥n amiga."
 	}
 	"TF_PYRO_KILL_CARRIERS_Title"
 	{
@@ -494,11 +494,11 @@
 	}
 	"TF_PYRO_KILL_CARRIERS_Desc"
 	{
-		"es"	"Quema a 5 enemigos que se estÈn llevando tu dossier."
+		"es"	"Quema a 5 enemigos que se est√©n llevando tu dossier."
 	}
 	"TF_PYRO_REVEAL_SPIES_Title"
 	{
-		"es"	"CombustiÛn espont·nea"
+		"es"	"Combusti√≥n espont√°nea"
 	}
 	"TF_PYRO_REVEAL_SPIES_Desc"
 	{
@@ -518,11 +518,11 @@
 	}
 	"TF_PYRO_CAMP_POSITION_Desc"
 	{
-		"es"	"Mata a 3 enemigos seguidos en el mismo ·rea."
+		"es"	"Mata a 3 enemigos seguidos en el mismo √°rea."
 	}
 	"TF_PYRO_KILL_AXE_SMALL_Title"
 	{
-		"es"	"LeÒador"
+		"es"	"Le√±ador"
 	}
 	"TF_PYRO_KILL_AXE_SMALL_Desc"
 	{
@@ -546,7 +546,7 @@
 	}
 	"TF_PYRO_BURN_SPIES_AS_YOU_Title"
 	{
-		"es"	"AquÌ te pillo, aquÌ te quemo"
+		"es"	"Aqu√≠ te pillo, aqu√≠ te quemo"
 	}
 	"TF_PYRO_BURN_SPIES_AS_YOU_Desc"
 	{
@@ -590,7 +590,7 @@
 	}
 	"TF_PYRO_KILL_UNDERWATER_Desc"
 	{
-		"es"	"Mata a 10 enemigos cuando estÈis bajo el agua."
+		"es"	"Mata a 10 enemigos cuando est√©is bajo el agua."
 	}
 	"TF_PYRO_KILL_UBERCHARGE_Title"
 	{
@@ -602,7 +602,7 @@
 	}
 	"TF_PYRO_DESTROY_BUILDINGS_Title"
 	{
-		"es"	"PirÛmano"
+		"es"	"Pir√≥mano"
 	}
 	"TF_PYRO_DESTROY_BUILDINGS_Desc"
 	{
@@ -614,7 +614,7 @@
 	}
 	"TF_PYRO_DEFEND_POINTS_Desc"
 	{
-		"es"	"Quema a 50 enemigos que estÈn capturando uno de tus puntos de control."
+		"es"	"Quema a 50 enemigos que est√©n capturando uno de tus puntos de control."
 	}
 	"TF_PYRO_KILL_GRIND_Title"
 	{
@@ -630,7 +630,7 @@
 	}
 	"TF_PYRO_DAMAGE_GRIND_Desc"
 	{
-		"es"	"Consigue 1 millÛn de puntos de daÒo de fuego total."
+		"es"	"Consigue 1 mill√≥n de puntos de da√±o de fuego total."
 	}
 	"TF_PYRO_BURN_MEDICPAIR_Title"
 	{
@@ -638,7 +638,7 @@
 	}
 	"TF_PYRO_BURN_MEDICPAIR_Desc"
 	{
-		"es"	"Quema a un enemigo y al Medic que lo est· curando."
+		"es"	"Quema a un enemigo y al Medic que lo est√° curando."
 	}
 	"TF_PYRO_KILL_TAUNT_Title"
 	{
@@ -658,7 +658,7 @@
 	}
 	"TF_PYRO_BURN_SPY_TAUNT_Title"
 	{
-		"es"	"øTienes fuego?"
+		"es"	"¬øTienes fuego?"
 	}
 	"TF_PYRO_BURN_SPY_TAUNT_Desc"
 	{
@@ -678,7 +678,7 @@
 	}
 	"TF_PYRO_REFLECT_CROCKET_KILL_Desc"
 	{
-		"es"	"Mata a un Soldier devolviendo un cohete crÌtico."
+		"es"	"Mata a un Soldier devolviendo un cohete cr√≠tico."
 	}
 	"TF_PYRO_KILL_TAUNTERS_Title"
 	{
@@ -686,15 +686,15 @@
 	}
 	"TF_PYRO_KILL_TAUNTERS_Desc"
 	{
-		"es"	"Mata a 3 enemigos mientras se est·n burlando."
+		"es"	"Mata a 3 enemigos mientras se est√°n burlando."
 	}
 	"TF_PYRO_DOUBLE_KO_Title"
 	{
-		"es"	"øQuÈ te que te? °QuÈ me quemÈ!"
+		"es"	"¬øQu√© te que te? ¬°Qu√© me quem√©!"
 	}
 	"TF_PYRO_DOUBLE_KO_Desc"
 	{
-		"es"	"Mata a un enemigo en el mismo segundo en que Èl te mata."
+		"es"	"Mata a un enemigo en el mismo segundo en que √©l te mata."
 	}
 	"TF_PYRO_BURN_RJ_SOLDIER_Title"
 	{
@@ -702,15 +702,15 @@
 	}
 	"TF_PYRO_BURN_RJ_SOLDIER_Desc"
 	{
-		"es"	"Quema a un Soldier que estÈ realizando un salto con cohete mientras est· en el aire."
+		"es"	"Quema a un Soldier que est√© realizando un salto con cohete mientras est√° en el aire."
 	}
 	"TF_PYRO_FREEZECAM_TAUNTS_Title"
 	{
-		"es"	"Congelado instant·neo"
+		"es"	"Congelado instant√°neo"
 	}
 	"TF_PYRO_FREEZECAM_TAUNTS_Desc"
 	{
-		"es"	"P·sale a un enemigo una instant·nea de todas tus burlas."
+		"es"	"P√°sale a un enemigo una instant√°nea de todas tus burlas."
 	}
 	"TF_PYRO_KILL_GRIND_LARGE_Title"
 	{
@@ -722,7 +722,7 @@
 	}
 	"TF_PYRO_IGNITE_FLAREGUN_Title"
 	{
-		"es"	"Llamarada de atenciÛn"
+		"es"	"Llamarada de atenci√≥n"
 	}
 	"TF_PYRO_IGNITE_FLAREGUN_Desc"
 	{
@@ -754,11 +754,11 @@
 	}
 	"TF_HEAVY_DAMAGE_TAKEN_Title"
 	{
-		"es"	"TelÛn de acero"
+		"es"	"Tel√≥n de acero"
 	}
 	"TF_HEAVY_DAMAGE_TAKEN_Desc"
 	{
-		"es"	"Aguanta 1.000 puntos de daÒo en la misma vida."
+		"es"	"Aguanta 1.000 puntos de da√±o en la misma vida."
 	}
 	"TF_HEAVY_DEFEND_MEDIC_Title"
 	{
@@ -766,11 +766,11 @@
 	}
 	"TF_HEAVY_DEFEND_MEDIC_Desc"
 	{
-		"es"	"Mata a 50 enemigos antes de que pasen 5 segundos despuÈs de que hayan atacado a tu Medic."
+		"es"	"Mata a 50 enemigos antes de que pasen 5 segundos despu√©s de que hayan atacado a tu Medic."
 	}
 	"TF_HEAVY_ASSIST_MEDIC_LARGE_Title"
 	{
-		"es"	"DivisiÛn de trabajo"
+		"es"	"Divisi√≥n de trabajo"
 	}
 	"TF_HEAVY_ASSIST_MEDIC_LARGE_Desc"
 	{
@@ -778,11 +778,11 @@
 	}
 	"TF_HEAVY_EARN_MEDIC_DOMINATION_Title"
 	{
-		"es"	"Efecto dominÛ"
+		"es"	"Efecto domin√≥"
 	}
 	"TF_HEAVY_EARN_MEDIC_DOMINATION_Desc"
 	{
-		"es"	"Gana la DominaciÛn para un Medic que te estÈ curando."
+		"es"	"Gana la Dominaci√≥n para un Medic que te est√© curando."
 	}
 	"TF_HEAVY_KILL_TAUNT_Title"
 	{
@@ -798,7 +798,7 @@
 	}
 	"TF_HEAVY_KILL_FLAG_CARRIERS_Desc"
 	{
-		"es"	"Quema a 10 enemigos que se estÈn llevando tu dossier."
+		"es"	"Quema a 10 enemigos que se est√©n llevando tu dossier."
 	}
 	"TF_HEAVY_KILL_MEDIC_PAIR_Title"
 	{
@@ -810,15 +810,15 @@
 	}
 	"TF_HEAVY_BLOCK_INVULN_HEAVY_Title"
 	{
-		"es"	"Bloqueo soviÈtico"
+		"es"	"Bloqueo sovi√©tico"
 	}
 	"TF_HEAVY_BLOCK_INVULN_HEAVY_Desc"
 	{
-		"es"	"Mientras seas invulnerable y estÈs defendiendo, bloquea el movimiento de un Heavy enemigo invulnerable."
+		"es"	"Mientras seas invulnerable y est√©s defendiendo, bloquea el movimiento de un Heavy enemigo invulnerable."
 	}
 	"TF_HEAVY_BLOCK_CART_Title"
 	{
-		"es"	"Embargo de mercancÌas"
+		"es"	"Embargo de mercanc√≠as"
 	}
 	"TF_HEAVY_BLOCK_CART_Desc"
 	{
@@ -826,7 +826,7 @@
 	}
 	"TF_HEAVY_RECEIVE_UBER_GRIND_Title"
 	{
-		"es"	"SupremacÌa del proletariado"
+		"es"	"Supremac√≠a del proletariado"
 	}
 	"TF_HEAVY_RECEIVE_UBER_GRIND_Desc"
 	{
@@ -834,7 +834,7 @@
 	}
 	"TF_HEAVY_STAND_NEAR_DISPENSER_Title"
 	{
-		"es"	"DestrucciÛn en cadena"
+		"es"	"Destrucci√≥n en cadena"
 	}
 	"TF_HEAVY_STAND_NEAR_DISPENSER_Desc"
 	{
@@ -842,7 +842,7 @@
 	}
 	"TF_HEAVY_ASSIST_HEAVY_GRIND_Title"
 	{
-		"es"	"UniÛn soviÈtica"
+		"es"	"Uni√≥n sovi√©tica"
 	}
 	"TF_HEAVY_ASSIST_HEAVY_GRIND_Desc"
 	{
@@ -850,7 +850,7 @@
 	}
 	"TF_HEAVY_CLEAR_STICKYBOMBS_Title"
 	{
-		"es"	"Muerto el Demo, se acabÛ la bomba"
+		"es"	"Muerto el Demo, se acab√≥ la bomba"
 	}
 	"TF_HEAVY_CLEAR_STICKYBOMBS_Desc"
 	{
@@ -862,15 +862,15 @@
 	}
 	"TF_HEAVY_KILL_UNDERWATER_Desc"
 	{
-		"es"	"Mata a 100 enemigos mientras t˙ y la vÌctima est·is bajo el agua."
+		"es"	"Mata a 100 enemigos mientras t√∫ y la v√≠ctima est√°is bajo el agua."
 	}
 	"TF_HEAVY_TAKE_MULTI_DAMAGE_Title"
 	{
-		"es"	"RasputÌn"
+		"es"	"Rasput√≠n"
 	}
 	"TF_HEAVY_TAKE_MULTI_DAMAGE_Desc"
 	{
-		"es"	"Consigue que te disparen, te quemen, te den un porrazo y te afecte una explosiÛn en la misma vida."
+		"es"	"Consigue que te disparen, te quemen, te den un porrazo y te afecte una explosi√≥n en la misma vida."
 	}
 	"TF_HEAVY_KILL_DOMINATED_Title"
 	{
@@ -878,7 +878,7 @@
 	}
 	"TF_HEAVY_KILL_DOMINATED_Desc"
 	{
-		"es"	"Provoca 20 bajas contra jugadores a los que estÈs dominando."
+		"es"	"Provoca 20 bajas contra jugadores a los que est√©s dominando."
 	}
 	"TF_HEAVY_SURVIVE_CROCKET_Title"
 	{
@@ -886,11 +886,11 @@
 	}
 	"TF_HEAVY_SURVIVE_CROCKET_Desc"
 	{
-		"es"	"Sobrevive al impacto directo de un cohete crÌtico."
+		"es"	"Sobrevive al impacto directo de un cohete cr√≠tico."
 	}
 	"TF_HEAVY_ASSIST_GRIND_Title"
 	{
-		"es"	"ColectivizaciÛn"
+		"es"	"Colectivizaci√≥n"
 	}
 	"TF_HEAVY_ASSIST_GRIND_Desc"
 	{
@@ -906,7 +906,7 @@
 	}
 	"TF_HEAVY_KILL_WHILE_SPUNUP_Title"
 	{
-		"es"	"RevoluciÛn permanente"
+		"es"	"Revoluci√≥n permanente"
 	}
 	"TF_HEAVY_KILL_WHILE_SPUNUP_Desc"
 	{
@@ -914,27 +914,27 @@
 	}
 	"TF_HEAVY_FIRE_LOTS_Title"
 	{
-		"es"	"Carrera armamentÌstica"
+		"es"	"Carrera armament√≠stica"
 	}
 	"TF_HEAVY_FIRE_LOTS_Desc"
 	{
-		"es"	"Dispara 200.000 $ de municiÛn de la ametralladora en la misma vida."
+		"es"	"Dispara 200.000 $ de munici√≥n de la ametralladora en la misma vida."
 	}
 	"TF_HEAVY_KILL_CRIT_PUNCH_Title"
 	{
-		"es"	"Alzando el puÒo"
+		"es"	"Alzando el pu√±o"
 	}
 	"TF_HEAVY_KILL_CRIT_PUNCH_Desc"
 	{
-		"es"	"Mata a un enemigo con un puÒetazo crÌtico."
+		"es"	"Mata a un enemigo con un pu√±etazo cr√≠tico."
 	}
 	"TF_HEAVY_HEAL_MEDIKITS_Title"
 	{
-		"es"	"RedistribuciÛn de la salud"
+		"es"	"Redistribuci√≥n de la salud"
 	}
 	"TF_HEAVY_HEAL_MEDIKITS_Desc"
 	{
-		"es"	"C˙rate 1.000 puntos de daÒo con botiquines en la misma vida."
+		"es"	"C√∫rate 1.000 puntos de da√±o con botiquines en la misma vida."
 	}
 	"TF_HEAVY_KILL_SHOTGUN_Title"
 	{
@@ -942,7 +942,7 @@
 	}
 	"TF_HEAVY_KILL_SHOTGUN_Desc"
 	{
-		"es"	"Mata a un enemigo con la escopeta mientras tu ametralladora est· sin municiÛn."
+		"es"	"Mata a un enemigo con la escopeta mientras tu ametralladora est√° sin munici√≥n."
 	}
 	"TF_HEAVY_FIRST_TO_CAP_Title"
 	{
@@ -962,7 +962,7 @@
 	}
 	"TF_HEAVY_KILL_MIDAIR_MINIGUN_Title"
 	{
-		"es"	"°Abajo, parias de la Tierra!"
+		"es"	"¬°Abajo, parias de la Tierra!"
 	}
 	"TF_HEAVY_KILL_MIDAIR_MINIGUN_Desc"
 	{
@@ -982,7 +982,7 @@
 	}
 	"TF_HEAVY_KILL_CAPPING_ENEMIES_Desc"
 	{
-		"es"	"Mata a 15 enemigos que estÈn capturando un punto de control en tu propiedad."
+		"es"	"Mata a 15 enemigos que est√©n capturando un punto de control en tu propiedad."
 	}
 	"TF_HEAVY_REVENGE_ASSIST_Title"
 	{
@@ -990,11 +990,11 @@
 	}
 	"TF_HEAVY_REVENGE_ASSIST_Desc"
 	{
-		"es"	"Ayuda a 5 compaÒeros a vengarse de sus NÈmesis."
+		"es"	"Ayuda a 5 compa√±eros a vengarse de sus N√©mesis."
 	}
 	"TF_HEAVY_TELEPORT_FAST_KILL_Title"
 	{
-		"es"	"MaterializaciÛn histÛrica"
+		"es"	"Materializaci√≥n hist√≥rica"
 	}
 	"TF_HEAVY_TELEPORT_FAST_KILL_Desc"
 	{
@@ -1006,7 +1006,7 @@
 	}
 	"TF_HEAVY_FREEZECAM_TAUNT_Desc"
 	{
-		"es"	"P·sale a un enemigo una instant·nea de tu Heavy burl·ndose mientras es invulnerable."
+		"es"	"P√°sale a un enemigo una instant√°nea de tu Heavy burl√°ndose mientras es invulnerable."
 	}
 	"TF_HEAVY_EAT_SANDWICHES_Title"
 	{
@@ -1014,7 +1014,7 @@
 	}
 	"TF_HEAVY_EAT_SANDWICHES_Desc"
 	{
-		"es"	"CÛmete 100 focatas."
+		"es"	"C√≥mete 100 focatas."
 	}
 	"TF_HEAVY_KILL_SCOUTS_Title"
 	{
@@ -1026,7 +1026,7 @@
 	}
 	"TF_HEAVY_KILL_HEAVIES_GLOVES_Title"
 	{
-		"es"	"CampeÛn de pesos pesados"
+		"es"	"Campe√≥n de pesos pesados"
 	}
 	"TF_HEAVY_KILL_HEAVIES_GLOVES_Desc"
 	{
@@ -1062,7 +1062,7 @@
 	}
 	"TF_SCOUT_FIRST_BLOOD_Desc"
 	{
-		"es"	"SÈ el primero en matar en una partida de Arena."
+		"es"	"S√© el primero en matar en una partida de Arena."
 	}
 	"TF_SCOUT_FIRST_BLOOD_KILL_Title"
 	{
@@ -1070,7 +1070,7 @@
 	}
 	"TF_SCOUT_FIRST_BLOOD_KILL_Desc"
 	{
-		"es"	"Mata a 5 enemigos durante el efecto de subidÛn crÌtico de Acorralado."
+		"es"	"Mata a 5 enemigos durante el efecto de subid√≥n cr√≠tico de Acorralado."
 	}
 	"TF_SCOUT_WELL_EARLY_KILL_Title"
 	{
@@ -1082,11 +1082,11 @@
 	}
 	"TF_SCOUT_LIFETIME_KILLS_Title"
 	{
-		"es"	"Un aÒo inolvidable"
+		"es"	"Un a√±o inolvidable"
 	}
 	"TF_SCOUT_LIFETIME_KILLS_Desc"
 	{
-		"es"	"Llega hasta 2004 vÌctimas en tu tiempo de juego."
+		"es"	"Llega hasta 2004 v√≠ctimas en tu tiempo de juego."
 	}
 	"TF_SCOUT_IRON_MAN_KILLS_Title"
 	{
@@ -1094,7 +1094,7 @@
 	}
 	"TF_SCOUT_IRON_MAN_KILLS_Desc"
 	{
-		"es"	"Mata a un enemigo mientras estÈs en la tierra, otro en el aire y otro en el agua en la misma vida."
+		"es"	"Mata a un enemigo mientras est√©s en la tierra, otro en el aire y otro en el agua en la misma vida."
 	}
 	"TF_SCOUT_DESTROY_TELEPORTERS_Title"
 	{
@@ -1138,11 +1138,11 @@
 	}
 	"TF_SCOUT_STEAL_SANDWICH_Title"
 	{
-		"es"	"Gorriones 1, Gargant˙as 0"
+		"es"	"Gorriones 1, Gargant√∫as 0"
 	}
 	"TF_SCOUT_STEAL_SANDWICH_Desc"
 	{
-		"es"	"Mata a un Heavy enemigo y quÌtale el focata."
+		"es"	"Mata a un Heavy enemigo y qu√≠tale el focata."
 	}
 	"TF_SCOUT_ACHIEVE_PROGRESS1_Title"
 	{
@@ -1170,19 +1170,19 @@
 	}
 	"TF_SCOUT_KILL_CHARGED_MEDICS_Title"
 	{
-		"es"	"Doctor, øle duele aquÌ?"
+		"es"	"Doctor, ¬øle duele aqu√≠?"
 	}
 	"TF_SCOUT_KILL_CHARGED_MEDICS_Desc"
 	{
-		"es"	"Mata a un Medic que estÈ listo para activar una supercarga."
+		"es"	"Mata a un Medic que est√© listo para activar una supercarga."
 	}
 	"TF_SCOUT_SURVIVE_DAMAGE_Title"
 	{
-		"es"	"°Yo soy Bateman!"
+		"es"	"¬°Yo soy Bateman!"
 	}
 	"TF_SCOUT_SURVIVE_DAMAGE_Desc"
 	{
-		"es"	"Sobrevive a 500 puntos de daÒo en la misma vida."
+		"es"	"Sobrevive a 500 puntos de da√±o en la misma vida."
 	}
 	"TF_SCOUT_DOUBLEJUMP_KILL_Title"
 	{
@@ -1214,15 +1214,15 @@
 	}
 	"TF_SCOUT_DODGE_DAMAGE_Desc"
 	{
-		"es"	"Evita 1.000 puntos de daÒo en la misma vida con tu °Plonk! La bebida salvavidas."
+		"es"	"Evita 1.000 puntos de da√±o en la misma vida con tu ¬°Plonk! La bebida salvavidas."
 	}
 	"TF_SCOUT_KNOCK_INTO_TRAIN_Title"
 	{
-		"es"	"°Ande vas!"
+		"es"	"¬°Ande vas!"
 	}
 	"TF_SCOUT_KNOCK_INTO_TRAIN_Desc"
 	{
-		"es"	"Provoca una muerte o suicidio debido al entorno gracias al retroceso de La dispensadora de caÒa."
+		"es"	"Provoca una muerte o suicidio debido al entorno gracias al retroceso de La dispensadora de ca√±a."
 	}
 	"TF_SCOUT_KILL_STUNNED_Title"
 	{
@@ -1230,7 +1230,7 @@
 	}
 	"TF_SCOUT_KILL_STUNNED_Desc"
 	{
-		"es"	"Mata a 50 enemigos mientras est·n paralizados."
+		"es"	"Mata a 50 enemigos mientras est√°n paralizados."
 	}
 	"TF_SCOUT_STUN_INTO_TRAIN_Title"
 	{
@@ -1246,11 +1246,11 @@
 	}
 	"TF_SCOUT_STUN_UBER_ENEMIES_Desc"
 	{
-		"es"	"Paraliza a 2 Medic que estÈn listos para activar una supercarga."
+		"es"	"Paraliza a 2 Medic que est√©n listos para activar una supercarga."
 	}
 	"TF_SCOUT_STUN_CAPPING_ENEMIES_Title"
 	{
-		"es"	"Tirad pa'tr·s"
+		"es"	"Tirad pa'tr√°s"
 	}
 	"TF_SCOUT_STUN_CAPPING_ENEMIES_Desc"
 	{
@@ -1262,7 +1262,7 @@
 	}
 	"TF_SCOUT_MAX_STUNS_Desc"
 	{
-		"es"	"Paraliza a un enemigo el m·ximo tiempo posible lanz·ndole una bola larga."
+		"es"	"Paraliza a un enemigo el m√°ximo tiempo posible lanz√°ndole una bola larga."
 	}
 	"TF_SCOUT_STUN_SCOUT_WITH_THEIR_BALL_Title"
 	{
@@ -1278,7 +1278,7 @@
 	}
 	"TF_SCOUT_KILL_IN_DODGE_COOLDOWN_Desc"
 	{
-		"es"	"Mata a un Scout mientras est· afectado por el efecto ralentizador tras usar su bebida."
+		"es"	"Mata a un Scout mientras est√° afectado por el efecto ralentizador tras usar su bebida."
 	}
 	"TF_SCOUT_KILL_FROM_BEHIND_Title"
 	{
@@ -1286,7 +1286,7 @@
 	}
 	"TF_SCOUT_KILL_FROM_BEHIND_Desc"
 	{
-		"es"	"Mata a 50 enemigos desde atr·s con La dispensadora de caÒa."
+		"es"	"Mata a 50 enemigos desde atr√°s con La dispensadora de ca√±a."
 	}
 	"TF_SCOUT_CAPTURE_LAST_POINT_Title"
 	{
@@ -1294,11 +1294,11 @@
 	}
 	"TF_SCOUT_CAPTURE_LAST_POINT_Desc"
 	{
-		"es"	"Captura el ˙ltimo punto en un mapa CP."
+		"es"	"Captura el √∫ltimo punto en un mapa CP."
 	}
 	"TF_SCOUT_CAPTURE_THREE_POINTS_Title"
 	{
-		"es"	"Triple eliminaciÛn"
+		"es"	"Triple eliminaci√≥n"
 	}
 	"TF_SCOUT_CAPTURE_THREE_POINTS_Desc"
 	{
@@ -1310,7 +1310,7 @@
 	}
 	"TF_SCOUT_FAST_CAP_Desc"
 	{
-		"es"	"Empieza a capturar un punto de captura en menos de un segundo desde que estÈ disponible."
+		"es"	"Empieza a capturar un punto de captura en menos de un segundo desde que est√© disponible."
 	}
 	"TF_SCOUT_START_AND_FINISH_CAP_Title"
 	{
@@ -1318,7 +1318,7 @@
 	}
 	"TF_SCOUT_START_AND_FINISH_CAP_Desc"
 	{
-		"es"	"Inicia 10 capturas de puntos que finalmente tengan Èxito."
+		"es"	"Inicia 10 capturas de puntos que finalmente tengan √©xito."
 	}
 	"TF_SCOUT_BLOCK_CAPS_Title"
 	{
@@ -1330,7 +1330,7 @@
 	}
 	"TF_SCOUT_CARRIER_KILL_CARRIER_Title"
 	{
-		"es"	"A mÌ me daban dos"
+		"es"	"A m√≠ me daban dos"
 	}
 	"TF_SCOUT_CARRIER_KILL_CARRIER_Desc"
 	{
@@ -1338,7 +1338,7 @@
 	}
 	"TF_SCOUT_CAP_FLAG_WITHOUT_ATTACKING_Title"
 	{
-		"es"	"Victoria pacÌfica"
+		"es"	"Victoria pac√≠fica"
 	}
 	"TF_SCOUT_CAP_FLAG_WITHOUT_ATTACKING_Desc"
 	{
@@ -1350,7 +1350,7 @@
 	}
 	"TF_SCOUT_LONG_DISTANCE_RUNNER_Desc"
 	{
-		"es"	"Corre 25 kilÛmetros."
+		"es"	"Corre 25 kil√≥metros."
 	}
 	"TF_SCOUT_TAUNT_KILL_Title"
 	{
@@ -1362,11 +1362,11 @@
 	}
 	"TF_SNIPER_JARATE_DOMINATED_Title"
 	{
-		"es"	"øNo querÌas caldo?"
+		"es"	"¬øNo quer√≠as caldo?"
 	}
 	"TF_SNIPER_JARATE_DOMINATED_Desc"
 	{
-		"es"	"Ataca con fraskungf˙ a un enemigo que est·s dominando."
+		"es"	"Ataca con fraskungf√∫ a un enemigo que est√°s dominando."
 	}
 	"TF_SNIPER_FREEZECAM_HAT_Title"
 	{
@@ -1374,7 +1374,7 @@
 	}
 	"TF_SNIPER_FREEZECAM_HAT_Desc"
 	{
-		"es"	"P·sale a un enemigo una instant·nea quit·ndote el sombrero."
+		"es"	"P√°sale a un enemigo una instant√°nea quit√°ndote el sombrero."
 	}
 	"TF_SNIPER_RIFLE_NO_MISSING_Title"
 	{
@@ -1410,7 +1410,7 @@
 	}
 	"TF_SNIPER_HEADSHOT_SNIPERS_Title"
 	{
-		"es"	"Secuencia de autodestrucciÛn"
+		"es"	"Secuencia de autodestrucci√≥n"
 	}
 	"TF_SNIPER_HEADSHOT_SNIPERS_Desc"
 	{
@@ -1418,7 +1418,7 @@
 	}
 	"TF_SNIPER_DESTROY_SENTRYGUNS_Title"
 	{
-		"es"	"DeconstrucciÛn"
+		"es"	"Deconstrucci√≥n"
 	}
 	"TF_SNIPER_DESTROY_SENTRYGUNS_Desc"
 	{
@@ -1434,7 +1434,7 @@
 	}
 	"TF_SNIPER_KILL_MIDAIR_SCOUT_Title"
 	{
-		"es"	"°Plato!"
+		"es"	"¬°Plato!"
 	}
 	"TF_SNIPER_KILL_MIDAIR_SCOUT_Desc"
 	{
@@ -1442,11 +1442,11 @@
 	}
 	"TF_SNIPER_FREEZECAM_WAVE_Title"
 	{
-		"es"	"El ˙ltimo adiÛs"
+		"es"	"El √∫ltimo adi√≥s"
 	}
 	"TF_SNIPER_FREEZECAM_WAVE_Desc"
 	{
-		"es"	"P·sale a un enemigo una instant·nea salud·ndole."
+		"es"	"P√°sale a un enemigo una instant√°nea salud√°ndole."
 	}
 	"TF_SNIPER_DOMINATE_SNIPER_Title"
 	{
@@ -1482,7 +1482,7 @@
 	}
 	"TF_SNIPER_KILL_OBJECTIVES_Title"
 	{
-		"es"	"Un loco de las armas, no, pap·"
+		"es"	"Un loco de las armas, no, pap√°"
 	}
 	"TF_SNIPER_KILL_OBJECTIVES_Desc"
 	{
@@ -1490,7 +1490,7 @@
 	}
 	"TF_SNIPER_KILL_UNSCOPED_Title"
 	{
-		"es"	"Mato con el corazÛn"
+		"es"	"Mato con el coraz√≥n"
 	}
 	"TF_SNIPER_KILL_UNSCOPED_Desc"
 	{
@@ -1498,19 +1498,19 @@
 	}
 	"TF_SNIPER_KILL_CHARGED_MEDIC_Title"
 	{
-		"es"	"SuperectomÌa"
+		"es"	"Superectom√≠a"
 	}
 	"TF_SNIPER_KILL_CHARGED_MEDIC_Desc"
 	{
-		"es"	"Mata a un Medic que estÈ listo para activar una supercarga."
+		"es"	"Mata a un Medic que est√© listo para activar una supercarga."
 	}
 	"TF_SNIPER_GET_BACKSTABBED_Title"
 	{
-		"es"	"Premio de consolaciÛn"
+		"es"	"Premio de consolaci√≥n"
 	}
 	"TF_SNIPER_GET_BACKSTABBED_Desc"
 	{
-		"es"	"Se vÌctima de 50 puÒaladas por la espalda."
+		"es"	"Se v√≠ctima de 50 pu√±aladas por la espalda."
 	}
 	"TF_SNIPER_KILL_AT_ROUNDSTART_Title"
 	{
@@ -1522,7 +1522,7 @@
 	}
 	"TF_SNIPER_HEADSHOT_POST_INVULN_Title"
 	{
-		"es"	"DespÌdete de la inmunidad"
+		"es"	"Desp√≠dete de la inmunidad"
 	}
 	"TF_SNIPER_HEADSHOT_POST_INVULN_Desc"
 	{
@@ -1534,7 +1534,7 @@
 	}
 	"TF_SNIPER_TOP_SCOREBOARD_GRIND_Desc"
 	{
-		"es"	"Llega a la tabla de puntuaciones 10 veces en equipos de 6 o m·s jugadores."
+		"es"	"Llega a la tabla de puntuaciones 10 veces en equipos de 6 o m√°s jugadores."
 	}
 	"TF_SNIPER_KILL_FAILED_SPY_Title"
 	{
@@ -1542,7 +1542,7 @@
 	}
 	"TF_SNIPER_KILL_FAILED_SPY_Desc"
 	{
-		"es"	"Mata a un espÌa cuyo intento de puÒalada se vio bloqueado por tu Caparazumbador."
+		"es"	"Mata a un esp√≠a cuyo intento de pu√±alada se vio bloqueado por tu Caparazumbador."
 	}
 	"TF_SNIPER_JARATE_GROUP_Title"
 	{
@@ -1550,7 +1550,7 @@
 	}
 	"TF_SNIPER_JARATE_GROUP_Desc"
 	{
-		"es"	"Aplica fraskungf˙ a 4 enemigos de un solo lanzamiento."
+		"es"	"Aplica fraskungf√∫ a 4 enemigos de un solo lanzamiento."
 	}
 	"TF_SNIPER_JARATE_MEDIC_PAIR_Title"
 	{
@@ -1558,7 +1558,7 @@
 	}
 	"TF_SNIPER_JARATE_MEDIC_PAIR_Desc"
 	{
-		"es"	"Ataca con fraskungf˙ a un enemigo y al Medic que lo est· curando."
+		"es"	"Ataca con fraskungf√∫ a un enemigo y al Medic que lo est√° curando."
 	}
 	"TF_SNIPER_JARATE_REVEAL_SPY_Title"
 	{
@@ -1566,7 +1566,7 @@
 	}
 	"TF_SNIPER_JARATE_REVEAL_SPY_Desc"
 	{
-		"es"	"Usa el fraskungf˙ para revelar a un Spy invisible."
+		"es"	"Usa el fraskungf√∫ para revelar a un Spy invisible."
 	}
 	"TF_SNIPER_JARATE_EXTINGUISH_Title"
 	{
@@ -1574,7 +1574,7 @@
 	}
 	"TF_SNIPER_JARATE_EXTINGUISH_Desc"
 	{
-		"es"	"Apaga a un compaÒero de equipo que estÈ ardiendo con tu fraskungf˙."
+		"es"	"Apaga a un compa√±ero de equipo que est√© ardiendo con tu fraskungf√∫."
 	}
 	"TF_SNIPER_BOW_PIN_HEAVY_Title"
 	{
@@ -1594,7 +1594,7 @@
 	}
 	"TF_SNIPER_BOW_KILL_FLAGCARRIER_Title"
 	{
-		"es"	"RobÛn Hood"
+		"es"	"Rob√≥n Hood"
 	}
 	"TF_SNIPER_BOW_KILL_FLAGCARRIER_Desc"
 	{
@@ -1614,7 +1614,7 @@
 	}
 	"TF_SNIPER_JARATE_ASSISTS_Desc"
 	{
-		"es"	"Logra 5 asistencias en la misma ronda con tu fraskungf˙."
+		"es"	"Logra 5 asistencias en la misma ronda con tu fraskungf√∫."
 	}
 	"TF_SNIPER_JARATE_KILL_MELEE_Title"
 	{
@@ -1622,7 +1622,7 @@
 	}
 	"TF_SNIPER_JARATE_KILL_MELEE_Desc"
 	{
-		"es"	"Aplica fraskungf˙ a 3 enemigos y, acto seguido, m·talos con el kukri."
+		"es"	"Aplica fraskungf√∫ a 3 enemigos y, acto seguido, m√°talos con el kukri."
 	}
 	"TF_SNIPER_TAUNT_KILL_Title"
 	{
@@ -1630,15 +1630,15 @@
 	}
 	"TF_SNIPER_TAUNT_KILL_Desc"
 	{
-		"es"	"ApuÒala a un enemigo con una flecha."
+		"es"	"Apu√±ala a un enemigo con una flecha."
 	}
 	"TF_SNIPER_BOW_KILL_WHILEDEAD_Title"
 	{
-		"es"	"Venganza servida bien frÌa"
+		"es"	"Venganza servida bien fr√≠a"
 	}
 	"TF_SNIPER_BOW_KILL_WHILEDEAD_Desc"
 	{
-		"es"	"Mata a un enemigo con una flecha mientras est·s muerto."
+		"es"	"Mata a un enemigo con una flecha mientras est√°s muerto."
 	}
 	"TF_SNIPER_ACHIEVE_PROGRESS1_Title"
 	{
@@ -1670,15 +1670,15 @@
 	}
 	"TF_SPY_BACKSTAB_SNIPERS_Desc"
 	{
-		"es"	"ApuÒala por la espalda a 3 Sniper en una misma vida."
+		"es"	"Apu√±ala por la espalda a 3 Sniper en una misma vida."
 	}
 	"TF_SPY_FREEZECAM_FLICK_Title"
 	{
-		"es"	"SÛlo para tus ojos"
+		"es"	"S√≥lo para tus ojos"
 	}
 	"TF_SPY_FREEZECAM_FLICK_Desc"
 	{
-		"es"	"P·sale a un enemigo una instant·nea tir·ndole un cigarrillo sobre el cad·ver."
+		"es"	"P√°sale a un enemigo una instant√°nea tir√°ndole un cigarrillo sobre el cad√°ver."
 	}
 	"TF_SPY_BACKSTAB_DISGUISED_SPY_Title"
 	{
@@ -1686,7 +1686,7 @@
 	}
 	"TF_SPY_BACKSTAB_DISGUISED_SPY_Desc"
 	{
-		"es"	"ApuÒala por la espalda a un Spy disfrazado."
+		"es"	"Apu√±ala por la espalda a un Spy disfrazado."
 	}
 	"TF_SPY_BACKSTAB_DISGUISE_TARGET_Title"
 	{
@@ -1694,15 +1694,23 @@
 	}
 	"TF_SPY_BACKSTAB_DISGUISE_TARGET_Desc"
 	{
-		"es"	"ApuÒala por la espalda al enemigo del que estÈs disfrazado."
+		"es"	"Apu√±ala por la espalda al enemigo del que est√©s disfrazado."
+	}
+	"TF_SPY_TAUNT_KILL_Title"
+	{
+		"es"	"Agente de la F.A.C.A."
+	}
+	"TF_SPY_TAUNT_KILL_Desc"
+	{
+		"es"	"Apu√±ala a un enemigo mientras practicas esgrima."
 	}
 	"TF_SPY_BACKSTAB_MEDIC_HEALING_YOU_Title"
 	{
-		"es"	"øTe he dicho que era un Spy?"
+		"es"	"¬øTe he dicho que era un Spy?"
 	}
 	"TF_SPY_BACKSTAB_MEDIC_HEALING_YOU_Desc"
 	{
-		"es"	"ApuÒala por la espalda a un Medic que te ha curado hace menos de 5 segundos."
+		"es"	"Apu√±ala por la espalda a un Medic que te ha curado hace menos de 5 segundos."
 	}
 	"TF_SPY_BACKSTAB_ENGY_SAP_BUILDING_Title"
 	{
@@ -1710,7 +1718,7 @@
 	}
 	"TF_SPY_BACKSTAB_ENGY_SAP_BUILDING_Desc"
 	{
-		"es"	"ApuÒala a un Engineer y vuela con zapadores 3 de sus construcciones en 10 segundos."
+		"es"	"Apu√±ala a un Engineer y vuela con zapadores 3 de sus construcciones en 10 segundos."
 	}
 	"TF_SPY_SAP_BUILDING_BACKSTAB_ENGY_Title"
 	{
@@ -1718,7 +1726,7 @@
 	}
 	"TF_SPY_SAP_BUILDING_BACKSTAB_ENGY_Desc"
 	{
-		"es"	"Vuela con un zapador una construcciÛn enemiga y apuÒala al Engineer que la construyÛ en menos de 5 segundos."
+		"es"	"Vuela con un zapador una construcci√≥n enemiga y apu√±ala al Engineer que la construy√≥ en menos de 5 segundos."
 	}
 	"TF_SPY_BACKSTAB_MEDIC_PAIR_Title"
 	{
@@ -1726,19 +1734,19 @@
 	}
 	"TF_SPY_BACKSTAB_MEDIC_PAIR_Desc"
 	{
-		"es"	"ApuÒala por la espalda a un enemigo y al Medic que lo cura en menos de 10 segundos."
+		"es"	"Apu√±ala por la espalda a un enemigo y al Medic que lo cura en menos de 10 segundos."
 	}
 	"TF_SPY_BACKSTAB_FRIENDS_Title"
 	{
-		"es"	"El espÌa que te traicionÛ"
+		"es"	"El esp√≠a que te traicion√≥"
 	}
 	"TF_SPY_BACKSTAB_FRIENDS_Desc"
 	{
-		"es"	"ApuÒala por la espalda a tus amigos de la Comunidad Steam 10 veces."
+		"es"	"Apu√±ala por la espalda a tus amigos de la Comunidad Steam 10 veces."
 	}
 	"TF_SPY_DOMINATE_SNIPER_Title"
 	{
-		"es"	"La supremacÌa de Melbourne"
+		"es"	"La supremac√≠a de Melbourne"
 	}
 	"TF_SPY_DOMINATE_SNIPER_Desc"
 	{
@@ -1762,11 +1770,11 @@
 	}
 	"TF_SPY_SURVIVE_BURNING_Title"
 	{
-		"es"	"DetecciÛn por calor"
+		"es"	"Detecci√≥n por calor"
 	}
 	"TF_SPY_SURVIVE_BURNING_Desc"
 	{
-		"es"	"Sobrevive 30 segundos despuÈs de que te prendan fuego mientras eres invisible."
+		"es"	"Sobrevive 30 segundos despu√©s de que te prendan fuego mientras eres invisible."
 	}
 	"TF_SPY_BREAK_SHIELD_KILL_SNIPER_Title"
 	{
@@ -1774,7 +1782,7 @@
 	}
 	"TF_SPY_BREAK_SHIELD_KILL_SNIPER_Desc"
 	{
-		"es"	"Mata a un Sniper despuÈs de que tu puÒalada rompa su Caparazumbador."
+		"es"	"Mata a un Sniper despu√©s de que tu pu√±alada rompa su Caparazumbador."
 	}
 	"TF_SPY_KILL_WORKING_ENGY_Title"
 	{
@@ -1782,7 +1790,15 @@
 	}
 	"TF_SPY_KILL_WORKING_ENGY_Desc"
 	{
-		"es"	"Mata a un Engineer que estÈ trabajando con un centinela."
+		"es"	"Mata a un Engineer que est√© trabajando con un centinela."
+	}
+	"TF_SPY_FAST_CAP_Title"
+	{
+		"es"	"Al subrepticio de su majestad"
+	}
+	"TF_SPY_FAST_CAP_Desc"
+	{
+		"es"	"Empieza a capturar un punto de captura en menos de un segundo desde que est√© disponible."
 	}
 	"TF_SPY_MEDIC_HEALING_KILL_ENEMY_Title"
 	{
@@ -1798,7 +1814,7 @@
 	}
 	"TF_SPY_KILL_CP_DEFENDERS_Desc"
 	{
-		"es"	"Mata a 15 enemigos que estÈn en un punto de control de su propiedad."
+		"es"	"Mata a 15 enemigos que est√©n en un punto de control de su propiedad."
 	}
 	"TF_SPY_BACKSTAB_DOMINATING_ENEMY_Title"
 	{
@@ -1806,31 +1822,31 @@
 	}
 	"TF_SPY_BACKSTAB_DOMINATING_ENEMY_Desc"
 	{
-		"es"	"ApuÒala a un enemigo que estÈ dominando a 3 o m·s de tus compaÒeros de equipo."
+		"es"	"Apu√±ala a un enemigo que est√© dominando a 3 o m√°s de tus compa√±eros de equipo."
 	}
 	"TF_SPY_REVENGE_WITH_BACKSTAB_Title"
 	{
-		"es"	"El Spy que surgiÛ del frÌo"
+		"es"	"El Spy que surgi√≥ del fr√≠o"
 	}
 	"TF_SPY_REVENGE_WITH_BACKSTAB_Desc"
 	{
-		"es"	"Consigue una muerte por venganza con una puÒalada."
+		"es"	"Consigue una muerte por venganza con una pu√±alada."
 	}
 	"TF_SPY_KNIFE_KILL_WHILE_JARATED_Title"
 	{
-		"es"	"Manchado de øsangre?"
+		"es"	"Manchado de ¬øsangre?"
 	}
 	"TF_SPY_KNIFE_KILL_WHILE_JARATED_Desc"
 	{
-		"es"	"Mata a un enemigo con una puÒalada mientras te afecta el fraskungf˙."
+		"es"	"Mata a un enemigo con una pu√±alada mientras te afecta el fraskungf√∫."
 	}
 	"TF_SPY_BACKSTAB_QUICK_KILLS_Title"
 	{
-		"es"	"SÛlo se agoniza tres veces"
+		"es"	"S√≥lo se agoniza tres veces"
 	}
 	"TF_SPY_BACKSTAB_QUICK_KILLS_Desc"
 	{
-		"es"	"ApuÒala a 3 enemigos por la espalda en 10 segundos."
+		"es"	"Apu√±ala a 3 enemigos por la espalda en 10 segundos."
 	}
 	"TF_SPY_BACKSTAB_GRIND_Title"
 	{
@@ -1838,7 +1854,7 @@
 	}
 	"TF_SPY_BACKSTAB_GRIND_Desc"
 	{
-		"es"	"ApuÒala por la espalda a 1000 enemigos."
+		"es"	"Apu√±ala por la espalda a 1000 enemigos."
 	}
 	"TF_SPY_SAPPER_GRIND_Title"
 	{
@@ -1850,11 +1866,11 @@
 	}
 	"TF_SPY_SAPPER_TEAMWORK_Title"
 	{
-		"es"	"OperaciÛn conjunta"
+		"es"	"Operaci√≥n conjunta"
 	}
 	"TF_SPY_SAPPER_TEAMWORK_Desc"
 	{
-		"es"	"Vuela un centinela enemigo con un zapador en menos de 3 segundos de un compaÒero haya volado otro."
+		"es"	"Vuela un centinela enemigo con un zapador en menos de 3 segundos de un compa√±ero haya volado otro."
 	}
 	"TF_SPY_BACKSTAB_MEDIC_CHARGED_Title"
 	{
@@ -1862,15 +1878,15 @@
 	}
 	"TF_SPY_BACKSTAB_MEDIC_CHARGED_Desc"
 	{
-		"es"	"ApuÒala por la espalda a un Medic que estÈ listo para activar una supercarga."
+		"es"	"Apu√±ala por la espalda a un Medic que est√© listo para activar una supercarga."
 	}
 	"TF_SPY_BACKSTAB_CAPPING_ENEMIES_Title"
 	{
-		"es"	"øSeguro que es seguro?"
+		"es"	"¬øSeguro que es seguro?"
 	}
 	"TF_SPY_BACKSTAB_CAPPING_ENEMIES_Desc"
 	{
-		"es"	"ApuÒala por la espalda a 50 enemigos que est·n capturando puntos de control."
+		"es"	"Apu√±ala por la espalda a 50 enemigos que est√°n capturando puntos de control."
 	}
 	"TF_SPY_BACKSTAB_ENEMY_SWITCH_PYRO_Title"
 	{
@@ -1878,7 +1894,7 @@
 	}
 	"TF_SPY_BACKSTAB_ENEMY_SWITCH_PYRO_Desc"
 	{
-		"es"	"ApuÒala a un enemigo que antes de regenerarse cambie a la clase Pyro."
+		"es"	"Apu√±ala a un enemigo que antes de regenerarse cambie a la clase Pyro."
 	}
 	"TF_SPY_AMBASSADOR_GRIND_Title"
 	{
@@ -1890,7 +1906,7 @@
 	}
 	"TF_SPY_AMBASSADOR_SNIPER_GRIND_Title"
 	{
-		"es"	"TironÌa"
+		"es"	"Tiron√≠a"
 	}
 	"TF_SPY_AMBASSADOR_SNIPER_GRIND_Desc"
 	{
@@ -1902,11 +1918,11 @@
 	}
 	"TF_SPY_FEIGN_DEATH_KILL_Desc"
 	{
-		"es"	"Mata a un enemigo en menos de 20 segundos desde que activÛ tu fingir muerte."
+		"es"	"Mata a un enemigo en menos de 20 segundos desde que activ√≥ tu fingir muerte."
 	}
 	"TF_SPY_AMBASSADOR_SCOUT_GRIND_Title"
 	{
-		"es"	"PapaÌto te va a castigar"
+		"es"	"Papa√≠to te va a castigar"
 	}
 	"TF_SPY_AMBASSADOR_SCOUT_GRIND_Desc"
 	{
@@ -1914,7 +1930,7 @@
 	}
 	"TF_SPY_CAMP_POSITION_Title"
 	{
-		"es"	"InfiltraciÛn total"
+		"es"	"Infiltraci√≥n total"
 	}
 	"TF_SPY_CAMP_POSITION_Desc"
 	{
@@ -1946,7 +1962,7 @@
 	}
 	"TF_HALLOWEEN_COLLECT_PUMPKINS_Title"
 	{
-		"es"	"Crimen cucurbit·ceo"
+		"es"	"Crimen cucurbit√°ceo"
 	}
 	"TF_HALLOWEEN_COLLECT_PUMPKINS_Desc"
 	{
@@ -2010,11 +2026,11 @@
 	}
 	"TF_SOLDIER_KILL_GROUP_WITH_CROCKET_Title"
 	{
-		"es"	"DaÒo trilateral"
+		"es"	"Da√±o trilateral"
 	}
 	"TF_SOLDIER_KILL_GROUP_WITH_CROCKET_Desc"
 	{
-		"es"	"Mata a 3 enemigos con un solo cohete crÌtico."
+		"es"	"Mata a 3 enemigos con un solo cohete cr√≠tico."
 	}
 	"TF_SOLDIER_KILL_TWO_DURING_ROCKET_JUMP_Title"
 	{
@@ -2038,11 +2054,11 @@
 	}
 	"TF_SOLDIER_DEFEND_MEDIC_Desc"
 	{
-		"es"	"En la misma vida, mata a 3 enemigos que hayan daÒado a un Medic que te estÈ curando."
+		"es"	"En la misma vida, mata a 3 enemigos que hayan da√±ado a un Medic que te est√© curando."
 	}
 	"TF_SOLDIER_KILL_TAUNT_Title"
 	{
-		"es"	"°Mira como inmolo!"
+		"es"	"¬°Mira como inmolo!"
 	}
 	"TF_SOLDIER_KILL_TAUNT_Desc"
 	{
@@ -2050,7 +2066,7 @@
 	}
 	"TF_SOLDIER_DESTROY_SENTRY_OUT_OF_RANGE_Title"
 	{
-		"es"	"Los caÒones de Navar0wned"
+		"es"	"Los ca√±ones de Navar0wned"
 	}
 	"TF_SOLDIER_DESTROY_SENTRY_OUT_OF_RANGE_Desc"
 	{
@@ -2058,19 +2074,19 @@
 	}
 	"TF_SOLDIER_KILL_SNIPER_WHILE_DEAD_Title"
 	{
-		"es"	"DestrucciÛn mutua asegurada"
+		"es"	"Destrucci√≥n mutua asegurada"
 	}
 	"TF_SOLDIER_KILL_SNIPER_WHILE_DEAD_Desc"
 	{
-		"es"	"Mata a un Sniper enemigo con un cohete despuÈs de que te mate."
+		"es"	"Mata a un Sniper enemigo con un cohete despu√©s de que te mate."
 	}
 	"TF_SOLDIER_KILL_AIRBORNE_TARGET_WHILE_AIRBORNE_Title"
 	{
-		"es"	"Combate aÈreo"
+		"es"	"Combate a√©reo"
 	}
 	"TF_SOLDIER_KILL_AIRBORNE_TARGET_WHILE_AIRBORNE_Desc"
 	{
-		"es"	"Mata a un soldado enemigo mientras tanto t˙ como Èl est·is volando."
+		"es"	"Mata a un soldado enemigo mientras tanto t√∫ como √©l est√°is volando."
 	}
 	"TF_SOLDIER_KILL_ENGY_Title"
 	{
@@ -2086,7 +2102,7 @@
 	}
 	"TF_SOLDIER_NEMESIS_SHOVEL_KILL_Desc"
 	{
-		"es"	"Mata a tu nÈmesis con una pala."
+		"es"	"Mata a tu n√©mesis con una pala."
 	}
 	"TF_SOLDIER_DESTROY_STICKIES_Title"
 	{
@@ -2098,11 +2114,11 @@
 	}
 	"TF_SOLDIER_CROUCH_ROCKET_JUMP_Title"
 	{
-		"es"	"El desafÌo de las ·guilas"
+		"es"	"El desaf√≠o de las √°guilas"
 	}
 	"TF_SOLDIER_CROUCH_ROCKET_JUMP_Desc"
 	{
-		"es"	"Consigue el m·ximo de elevaciÛn en un salto con cohete usando la combinaciÛn de salto y agacharse."
+		"es"	"Consigue el m√°ximo de elevaci√≥n en un salto con cohete usando la combinaci√≥n de salto y agacharse."
 	}
 	"TF_SOLDIER_BUFF_FRIENDS_Title"
 	{
@@ -2110,7 +2126,7 @@
 	}
 	"TF_SOLDIER_BUFF_FRIENDS_Desc"
 	{
-		"es"	"Dale un subidÛn a 5 amigos de Steam a la vez con el Estandarte de ·nimo."
+		"es"	"Dale un subid√≥n a 5 amigos de Steam a la vez con el Estandarte de √°nimo."
 	}
 	"TF_SOLDIER_KILL_TWENTY_FROM_ABOVE_Title"
 	{
@@ -2122,19 +2138,19 @@
 	}
 	"TF_SOLDIER_SHOOT_MULT_CRITS_Title"
 	{
-		"es"	"°Jo, los cohetes crÌticos est·n desequilibrados!"
+		"es"	"¬°Jo, los cohetes cr√≠ticos est√°n desequilibrados!"
 	}
 	"TF_SOLDIER_SHOOT_MULT_CRITS_Desc"
 	{
-		"es"	"Dispara dos cohetes crÌticos sin mejora seguidos."
+		"es"	"Dispara dos cohetes cr√≠ticos sin mejora seguidos."
 	}
 	"TF_SOLDIER_KILL_DEFENSELESS_Title"
 	{
-		"es"	"InfracciÛn de Ginebra"
+		"es"	"Infracci√≥n de Ginebra"
 	}
 	"TF_SOLDIER_KILL_DEFENSELESS_Desc"
 	{
-		"es"	"Mata a 5 jugadores indefensos despuÈs de que haya finalizado una misma partida."
+		"es"	"Mata a 5 jugadores indefensos despu√©s de que haya finalizado una misma partida."
 	}
 	"TF_SOLDIER_KILL_ON_FIRE_Title"
 	{
@@ -2142,11 +2158,11 @@
 	}
 	"TF_SOLDIER_KILL_ON_FIRE_Desc"
 	{
-		"es"	"Mata a 20 enemigos mientras est·s ardiendo."
+		"es"	"Mata a 20 enemigos mientras est√°s ardiendo."
 	}
 	"TF_SOLDIER_KILL_FIVE_STUNNED_Title"
 	{
-		"es"	"5 del patÌbulo patidifuso"
+		"es"	"5 del pat√≠bulo patidifuso"
 	}
 	"TF_SOLDIER_KILL_FIVE_STUNNED_Desc"
 	{
@@ -2154,11 +2170,11 @@
 	}
 	"TF_SOLDIER_FREEZECAM_GIBS_Title"
 	{
-		"es"	"°TÛrax! °TÛrax! °TÛrax!"
+		"es"	"¬°T√≥rax! ¬°T√≥rax! ¬°T√≥rax!"
 	}
 	"TF_SOLDIER_FREEZECAM_GIBS_Desc"
 	{
-		"es"	"P·sale a un enemigo una instant·nea burl·ndote de el sobre tres pedazos de su cuerpo."
+		"es"	"P√°sale a un enemigo una instant√°nea burl√°ndote de el sobre tres pedazos de su cuerpo."
 	}
 	"TF_SOLDIER_KILL_SPY_KILLER_Title"
 	{
@@ -2166,7 +2182,7 @@
 	}
 	"TF_SOLDIER_KILL_SPY_KILLER_Desc"
 	{
-		"es"	"Mata a un Spy que acabe de apuÒalar por la espalda a un compaÒero."
+		"es"	"Mata a un Spy que acabe de apu√±alar por la espalda a un compa√±ero."
 	}
 	"TF_SOLDIER_DEFEND_CAP_THIRTY_TIMES_Title"
 	{
@@ -2198,11 +2214,11 @@
 	}
 	"TF_SOLDIER_BUFF_TEAMMATES_Desc"
 	{
-		"es"	"Dale un subidÛn a 15 compaÒeros con el Estandarte de ·nimo en la misma vida."
+		"es"	"Dale un subid√≥n a 15 compa√±eros con el Estandarte de √°nimo en la misma vida."
 	}
 	"TF_SOLDIER_KILL_DEMOMAN_GRIND_Title"
 	{
-		"es"	"øEs un cad·ver lo que veo ante mÌ?"
+		"es"	"¬øEs un cad√°ver lo que veo ante m√≠?"
 	}
 	"TF_SOLDIER_KILL_DEMOMAN_GRIND_Desc"
 	{
@@ -2210,11 +2226,11 @@
 	}
 	"TF_SOLDIER_KILL_PYRO_Title"
 	{
-		"es"	"Pena por insumisiÛn"
+		"es"	"Pena por insumisi√≥n"
 	}
 	"TF_SOLDIER_KILL_PYRO_Desc"
 	{
-		"es"	"Mata a un Pyro que haya repelido uno de tus cohetes en los ˙ltimos 10 segundos."
+		"es"	"Mata a un Pyro que haya repelido uno de tus cohetes en los √∫ltimos 10 segundos."
 	}
 	"TF_SOLDIER_EQUALIZER_STREAK_Title"
 	{
@@ -2238,7 +2254,7 @@
 	}
 	"TF_SOLDIER_BOUNCE_THEN_SHOTGUN_Desc"
 	{
-		"es"	"Lanza por los aires a un rival con un cohete y m·talo con la escopeta antes de que caiga."
+		"es"	"Lanza por los aires a un rival con un cohete y m√°talo con la escopeta antes de que caiga."
 	}
 	"TF_SOLDIER_KILL_AIRBORNE_WITH_DIRECT_HIT_Title"
 	{
@@ -2250,11 +2266,11 @@
 	}
 	"TF_SOLDIER_FREEZECAM_TAUNT_Title"
 	{
-		"es"	"M·s que mil palabras"
+		"es"	"M√°s que mil palabras"
 	}
 	"TF_SOLDIER_FREEZECAM_TAUNT_Desc"
 	{
-		"es"	"P·sale a un enemigo una instant·nea de tu saludo de las 21 salvas."
+		"es"	"P√°sale a un enemigo una instant√°nea de tu saludo de las 21 salvas."
 	}
 	"TF_SOLDIER_DUO_SOLDIER_KILLS_Title"
 	{
@@ -2290,7 +2306,7 @@
 	}
 	"TF_DEMOMAN_KILL_SOLDIER_GRIND_Title"
 	{
-		"es"	"Tuerto en acciÛn"
+		"es"	"Tuerto en acci√≥n"
 	}
 	"TF_DEMOMAN_KILL_SOLDIER_GRIND_Desc"
 	{
@@ -2314,7 +2330,7 @@
 	}
 	"TF_DEMOMAN_KILL_X_WITH_DIRECTPIPE_Title"
 	{
-		"es"	"Haggis de pÛlvora"
+		"es"	"Haggis de p√≥lvora"
 	}
 	"TF_DEMOMAN_KILL_X_WITH_DIRECTPIPE_Desc"
 	{
@@ -2326,7 +2342,7 @@
 	}
 	"TF_DEMOMAN_BOUNCE_AND_KILL_Desc"
 	{
-		"es"	"Lanza a un enemigo por los aires y m·talo antes de que aterrice."
+		"es"	"Lanza a un enemigo por los aires y m√°talo antes de que aterrice."
 	}
 	"TF_DEMOMAN_DECAPITATE_PLAYERS_Title"
 	{
@@ -2342,7 +2358,7 @@
 	}
 	"TF_DEMOMAN_DECAPITATE_PLAYERS_FAST_Desc"
 	{
-		"es"	"Decapita a 4 personajes con sÛlo 10 segundos de diferencia entre cada muerte."
+		"es"	"Decapita a 4 personajes con s√≥lo 10 segundos de diferencia entre cada muerte."
 	}
 	"TF_DEMOMAN_DUO_DEMOMAN_KILLS_Title"
 	{
@@ -2366,7 +2382,7 @@
 	}
 	"TF_DEMOMAN_KILL_PLAYER_AFTER_TP_Desc"
 	{
-		"es"	"Mata a un enemigo con bombas lapa en un plazo 5 segundos desde que se teleportÛ."
+		"es"	"Mata a un enemigo con bombas lapa en un plazo 5 segundos desde que se teleport√≥."
 	}
 	"TF_DEMOMAN_DOMINATE_THREE_ENGINEERS_Title"
 	{
@@ -2382,7 +2398,7 @@
 	}
 	"TF_DEMOMAN_KILL_BUILDING_DIRECT_HIT_Desc"
 	{
-		"es"	"Destruye una construcciÛn de Engineer que no veas con un impacto directo de lanzagranadas."
+		"es"	"Destruye una construcci√≥n de Engineer que no veas con un impacto directo de lanzagranadas."
 	}
 	"TF_DEMOMAN_MELEE_KILL_WHILE_STICKYJUMPING_Title"
 	{
@@ -2398,11 +2414,11 @@
 	}
 	"TF_DEMOMAN_KILL_ENGI_SENTRY_DISPENSER_Desc"
 	{
-		"es"	"Revienta a un Engineer, su centinela y su dispensador con la misma explosiÛn de bomba lapa."
+		"es"	"Revienta a un Engineer, su centinela y su dispensador con la misma explosi√≥n de bomba lapa."
 	}
 	"TF_DEMOMAN_DECAPITATE_EQUALIZER_Title"
 	{
-		"es"	"DesafÌo vorpal"
+		"es"	"Desaf√≠o vorpal"
 	}
 	"TF_DEMOMAN_DECAPITATE_EQUALIZER_Desc"
 	{
@@ -2410,19 +2426,19 @@
 	}
 	"TF_DEMOMAN_DECAPITATE_NEMESIS_Title"
 	{
-		"es"	"SÛlo puede quedar uno"
+		"es"	"S√≥lo puede quedar uno"
 	}
 	"TF_DEMOMAN_DECAPITATE_NEMESIS_Desc"
 	{
-		"es"	"Decapita a tu nÈmesis."
+		"es"	"Decapita a tu n√©mesis."
 	}
 	"TF_DEMOMAN_DAMAGE_GRIND_Title"
 	{
-		"es"	"Matart·n"
+		"es"	"Matart√°n"
 	}
 	"TF_DEMOMAN_DAMAGE_GRIND_Desc"
 	{
-		"es"	"Consigue 1 millÛn de puntos de daÒo explosivo total."
+		"es"	"Consigue 1 mill√≥n de puntos de da√±o explosivo total."
 	}
 	"TF_DEMOMAN_KILL_X_CAPPING_ONEDET_Title"
 	{
@@ -2430,7 +2446,7 @@
 	}
 	"TF_DEMOMAN_KILL_X_CAPPING_ONEDET_Desc"
 	{
-		"es"	"Mata a 3 enemigos que capturen puntos o empujen una vagoneta con la misma detonaciÛn de bomba lapa en 3 ocasiones."
+		"es"	"Mata a 3 enemigos que capturen puntos o empujen una vagoneta con la misma detonaci√≥n de bomba lapa en 3 ocasiones."
 	}
 	"TF_DEMOMAN_KILL_X_DEFENDING_Title"
 	{
@@ -2454,7 +2470,7 @@
 	}
 	"TF_DEMOMAN_KILL_X_HEAVIES_FULLHP_ONEDET_Desc"
 	{
-		"es"	"En 5 ocasiones, mata a un Heavy con salud completa con la misma detonaciÛn de bombas."
+		"es"	"En 5 ocasiones, mata a un Heavy con salud completa con la misma detonaci√≥n de bombas."
 	}
 	"TF_DEMOMAN_KILL_X_SCOUTS_PYROS_Title"
 	{
@@ -2470,7 +2486,7 @@
 	}
 	"TF_DEMOMAN_TAUNT_KILL_Desc"
 	{
-		"es"	"RegocÌjate con la masacre de tus enemigos usando la Intuertal."
+		"es"	"Regoc√≠jate con la masacre de tus enemigos usando la Intuertal."
 	}
 	"TF_DEMOMAN_CHARGE_KILL_Title"
 	{
@@ -2482,15 +2498,15 @@
 	}
 	"TF_DEMOMAN_CRIT_SWORD_KILL_Title"
 	{
-		"es"	"ManquÌntuple"
+		"es"	"Manqu√≠ntuple"
 	}
 	"TF_DEMOMAN_CRIT_SWORD_KILL_Desc"
 	{
-		"es"	"Usa un tajo crÌtico de la Intuertal para matar a 5 enemigos."
+		"es"	"Usa un tajo cr√≠tico de la Intuertal para matar a 5 enemigos."
 	}
 	"TF_DEMOMAN_AIR_BURST_KILLS_Title"
 	{
-		"es"	"DemoliciÛn man"
+		"es"	"Demolici√≥n man"
 	}
 	"TF_DEMOMAN_AIR_BURST_KILLS_Desc"
 	{
@@ -2502,7 +2518,7 @@
 	}
 	"TF_DEMOMAN_STICKYJUMP_CAP_Desc"
 	{
-		"es"	"Salta con bomba lapa a un punto de captura y capt˙ralo."
+		"es"	"Salta con bomba lapa a un punto de captura y capt√∫ralo."
 	}
 	"TF_DEMOMAN_FREEZECAM_SMILE_Title"
 	{
@@ -2510,7 +2526,7 @@
 	}
 	"TF_DEMOMAN_FREEZECAM_SMILE_Desc"
 	{
-		"es"	"P·sale a un enemigo una instant·nea con tu cara sonriente."
+		"es"	"P√°sale a un enemigo una instant√°nea con tu cara sonriente."
 	}
 	"TF_DEMOMAN_FREEZECAM_RUMP_Title"
 	{
@@ -2518,7 +2534,7 @@
 	}
 	"TF_DEMOMAN_FREEZECAM_RUMP_Desc"
 	{
-		"es"	"P·sale a un enemigo una instant·nea de tus posaderas bailongas."
+		"es"	"P√°sale a un enemigo una instant√°nea de tus posaderas bailongas."
 	}
 	"TF_DEMOMAN_ENVIRONMENTAL_KILL_Title"
 	{
@@ -2526,7 +2542,7 @@
 	}
 	"TF_DEMOMAN_ENVIRONMENTAL_KILL_Desc"
 	{
-		"es"	"Usa el lanzabombas lapa para matar a un enemigo con daÒos por entorno."
+		"es"	"Usa el lanzabombas lapa para matar a un enemigo con da√±os por entorno."
 	}
 	"TF_DEMOMAN_DESTROY_X_STICKYBOMBS_Title"
 	{
@@ -2546,19 +2562,19 @@
 	}
 	"TF_DEMOMAN_KILL3_WITH_DETONATION_Title"
 	{
-		"es"	"3 p·jaros de un tiro"
+		"es"	"3 p√°jaros de un tiro"
 	}
 	"TF_DEMOMAN_KILL3_WITH_DETONATION_Desc"
 	{
-		"es"	"Mata al menos a tres personajes con la misma detonaciÛn de bombas lapa."
+		"es"	"Mata al menos a tres personajes con la misma detonaci√≥n de bombas lapa."
 	}
 	"TF_DEMOMAN_KILLXSAPPINGSPIES_Title"
 	{
-		"es"	"S·cate la espynita"
+		"es"	"S√°cate la espynita"
 	}
 	"TF_DEMOMAN_KILLXSAPPINGSPIES_Desc"
 	{
-		"es"	"Mata a 20 Spy en menos de 5 segundos de que pusieran un zapador en una construcciÛn aliada."
+		"es"	"Mata a 20 Spy en menos de 5 segundos de que pusieran un zapador en una construcci√≥n aliada."
 	}
 	"TF_DEMOMAN_KILL3_WITH_PIPE_SETUPS_Title"
 	{
@@ -2592,20 +2608,308 @@
 	{
 		"es"	"Consigue 17 de los logros del grupo Demoman."
 	}
-	"TF_SPY_TAUNT_KILL_Title"
+	"TF_ENGINEER_ACHIEVE_PROGRESS1_Title"
 	{
-		"es"	"Agente de la F.A.C.A."
+		"es"	"Engineer Hito 1"
 	}
-	"TF_SPY_TAUNT_KILL_Desc"
+	"TF_ENGINEER_ACHIEVE_PROGRESS1_Desc"
 	{
-		"es"	"ApuÒala a un enemigo mientras practicas esgrima."
+		"es"	"Consigue 5 de los logros del grupo Engineer."
 	}
-	"TF_SPY_FAST_CAP_Title"
+	"TF_ENGINEER_ACHIEVE_PROGRESS2_Title"
 	{
-		"es"	"Al subrepticio de su majestad"
+		"es"	"Engineer Hito 2"
 	}
-	"TF_SPY_FAST_CAP_Desc"
+	"TF_ENGINEER_ACHIEVE_PROGRESS2_Desc"
 	{
-		"es"	"Empieza a capturar un punto de captura en menos de un segundo desde que estÈ disponible."
+		"es"	"Consigue 11 de los logros del grupo Engineer."
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS3_Title"
+	{
+		"es"	"Engineer Hito 3"
+	}
+	"TF_ENGINEER_ACHIEVE_PROGRESS3_Desc"
+	{
+		"es"	"Consigue 17 de los logros del grupo Engineer."
+	}
+	"TF_ENGINEER_TELEPORT_GRIND_Title"
+	{
+		"es"	"Diligente diligencia"
+	}
+	"TF_ENGINEER_TELEPORT_GRIND_Desc"
+	{
+		"es"	"Teleporta a 100 miembros de tu equipo a la batalla."
+	}
+	"TF_ENGINEER_DISPENSER_EXTINGUISH_Title"
+	{
+		"es"	"Mis extinguidos caballeros"
+	}
+	"TF_ENGINEER_DISPENSER_EXTINGUISH_Desc"
+	{
+		"es"	"Consigue que 20 personajes que estuviesen ardiendo se apaguen con tus dispensadores."
+	}
+	"TF_ENGINEER_REVENGE_CRIT_SENTRY_KILLER_Title"
+	{
+		"es"	"La ley de la venganza"
+	}
+	"TF_ENGINEER_REVENGE_CRIT_SENTRY_KILLER_Desc"
+	{
+		"es"	"Usa un cr√≠tico por venganza para acabar con un enemigo que haya destruido tu centinela."
+	}
+	"TF_ENGINEER_MANUAL_CLOAKED_SPY_KILL_Title"
+	{
+		"es"	"Se busca"
+	}
+	"TF_ENGINEER_MANUAL_CLOAKED_SPY_KILL_Desc"
+	{
+		"es"	"Acaba con 3 Spy camuflados con un centinela controlado por tu Arreo."
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_KILLS_BEYOND_RANGE_Title"
+	{
+		"es"	"Fuera del √°rea, no del Arreo"
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_KILLS_BEYOND_RANGE_Desc"
+	{
+		"es"	"Mata a 10 enemigos fuera del alcance normal de un centinela usando el Arreo."
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_ABSORB_DMG_Title"
+	{
+		"es"	"Construcci√≥n indestructible"
+	}
+	"TF_ENGINEER_MANUAL_SENTRY_ABSORB_DMG_Desc"
+	{
+		"es"	"Consigue que un centinela protegido gracias al Arreo absorba 500 puntos de da√±o sin que lo destruyan."
+	}
+	"TF_ENGINEER_REVENGE_CRIT_LIFE_Title"
+	{
+		"es"	"Sin perd√≥n"
+	}
+	"TF_ENGINEER_REVENGE_CRIT_LIFE_Desc"
+	{
+		"es"	"Mata a 3 enemigos con cr√≠ticos por venganza sin morir."
+	}
+	"TF_ENGINEER_KILL_SPY_TWO_SAPPERS_Title"
+	{
+		"es"	"Desenfunda"
+	}
+	"TF_ENGINEER_KILL_SPY_TWO_SAPPERS_Desc"
+	{
+		"es"	"Acaba con un Spy y dos zapadores en 10 segundos."
+	}
+	"TF_ENGINEER_KILL_DISGUISED_SPY_Title"
+	{
+		"es"	"La clave inglesa"
+	}
+	"TF_ENGINEER_KILL_DISGUISED_SPY_Desc"
+	{
+		"es"	"Mata a un Spy disfrazado con la llave inglesa."
+	}
+	"TF_ENGINEER_UPGRADE_BUILDINGS_Title"
+	{
+		"es"	"Subcontrata"
+	}
+	"TF_ENGINEER_UPGRADE_BUILDINGS_Desc"
+	{
+		"es"	"Mejora 50 construcciones de otros miembros del equipo."
+	}
+	"TF_ENGINEER_DESTROY_SAPPERS_Title"
+	{
+		"es"	"Por un pu√±ado de zapadores"
+	}
+	"TF_ENGINEER_DESTROY_SAPPERS_Desc"
+	{
+		"es"	"Destruye 25 zapadores en construcciones de otros miembros del equipo."
+	}
+	"TF_ENGINEER_REPAIR_SENTRY_W_MEDIC_Title"
+	{
+		"es"	"Seguridad laboral"
+	}
+	"TF_ENGINEER_REPAIR_SENTRY_W_MEDIC_Desc"
+	{
+		"es"	"Repara un centinela bajo el fuego mientras te cura un Medic."
+	}
+	"TF_ENGINEER_SENTRY_KILL_LIFETIME_GRIND_Title"
+	{
+		"es"	"Mi matadero clandestino"
+	}
+	"TF_ENGINEER_SENTRY_KILL_LIFETIME_GRIND_Desc"
+	{
+		"es"	"Acaba con 5000 v√≠ctimas con tus centinelas."
+	}
+	"TF_ENGINEER_SENTRY_AVENGES_YOU_Title"
+	{
+		"es"	"Justicia de la frontera"
+	}
+	"TF_ENGINEER_SENTRY_AVENGES_YOU_Desc"
+	{
+		"es"	"Consigue que tu centinela acabe con el enemigo que acab√≥ contigo antes de que pasen diez segundos."
+	}
+	"TF_ENGINEER_FREEZECAM_TAUNT_Title"
+	{
+		"es"	"Tocando las... guitarras"
+	}
+	"TF_ENGINEER_FREEZECAM_TAUNT_Desc"
+	{
+		"es"	"P√°sale a un enemigo una instant√°nea en la que demuestres tus habilidades guitarr√≠sticas.."
+	}
+	"TF_ENGINEER_FREEZECAM_SENTRY_Title"
+	{
+		"es"	"Ingenier√≠a incivil"
+	}
+	"TF_ENGINEER_FREEZECAM_SENTRY_Desc"
+	{
+		"es"	"P√°sale a un enemigo una instant√°nea de ti junto con el centinela que acaba de matarlo."
+	}
+	"TF_ENGINEER_SHOTGUN_KILL_PREV_SENTRY_TARGET_Title"
+	{
+		"es"	"Dueto de country"
+	}
+	"TF_ENGINEER_SHOTGUN_KILL_PREV_SENTRY_TARGET_Desc"
+	{
+		"es"	"Usa la escopeta para rematar a un enemigo al que haya da√±ado hace poco tu centinela."
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GROUP_Title"
+	{
+		"es"	"M√©dico sustituto"
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GROUP_Desc"
+	{
+		"es"	"Consigue que uno de tus dispensadores cure a 3 compa√±eros al mismo tiempo."
+	}
+	"TF_ENGINEER_SENTRY_KILL_CAPS_Title"
+	{
+		"es"	"Tierra de nadie"
+	}
+	"TF_ENGINEER_SENTRY_KILL_CAPS_Desc"
+	{
+		"es"	"Usa un centinela para acabar con 25 enemigos que estuviesen capturando un punto."
+	}
+	"TF_ENGINEER_KILL_FLAG_CARRIERS_Title"
+	{
+		"es"	"Secreto industrial"
+	}
+	"TF_ENGINEER_KILL_FLAG_CARRIERS_Desc"
+	{
+		"es"	"Acaba con 20 personajes que transportasen el dossier."
+	}
+	"TF_ENGINEER_WASTE_METAL_GRIND_Title"
+	{
+		"es"	"Metalman√≠a"
+	}
+	"TF_ENGINEER_WASTE_METAL_GRIND_Desc"
+	{
+		"es"	"Recoge 10.000 unidades de metal de construcciones destruidas."
+	}
+	"TF_ENGINEER_HELP_BUILD_STRUCTURE_Title"
+	{
+		"es"	"Cuadrilla"
+	}
+	"TF_ENGINEER_HELP_BUILD_STRUCTURE_Desc"
+	{
+		"es"	"Ayuda a un compa√±ero a hacer una construcci√≥n."
+	}
+	"TF_ENGINEER_REMOVE_SAPPER_LONG_DIST_Title"
+	{
+		"es"	"No me toques las construcciones"
+	}
+	"TF_ENGINEER_REMOVE_SAPPER_LONG_DIST_Desc"
+	{
+		"es"	"Despu√©s de haber estado alejado unos metros, llega a un zapador colocado en una construcci√≥n tuya y retirarlo."
+	}
+	"TF_ENGINEER_DESTROY_STICKIES_Title"
+	{
+		"es"	"Limpieza dom√©stica"
+	}
+	"TF_ENGINEER_DESTROY_STICKIES_Desc"
+	{
+		"es"	"Destruye 50 bombas lapa en el alcance de construcciones aliadas."
+	}
+	"TF_ENGINEER_TAUNT_KILL_Title"
+	{
+		"es"	"No rompas m√°s mi pobre cabez√≥n"
+	}
+	"TF_ENGINEER_TAUNT_KILL_Desc"
+	{
+		"es"	"P√°rtele la crisma con la guitarra a un personaje."
+	}
+	"TF_ENGINEER_KILL_SNIPERS_SENTRY_Title"
+	{
+		"es"	"Su muerte ten√≠a un precio"
+	}
+	"TF_ENGINEER_KILL_SNIPERS_SENTRY_Desc"
+	{
+		"es"	"Mata a 10 Sniper con un centinela controlado por tu Arreo."
+	}
+	"TF_ENGINEER_HELP_MANUAL_SENTRY_Title"
+	{
+		"es"	"Servicio de mantenimiento"
+	}
+	"TF_ENGINEER_HELP_MANUAL_SENTRY_Desc"
+	{
+		"es"	"Realiza 50 reparaciones o recargas en un centinela controlado con el Arreo por otro Engineer."
+	}
+	"TF_ENGINEER_KILL_SENTRY_WITH_SENTRY_Title"
+	{
+		"es"	"Protecci√≥n de la patente"
+	}
+	"TF_ENGINEER_KILL_SENTRY_WITH_SENTRY_Desc"
+	{
+		"es"	"Destruye el centinela de un Engineer enemigo con un centinela controlado por tu Arreo."
+	}
+	"TF_ENGINEER_MOVE_SENTRY_GET_KILL_Title"
+	{
+		"es"	"Si lo construyes, el morir√°"
+	}
+	"TF_ENGINEER_MOVE_SENTRY_GET_KILL_Desc"
+	{
+		"es"	"Traslada un centinela de nivel 3 a una posici√≥n en la que mate a alguien poco despu√©s de desplegarla de nuevo."
+	}
+	"TF_ENGINEER_BUILDING_CARRY_Title"
+	{
+		"es"	"Ranger de Texas"
+	}
+	"TF_ENGINEER_BUILDING_CARRY_Desc"
+	{
+		"es"	"Traslada construcciones un total de 1 km a lo largo de tu carrera."
+	}
+	"TF_ENGINEER_KILL_ASSIST_Title"
+	{
+		"es"	"Delegando"
+	}
+	"TF_ENGINEER_KILL_ASSIST_Desc"
+	{
+		"es"	"Consigue diez asistencias con otro Engineer en las que intervenga un centinela."
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GRIND_Title"
+	{
+		"es"	"Farmacia de guardia"
+	}
+	"TF_ENGINEER_DISPENSER_HEAL_GRIND_Desc"
+	{
+		"es"	"Consigue que tus dispensadores curen un total de 100.000 puntos de salud a lo largo de tu carrera."
+	}
+	"TF_ENGINEER_REPAIR_TEAM_GRIND_Title"
+	{
+		"es"	"Protegiendo el rancho"
+	}
+	"TF_ENGINEER_REPAIR_TEAM_GRIND_Desc"
+	{
+		"es"	"Repara 50.000 puntos de da√±o causado a construcciones aliadas de otros jugadores."
+	}
+	"TF_ENGINEER_TANK_DAMAGE_Title"
+	{
+		"es"	"Construcci√≥n robusta"
+	}
+	"TF_ENGINEER_TANK_DAMAGE_Desc"
+	{
+		"es"	"Ayuda a que una misma construcci√≥n soporte m√°s de 2000 puntos de da√±o sin que la destruyan."
+	}
+	"TF_ENGINEER_HEAVY_ASSIST_Title"
+	{
+		"es"	"Otro combo es posible"
+	}
+	"TF_ENGINEER_HEAVY_ASSIST_Desc"
+	{
+		"es"	"Mant√©n curado a un Heavy con tu dispensador mientras el mata a 5 v√≠ctimas."
 	}
 }
